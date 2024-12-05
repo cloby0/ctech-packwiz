@@ -1,0 +1,13 @@
+filename = 'petrolsparts-1.20.1-1.0.3.jar'
+name = "Petrol's Parts"
+side = 'both'
+
+[download]
+hash = '32c4becd6de041321dd78cf7a5a234bba532ce15'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5697031
+project-id = 1093607

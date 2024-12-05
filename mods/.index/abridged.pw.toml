@@ -1,0 +1,13 @@
+filename = 'abridged-forge-1.20.x-1.1.1.jar'
+name = 'Abridged'
+side = 'both'
+
+[download]
+hash = '9f79182b31d8c65a62c375701384e28daf099c7c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4985756
+project-id = 948999

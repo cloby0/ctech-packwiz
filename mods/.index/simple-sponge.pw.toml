@@ -1,0 +1,13 @@
+filename = 'SimpleSponge-1.20.1-8.1.jar'
+name = 'Simple Sponge'
+side = 'both'
+
+[download]
+hash = '8b28e3c4715b4a1345b80a0627e73275b7c8531f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4738061
+project-id = 269141

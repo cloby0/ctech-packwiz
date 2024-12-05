@@ -1,0 +1,16 @@
+filename = 'watermedia-2.1.6.jar'
+name = 'WaterMedia'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.16.5', '1.18.2', '1.19.2', '1.20.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3856ace1a3045ce2e0da5cc9b6fdd1eb0ccb6327'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5930032
+project-id = 869524

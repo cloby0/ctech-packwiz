@@ -1,0 +1,13 @@
+filename = 'mods_optimizer-forge-1.20.1-2.0.0.jar'
+name = 'Mods Optimizer'
+side = 'both'
+
+[download]
+hash = 'ba579846efb91e7292c3a9a881933cc7e7c26926'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5136193
+project-id = 947247

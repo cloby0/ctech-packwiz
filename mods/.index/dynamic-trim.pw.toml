@@ -1,0 +1,13 @@
+filename = 'dynamictrim-1.4.1-forge+1.20.1.jar'
+name = 'Dynamic Trim'
+side = 'both'
+
+[download]
+hash = '255fb665925141c18bde4e1b44d0afa49bd9f812'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5023432
+project-id = 901658

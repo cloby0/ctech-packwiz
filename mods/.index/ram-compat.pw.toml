@@ -1,0 +1,13 @@
+filename = 'ramcompat-1.20.1-0.1.4.jar'
+name = 'RAM-Compat'
+side = 'both'
+
+[download]
+hash = '6475d3d9eed8ede0a2e9356aacc6a81bf713de2a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5586345
+project-id = 944203

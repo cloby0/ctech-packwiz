@@ -1,0 +1,13 @@
+{
+   "block.pneumaticcraft.compressed_iron_block" : "Block of Compressed Steel",
+   "block.pneumaticcraft.creative_compressed_iron_block" : "Creative Compressed Steel Block",
+   "gui.tooltip.block.pneumaticcraft.heat_pipe" : "An insulated core of compressed steel which can transfer heat without losing any to adjacent air or fluid blocks. A more compact alternative to Compressed Steel Blocks. This block can be camouflaged with the Camouflage Applicator tool.",
+   "gui.tooltip.item.pneumaticcraft.drill_bit_diamond" : "Faster than Compressed Steel\nDig Modes: 1x1, 1x2, 1x3, 3x3(+), vein(ores+logs)",
+   "item.pneumaticcraft.compressed_iron_boots" : "Compressed Steel Boots",
+   "item.pneumaticcraft.compressed_iron_chestplate" : "Compressed Steel Chestplate",
+   "item.pneumaticcraft.compressed_iron_helmet" : "Compressed Steel Helmet",
+   "item.pneumaticcraft.compressed_iron_gear" : "Compressed Steel Gear",
+   "item.pneumaticcraft.compressed_iron_leggings" : "Compressed Steel Leggings",
+   "item.pneumaticcraft.drill_bit_compressed_iron" : "Compressed Steel Drill Bit",
+   "item.pneumaticcraft.ingot_iron_compressed" : "Compressed Steel Ingot"
+}

@@ -1,0 +1,13 @@
+filename = 'TimberFrames-2.0.0.jar'
+name = 'Timber Frames'
+side = 'both'
+
+[download]
+hash = '09459c86409189ce79b9bf57a7949994a662e2a975f6a25c38e12fc98de5533e7a7947599ead7d691635db9448257233f808d761362c579fb0303ea2c6e5689c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/M7N4aD7O/versions/4G3W8YIM/TimberFrames-2.0.0.jar'
+
+[update.modrinth]
+mod-id = 'M7N4aD7O'
+version = '4G3W8YIM'

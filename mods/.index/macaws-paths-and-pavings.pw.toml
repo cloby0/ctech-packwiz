@@ -1,0 +1,13 @@
+filename = 'mcw-paths-1.0.5-1.20.1forge.jar'
+name = "Macaw's Paths and Pavings"
+side = 'both'
+
+[download]
+hash = '44c7dbd747678b89e5e0021c424cbbfb940b3194'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5341126
+project-id = 629153

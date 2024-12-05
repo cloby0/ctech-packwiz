@@ -1,0 +1,13 @@
+filename = 'trackwork-1.20.1-1.0.2c.jar'
+name = 'Trackwork Mod'
+side = 'both'
+
+[download]
+hash = '95055d05a7cc0361649998e989463517e86c32cf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5809071
+project-id = 1057662

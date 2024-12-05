@@ -1,0 +1,16 @@
+filename = 'biomancy-forge-1.20.1-2.8.19.0.jar'
+name = 'Biomancy 2'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '89a95e4ea32c77990793b8ba7e4e857d1d873451'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5886758
+project-id = 492939

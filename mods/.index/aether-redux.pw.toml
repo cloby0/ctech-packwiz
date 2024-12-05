@@ -1,0 +1,16 @@
+filename = 'aether-redux-2.0.18-1.20.1-neoforge.jar'
+name = 'The Aether: Redux'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '981d2129fd629f0c4858002ff0a17109f0941135'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5872671
+project-id = 867237

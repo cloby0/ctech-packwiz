@@ -1,0 +1,13 @@
+filename = 'Amplified_Nether_1.20.x_v1.2.5.jar'
+name = 'Amplified Nether'
+side = 'both'
+
+[download]
+hash = 'fdbaa791f7fdc089e558979f9f68a4811584d5f7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5351602
+project-id = 552176

@@ -1,0 +1,16 @@
+filename = 'ScorchedGuns-0.3.9-1.20.1.jar'
+name = 'Scorched Guns'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6625c174e6439c87ec73620ada1acf6eee99f8c1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5931109
+project-id = 802940
