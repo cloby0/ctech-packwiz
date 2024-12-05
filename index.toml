@@ -2901,6 +2901,10 @@ file = "mods/dynview-1.20.1-4.0.jar"
 hash = "a8cfb3bbafc282b6649fcb0ff582f881577c0584dff6abb0569914488fc5ee7c"
 
 [[files]]
+file = "mods/e4mc_minecraft-forge-5.2.1.jar"
+hash = "e4fe7f9cedd019c166400a71bb7909280eed7b4238ac4865b424134c8621c70e"
+
+[[files]]
 file = "mods/eccentrictome-1.20.1-1.10.2.jar"
 hash = "503343d0e5914723634aa186f1691baa70b8791378e0fab2e0ee416a65eef5fa"
 
