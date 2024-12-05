@@ -3635,3 +3635,7 @@ hash = "46fe0772cd1665736e71f454f5f72013915dfe6e9f5bac92bfbc19b2fa15c488"
 [[files]]
 file = "resourcepacks/Updated_Engineering_v1.7.zip"
 hash = "b3d6ebd50f5ac464be7695a97072fbb85927bf0ac2fbf741d011881347332a5d"
+
+[[files]]
+file = "updateTest/updateTest.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
