@@ -1,6 +1,0 @@
-magic will seperate into three paths
-
-source /  mana / life /
-       /       /      /
-ars *  /botania/bl.mag/
-       /       /bioman/
