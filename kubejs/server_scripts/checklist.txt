@@ -1,0 +1,18 @@
+things that i need to add:
+
+sgear compat material synthesis tree
+change belt recipes and remove other belts as much as possible
+worldgen
+	- twilight forest oil
+	- glacio resource
+all of magic
+recipe polish of smaller mods (planes, tvs, etc)
+
+things i have done of the total:
+Cumium Ingot - Done
+Industrial Foregoing (T4) - Done
+Mekanism (T3) - Done
+AE2 (T3) - Done
+Immersive Engineering (T2) - Done
+Create (T1) - Done
+PneumaticCraft Repressurized (T2.5/3.5) - Done

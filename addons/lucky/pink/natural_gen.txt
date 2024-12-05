@@ -1,0 +1,27 @@
+// Single Blocks
+>minecraft:overworld
+type=block,ID=lucky:pink_lucky_block@chance=61
+
+>minecraft:the_nether
+type=block,ID=lucky:pink_lucky_block@chance=31
+
+>minecraft:the_end
+type=block,ID=lucky:pink_lucky_block@chance=29
+
+// Temples
+// LBP Cherry Temple
+>minecraft:overworld
+group(type=structure,ID=lbp_temple_cherry;type=block,ID=lucky:pink_lucky_block,posY=#bPosY,tileEntity=(Luck=#rand(50,100)))@chance=80
+
+// LBP Temple
+group(type=structure,ID=lbp_temple;type=block,ID=lucky:pink_lucky_block,posY=#bPosY,tileEntity=(Luck=0))@chance=78
+
+// LBP Gray Temple
+group(type=structure,ID=lbp_temple_gray;type=block,ID=lucky:pink_lucky_block,posY=#bPosY,tileEntity=(Luck=#rand(-100,-50)))@chance=79
+
+// Misc
+// 2 Luck
+group(type=structure,ID=lbp_pink_balloons;type=block,ID=lucky:pink_lucky_block,posY=#bPosY+7,tileEntity=(Luck=100))@chance=168
+
+// -2 Luck
+group(type=structure,ID=lbp_cherry_nether;type=block,ID=lucky:pink_lucky_block,posY=#bPosY,tileEntity=(Luck=-100))@chance=164

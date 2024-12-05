@@ -1,0 +1,13 @@
+name = "C-Tech"
+author = "cloby6"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "12be883065d73b674e6aa115da8e81cc76d0e15bbd64a9b446d89d88346800c8"
+
+[versions]
+forge = "47.2.20"
+minecraft = "1.20.1"
