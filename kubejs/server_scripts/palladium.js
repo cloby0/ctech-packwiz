@@ -22,8 +22,8 @@ event.recipes.create.filling('heroes:formula_vial', [Fluid.of('kubejs:formula', 
 event.recipes.create.emptying('minecraft:glass_bottle', [Fluid.of('kubejs:formula', 250), 'heroes:formula_vial'])
 
 event.recipes.create.mixing(Fluid.of('kubejs:formula', 1000), [
-  Fluid.of('createbb:liquid_blue_stuff', 750),
-  Fluid.of('create_enchantment_industry:experience', 250)
+  Fluid.of('createbb:liquid_blue_stuff', 500),
+  Fluid.of('createestrogen:genderfluid', 500)
 ]).superheated()
 
 //event.remove({ output: 'heroes:erasure_pill' })
