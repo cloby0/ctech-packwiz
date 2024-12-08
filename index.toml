@@ -2034,7 +2034,7 @@ hash = "7642bc262a56e98fbd25a7c13ef44d5b87f38bad1d4be5589f170f2e6d2f5a27"
 
 [[files]]
 file = "kubejs/server_scripts/palladium.js"
-hash = "861042f1d18395d70febe317e2398d82c5e801fdc7681743c3291726b6ce55a4"
+hash = "03d670dca4b397b06f53a34a935bc4d44f67bcc5fe19f02ce638b9fada08eaf4"
 
 [[files]]
 file = "kubejs/server_scripts/removedItems.txt"
@@ -3223,10 +3223,6 @@ hash = "35f27982242a3ea58c526204a28704ddf355d19bb2e9b0ff10f9585c255a4f16"
 [[files]]
 file = "mods/modernfix-forge-5.19.5+mc1.20.1.jar"
 hash = "bb44e97f5363688fa7ce15884fb80df12a561219e65e8bbb75c28afd8a4f0f6d"
-
-[[files]]
-file = "mods/modnametooltip-1.20.1-1.20.0.jar"
-hash = "989d8ad5af1dd92a35e5a9f72531a6f0daffd8dd2438ce09052ce0e7b549f371"
 
 [[files]]
 file = "mods/modonomicon-1.20.1-forge-1.77.3.jar"
