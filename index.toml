@@ -2469,10 +2469,6 @@ file = "mods/hitindication-1.20.1-1.4.jar"
 hash = "3ae55eeead94555d3e2071ba76457a3aabae93036f1fa74b77bdaeaad3d53c12"
 
 [[files]]
-file = "mods/immersive_aircraft-1.1.5+1.20.1-forge.jar"
-hash = "20e374485aec873a42530b24ff08f3ccd404021b5490de49554b847477e6692d"
-
-[[files]]
 file = "mods/immersivesnow-1.20.1-1.3.0.jar"
 hash = "a9b81511c1ecb1824a2dd6ee5989404f3b7d05d89a4ac6802c20485cb1e4c671"
 
@@ -2899,6 +2895,10 @@ hash = "a47acf93e4781ec73b12c7f0a9f03b2752f94159fdab2b595043b2d023d72e25"
 [[files]]
 file = "mods/tact-1.2.1+1.20.1.jar"
 hash = "d8daa2ddb9a6bc08497d552a66921c03cff30953528b977db0fd2c00351c9551"
+
+[[files]]
+file = "mods/tectonic-forge-1.20.1-2.4.1.jar"
+hash = "1e8a9f1c929ccea1adda609233dad8b52f0d44d73b5c73254bed92a8b0d0f992"
 
 [[files]]
 file = "mods/temporalapi-1.6.7.jar"
