@@ -2613,8 +2613,8 @@ file = "mods/modonomicon-1.20.1-forge-1.77.5.jar"
 hash = "3ab59833084107df31e61676349814c3d1f7edcc3cf223e329b9e8a66ab41dc5"
 
 [[files]]
-file = "mods/mods_optimizer-forge-1.20.1-2.0.0.jar"
-hash = "cbea3f2e0b06a219509b5004567f515cfff6fa947b748bc4f594b613d3698131"
+file = "mods/mods_optimizer-forge-1.20.1-4.1.0.jar"
+hash = "7551b4b63bd34a36a73db27a724159ac2d5ead897668c506e3706ab8806e16f3"
 
 [[files]]
 file = "mods/moonlight-1.20-2.13.48-forge.jar"
