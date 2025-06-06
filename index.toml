@@ -1482,7 +1482,7 @@ hash = "fa7c2aefb1b431a3db6d491b2b791bf93ab5abf4f1a27474352653daf955bc18"
 
 [[files]]
 file = "kubejs/server_scripts/miscTech.js"
-hash = "7642bc262a56e98fbd25a7c13ef44d5b87f38bad1d4be5589f170f2e6d2f5a27"
+hash = "3dab5c6901c743791af4666c1076d79301e23738bd8d9579596c12a9b7841e70"
 
 [[files]]
 file = "kubejs/server_scripts/palladium.js"
