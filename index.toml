@@ -1069,6 +1069,10 @@ file = "config/lucky/1.20.1-13.0-forge/sword_drops.txt"
 hash = "4d7541b1485762b5ec2fcce926032ca43681ef67dc725383ce84ff823b14ef49"
 
 [[files]]
+file = "config/mods_optimizer/mods-database.json"
+hash = "730facec02563e257aa717e20cbf336a3675491a3c3122183071942ec72619bc"
+
+[[files]]
 file = "config/packmenu.cfg"
 hash = "1dff32a219cb28f622e712536e02cb0a9e6087ce2851d332cd6da5ecf5784bd3"
 
