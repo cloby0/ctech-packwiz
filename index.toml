@@ -1113,8 +1113,8 @@ file = "defaultconfigs/ftbquests/client-config.snbt"
 hash = "4ce84f0da35036f810959086ea1043062993bf34ae704fc9cd4f1a67810090a6"
 
 [[files]]
-file = "icon.png"
-hash = "8efb0c486a4dee5157ffeefdf00d4d309eee269dec6cc7dc98a5c749b609577a"
+file = "icon.ico"
+hash = "8243d519cad799a9c1b11104f0e7595037440c8506034e594d4db2616b846f81"
 
 [[files]]
 file = "kubejs/README.txt"
