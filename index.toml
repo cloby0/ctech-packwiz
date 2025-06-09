@@ -2958,7 +2958,7 @@ hash = "d0758827ba55d17843347e7215f1b0cfa962c4da51020e09fd5177b2a64497ca"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/server.json"
-hash = "01000acd68eb1bd2c817ae5ddeb34afe910898df65a607244647c412108dd85a"
+hash = "58c7590201713a9de717fd3c5fd5b691caa66e9cff22b8e8f58d9c2e38b228c7"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
