@@ -1,0 +1,10 @@
+{
+	//PLEASE DO THIS EVENTUALLY 
+	//UGHHHHHH 
+	//I REALLY DO NOT WANT TO DO THIS BULLSHIT
+  "retroGen": true,
+  "swapper": {
+    "minecraft:birch_log": "minecraft:spruce_log",
+    "minecraft:oak_log": "minecraft:birch_log"
+  }
+}
