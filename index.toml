@@ -1253,6 +1253,14 @@ file = "kubejs/assets/kubejs/textures/item/bio_book.png"
 hash = "28ea1618f634a58d0ea77bbd3824d09a7c5cc185879bd83178b9b979df8051dc"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/cave_geode.mcmeta"
+hash = "16a86dbbf66d96b9c113c9ffa1e20bace8bfdf9bc6645265937a34065ebb029f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/cave_geode.png"
+hash = "0bf21b6db49aca198c2d365d43658a2de76ae0b2b48a2ec3ca8b8dcdd9e653bd"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/cumium_ingot.png"
 hash = "5ec67536439fa25ddb4cdb295ee3ae6234d585259c7c0347fce431e83098f304"
 
@@ -1426,7 +1434,7 @@ hash = "dec352b013d113a4142dd936bcb1b421e974a8088a338b871e973d8872279f65"
 
 [[files]]
 file = "kubejs/client_scripts/tooltip/customItemTooltips.js"
-hash = "80221f4bfc7d2e06aa73203aee2dc7c3ae934b620875e48bfec32aba7a861767"
+hash = "96095d970e90a1079034ac0068973407f5c5cc66de51454b126229117a5d12aa"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -1466,7 +1474,7 @@ hash = "06cbeb8b657ec5627bdf6b118fe5cb854852d10420565d98719de7117c91d17a"
 
 [[files]]
 file = "kubejs/server_scripts/cumiumIngot/recipes.js"
-hash = "42f0bb7584da2285a1daa62065a298e83cdb2116ee25cbbb86507a63a35e1bab"
+hash = "4746bd0ef90d9a516dd6755cac906d8e3bdf818a379b7f2859c6ef9561093a34"
 
 [[files]]
 file = "kubejs/server_scripts/magic/README_magic.txt"
@@ -1490,7 +1498,7 @@ hash = "fa7c2aefb1b431a3db6d491b2b791bf93ab5abf4f1a27474352653daf955bc18"
 
 [[files]]
 file = "kubejs/server_scripts/miscTech.js"
-hash = "3dab5c6901c743791af4666c1076d79301e23738bd8d9579596c12a9b7841e70"
+hash = "56aef3fa5086fc10697acf73f637c52bea62b897c44f1836886302e609fd92f3"
 
 [[files]]
 file = "kubejs/server_scripts/palladium.js"
@@ -1514,7 +1522,7 @@ hash = "c2137011982bbee4c9507b4dc9e60031ebce6e8246af1c09e0a875f370728a7f"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tech1/createModRecipes.js"
-hash = "20446efe8e84631e2255723191b090a8bc591870b6ce0d45331dbdd26010317c"
+hash = "8183268fc4d64364e8f710b5f86da6da6383252e5b16957a729eed89708184dd"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tech2.5pncr/pncrRecipes.js"
@@ -1570,7 +1578,7 @@ hash = "7cf0f39b1e521643a8794cecd1d7aa2d47bcd460233517dbc3db3f4c66e212fb"
 
 [[files]]
 file = "kubejs/startup_scripts/custom/itemDeclaration.js"
-hash = "4275993f85fed2e95488ad2ad2d580ed3101eb60f54bd55837d9eba4778f8015"
+hash = "50ca7f288421804dcbda7c969ddbc68e810cf6144d83d6ca42e20ba98abe736b"
 
 [[files]]
 file = "mods/AE2-Things-1.2.1.jar"

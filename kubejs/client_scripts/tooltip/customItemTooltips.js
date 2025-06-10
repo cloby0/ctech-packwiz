@@ -23,7 +23,7 @@ ItemEvents.tooltip(tooltip => {
 
   tooltip.addAdvanced('kubejs:cumium_ingot', (item, advanced, text) =>{
     text.add(1, Text.darkGray('Incomprehensively powerful..'))
-    text.add(2, Text.darkGray('Still though, super gross..'))
+    text.add(2, Text.darkGray('Still, you can\'t help but chuckle...'))
   })
   
   tooltip.addAdvanced('kubejs:ars_book', (item, advanced, text) =>{
@@ -102,4 +102,8 @@ ItemEvents.tooltip(tooltip => {
     text.add(1, Text.darkGray('When you look at yourself in the reflection,'))
     text.add(2, Text.darkGray('you see a swarming mass of eyes and wheels.'))
   })
+
+  tooltip.add([
+    'kubejs:cave_geode', 
+  ], Text.darkGray("When you look in, you can see every mineral you'll ever mine"))
 });

@@ -89,7 +89,7 @@ StartupEvents.registry('item', e => {
     .rarity('rare')
 
   e.create('cave_geode')
-    .displayName("Crackling Geode")
+    .displayName("Prismatic Geode")
     .rarity('rare')
 
   e.create('create:incomplete_vault')
