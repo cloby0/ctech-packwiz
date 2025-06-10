@@ -126,7 +126,7 @@ ServerEvents.recipes(event => {
   coining('kubejs:unfinished_nether_coin', 'minecraft:nether_star', 'minecraft:netherite_block',  'minecraft:netherrack');
   event.recipes.create.pressing('kubejs:nether_coin', 'kubejs:unfinished_nether_coin');
 
-  coining('kubejs:unfinished_overworld_coin', 'minecraft:budding_amethyst', '#forge:ores_in_ground/stone',  'minecraft:moss_block');
+  coining('kubejs:unfinished_overworld_coin', 'kubejs:cave_geode', '#forge:ores_in_ground/stone',  'minecraft:moss_block');
   event.smelting('kubejs:overworld_coin', 'kubejs:unfinished_overworld_coin');
 
   coining('kubejs:unfinished_twilight_coin', 'twilightforest:ur_ghast_trophy', 'twilightforest:fiery_block',  'twilightforest:steeleaf_ingot');
