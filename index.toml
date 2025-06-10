@@ -1254,7 +1254,7 @@ hash = "28ea1618f634a58d0ea77bbd3824d09a7c5cc185879bd83178b9b979df8051dc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/cave_geode.png"
-hash = "0bf21b6db49aca198c2d365d43658a2de76ae0b2b48a2ec3ca8b8dcdd9e653bd"
+hash = "afdbc6535a4d01adcdaa1081cda4ddcf3e313416c65f39a5a02e9290a52a6de2"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/cave_geode.png.mcmeta"
