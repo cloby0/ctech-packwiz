@@ -94,16 +94,22 @@ ServerEvents.recipes(event => {
     'deep_aether:aerwhale_saddle'
     ])
 
-  event.shapeless(
-    Item.of('kubejs:cave_geode', 1),
-    [
-      'alexscaves:scarlet_magnet',
-      'alexscaves:azure_magnet',
-      'alexscaves:tectonic_shard',
-      'alexscaves:immortal_embryo',
-      'alexscaves:shadow_silk',
-      'alexscaves:radiant_essence'
-    ])
+  event.shaped(
+    Item.of('kubejs:cave_geode', 1), // arg 1: output
+  [
+    'FAF',
+    'BCD', // arg 2: the shape (array of strings)
+    'FEF'
+  ],
+  {
+    A: 'alexscaves:resistor_shield',
+    B: 'alexscaves:tectonic_shard',
+    C: 'alexscaves:immortal_embryo',
+    D: 'alexscaves:shadow_silk',
+    E: 'alexscaves:radiant_essence',
+    F: 'minecraft:deepslate'
+  }
+)
 
   coining('kubejs:unfinished_aether_coin', 'kubejs:wonder_jewel', 'aether:regeneration_stone',  'aether_redux:blue_swet_jelly');
   event.custom({
