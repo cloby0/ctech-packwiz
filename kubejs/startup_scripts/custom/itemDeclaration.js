@@ -84,6 +84,10 @@ StartupEvents.registry('item', e => {
     .displayName("The Last Gemstone")
     .rarity('rare')
 
+  e.create('wonder_jewel')
+    .displayName("The Wonder Jewel")
+    .rarity('rare')
+
   e.create('create:incomplete_vault')
 
   e.create('industrialforegoing:incomplete_simple_machine_frame')

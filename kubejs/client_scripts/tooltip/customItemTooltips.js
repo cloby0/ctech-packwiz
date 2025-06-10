@@ -97,4 +97,9 @@ ItemEvents.tooltip(tooltip => {
     text.add(1, Text.lightPurple('The Ender fall to your hand.'))
     text.add(2, Text.darkGray('The End'))
   })
+
+  tooltip.addAdvanced('kubejs:wonder_jewel', (item, advanced, text) =>{
+    text.add(1, Text.darkGray('When you look at yourself in the reflection,'))
+    text.add(2, Text.darkGray('you see a swarming mass of eyes and wheels.'))
+  })
 });

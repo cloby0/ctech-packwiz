@@ -85,8 +85,16 @@ ServerEvents.recipes(event => {
       C: c
     })
   }
-
-  coining('kubejs:unfinished_aether_coin', 'deep_aether:sun_core', 'deep_aether:stratus_ingot',  'aether:aether_grass_block');
+  event.shapeless(
+  Item.of('kubejs:wonder_jewel', 1),
+  [
+    'deep_aether:slider_eye',
+    'deep_aether:medal_of_honor',
+    'deep_aether:sun_core',
+    'deep_aether:aerwhale_saddle'
+  ]
+)
+  coining('kubejs:unfinished_aether_coin', 'kubejs:wonder_jewel', 'aether:regeneration_stone',  'aether_redux:blue_swet_jelly');
   event.custom({
     "type": "aether:enchanting",
     "category": "enchanting_blocks",

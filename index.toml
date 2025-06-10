@@ -1361,6 +1361,10 @@ file = "kubejs/assets/kubejs/textures/item/withered_stem_seeds.png"
 hash = "421492665b5e9d0549187a3f6c357f55c09a21fadd91938dc031062ae26821dc"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/wonder_jewel.png"
+hash = "0f9203ef78ffa7df524e73908354bd294e88b19893a28523b2abec39e92005e2"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/mob_effect/charged.png"
 hash = "e97ab1a19d50cad4354a70e90c7cdcf670d7a10d8e0d29440ae4e133649a2db0"
 
@@ -1430,7 +1434,7 @@ hash = "dec352b013d113a4142dd936bcb1b421e974a8088a338b871e973d8872279f65"
 
 [[files]]
 file = "kubejs/client_scripts/tooltip/customItemTooltips.js"
-hash = "cc5c973399c27b4f38b1249b0d9f4841d7380cd6861259fdfe4fca9488b20cc9"
+hash = "80221f4bfc7d2e06aa73203aee2dc7c3ae934b620875e48bfec32aba7a861767"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -1470,7 +1474,7 @@ hash = "06cbeb8b657ec5627bdf6b118fe5cb854852d10420565d98719de7117c91d17a"
 
 [[files]]
 file = "kubejs/server_scripts/cumiumIngot/recipes.js"
-hash = "0920fc3a2d7e4786ec99e94b7d423b20f935983ab6e6b9f182b1527734538485"
+hash = "42f0bb7584da2285a1daa62065a298e83cdb2116ee25cbbb86507a63a35e1bab"
 
 [[files]]
 file = "kubejs/server_scripts/magic/README_magic.txt"
@@ -1574,7 +1578,7 @@ hash = "7cf0f39b1e521643a8794cecd1d7aa2d47bcd460233517dbc3db3f4c66e212fb"
 
 [[files]]
 file = "kubejs/startup_scripts/custom/itemDeclaration.js"
-hash = "69fd3ca73671476cff7ce42da79dbc5af64f407fb7492c6512a73fe5261f87a0"
+hash = "4275993f85fed2e95488ad2ad2d580ed3101eb60f54bd55837d9eba4778f8015"
 
 [[files]]
 file = "mods/AE2-Things-1.2.1.jar"
