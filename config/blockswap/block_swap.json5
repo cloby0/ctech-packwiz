@@ -2,7 +2,7 @@
 	//PLEASE DO THIS EVENTUALLY 
 	//UGHHHHHH 
 	//I REALLY DO NOT WANT TO DO THIS BULLSHIT
-  "retroGen": true,
+  "retro_gen": true,
   "generate_all_known_states": false,
   "swapper": {
     "minecraft:birch_log": "minecraft:spruce_log",
