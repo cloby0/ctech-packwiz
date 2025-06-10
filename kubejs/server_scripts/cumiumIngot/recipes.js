@@ -92,8 +92,19 @@ ServerEvents.recipes(event => {
     'deep_aether:medal_of_honor',
     'deep_aether:sun_core',
     'deep_aether:aerwhale_saddle'
-  ]
-)
+    ])
+
+  event.shapeless(
+    Item.of('kubejs:cave_geode', 1),
+    [
+      'alexscaves:scarlet_magnet',
+      'alexscaves:azure_magnet',
+      'alexscaves:tectonic_shard',
+      'alexscaves:immortal_embryo',
+      'alexscaves:shadow_silk',
+      'alexscaves:radiant_essence'
+    ])
+
   coining('kubejs:unfinished_aether_coin', 'kubejs:wonder_jewel', 'aether:regeneration_stone',  'aether_redux:blue_swet_jelly');
   event.custom({
     "type": "aether:enchanting",
