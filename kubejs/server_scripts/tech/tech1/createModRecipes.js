@@ -14,7 +14,7 @@ ServerEvents.recipes(event => {
      E: 'createaddition:capacitor'
       })
     
-    //vault recipe -- m-tech
+    //vault recipe -- credit to m-tech
     event.remove({ output: 'create:item_vault' })
     event.custom({
         "type": "create:sequenced_assembly",

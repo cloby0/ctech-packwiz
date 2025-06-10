@@ -12,10 +12,10 @@ ServerEvents.recipes(event => {
   event.remove({output: '#thermal:rockwool'})
   event.smelting('#forge:slag', 'immersiveengineering:slag_glass')
   event.shaped(
-    Item.of('thermal:white_rockwool', 3), // arg 1: output
+    Item.of('thermal:white_rockwool', 3),
     [
       ' S ',
-      'SWS', // arg 2: the shape (array of strings)
+      'SWS',
       ' S '
     ],
     {
@@ -24,7 +24,7 @@ ServerEvents.recipes(event => {
     }
   )
   event.shapeless(
-    Item.of('thermal:white_rockwool', 3), // arg 1: output
+    Item.of('thermal:white_rockwool', 3),
     [
       '#forge:slag',
       'minecraft:white_wool'
