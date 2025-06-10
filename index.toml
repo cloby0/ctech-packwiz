@@ -826,7 +826,7 @@ hash = "978214f42431cd238adc4e732695e23beaf46a07b5d50f66ea92de38f3e38458"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
-hash = "73e314a1eab0eb526a4a79ce5ffb5d3cce8d401bf4e9819576e4cbce1d733930"
+hash = "004b0916dddc250426cc9f1caf215afb202bbda64537ca115003f6e2b634ace3"
 
 [[files]]
 file = "config/blockswap/missing_block_ids.json5"

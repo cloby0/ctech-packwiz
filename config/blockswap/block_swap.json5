@@ -3,6 +3,7 @@
 	//UGHHHHHH 
 	//I REALLY DO NOT WANT TO DO THIS BULLSHIT
   "retroGen": true,
+  "generate_all_known_states": false,
   "swapper": {
     "minecraft:birch_log": "minecraft:spruce_log",
     "minecraft:oak_log": "minecraft:birch_log"
