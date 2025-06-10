@@ -2302,6 +2302,11 @@ file = "mods/curios-forge-5.11.1+1.20.1.jar"
 hash = "6ab1eb98d412bd505933abb3cdbc625035ce1256d290d9fdc36ed535d267011b"
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+metafile = true
+
+[[files]]
 file = "mods/cursery-1.20.1-4.2.jar"
 hash = "c5826a39a37982a0b663c2a7647f9f7f78b2b80f1c38663778746c281da184d1"
 
@@ -2466,6 +2471,11 @@ file = "mods/geckolib-forge-1.20.1-4.7.jar"
 hash = "34c87687f80d6bc098a9a63fb1dc94c288554c8d7e4903143d8ff1742a4b6261"
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ccf46db8c098e1e24b9522393b49d151e6194088e29554652eadbfc542ef40be"
+metafile = true
+
+[[files]]
 file = "mods/gpumemleakfix-1.20.1-1.8.jar"
 hash = "a7019442f1b07b1a4a875fe404d04d162905cc7fd42e0b3c843aefc7b39efc46"
 
@@ -2480,6 +2490,16 @@ hash = "a9166417a07a2024c9155bbba16b295e53658d3759917f9bfcc26c17009c68d6"
 [[files]]
 file = "mods/hitindication-1.20.1-1.4.jar"
 hash = "3ae55eeead94555d3e2071ba76457a3aabae93036f1fa74b77bdaeaad3d53c12"
+
+[[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "94c7c45a70d0cea86695ecd467f8e5c22510442c53c44291a570986e234428e5"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-spellbooks.pw.toml"
+hash = "32bdac916431a9b1ecd942fc2036a2662aa5fe1bd8cccb98bcb4e27285d0b23d"
+metafile = true
 
 [[files]]
 file = "mods/immersivesnow-1.20.1-1.3.0.jar"
@@ -2504,6 +2524,11 @@ hash = "3263afb2c416d36c8d36effb726750a7c9e370f9712a78f7b7d325a39406d7cf"
 [[files]]
 file = "mods/ironchest-1.20.1-14.4.4.jar"
 hash = "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f"
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "3089988dcd2d81d07d1619c37ead2d3a7212671cc6811373756b5e4eaf66d8fd"
+metafile = true
 
 [[files]]
 file = "mods/item-filters-forge-2001.1.0-build.59.jar"
@@ -2552,6 +2577,11 @@ hash = "b4445e3297f0322aec29fc8ff6c02e4102660b0d2415891ce66a3c82194f5a93"
 [[files]]
 file = "mods/laserio-1.6.8.jar"
 hash = "f07fc6cb7f2aa28197e87ffc3a35062390259ad803d8996b08b13473c0af6790"
+
+[[files]]
+file = "mods/ldlib.pw.toml"
+hash = "6e01bbc17b0ca1282d4f2ada4ba520bc4d5393d7b7605eb286301faffdac5a35"
+metafile = true
 
 [[files]]
 file = "mods/leaky-1.20.1-2.1.jar"
@@ -2606,6 +2636,16 @@ file = "mods/lucky-block-forge-1.20.1-13.0.jar"
 hash = "c101dd326e5ed421d0373eec065054cf5972134f639f3853d35542e77a2e184c"
 
 [[files]]
+file = "mods/mana-crystals.pw.toml"
+hash = "48914be7fd613470c49a40ea2f5ac0fd861f09325bbbb4cf87c9fc33ee86321a"
+metafile = true
+
+[[files]]
+file = "mods/mana-unification.pw.toml"
+hash = "b22e8f73ecf9314ff906dcc0c26adcac5a11c52005faa1266b56360339dc6700"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib-1.20-8.0.6.jar"
 hash = "ef5f32a85584b6464d76bf98c967775335f8b3c8dcb6694572ade316583bb9f2"
 
@@ -2640,6 +2680,11 @@ hash = "7551b4b63bd34a36a73db27a724159ac2d5ead897668c506e3706ab8806e16f3"
 [[files]]
 file = "mods/moonlight-1.20-2.13.48-forge.jar"
 hash = "87f623366ed432ef167eedee914fa93f1dc284460061b2fe55ccdf8eade3c222"
+
+[[files]]
+file = "mods/multiblocked2.pw.toml"
+hash = "b1f88cb715572edff2847e5ebad9c1c2eb5d3bbc232f7bccd4d5c13192841bca"
+metafile = true
 
 [[files]]
 file = "mods/mysterious_mountain_lib-1.5.17-1.20.1.jar"
@@ -2704,6 +2749,11 @@ hash = "70063b024a9679f4b1cf195140a78f633b1cd90892d3a57698cb96b3e9ea2627"
 [[files]]
 file = "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
 hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
 
 [[files]]
 file = "mods/pneumaticcraft-repressurized-6.0.18+mc1.20.1.jar"
@@ -2836,6 +2886,11 @@ hash = "eba275ba9bb0cb5b542913c3138c6eeff6a752898266d63d125d185f26ac99ed"
 [[files]]
 file = "mods/sparsestructuresreforged-1.20.1-0.0.1.jar"
 hash = "c0e2e3cfeed69b8b3115b5b9e254b52837fef12da460ce5d0463bec09b5c8151"
+
+[[files]]
+file = "mods/spells-gone-wrong.pw.toml"
+hash = "b7afe804e0753ad7664e61ac07790779ce7888331780fbd8e07319596c44544f"
+metafile = true
 
 [[files]]
 file = "mods/starbunclemania-1.20.1-1.2.3.0.jar"
