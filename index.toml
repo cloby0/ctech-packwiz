@@ -1253,12 +1253,12 @@ file = "kubejs/assets/kubejs/textures/item/bio_book.png"
 hash = "28ea1618f634a58d0ea77bbd3824d09a7c5cc185879bd83178b9b979df8051dc"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/cave_geode.mcmeta"
-hash = "16a86dbbf66d96b9c113c9ffa1e20bace8bfdf9bc6645265937a34065ebb029f"
-
-[[files]]
 file = "kubejs/assets/kubejs/textures/item/cave_geode.png"
 hash = "0bf21b6db49aca198c2d365d43658a2de76ae0b2b48a2ec3ca8b8dcdd9e653bd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/cave_geode.png.mcmeta"
+hash = "ea59e41e331d5a9b3eba02b6a8c6a5efe83cbd4689f3e674378e69758edfc6b8"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/cumium_ingot.png"
