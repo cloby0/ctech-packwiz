@@ -16,4 +16,6 @@ ServerEvents.tags('item', event => {
     event.remove('forge:gems/uranium', 'alexscaves:uranium')
     event.remove('forge:raw_material/uranium', 'alexscaves:uranium')
     event.add('mekanism:shards/uranium', 'alexscaves:uranium')
+
+    event.remove('minecraft:music_discs', 'supplementaries:pancake')
   });

@@ -1514,7 +1514,7 @@ hash = "33d372640f02fcb318468981999eba204288980854343d4615ae7ae312ba1d7e"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "7dbb4d3bbf1a3d0d367cf4087e9f235f33beeaec218db99637cff5a7d9bad3c2"
+hash = "93f18172660aa1c20f665d8dc9b0e71851288b07fa57c1a65e6aa63e04af3102"
 
 [[files]]
 file = "kubejs/server_scripts/tech/README_technology.txt"
