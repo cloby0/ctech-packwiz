@@ -85,7 +85,11 @@ StartupEvents.registry('item', e => {
     .rarity('rare')
 
   e.create('wonder_jewel')
-    .displayName("The Wonder Jewel")
+    .displayName("Wonder Jewel")
+    .rarity('rare')
+
+  e.create('cave_geode')
+    .displayName("Crackling Geode")
     .rarity('rare')
 
   e.create('create:incomplete_vault')

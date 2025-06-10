@@ -109,16 +109,16 @@ ServerEvents.recipes(event => {
   coining('kubejs:unfinished_nether_coin', 'minecraft:nether_star', 'minecraft:netherite_block',  'minecraft:netherrack');
   event.recipes.create.pressing('kubejs:nether_coin', 'kubejs:unfinished_nether_coin');
 
-  coining('kubejs:unfinished_overworld_coin', 'minecraft:magma_block', 'minecraft:stone',  'minecraft:grass_block');
+  coining('kubejs:unfinished_overworld_coin', 'minecraft:budding_amethyst', '#forge:ores_in_ground/stone',  'minecraft:moss_block');
   event.smelting('kubejs:overworld_coin', 'kubejs:unfinished_overworld_coin');
 
   coining('kubejs:unfinished_twilight_coin', 'twilightforest:ur_ghast_trophy', 'twilightforest:fiery_block',  'twilightforest:steeleaf_ingot');
   event.recipes.create.filling('kubejs:twilight_coin', [Fluid.of('minecraft:water', 1000), 'kubejs:unfinished_twilight_coin'])
 
-  coining('kubejs:unfinished_space_coin', 'ad_astra:calorite_plate', 'ad_astra:strophar_mushroom',  'ad_astra:permafrost');
+  coining('kubejs:unfinished_space_coin', 'ad_astra:calorite_plate', 'ad_astra:ice_shard',  'ad_astra:permafrost');
   event.recipes.create.pressing('kubejs:space_coin', 'kubejs:unfinished_space_coin');
 
-  coining('kubejs:unfinished_end_coin', 'minecraft:dragon_egg', 'minecraft:chorus_fruit',  'minecraft:purpur_block');
+  coining('kubejs:unfinished_end_coin', 'minecraft:dragon_egg', '#forge:ingots/azure_silver',  'minecraft:purpur_block');
   event.recipes.create.deploying('kubejs:end_coin', ['kubejs:unfinished_end_coin', 'minecraft:end_stone'])
 
   event.shapeless("kubejs:handwavium_alloy", [ // arg 1: output
