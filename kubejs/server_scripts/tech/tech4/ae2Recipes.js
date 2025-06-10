@@ -3,6 +3,7 @@ ServerEvents.recipes(event => {
     event.replaceInput({ input: 'ae2:calculation_processor' }, 'ae2:calculation_processor', '#forge:circuits/advanced')
     event.replaceInput({ input: 'ae2:engineering_processor' }, 'ae2:engineering_processor', '#forge:circuits/advanced')
     event.remove({output: 'ae2:silicon'})
+    //changes how silicon is crafted to tier gate it
     event.custom({
         "type": "immersiveengineering:arc_furnace",
         "additives": [],
@@ -17,7 +18,13 @@ ServerEvents.recipes(event => {
         ],
         "time": 100
     })
-
+    //adds a way to make budding quartz to account for no meteors
+    event.custom({
+        "type":"mekanism:compressing",
+        "chemicalInput":{"amount":1,"gas":"mekanism:osmium"},
+        "itemInput":{"ingredient":{"item":"minecraft:budding_amethyst"}},
+        "output":{"item":"ae2:damaged_budding_quartz"}
+    })
     event.remove({ type: 'ae2:inscriber'})
     event.remove({ output: 'ae2:inscriber'})
     event.recipes.create.deploying('ae2:printed_calculation_processor', ['#forge:gems/certus_quartz', 'ae2:calculation_processor_press']).keepHeldItem()

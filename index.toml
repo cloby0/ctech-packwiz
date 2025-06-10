@@ -825,6 +825,14 @@ file = "config/ars_nouveau/wololo.toml"
 hash = "978214f42431cd238adc4e732695e23beaf46a07b5d50f66ea92de38f3e38458"
 
 [[files]]
+file = "config/blockswap/block_swap.json5"
+hash = "73e314a1eab0eb526a4a79ce5ffb5d3cce8d401bf4e9819576e4cbce1d733930"
+
+[[files]]
+file = "config/blockswap/missing_block_ids.json5"
+hash = "62f528a6cbed5a846e9afb0f42b90e91a7bbbf0948412643d460ea872b8bcb51"
+
+[[files]]
 file = "config/cobblegenrandomizer-common.toml"
 hash = "11fcdbe8f2d46defe15101836c4f160338b445b15fd6d6dfe161c6e30297b49e"
 
@@ -1461,16 +1469,16 @@ file = "kubejs/server_scripts/checklist.txt"
 hash = "06cbeb8b657ec5627bdf6b118fe5cb854852d10420565d98719de7117c91d17a"
 
 [[files]]
-file = "kubejs/server_scripts/cumiumIngot/recipeChanges.js"
+file = "kubejs/server_scripts/cumiumIngot/recipes.js"
 hash = "0920fc3a2d7e4786ec99e94b7d423b20f935983ab6e6b9f182b1527734538485"
+
+[[files]]
+file = "kubejs/server_scripts/magic/README_magic.txt"
+hash = "ff2de54a680dbaf07ed4eee6888176d6d52d5cf3a1ccd3166af39d1ee42e4bc4"
 
 [[files]]
 file = "kubejs/server_scripts/magic/life/recipeChanges.js"
 hash = "9ab650c87ad870444d813f259eaf1d0adbeda5aa1c3bd57c5ef840fc1720afcb"
-
-[[files]]
-file = "kubejs/server_scripts/magic/magic tree.txt"
-hash = "9cfc45143f95dd8d24c5363b728e6ae8c755cc8e9ff6684f3e5d5593554fe55e"
 
 [[files]]
 file = "kubejs/server_scripts/magic/mana/recipeChanges.js"
@@ -1505,43 +1513,47 @@ file = "kubejs/server_scripts/tags.js"
 hash = "7dbb4d3bbf1a3d0d367cf4087e9f235f33beeaec218db99637cff5a7d9bad3c2"
 
 [[files]]
-file = "kubejs/server_scripts/tech1/createModRecipes.js"
+file = "kubejs/server_scripts/tech/README_technology.txt"
+hash = "c2137011982bbee4c9507b4dc9e60031ebce6e8246af1c09e0a875f370728a7f"
+
+[[files]]
+file = "kubejs/server_scripts/tech/tech1/createModRecipes.js"
 hash = "20446efe8e84631e2255723191b090a8bc591870b6ce0d45331dbdd26010317c"
 
 [[files]]
-file = "kubejs/server_scripts/tech2.5pncr/pncrRecipes.js"
+file = "kubejs/server_scripts/tech/tech2.5pncr/pncrRecipes.js"
 hash = "92fd82c674fb5e7af395aefde8fac816c9d1cd6418ed646bf1bddf34513700dd"
 
 [[files]]
-file = "kubejs/server_scripts/tech2/computerCraftRecipes.js"
+file = "kubejs/server_scripts/tech/tech2/computerCraftRecipes.js"
 hash = "5129f538d7739dd3d84efc67e0d9f5b4d8b6dd54f4273193b3c27daa398bc847"
 
 [[files]]
-file = "kubejs/server_scripts/tech2/immersiveEngineeringRecipes.js"
+file = "kubejs/server_scripts/tech/tech2/immersiveEngineeringRecipes.js"
 hash = "fc93787d1f90017d0f1286ab2c961969030b9936dc0dd0e13bafed4944d95d4c"
 
 [[files]]
-file = "kubejs/server_scripts/tech3/thermalRecipes.js"
+file = "kubejs/server_scripts/tech/tech3/thermalRecipes.js"
 hash = "8e42d06307e881794e99c52c558709aba2f051a802134175b25e4a9a23d2b547"
 
 [[files]]
-file = "kubejs/server_scripts/tech4/ae2Recipes.js"
-hash = "012c83b05a3f52d1b05466ababfce8f3826e168e7de6074b9c845a15aafd43f3"
+file = "kubejs/server_scripts/tech/tech4/ae2Recipes.js"
+hash = "34ecbdd1c0009eb7fa0033cf201345b7815d793a0e80c630df7ac74cb7fc9c8f"
 
 [[files]]
-file = "kubejs/server_scripts/tech4/mekanismRecipes.js"
+file = "kubejs/server_scripts/tech/tech4/mekanismRecipes.js"
 hash = "a526cb32f277ce116d6fba13e3579e90f73530407141358d87811b982bc6a971"
 
 [[files]]
-file = "kubejs/server_scripts/tech5/dissolutionChamber.js"
+file = "kubejs/server_scripts/tech/tech5/dissolutionChamber.js"
 hash = "fae869d330bd625190046379252e99ab1e818c4bfa420d71d199cf4952231bca"
 
 [[files]]
-file = "kubejs/server_scripts/tech5/industrialForegoingMachineRecipes.js"
+file = "kubejs/server_scripts/tech/tech5/industrialForegoingMachineRecipes.js"
 hash = "96493899765aeddbd08c8a038d257e8baceb94faa145a2f7369a3eb34ab406cf"
 
 [[files]]
-file = "kubejs/server_scripts/tech5/industrialForegoingMaterialRecipes.js"
+file = "kubejs/server_scripts/tech/tech5/industrialForegoingMaterialRecipes.js"
 hash = "ee30ac303d7eac4f4cd6ac8d3861f56957fe628401d3f6f12374200060770640"
 
 [[files]]
