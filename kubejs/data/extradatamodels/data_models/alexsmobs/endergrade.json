@@ -1,0 +1,39 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		},
+		{
+			"type": "forge:mod_loaded",
+			"modid": "outer_end"
+		}
+	],
+    "entity": "alexsmobs:endergrade",
+    "name": "entity.alexsmobs.endergrade",
+    "name_color": "#7D9FDC",
+    "gui_scale": 0.75,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:end_prediction"
+    },
+    "trivia": "custom.trivia.endergrade",
+    "fabricator_drops": [
+        {
+			"optional": true,
+            "item": "outer_end:floral_paste",
+            "count": 16
+        },
+		{
+			"optional": true,
+            "item": "outer_end:spectragel",
+            "count": 8
+        }
+    ]
+}
