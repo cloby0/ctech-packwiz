@@ -2606,7 +2606,7 @@ hash = "1cfed301a6332474fba4dc333d18a70f95ea8063064b27a065a802a9d649a58e"
 
 [[files]]
 file = "kubejs/server_scripts/magic/source/recipeChanges.js"
-hash = "456204e9ef7df05975dc8889588cef077de3f758f4a19e71a40c9e4fdce52c50"
+hash = "f6d99cf8fb496678b96d1f644dd03813c0bf9cf9ed2944b1c5efcfdd05cc24f1"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipeChanges.js"
