@@ -2697,6 +2697,26 @@ file = "kubejs/startup_scripts/custom/itemDeclaration.js"
 hash = "50ca7f288421804dcbda7c969ddbc68e810cf6144d83d6ca42e20ba98abe736b"
 
 [[files]]
+file = "mods/Apothic Amendments - Enchanting - 0.1.4.jar"
+hash = "d05da88a29fb0130b883e6abb8cd7afbd5c6b49ec2e710de210a88d56754b7ae"
+
+[[files]]
+file = "mods/Apothic Supplementaries - Enchanting - 0.1.2a.jar"
+hash = "dff56516fffbf97cdb781958aa3a694cc1d668e8e79baa9af689b609b3610b86"
+
+[[files]]
+file = "mods/LocalizedChat-forge-1.20.1-5.1.2.jar"
+hash = "1b59d20cedf777c0b4ffd8b0c99e8c5e8dbbbb1d1c09581ec30c8b0b49158c16"
+
+[[files]]
+file = "mods/SilentCompat-forge-1.20.1-1.4.0.jar"
+hash = "739fb3f43c8e70985ce24eb8c8b03d75b2b088feabef14bfd572891756633fff"
+
+[[files]]
+file = "mods/Structory_Towers_1.20.x_v1.0.7.jar"
+hash = "74aa182524af55e172d7bfcf828dd1c1a3259a304980e7a94fbfbf1f0d9fac0c"
+
+[[files]]
 file = "mods/abridged.pw.toml"
 hash = "41433dbbdd50aa1b1a28802eab388678cfe81ef0c4df3d091b4d9ba4c8c17552"
 metafile = true
@@ -2802,11 +2822,6 @@ hash = "eaef82b3a44f3f081f04c8c98438b2816b4fa04757f1228eb80d045c1cbca92a"
 metafile = true
 
 [[files]]
-file = "mods/apothic-amendments-enchanting.pw.toml"
-hash = "c89308468aace53f9d375be2f547388f5a843f3a8f2c21e43923300668ed397e"
-metafile = true
-
-[[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
 metafile = true
@@ -2817,14 +2832,8 @@ hash = "e4e4335daf42f4ba4769a1a35685e220360227ae60358a87090ee235c74f3eba"
 metafile = true
 
 [[files]]
-file = "mods/apothic-mutant-heads.pw.toml"
-hash = "e2c5f8d98f5edfa7b2afe5a65c6e7d4c1fa0f05744eab3f3662a0b74145aaff4"
-metafile = true
-
-[[files]]
-file = "mods/apothic-supplementaries-enchanting.pw.toml"
-hash = "8db95d3ea114724d27b5f487b36fe85f730541c99a03dcf015eb25e7d74e98c8"
-metafile = true
+file = "mods/apothic_mutant_heads-0.1.0.jar"
+hash = "4df9e979da61b20ec3591e05fc69552766cda65f836855a8a52519aded65e0a1"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -2894,11 +2903,6 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
-metafile = true
-
-[[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "7b82c00d58b304aa7e5c94426610b7a7b6247baa1122dbaa480bd7c7eabb6a6e"
 metafile = true
 
 [[files]]
@@ -2990,6 +2994,10 @@ metafile = true
 file = "mods/building-gadgets.pw.toml"
 hash = "8461b7344559646b5051a6d812e2cd4d43e62c8c817d17f0b2552f65306f43d4"
 metafile = true
+
+[[files]]
+file = "mods/bwncr-forge-1.20.1-3.17.2.jar"
+hash = "d6c120a438f0b347f78d21758d0e05459e09ccd87bb9cae9ee1955ab2750afd9"
 
 [[files]]
 file = "mods/caelus.pw.toml"
@@ -3541,14 +3549,13 @@ hash = "5508a5c035dffcb22c6ff5b2a52235f753fc4361221be8b97c25b8650efefba6"
 metafile = true
 
 [[files]]
-file = "mods/immersive-snow.pw.toml"
-hash = "c96995190ffae2c9c6a686b58726c1fc4cb888c77a72540414c32debd9f868ee"
-metafile = true
-
-[[files]]
 file = "mods/immersive-ui.pw.toml"
 hash = "2caf631ee176d7d1134a654b8d1512fb37d7e789519925793b2e5c1428b318f7"
 metafile = true
+
+[[files]]
+file = "mods/immersivesnow-1.20.1-1.3.0.jar"
+hash = "a9b81511c1ecb1824a2dd6ee5989404f3b7d05d89a4ac6802c20485cb1e4c671"
 
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
@@ -3746,11 +3753,6 @@ hash = "afca79f6ef3b857bfd147d4d7f9887ee433a73f8fcd1ec4476c49ac3349926d0"
 metafile = true
 
 [[files]]
-file = "mods/localized-chat.pw.toml"
-hash = "bed005a64e403dd061b44d9141e1d5e228ab8685aff62abb99c87fa99691d4a7"
-metafile = true
-
-[[files]]
 file = "mods/logical-iframes-1.0.1.jar"
 hash = "70e230f34f3e09d86e4d2b98dafa042b64f97b403f9ddff1c842cbefc81edf8f"
 
@@ -3770,9 +3772,8 @@ hash = "cd4fe8b667d14c946028050cf9e4c3367868f79d9f429ec18eb47cce34e021a3"
 metafile = true
 
 [[files]]
-file = "mods/lucky-block.pw.toml"
-hash = "ecbf67162e047b2b2138ec85129abc5321abcd61f5fa4a96322bdfe151f50dfb"
-metafile = true
+file = "mods/lucky-block-forge-1.20.1-13.0.jar"
+hash = "c101dd326e5ed421d0373eec065054cf5972134f639f3853d35542e77a2e184c"
 
 [[files]]
 file = "mods/lychee.pw.toml"
@@ -3845,9 +3846,8 @@ hash = "31ffb058f33e7e2386406271deb131ae0f955a495072c43561068014e8f15b46"
 metafile = true
 
 [[files]]
-file = "mods/mods-optimizer.pw.toml"
-hash = "921ce5a918c5ef64015e5ed749cbee5724868c312103b427e26fd46557ab723a"
-metafile = true
+file = "mods/mods_optimizer-forge-1.20.1-4.1.0.jar"
+hash = "7551b4b63bd34a36a73db27a724159ac2d5ead897668c506e3706ab8806e16f3"
 
 [[files]]
 file = "mods/morph-o-tool.pw.toml"
@@ -3980,14 +3980,12 @@ hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark-library.pw.toml"
-hash = "b230bc1a400b23b52aa454c8337299f7de14f8368460df64ab6a9b0ee8b17805"
-metafile = true
+file = "mods/petrolpark-1.20.1-1.2.1.jar"
+hash = "31edfd058efdee12231788a32820f9a9437a608d51c1fabab0ae68da8da150db"
 
 [[files]]
-file = "mods/petrols-parts.pw.toml"
-hash = "4d366988b4f06da07d5f9eb17af217bb686077c5c5b01d94a80113f2516ac1f8"
-metafile = true
+file = "mods/petrolsparts-1.20.1-1.1.2.jar"
+hash = "2e84e6c22ba792283a6682ef035e52671691528d3dda663b40b99c870d66092d"
 
 [[files]]
 file = "mods/pipe-connector.pw.toml"
@@ -4180,9 +4178,8 @@ hash = "ea27ff5d255f08f63d989df00ef08424f1fc3708325fe7db0a30e44cb0028e15"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "4c1d37d3aecc6d67ce6c6a97d859345cdaefcf619a057069b0a8635f2ad551ac"
-metafile = true
+file = "mods/servercore-forge-1.5.2+1.20.1.jar"
+hash = "d9ad4f456b6c36bac17a71cd12935fdccae69ca1e1fcd33857210758cb58e586"
 
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
@@ -4202,11 +4199,6 @@ metafile = true
 [[files]]
 file = "mods/silent-lib.pw.toml"
 hash = "7f281333e1c573bc3673446c291d82f3137bfc7de6a5256d61417f67be7b40bc"
-metafile = true
-
-[[files]]
-file = "mods/silentgear-compat.pw.toml"
-hash = "38b00dd0ebb49d9b378bb11afbc53b1e9f983dba1288e3254ff6e7e8d9226cda"
 metafile = true
 
 [[files]]
@@ -4282,11 +4274,6 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "eb7fb878f669cc17a22d19902fe96cdcfe541a9cf7d03eb7244fc11e13713b61"
-metafile = true
-
-[[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "34b542ad473b6a70a744b3b6efbada3e9ca9d4033b625cfb0f99d6ef320b32c6"
 metafile = true
 
 [[files]]
@@ -4424,9 +4411,8 @@ hash = "2eed7579fe8aa3b64fa8c087b8147ef8e5ea0dea9ab5f73efaf824714a34e165"
 metafile = true
 
 [[files]]
-file = "mods/water-erosion.pw.toml"
-hash = "371b454cb8861d181bcc5e425952781186b912a9dac1e7ff548ee0d733bb0996"
-metafile = true
+file = "mods/water-erosion-1.20.1-forge-1.1.7.jar"
+hash = "3766287e5eba8c62beb229ac736979ab07d1aef96c6ad5d9abe3b4f51a743bfb"
 
 [[files]]
 file = "mods/waterframes.pw.toml"
