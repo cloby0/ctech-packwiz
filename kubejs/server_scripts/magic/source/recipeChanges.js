@@ -17,23 +17,29 @@ ServerEvents.recipes(event => {
         'irons_spellbooks:blood_vial',
         [
         'minecraft:bottle',
-        Fluid.of('bloodmagic:life_essence_fluid_type', 250)
+        Fluid.of('bloodmagic:life_essence_fluid', 250)
         ]
     )
 
     event.recipes.create.emptying(
         [
-        Fluid.of('bloodmagic:life_essence_fluid_type', 250),
+        Fluid.of('bloodmagic:life_essence_fluid', 250),
         'irons_spellbooks:blood_vial'
         ],
             'minecraft:bottle'
         )
 
-    event.replaceInput(
-        { output: 'ars_nouveau:novice_spell_book' },
-        'minecraft:book',
-        'irons_spellbook:iron_spell_book'
-    )
+    event.remove({output: 'ars_nouveau:novice_spell_book'})
+    event.shapeless(
+    Item.of('ars_nouveau:novice_spell_book', 1), // output item with count
+    [
+      'irons_spellbooks:iron_spell_book',
+      'minecraft:iron_shovel',
+      'minecraft:iron_pickaxe',
+      'minecraft:iron_axe',
+      'minecraft:iron_sword'
+    ]
+  )
 
     event.remove({output: 'irons_spellbooks:scroll_forge'})
      event.shaped(
