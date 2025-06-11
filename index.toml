@@ -3757,11 +3757,6 @@ file = "mods/lucky-block-forge-1.20.1-13.0.jar"
 hash = "c101dd326e5ed421d0373eec065054cf5972134f639f3853d35542e77a2e184c"
 
 [[files]]
-file = "mods/mana-crystals.pw.toml"
-hash = "48914be7fd613470c49a40ea2f5ac0fd861f09325bbbb4cf87c9fc33ee86321a"
-metafile = true
-
-[[files]]
 file = "mods/mana-unification.pw.toml"
 hash = "b22e8f73ecf9314ff906dcc0c26adcac5a11c52005faa1266b56360339dc6700"
 metafile = true

@@ -1,12 +1,12 @@
 name = "C-Tech"
-author = "cloby6"
+author = "soundgoodizerfan"
 version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1aebbca58849aad76e1e02cd33efd725a81f1cfc44e03103f3685c2618b60be6"
+hash = "b67bcda4c725456ae3a88b490dbc8fdb3b4da5e58de22f5c68502e3ac0a199e1"
 
 [versions]
 forge = "47.2.20"
