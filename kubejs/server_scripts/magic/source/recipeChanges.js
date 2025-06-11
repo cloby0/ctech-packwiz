@@ -21,7 +21,7 @@ ServerEvents.recipes(event => {
         ]
     )
 
-    event.recipes.create.empty(
+    event.recipes.create.emptying(
         [
         Fluid.of('bloodmagic:life_essence_fluid_type', 250),
         'irons_spellbooks:blood_vial'
