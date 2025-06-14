@@ -3201,6 +3201,11 @@ file = "mods/architectury-9.2.14-forge.jar"
 hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
 file = "mods/armorpointspp-forge-1.20-3.1.1.jar"
 hash = "95bb87c7324f0ee1680f5465e6e2ed73fba6a19bb90e58f0ca28ff3ff062fdfa"
 
@@ -3568,12 +3573,22 @@ file = "mods/ftb-library-forge-2001.2.7.jar"
 hash = "8fa0bdb17932f3fef69f02ad46ef39ab822983886c8b9f416778711f708c23d2"
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "eb351918762f5c8f05672257082d1ca144c3c9397c40d6785116d1af8b02d864"
+metafile = true
+
+[[files]]
 file = "mods/ftb-quests-forge-2001.4.9.jar"
 hash = "7d904d3a61b43a18f73734b215b37b49bb9a7d243096cb81ba44f9ee9facf63e"
 
 [[files]]
 file = "mods/ftb-teams-forge-2001.3.0.jar"
 hash = "74817d522e59c62d083772ad66fe2395642751edb60b991a33f0306cb1aad105"
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "39e65bf3c47517cdb2f9b4b49c6632dd56db797744faaf8b1a3726b1b95aacb4"
+metafile = true
 
 [[files]]
 file = "mods/fulleng-forge-1.7.2-1.20.1.jar"
