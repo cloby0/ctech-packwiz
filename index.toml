@@ -1002,7 +1002,7 @@ hash = "ec439b5dd67cf3cf9ba83d6705d739f84d2612d7f3fe6ea7d723dfb93dd29086"
 
 [[files]]
 file = "config/lucky/1.20.1-13.0-forge/natural_gen.txt"
-hash = "eeb5f56010efd1d0203241833e5ba1a854785e1353f6893f82631e709b840bb3"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/lucky/1.20.1-13.0-forge/potion_drops.txt"
@@ -3559,6 +3559,11 @@ file = "mods/ftb-chunks-forge-2001.3.4.jar"
 hash = "59167a26b96cff7937d311ae2d8db98029428f1e0c71c78267e93e1149e1e10e"
 
 [[files]]
+file = "mods/ftb-filter-system.pw.toml"
+hash = "306994966b56905bb3468a0a9abb5bbcef853d4b1081526e62143c86fe473932"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge-2001.2.7.jar"
 hash = "8fa0bdb17932f3fef69f02ad46ef39ab822983886c8b9f416778711f708c23d2"
 
@@ -3654,10 +3659,6 @@ hash = "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f"
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "3089988dcd2d81d07d1619c37ead2d3a7212671cc6811373756b5e4eaf66d8fd"
 metafile = true
-
-[[files]]
-file = "mods/item-filters-forge-2001.1.0-build.59.jar"
-hash = "99417b1342ba51ccb9611b17ab01fc1299971aa34e8f9d2a8b3c63df5713eb49"
 
 [[files]]
 file = "mods/jei-1.20.1-forge-15.20.0.106.jar"
