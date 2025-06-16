@@ -3153,6 +3153,11 @@ file = "mods/aether-redux-2.0.18-1.20.1-neoforge.jar"
 hash = "1954dde1ad0e8923c5ddad00b6b63714e35f302297b55355b068f6ed55b96a10"
 
 [[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "6f864eef65f9a38f57eb0cc6fc71469b36ea70444a10c3e27502d617c5eaf917"
+metafile = true
+
+[[files]]
 file = "mods/alexscaves-2.0.2.jar"
 hash = "131e205ce3eed384d701b336d8a0d4a671108ed56b6eff6014f0e407db2997f0"
 
@@ -3183,6 +3188,11 @@ hash = "9dfa5365ef170323612d6ada820b7cac12e05135f00f16d0f627488426f59565"
 [[files]]
 file = "mods/amendments-1.20-1.2.14.jar"
 hash = "1861c0fde7835f01a69829788428064708b015382e72c4ce81c2715f1f936d44"
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
+metafile = true
 
 [[files]]
 file = "mods/apothic_mutant_heads-0.1.0.jar"
@@ -3321,6 +3331,11 @@ hash = "54207d488545db565838bad97db7978800f5171e02c4ab7741b9ee5cd8ab5001"
 [[files]]
 file = "mods/citadel-2.6.1-1.20.1.jar"
 hash = "8ceb5eb471c6feb899c02a9d560917dcc460cd0cb0d6b77d3237889cffb7e1d9"
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "ab769d9c60cfba798a0538bad596e374dc9c68a9c59ad83684afc66ce4ebfe7f"
+metafile = true
 
 [[files]]
 file = "mods/clientcrafting-1.20.1-1.8.jar"
@@ -3729,6 +3744,11 @@ file = "mods/leaky-1.20.1-2.1.jar"
 hash = "f516a408668b066e5a4a3f35c82f89b73a7e84ec44356851ce4db89a292ce9dd"
 
 [[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "792d123c55ee8ad86af24d4c2f90d47547e5dc661696461f6e5405214e1497b4"
+metafile = true
+
+[[files]]
 file = "mods/letmedespawn-1.20.x-forge-1.4.4.jar"
 hash = "69409e3010495660590089d882816fce9870dd2b1ac77c6e35301cc9dfaa4645"
 
@@ -3743,6 +3763,11 @@ hash = "96c9cb4303591eff91315374cbcb5aeb783f53bfc34fe9d9d5615267fdb8bdc6"
 [[files]]
 file = "mods/limitedchunks-1.20.1-4.1.jar"
 hash = "5ff4d22551dcd74680f5da79c9055faae44dfc0c5348c273447200e464eeac59"
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "60af8798dbf3e300a5af44125595afcd5d1e70072448444156364f222cc03e98"
+metafile = true
 
 [[files]]
 file = "mods/lithostitched-forge-1.20.1-1.4.jar"
@@ -4109,6 +4134,11 @@ hash = "302d28743e33ca1a889cc2c89453cdb4433c61de0472550ac6ae334fae389da7"
 [[files]]
 file = "mods/titanium-1.20.1-3.8.32.jar"
 hash = "75461182a955b149104d760db908af832da5e1ae1fbabf09d23cd40701d15f02"
+
+[[files]]
+file = "mods/to-tweaks-irons-spells.pw.toml"
+hash = "a7ad45d3b480a92a1c7d78d52d96e341243f55acfcf1f4dc1bbcf93aa3c75c6d"
+metafile = true
 
 [[files]]
 file = "mods/toomanyglyphs-1.20.1-2.3.2.12345.jar"
