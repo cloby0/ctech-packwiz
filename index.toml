@@ -3896,6 +3896,16 @@ file = "mods/petrolpark-1.20.1-1.2.1.jar"
 hash = "31edfd058efdee12231788a32820f9a9437a608d51c1fabab0ae68da8da150db"
 
 [[files]]
+file = "mods/petrolpark-library.pw.toml"
+hash = "b99e9eaa47d01c04aab00731d22572e30e19a37267b90cb03349c10fa9970b03"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "4d366988b4f06da07d5f9eb17af217bb686077c5c5b01d94a80113f2516ac1f8"
+metafile = true
+
+[[files]]
 file = "mods/petrolsparts-1.20.1-1.1.2.jar"
 hash = "2e84e6c22ba792283a6682ef035e52671691528d3dda663b40b99c870d66092d"
 
