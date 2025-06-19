@@ -3912,9 +3912,8 @@ hash = "b99e9eaa47d01c04aab00731d22572e30e19a37267b90cb03349c10fa9970b03"
 metafile = true
 
 [[files]]
-file = "mods/petrols-parts.pw.toml"
-hash = "38c021549760dec9aa466cbc6a12a213f01eb719258a7a537c546a7ca1fc3113"
-metafile = true
+file = "mods/petrolsparts-1.20.1-1.1.3.jar"
+hash = "1d1e04f78d8f2d4c447c3a81a7276310c27f9f8957e1a98dee17eec4e275919d"
 
 [[files]]
 file = "mods/pipe_connector-1.20.1-0.3.9.jar"
