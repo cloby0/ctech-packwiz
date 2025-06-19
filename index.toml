@@ -3917,7 +3917,7 @@ metafile = true
 
 [[files]]
 file = "mods/petrols-parts.pw.toml"
-hash = "011b50dc8a193c1452ecb520bd19ebfc7145051e8d12edd22c7518c2dedce834"
+hash = "38c021549760dec9aa466cbc6a12a213f01eb719258a7a537c546a7ca1fc3113"
 metafile = true
 
 [[files]]
