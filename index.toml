@@ -3907,9 +3907,8 @@ file = "mods/paucal-0.6.0+1.20.1-forge.jar"
 hash = "3f403fc200e744cc85c348206da70e4fb34808f14fda3fc88b0bde1688b784ca"
 
 [[files]]
-file = "mods/petrolpark-library.pw.toml"
-hash = "b99e9eaa47d01c04aab00731d22572e30e19a37267b90cb03349c10fa9970b03"
-metafile = true
+file = "mods/petrolpark-1.20.1-1.4.2-all.jar"
+hash = "07f57a948065f60477c0666e7d33dfa147046f9762cb18890652e9e04c57c81d"
 
 [[files]]
 file = "mods/petrolsparts-1.20.1-1.1.3.jar"
