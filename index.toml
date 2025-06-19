@@ -3240,6 +3240,11 @@ file = "mods/arseng-1.2.0.jar"
 hash = "02850730d3535afeb19d94311c31693ee1986d07795934e4dc50282f7956e827"
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "af81664fa766bb0cb2f4a383f2464e38300c28ebefcb0b87a53c9bf22873eaca"
+metafile = true
+
+[[files]]
 file = "mods/async-locator-forge-1.20-1.3.0.jar"
 hash = "d171fdddd8dad64cba4c8c67cd2a0bdfc2697ff35e11f9fb666b7464e1e9468b"
 
@@ -3348,6 +3353,11 @@ hash = "81196afb20496f00550db258c95ceeb9fb24611e08e53f6f5576e889af6119bb"
 [[files]]
 file = "mods/cloth-config-11.1.136-forge.jar"
 hash = "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+metafile = true
 
 [[files]]
 file = "mods/cobblegenrandomizer-1.20.1-1.2.jar"
@@ -3843,6 +3853,11 @@ file = "mods/moonlight-1.20-2.13.48-forge.jar"
 hash = "87f623366ed432ef167eedee914fa93f1dc284460061b2fe55ccdf8eade3c222"
 
 [[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "6ff4dfc30b3df634c6a2e587742ad381aa5988a50a646003369331749882c0a9"
+metafile = true
+
+[[files]]
 file = "mods/multiblocked2.pw.toml"
 hash = "dbbe671fab13e77f74edd44f69ed7c27bd2b2fd8fabad0100bbeff82d1a00c78"
 metafile = true
@@ -3960,6 +3975,11 @@ file = "mods/ramcompat-1.20.1-0.1.4.jar"
 hash = "d3e1114c3a0b8b7761b6f9ec9ac17d3e487bc488b4bb1a4acf8740726be90ccb"
 
 [[files]]
+file = "mods/rar-compat.pw.toml"
+hash = "b5ea11a7331ba6b6237fdc3c9dc07a172e064dcec56fa5824aee616de8bc827c"
+metafile = true
+
+[[files]]
 file = "mods/rebind_narrator-forge-1.20.1-2.0.2.jar"
 hash = "d26b402540885e3420617c94023f7b9a5df93a62ece241cd63f996e232adffc0"
 
@@ -3982,6 +4002,11 @@ hash = "06f4f5ac6beb817acf0f9534f77c894b23b729d3a992a646af36c854099447a8"
 [[files]]
 file = "mods/relics-1.20.1-0.8.0.7.jar"
 hash = "cec2616f005d21c28dbc61accad4ec2904d48ade0c9647504a6e8e199f1fdd13"
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "df0cc833f2c0c5548bd6752434e3cd3a944b7115b33d61c0bb2625a4c8b9b1af"
+metafile = true
 
 [[files]]
 file = "mods/resourcefulconfig-forge-1.20.1-2.1.2.jar"
