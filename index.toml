@@ -3684,10 +3684,6 @@ file = "mods/inline-forge-1.20.1-1.0.2.jar"
 hash = "3c9d4c5a6ffaf6ad70911493c24f5ab3ad161ddbb5f040ffe6387c4b9b08fb6f"
 
 [[files]]
-file = "mods/inventorysorter-1.20.1-23.0.8.jar"
-hash = "3263afb2c416d36c8d36effb726750a7c9e370f9712a78f7b7d325a39406d7cf"
-
-[[files]]
 file = "mods/ironchest-1.20.1-14.4.4.jar"
 hash = "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f"
 
