@@ -5,12 +5,13 @@
     "crafttweaker",
     "alltheores",
     "silentgems",
-    "vintageimprovements",
     "industrialforegoing",
+    "alexscaves",
     "mekanism",
     "immersiveengineering",
     "create",
-    "thermal"
+    "thermal",
+    "scorchedguns",
   ],
   "stoneStrata": [
     "stone",
@@ -70,6 +71,7 @@
     "mithril",
     "netherite",
     "nickel",
+    "niter",
     "obsidian",
     "osmium",
     "peridot",
