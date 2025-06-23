@@ -458,7 +458,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "1cb6fdf7c2fb4e10d5bd6f37eb56a686f7e4f778e5b31760024ed4845168377c"
+hash = "d7f41fbf8aa25cd55f9ae01c47a85acee6b19b62e9479eaa8489cd4a6451ed9e"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
@@ -2638,7 +2638,7 @@ hash = "33d372640f02fcb318468981999eba204288980854343d4615ae7ae312ba1d7e"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "65c80361bdb724f670e931e4c49d80ec7cb0ee1cab9878ff402e866b9ec4d39b"
+hash = "6edfcc1df3241c2b52c7d523c87c20b98157f3d34670e2d443429f7fa06fd69b"
 
 [[files]]
 file = "kubejs/server_scripts/tech/README_technology.txt"
