@@ -3672,10 +3672,6 @@ hash = "39e65bf3c47517cdb2f9b4b49c6632dd56db797744faaf8b1a3726b1b95aacb4"
 metafile = true
 
 [[files]]
-file = "mods/fulleng-forge-1.7.2-1.20.1.jar"
-hash = "dad0e821c061a6a8cd919c916e60fcc0bef03a571d5b52b43992e5a3592089d4"
-
-[[files]]
 file = "mods/furnish-26-forge.jar"
 hash = "0cf5ecebce8e9d67406b6e854b4f2dd107e1009adaa132e616f8aa48bfc0fecc"
 
