@@ -20,4 +20,9 @@ ServerEvents.tags('item', event => {
     event.remove('minecraft:music_discs', 'supplementaries:pancake')
 
     event.add('forge:gems/sulfur', 'scguns:sulfur_chunk')
+
+    //for the stones
+    event.add('kjs:can_be_cobblegen', '#scguns:rocks')
+    event.add('kjs:can_be_cobblegen', '#forge:stone')
+    event.add('kjs:can_be_cobblegen', '#forge:cobblestone')
   });

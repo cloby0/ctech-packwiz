@@ -3788,6 +3788,11 @@ file = "mods/jeiintegration_1.20.1-10.0.0.jar"
 hash = "0d83bcb477d761a73cdbb37f723a5d994e61a389340e219e5ce8dc9618be933e"
 
 [[files]]
+file = "mods/just-enough-immersive-multiblocks.pw.toml"
+hash = "a73909ea9e34c19f3a126d08cb0738acfb642999332169bbef4b81904d56ec25"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs-forge-1.20-15.0.1.jar"
 hash = "2ec6931f57f35ace56bb67d118859158bcb6944a2d74971c2a668b965aa9cc5f"
 
