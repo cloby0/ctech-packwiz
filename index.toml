@@ -3585,10 +3585,6 @@ file = "mods/emi_enchanting-0.1.2+1.20.1+forge.jar"
 hash = "adcb1007f165e2c8fd734fe845bdd45026e936c7dde6c6dfed3a21b2787368aa"
 
 [[files]]
-file = "mods/emi_loot-0.7.4+1.20.1+forge.jar"
-hash = "3d2c9b37275d0637fc133e66f4f01764ba161ad1b3e78a0811d0d3cd3730c32a"
-
-[[files]]
 file = "mods/emitrades-forge-1.2.1+mc1.20.1.jar"
 hash = "166874f0f4c9e269cab646ac03a2dec93a261b544670afa98e2eb06275d52a86"
 
