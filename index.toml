@@ -3141,6 +3141,11 @@ file = "mods/ad_astra-forge-1.20.1-1.15.19.jar"
 hash = "62d1a8a23075a983526a8030a7f2daaf118087048e514f3b34541572c03dfcdf"
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "634efb4797404ecac183301afec7bbe96593ba56228ab25fa30b2a7805be88cb"
+metafile = true
+
+[[files]]
 file = "mods/ae2insertexportcard-1.20.1-1.3.0.jar"
 hash = "329dff2184edc476e7261b073f17239015636543a22c16df1161fafe547d6b1c"
 
@@ -3168,6 +3173,11 @@ hash = "131e205ce3eed384d701b336d8a0d4a671108ed56b6eff6014f0e407db2997f0"
 [[files]]
 file = "mods/alexsmobs-1.22.9.jar"
 hash = "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c"
+
+[[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "e5ebb747553799e65aa1a2222ea07e24a151f269e1388c4726b752c098b43fee"
+metafile = true
 
 [[files]]
 file = "mods/alltheores-1.20.1-47.1.3-2.2.4.jar"
@@ -3205,6 +3215,11 @@ hash = "4df9e979da61b20ec3591e05fc69552766cda65f836855a8a52519aded65e0a1"
 [[files]]
 file = "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
 hash = "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "2477a2166d3514dcba5ca03f7f14edab215b98ec8e06ccdfd1330fe9b6a2eb75"
+metafile = true
 
 [[files]]
 file = "mods/appliedenergistics2-forge-15.3.2-beta.jar"
@@ -3396,6 +3411,11 @@ file = "mods/cosmeticarmorreworked-1.20.1-v1a.jar"
 hash = "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804"
 
 [[files]]
+file = "mods/cosmopolitan.pw.toml"
+hash = "abeb5d21719e51d545f6707a3ee874db3a1a2f1350391ee3a72b4831a27de46c"
+metafile = true
+
+[[files]]
 file = "mods/crafting-on-a-stick-1.20.1-1.1.5.jar"
 hash = "b66dada0efff8ce5e89ecf84fdeb7b38ef4d72f23fb89644dec7065690858eac"
 
@@ -3481,6 +3501,11 @@ file = "mods/doubledoors-1.20.1-5.9.jar"
 hash = "b4308561bae59657e5f80f82ea98bacd0e71c1626ef105e46f412dea92d2a2cb"
 
 [[files]]
+file = "mods/drop-the-meat.pw.toml"
+hash = "c8b6d9f1132abc8139ab91a05fb2b5e33424a16c80e1a7487548a86b52eb0b06"
+metafile = true
+
+[[files]]
 file = "mods/duckyperiphs-1.20.1-1.3.1-forge.jar"
 hash = "0045f6e92ec310155a8e3ef83f47c82ef60ef45be11b04d962d01f5c6115d928"
 
@@ -3523,6 +3548,11 @@ hash = "7c072c963b358b2b737b31f2a67460c634f42d2f157c5ca7ba65856a69d27a01"
 [[files]]
 file = "mods/emi-1.1.19+1.20.1+forge.jar"
 hash = "45c4ff7907763c5bf204986eed496d5a216e2e56bf94ef6cb9e2b7646ea559e8"
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "daef210e9d3922c541bfa5e62acf19f30202682b143b651cb6c9959e6a53821d"
+metafile = true
 
 [[files]]
 file = "mods/emi_enchanting-0.1.2+1.20.1+forge.jar"
@@ -3641,12 +3671,22 @@ hash = "ccf46db8c098e1e24b9522393b49d151e6194088e29554652eadbfc542ef40be"
 metafile = true
 
 [[files]]
+file = "mods/glodium.pw.toml"
+hash = "2a7944b951ebfaa4dcf963c3e2faf43eb8115d99a4390daa49dd8ea6676e8828"
+metafile = true
+
+[[files]]
 file = "mods/gpumemleakfix-1.20.1-1.8.jar"
 hash = "a7019442f1b07b1a4a875fe404d04d162905cc7fd42e0b3c843aefc7b39efc46"
 
 [[files]]
 file = "mods/gravestone-forge-1.20.1-1.0.24.jar"
 hash = "f4dfc92a9be4147155817229dbab0d46d5f4ce612b382693b65874afda83d758"
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "de1074bb6f0f63ce7580daab559efdea6e5b1238deb20074e0a87179b3c4dbd4"
+metafile = true
 
 [[files]]
 file = "mods/hexcasting-forge-1.20.1-0.11.2.jar"
@@ -4021,6 +4061,11 @@ hash = "84a22d8581bba967a1cf4ed0ed90fbff7662816b9e88385930bd3078a479c605"
 [[files]]
 file = "mods/right_click_get_crops-1.20.1-1.6.0.12.jar"
 hash = "43b5d4f5c3c3737fd10d18eab5d2c9d6734f9ad9b6d1a72aeddb7b9c9f2ef5ec"
+
+[[files]]
+file = "mods/ruins.pw.toml"
+hash = "13383db7e58e4d34aa8abed6407b7c9bd00418a170dfba13df01367c65cc6140"
+metafile = true
 
 [[files]]
 file = "mods/sanguine-neural-networks.pw.toml"

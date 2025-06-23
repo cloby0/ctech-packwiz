@@ -1,0 +1,13 @@
+name = "Drop the Meat"
+filename = "dropthemeat-1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46822bb4e373b3add106123dc91ca005788a4b50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6564010
+project-id = 404141
