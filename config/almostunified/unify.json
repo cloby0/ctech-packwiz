@@ -3,15 +3,17 @@
     "minecraft",
     "kubejs",
     "crafttweaker",
-    "industrialforegoing",
-    "alexscaves",
-    "scorchedguns",
-    "immersiveengineering",
-    "create",
+    "alltheores",
+    "silentgems",
     "thermal",
     "mekanism",
-    "alltheores",
-    "silentgems"
+    "industrialforegoing",
+    "scorchedguns",
+    "alexscaves",
+    "create",
+    "immersiveengineering"
+
+
   ],
   "stoneStrata": [
     "stone",
