@@ -2817,10 +2817,6 @@ file = "mods/DarkModeEverywhere-1.20.1-1.2.3.jar"
 hash = "747b7f7487f664afc143b25d630cb13358ea7bf55aff056c86418b4985d5c947"
 
 [[files]]
-file = "mods/Delightful-1.20.1-3.6.2.jar"
-hash = "2485d57f2281f9230ae1e20aeb516198b2958a6b4ea98530c055afc8bfb0960a"
-
-[[files]]
 file = "mods/DramaticDoors-QuiFabrge-1.20.1-3.2.8.jar"
 hash = "de0a92cf084a40b7cf21687db9d19b1834450706e16edb8a3fc788554e9255f4"
 
@@ -2843,10 +2839,6 @@ hash = "8280dd4b3fa9a25a34dd663c3e0dc6342ba792ae31ab97d75c3c20e44bcc2df5"
 [[files]]
 file = "mods/ExtendedAE-1.20-1.3.2-forge.jar"
 hash = "7b125df5186ea9b28497fe433d75cd6f06df857a277d6832cfca9f3be827d9db"
-
-[[files]]
-file = "mods/FarmersDelight-1.20.1-1.2.5.jar"
-hash = "0c5549ab990a893cdc0204af4840917974572cfd05644175326cfc15e993d484"
 
 [[files]]
 file = "mods/FastLeafDecay-32.jar"
