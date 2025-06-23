@@ -2797,6 +2797,10 @@ file = "mods/CodeChickenLib-1.20.1-4.4.0.516-universal.jar"
 hash = "9037fc4bc73e4cec717501fc362f660f46c2a1ac34674da2106b4605b3e4d8db"
 
 [[files]]
+file = "mods/Compat_AlexsMobs-Neapolitan.jar"
+hash = "55af224e00ac03b32cca0850f7df0b4dcd9984bff952fc9f4db565e33048c6bc"
+
+[[files]]
 file = "mods/Continents_1.20.x_v1.1.5.jar"
 hash = "95d344e3f606ea2f0935240e0c66ad2fb5364bf1301aaa9c7c6eff688d1c7075"
 
@@ -3156,11 +3160,6 @@ hash = "1954dde1ad0e8923c5ddad00b6b63714e35f302297b55355b068f6ed55b96a10"
 [[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "6f864eef65f9a38f57eb0cc6fc71469b36ea70444a10c3e27502d617c5eaf917"
-metafile = true
-
-[[files]]
-file = "mods/alexs-mobs-neapolitan-compat.pw.toml"
-hash = "4b10cfb3a6e606eb1f8fc4e274517fc3d146a4ba058485c3cba25d741754878b"
 metafile = true
 
 [[files]]
