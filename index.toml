@@ -4130,10 +4130,6 @@ file = "mods/sawmill-1.20-1.4.4.jar"
 hash = "3db989e9bbe8f69ac8a9845784f2c4f78337a548e3eeb5aab678c163529785f3"
 
 [[files]]
-file = "mods/sculkhorde-1.20.1-0.9.23.jar"
-hash = "9095ca74f29978f8e1122d3cb2db8b41f12c3ce6becfac2e7e2591b0d41c21da"
-
-[[files]]
 file = "mods/servercore-forge-1.5.2+1.20.1.jar"
 hash = "d9ad4f456b6c36bac17a71cd12935fdccae69ca1e1fcd33857210758cb58e586"
 
