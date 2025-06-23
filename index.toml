@@ -3489,6 +3489,11 @@ file = "mods/deep_aether-1.20.1-1.0.4.jar"
 hash = "b8a68883903c162cec0f62621f42d9693075add61fa491ff4515ed7e092390bd"
 
 [[files]]
+file = "mods/delightful.pw.toml"
+hash = "7329d2465dd7f479bbfca0e747ae8c86609be5487b2ee8a9f9f22ac5e1b133d1"
+metafile = true
+
+[[files]]
 file = "mods/dimdungeons-194-forge-1.20.1.jar"
 hash = "dc6cd2ef08cf4d76260dd2fd62db850601f5191f40b42e0b54fe545779e7059a"
 
@@ -3589,6 +3594,11 @@ hash = "658f09ff6bfd0c6d44c12215f18103c7e45f851fe6dc2c583b169cf6a157bd7a"
 [[files]]
 file = "mods/fairylights-7.0.0-1.20.1.jar"
 hash = "5c68ee27feb4ef10675c883ab67bfa0f1c3e3c0c2193f1c35f43a225d930d9b6"
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "fa6e35c376181fa82ad33b9cb4c20382a0effd7eb09a06107dcc884b98f49ff2"
+metafile = true
 
 [[files]]
 file = "mods/farmingforblockheads-forge-1.20.1-14.0.2.jar"
