@@ -458,7 +458,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "d7f41fbf8aa25cd55f9ae01c47a85acee6b19b62e9479eaa8489cd4a6451ed9e"
+hash = "28f8a6df93f610374e3c006fdbfedfb5700f8b8e67cdee3b27db4c09044df076"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
@@ -1189,6 +1189,1534 @@ file = "kubejs/assets/extradatamodels/lang/en_us.json"
 hash = "a641cc794ba958ffd7940ce6c775b47ff1c0daadc753fa8929c55ab60dc39a72"
 
 [[files]]
+file = "kubejs/assets/immersiveengineering/models/block/alu_fence_inventory.json"
+hash = "9241a6e04029a525fd9575f8de7b935e526d99672ef67cdbb075a523009347e4"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/models/block/alu_fence_post.json"
+hash = "265b959ff97c7f93e1e68055b812aab386274e4f9c345631aa7e4780280496fa"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/models/block/alu_fence_side.json"
+hash = "76c95dd1d5893df12aebead4de239836352e2514c44cc4f5af2105ed5610081a"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/models/block/steel_fence_inventory.json"
+hash = "08bdcf169a9e7f2703e0c85567229fda222b9426bab6438de50289eb58741b87"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/models/block/steel_fence_post.json"
+hash = "157e77d6da3de510d66dc080d783185fff31c35fa0df826d853571461d82b1ca"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/models/block/steel_fence_side.json"
+hash = "ff824d622ac5f7201d8430bb790517334d888ffb3d87b6ba90879b7fcb64ad3b"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/models/item/alu_fence.json"
+hash = "5c5166c6c735b81e1e3a053f6ea3ef68319f9a56346a7a32323a6fa1977fbe94"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/models/item/steel_fence.json"
+hash = "fc0848ccdf64d6d3ecf9cd7994a103de070866da8d9d3a64fec65398265055eb"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/aluminum_fence.png"
+hash = "5eba2a00cce1e883d1868fcdae5f0f3dfd733f88f4f407beb33caa64ea46b255"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/aluminum_fence_item.png"
+hash = "60d1adcae7b294e562165272e5abfd1e95c17bf70453e5a850bd38f90c26b055"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/aluminum_fence_side.png"
+hash = "15d64c819eba916a3a0b028d531b7aec4ed1a318fcb93cf8495558421ca37cec"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/deepslate_ore_aluminum.png"
+hash = "cbb912a9dfcb33840f6f12ae166d90d202b81549064a6714eb8d9dddd6a104ba"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/deepslate_ore_lead.png"
+hash = "3f1728f3b67eafca94bc7a114da490d03e65dcc1bcb0c0d7b044f35c4ce3e990"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/deepslate_ore_nickel.png"
+hash = "1d64bd50fbeac82620b0f12d29044a4a71de17f9f62fb100c0798d2a09e0491d"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/deepslate_ore_silver.png"
+hash = "2f57e8a0271fe0153fe0cf37bd36092f221c1d9820a8da77090120839ae67e02"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/deepslate_ore_uranium.png"
+hash = "e4e86892284d0b8dd9757687adb454c0db57f97ec30a6e4186b805ffb674ef7c"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/ore_aluminum.png"
+hash = "85b13d4ce64b62de88fc6c28fd543eb3b2573b8b197c31de8ec74570f6602597"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/ore_lead.png"
+hash = "2d79edb444437e4a8708c94896d0bde48fb60769ac254e76acf40ad382082c3b"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/ore_nickel.png"
+hash = "7ab0ff313497e2cb95f252e3c9f990c60d8ebe3d924da8d1ef2b366e5848277e"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/ore_silver.png"
+hash = "6f69ce49c1042e033f509af8ad60b12d060a56dfdb79d6dfc08325f7c2ff6ea7"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/ore_uranium.png"
+hash = "2b80e11cc7dd502a098739edcc6e558dcc89ce58c9fb2c0fe9830d8c9b2f58c8"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/raw_aluminum.png"
+hash = "814ea65d3db2bf07017e6f41be3b6b91c0ff9a4f9a24bda663e6f5fda144f171"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/raw_lead.png"
+hash = "c8c942588e1c283ef4efeb46a0014c86d2583be8ae303e11cefe20513ca836c7"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/raw_nickel.png"
+hash = "1fd14df426ccd650068f659f5ebb0dc1335bce5ba1161268086986a38ab6b189"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/raw_silver.png"
+hash = "99be060df7a06eb25cd5b2e52089c7faa35dd02cb179e520e16e326d153da79a"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/raw_uranium.png"
+hash = "405a0ed5dd574c44f225aa06c1089b72fc0e838c78f0005f5b4ad7856c514124"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_aluminum.png"
+hash = "c6e161c9b9e6b1ddf481c225bc6c409e095cb145fdbb1a32a9af875311c8f4bd"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_black.png"
+hash = "87034bf9276b1cc0c1a8d659198b0141b6da9dc76ee688e296af70af7b92e0f0"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_blue.png"
+hash = "53f36950d8b8515a53432a1608131a775e9b4236a8d7d3f434f55a5ddbb64127"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_brown.png"
+hash = "40871c0b1db23e27d55affee1b40aa8b50657cb97d2329ce289cb9f517e10edb"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_constantan.png"
+hash = "606f38bb5dc10049aa1d58c0f422de33ab4c8ca2077b0e6358d205d9c1ac04cd"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_copper.png"
+hash = "066d577861caf8ed0d56a394a81fc5f2ec981857b4a765a87566ca1475a5397e"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_cyan.png"
+hash = "fe39a9f09aeaf2025eeed6d9deb6ff7d5e1d9833032d8419dab0f0c3ee742bc6"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_electrum.png"
+hash = "b3aa1e7de1b30ea47edd719a8f7059826bb3e0c6e9256c814de40a334905e541"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_gold.png"
+hash = "83b20237f3a00b387b00fd69b363b22094699cdb27218f1e79b39f5d5aef4614"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_gray.png"
+hash = "d96e1eacac2b5f35442e623c5387013f0c0f2d1b9846b5dd215490b97963b135"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_green.png"
+hash = "a59238d7d01aee98994d735b2236c312470b2e4a257a846dfbe8865ca8483b7f"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_iron.png"
+hash = "cc1d0fc1813ca0afdd750553e1d0fc64844b882770a1f83ad1b1d23ddb5b138c"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_lead.png"
+hash = "d977e90fd64854b3a4c2538849d12cd6942c800e04ba4af9d69f526044c231ea"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_light_blue.png"
+hash = "d45ef05f7d525ae0461b1b2b1c6008b30c3227eaa0a30fa460aeea61ea41fd9f"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_light_gray.png"
+hash = "6b3497dfdcfa46f24543a5d294825c07618c7d44e9bbd1f5ca2503395defa8cf"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_lime.png"
+hash = "dbb460cdb1368c0e275d97ef5e7889c874f98735a88d312def47339bd2400dbf"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_magenta.png"
+hash = "8f5f831e4160fa481eaee3ec8f78d4990111bce447697c6d512cfa2346009dd5"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_nickel.png"
+hash = "28b4b641a977ec0abaa1bb536a9120f07fe3ae2d17908d86fbaebfbf001afd6a"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_orange.png"
+hash = "763b6725bee71ff79453dab98ff8779c2648d33ca55ab47989ce92c9a56c1502"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_pink.png"
+hash = "a5358ab53ebc096a34b414b31c12ca7ae28b016757621ffe9c963190fe63e36d"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_purple.png"
+hash = "ff0820299fe6348edba22d88e193fe8eefc2dc3cbbdf378d277c27c0c0a2f9b0"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_red.png"
+hash = "25f5876fbd6a7e5b8d180df9d3df4cc58ab662bf979f989527bc208b9d5d9576"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_silver.png"
+hash = "566c415a8e320ea0118cdefdb6a4e420b09f4ff63ccdab719e119d4fb508c9cd"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_steel.png"
+hash = "9e174f7c1418f8bdc51b5d297120b09f92ce25f4f52fed1e1ac3896f1e2b1614"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_uranium.png"
+hash = "3ad6955d10d3ad42565c6f15649ab4b9ec5ed5543e8edf77f206416aefeeb6e5"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_white.png"
+hash = "7c9a658a5d5bf803c9480b25a7c5583cd0b666875c59a0385535e43d38b7aff5"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/sheetmetal_yellow.png"
+hash = "93ba4e3795e34ab64b08ea1ecfc8bd29defd8f48ed4bf3f8f668862b6db2d64d"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/steel_fence.png"
+hash = "b15bca4405e4fc22fff6af0991232dd230a0705a71ba6fa0d7ef08a4b55c9134"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/steel_fence_item.png"
+hash = "cc0390930eb7dc6ec879abee4360e125b846e77c6d088e8ee4f7737b5600fcc1"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/steel_fence_side.png"
+hash = "4b3757986457bf7bfb9135c4026c00d2a8e09bb921d1235296be8b15d227a8d8"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/storage_aluminum.png"
+hash = "ba03641c505a5e316729485b758fd15ed305e2e39533d2ee06d0b06a70fb5b70"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/storage_constantan.png"
+hash = "7d335906f4b3eb873bc75e25a5176872e91ec722281f7e7e2e83fa080b76aa4b"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/storage_electrum.png"
+hash = "ff5799091985f5854169980f076b68178284b8ea299912704f0f0914b4bcfb08"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/storage_lead.png"
+hash = "d2f3b290e6d839349805db68ea0272ec3fa336c18a884a09edef436705046ec9"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/storage_nickel.png"
+hash = "b82ca44b2ad03fe7bbfc1374c469fe463e9ae39b9738674e696b727b59071cce"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/storage_silver.png"
+hash = "71a60b5ed091a5953558746ce5cdd12b7f54d128ce4c0072c84151a66aebef01"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/storage_steel.png"
+hash = "143c932891d3568bf657c43ab0a6ed9eebf407f95702d9284d25aa62ee9cc775"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/storage_uranium_side.png"
+hash = "672a82640eabb1883ea2ff3a1a3c025ea468d6840fc43cb4c62a678ece71a25a"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal/storage_uranium_top.png"
+hash = "0dc037940882a8509e100a1300c9b7fa6e0b5ee17b0f6b897c30f0b2029667b9"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal_decoration/aluminum_post.png"
+hash = "fc4b0f987fbddf6fbc5cb86b237f25f61d691372c88985bbb6e42515f448f424"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal_decoration/aluminum_wallmount.png"
+hash = "fd84b48bf959330e4fa11f8064ba7510d291656c67b4644fbcbb02ad0ebd1620"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal_decoration/coil_hv_side.png"
+hash = "c5fa21dd5f6d421c2fa12ac788455fc92bb7125b36b4e7e15c3ded1114d7a76b"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal_decoration/coil_hv_top.png"
+hash = "8cbc9e4c5b1c635adf5e24ad2da349aa5e49967728bfb9ab95eeedeee5f36f3b"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal_decoration/coil_lv_side.png"
+hash = "015877d58d6d1d516bd1a07f13f0977cb427d57c952a8886bba7107fa36ab4ae"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal_decoration/coil_lv_top.png"
+hash = "379122fbd4b766cd50e186e07a898d86597bcee07429ca7daf5613a71be8454c"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal_decoration/coil_mv_side.png"
+hash = "e4f8e1a60f583cd1d252e684b5085b297d5a15b79adfd5c153877377e316f495"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal_decoration/coil_mv_top.png"
+hash = "ac0bb884bcc85bc4750f79f21d2e73bccfd9a997daf80cb46f613b090ad6741d"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal_decoration/lantern.png"
+hash = "aaf1be19b42eb292c80d80c8d6ee1f38add2002659d91108a00666c74eda0ab1"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal_decoration/steel_post.png"
+hash = "39bee5571444dadb1c9c84852f261a585e709fed8526a38560098ce29c9c84d4"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal_decoration/steel_wallmount.png"
+hash = "bb817ae4c88df23adc38657b14ef48b7393bbf03b1becd50acc1b309d0f55e2b"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal_device/electric_lantern.png"
+hash = "d3b8569d9f1f5f92e5620eda53524b920a4187a453945d14c544e97140a08a5b"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/block/metal_device/electric_lantern_on.png"
+hash = "f3e3f0c44e4daa2b42380c7739ea8afc239eb2e071722347c7f14065a7b8081e"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/armor_faraday_chest.png"
+hash = "f7e0fe11be4cd00f6519bba22776fa634e2542dce948e4a6b9f9df6a6c20d2b0"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/armor_faraday_feet.png"
+hash = "ec482a62f2c5f43606f6afc54c62eef297aeaa40aaeb289301e441723d7fa24b"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/armor_faraday_head.png"
+hash = "82c281c6cea6f2976e6fdba08a98aa336cfbc5ab3484d4f6f364cb6a1fb9468b"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/armor_faraday_legs.png"
+hash = "3b3e57279d76b87562893164f24af291e4edea31e9818aaffa4427e3489ac39c"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/armor_steel_chest.png"
+hash = "f950efcc536eccd29c6211cfd5d4babd1c456aa9412ff50d668bedc90f994be4"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/armor_steel_feet.png"
+hash = "6ebfb7fc4f35e379331cfcee9e38305d1058e5e1f3f02a51f33d5e9a7d463fc3"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/armor_steel_head.png"
+hash = "238a8ddc295c4f9da390d5e79c8cb2c5f69c67e25e8a1b365e51ac58f680858d"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/armor_steel_legs.png"
+hash = "a0d13e9777c0ce1a043bc7ec1faccc8e07afb943f997910702eaa937c8e89e1a"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bla.png"
+hash = "6aa4612e34c249cbf38441e6f743b49ee4edb6be5442ed4dedab52dcb58df090"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/blueprint.png"
+hash = "451cfa4a5539eb251ba3b8ab81cdd405e0059a42cce3c3c50ea6845101b9a228"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_armor_piercing.png"
+hash = "7bc1e170994b9d4663892824def5c58de4cafd736167121dcd420abc7cba3013"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_buckshot.png"
+hash = "b140d475160760117304a2bb96ba00af3939ce6861125b485b50a5c460fc79f3"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_casull.png"
+hash = "58753abb4d9bc2bbbb7fa28ca8870995e97f90e71e2c7868c5b5f2662a1d377c"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_crystalwill.png"
+hash = "5363219afc3da3ec36d9621169f3b0c047e06ecc03af327f624324a4aa586ca1"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_dragons_breath.png"
+hash = "0914415b1794f7568dd0e3cbeb516c0b9d1b7d12f78b2abc197f8fd0855bfb55"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_empty_casing.png"
+hash = "a880c99f3920d475dd653c125a06cd7f086f1f668f0ea88fc78cff058d987903"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_empty_shell.png"
+hash = "c619eb781b8625557967477e35b4ea1e8d546be9d1955081913c6c5bb02c562c"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_firework.png"
+hash = "35e4984fb5eeb8d32db8a02b453e5b82d5764cc6dca75cb88bfedc24a9982d71"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_flare.png"
+hash = "08fefd9ce4a74b7b8cf9fc4f017af045e36f80403d61a56927edba08cd6c542e"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_flare_layer.png"
+hash = "6f6cf5b4e9ca0ad91f99316c2732ec82e33579829310140859639597020680c0"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_he.png"
+hash = "55e59eafc7777184ebdb777e6c6da7bf67294b4cb1539ecf81ad091ef7064b58"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_homing.png"
+hash = "3f2ea5d68832cc8000f4fc7d52e9eedaee26832bd78f81dd79693f3add5c735f"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_potion.png"
+hash = "d05e6dbaa09ba89c5efab100c392ab4c12e5b124775e0ae2da3365e9e2dd152e"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_potion_layer.png"
+hash = "125b553fcc35c8dd5b67a105f9c1d1c2097cb2f367eaa00a4ceeaf7543c30dc6"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_silver.png"
+hash = "988ea24029980025d04ed98a6dc39ec7437e620c62c240a8918a0fba4a2d70d4"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_terrasteel.png"
+hash = "30d2cb3a1b5601a28c57365b304160c984a273789135f19ecce843ada416a2d5"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/bullet_wolfpack.png"
+hash = "9a61fc9fb11f54ab6314cbe85a579067b059e018f4fec57769f9efb013e78359"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/drillhead_iron.png"
+hash = "54654872f7658553ef9759ef4b164b6a274f8fb463083189ebce7be4276c0b71"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/drillhead_steel.png"
+hash = "f2e918de37ff1239395b795b49f27b972938f434d38f660a376aa26bc79a8be7"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/earmuffs.png"
+hash = "5b91324f91a6c31a6b8884da1858d4a432e660502bca43236eb74db7a7a4a2d2"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/earmuffs_overlay.png"
+hash = "b7e7665df87a0f408a0c3d3c4080ad088c9a0f7a82cefbc681e572b13a25a27a"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/fertilizer.png"
+hash = "963bf6d312e6548f786f0bf4f60af38ee580321fa84541597332c62e9aa98f30"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/glider.png"
+hash = "d48c115bfd6b5b4ab017cdbdd51277e053fb1b92e71125af8b6c19df0d836bbd"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/graphite_electrode.png"
+hash = "9aa3fcad9c9c160a32dd71a5ea662961bbff4a34208f54998ed43a2df0b3dce4"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/grindingdisk.png"
+hash = "040b26eb77e72ef575f4fa6c623f1fd4b83ac93ab96d9ac265fa6b8eaf510338"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/jerrycan.png"
+hash = "b6d5d73f1ce265ea7858aadb492365de83f953ce8fc1cef449536cc12982e590"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/logic_circuit.png"
+hash = "3b1faf6781eeecfacb3feaf4376e85c6c01be037564c9fce1d363caea8f39287"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/maintenance_kit.png"
+hash = "b132a44f080fd834fd1fd28802306b904be9dcd6b8c05443f8066b77cea76734"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_circuit_board.png"
+hash = "0f1f6040938132325146bff1e2cde298585a1a01e6fbff21dbf8823e5d882a53"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_coal_coke.png"
+hash = "27b5a97a4cc224a19cf71541e65aea37c459849bc9f598642c77c4244c67309d"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_component_electronic.png"
+hash = "f6da87bcda482123b790106b2f184b55ed2cd552bbe254ce7fc1cd494b8d520e"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_component_electronic_adv.png"
+hash = "c7d38e71b28ab96e5cde32149ded9f86a62de7ce16b9dafc5710c8c89f7370a7"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_component_iron.png"
+hash = "495a99ac29b282b498defd1ce4069a9c12d0ed10c770907b0f15f761023c44ba"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_component_steel.png"
+hash = "3f0dd6e605f5ec1f867bb6a03fe4e5efd109ba69aa6f3f48f16dd98bd0b57734"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_dust_coke.png"
+hash = "f19eb7d789d6000bd39d3c48c27be5586fb6e4b44b34fbe164413fd9e579bc92"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_dust_hop_graphite.png"
+hash = "28b1febe9d4097026f25e8f56e7f29916596db8f4fd57d6cc19ef38976421221"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_dust_saltpeter.png"
+hash = "16f9dfdd2ff5e1e4016153ec1c3f4c0298050469ec1d4184d635546fd242b518"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_dust_sulfur.png"
+hash = "422150c19430ebf5c5dda8d35998191554090c289e0bdb605ca49bb78097a4ab"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_dust_wood.png"
+hash = "86fb27d44e139989fdf61070c4dd9ba93b741afc4f84e34a4c79a9b8a1dd6994"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_electron_tube.png"
+hash = "2b4597ab96ea8887fe7d02a02d99b2bb05f4334a0cd26d6743c95c779784f2c3"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_ersatz_leather.png"
+hash = "eb06ee422666dfbd3321e93abf995463b730fe344e09a280731daad7281d7d30"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_gunpart_barrel.png"
+hash = "1541dc4450b8416d74709cb76b6122e81c84c55227eedfefc6aa0120d082c187"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_gunpart_drum.png"
+hash = "f5cc4526ea60b74b4b83aa5bea0849433f21bd25f5aea2b142355ce910117ac0"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_gunpart_hammer.png"
+hash = "a3bb228ce0ac0730965dceaed3e02d040a0c58e11291809045214b563b89a09c"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_hemp_fabric.png"
+hash = "d522d84ecd3ce5a48664effe9e7ebb9a7ef212bdd98d32c3d264b04c787e976b"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_hemp_fiber.png"
+hash = "d33592d7e7de070bddf585555c7af975a5f5282af873fb3991873938632784d7"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_ingot_hop_graphite.png"
+hash = "06d198837341cb15f843b71ddf8efe827b5c747fccb86534e4ca3db798a019ad"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_light_bulb.png"
+hash = "37ede7889de68d56bd2b8b6b744398f6e2b60fe2998a6f56779cb57ea3a52fc8"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_plate_duroplast.png"
+hash = "4151ba55cf2804e7fbb761e75bedfc36309b9c8bb6f8edef0b2ee725477d2f7e"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_slag.png"
+hash = "8272942120c3fe1084af0b1198ac1c69f41765704c7e5dbb4455cf36fac02b62"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_stick_aluminum.png"
+hash = "a665f1c932505cb44ce1e55b0bd7bda2c4ffcfa87b67ba4676df556cc101b5c6"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_stick_iron.png"
+hash = "522651ff47faa3c8c5f89765547005cbe10016d36a8700422181c7e1775c62a6"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_stick_steel.png"
+hash = "dd8523c8ce60d817ce0ce825213ac5d62359f43926bc6f06f5c2d8193aee17c7"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_stick_treated.png"
+hash = "b2dd8ab3e169eddfdf14b4cef3b32810211ac83826be749b23fcbd73c2a96b4d"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_waterwheel_segment.png"
+hash = "dc0d29a68db4c82611a201ba4183ec96a8b5dc7bb8dce458745d8e1f0e0dd82a"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_windmill_blade.png"
+hash = "6f05a30dbb44c57cb46d4fc7c54e85448794762a2c2e92378530ae9c007ae98a"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_windmill_sail.png"
+hash = "28b272f27c924993dc4ebb732c54f80ed254742b66310a25937d4956a9ce03ef"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_wire_aluminum.png"
+hash = "96183ddbdb7b92713526598ba0de391cafc28840526dde76af7d32781b9115c4"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_wire_copper.png"
+hash = "3ef58fe9d714f395558075038f309739f51f6234dbe2d308c90f5233f0fb0566"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_wire_electrum.png"
+hash = "0a4967a5a47639d9ad4d575c5cc3cf14b9c4e0e07c7ac7c23e9b9ab710339445"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_wire_lead.png"
+hash = "29db44ebbd47e77646715f47685b27e30dfbffed4595536c127dc5bce7e5eff7"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_wire_steel.png"
+hash = "62388f12a2f190b807a0e117db18d77906118da463c1ac705e060c1249265116"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/material_wooden_grip.png"
+hash = "468efa5cedc990c69686aa42c5a1f05af648d943595154149085f9b615bc0c2c"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_dust_aluminum.png"
+hash = "73adf9b567a9f0a255c4392d65664b6155f73d8645ed3ca90be2bff6a9cd1edd"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_dust_constantan.png"
+hash = "008f46e9afe4f1c8f09f8135e8dec4e84c4f9c03600fe9eecf3418d10f175386"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_dust_copper.png"
+hash = "5fc8e4e54a092c86cf39417a4c6b1f769a8654de0e8af79429d7c4a69a514457"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_dust_electrum.png"
+hash = "42c9c6cb685209a1c84e0fe74a7e1fee94d96aea3cf8dcc0742dd192ec599c30"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_dust_gold.png"
+hash = "7174280a61db0c494c5fc55df8db540c8feda963085b648f41b4a65163332c3e"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_dust_iron.png"
+hash = "bc7180c655d58d687c0ed7511ede3bb924e54e0be8e0c47f7d230a9a38d534fd"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_dust_lead.png"
+hash = "2543c00cf6997c6cc9f54eb99ed0affbc9ffb730bc6bac059ca3c404e0f5c9d4"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_dust_nickel.png"
+hash = "5d1441ad959882e9292c60042883ca36827d362f752ed00e2bdd17478adca83f"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_dust_quartz.png"
+hash = "9a0e8bc122dbf87f1a06617a2493ed1320eaea2750dc8996c570158fe27d7cf3"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_dust_silver.png"
+hash = "bc7bf6c4927c375d57eb9be69b725227495544dc0e24e52023039ea6ecf8f2de"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_dust_steel.png"
+hash = "78c8c3258d7841034360466cd7c81d856f7402ae00d8ef48e1158bd206b0ece9"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_dust_uranium.png"
+hash = "862a73ec86061ffff734c71c0bb876717765eec4320c6746b07a4dbb0a8f49ce"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_ingot_aluminum.png"
+hash = "ff6f43d22eed17b6f651761086c2c24ad26ea0229539bf7c139a97f9bb66e700"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_ingot_constantan.png"
+hash = "bed4890706a4ea17d8de8863d8ec64d335b2507459b6db687899abefcb89f974"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_ingot_copper.png"
+hash = "ef59e77b687805ead96ba95f8e13798ebf268769adf0721d5d46bed02a419e69"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_ingot_electrum.png"
+hash = "24214286dca8191231b288f9635219dbab0dee65f23156b1f9a5b120db9ba480"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_ingot_lead.png"
+hash = "6a4493282ae984d4e6fbf4dd5cb76289f70e3b5268378da1806a573ddfcb10ed"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_ingot_nickel.png"
+hash = "d60f0402d477688986bd1cb8d16781cb3419873be0097e2d99582704bbf8e406"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_ingot_silver.png"
+hash = "42ce9ff36f168743eb34578b67102bd45ea3953128052aa9ff6e3087dfb514e7"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_ingot_steel.png"
+hash = "de06060b5c7ec917e124ad288a323072c67b33809c4707efa2e1f9928526d6af"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_ingot_uranium.png"
+hash = "0ac39daaa6140e0d052b045463e7c43a4559683e5aa12a3af5f7b23762b66cb3"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_nugget_aluminum.png"
+hash = "bad87539bc413523d1e00a7f02779475d5652272551a0850cdc71609c361b229"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_nugget_constantan.png"
+hash = "3facb18afb3e92315a52bc0fd76a591cdc1e8fe3e36baa77a88dad5f696dec10"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_nugget_copper.png"
+hash = "0703ffddf5b96bd7dbd464a478dc2110ca4f58508b7ea8337abd48a47e1d2fe4"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_nugget_electrum.png"
+hash = "aefa8b68917b7a555f9cf4676e2450ab141b3af82d8c161f3ddd30a98ef56bbc"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_nugget_iron.png"
+hash = "40f3ad7c2c3f8b72df6ee009e246e576a2d101c7d495d4672d9fda481b1fab84"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_nugget_lead.png"
+hash = "f614718b748dd5bc322666b6ed91ebde38e989b72a9e5e365a8691d31e3bcd2a"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_nugget_nickel.png"
+hash = "a254c2790fe0d032f6a5dd1d277f0d602ef9bb095c31202a8f6156f8e8dbaf07"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_nugget_silver.png"
+hash = "af85fee8709017a4d4fd50a35eb9ab69e4e5374ea39ee64af8da6a1e661a5de7"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_nugget_steel.png"
+hash = "ac59b3836443c542b2929987d1eb42559b341350ad640feb4d1c096aa56fc7d0"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_nugget_uranium.png"
+hash = "24608823c769b9668df17180c47035ffcfc21a4dd690407e7410f45f34fc9c46"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_plate_aluminum.png"
+hash = "0bcccc75ad8ee337b9119a5cd748cf7380b1c8338d345efdb2862e7d29429dba"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_plate_constantan.png"
+hash = "5d8bc21818d15e9f6e34ab9a59e4d7ddf8dc4217d03497a9b829eb1977f2a30c"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_plate_copper.png"
+hash = "09f7af7b6a3ccb7078071b4db9154c76d08fa1255e71e4eda76359e2f36f1f09"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_plate_electrum.png"
+hash = "65fa09e8dc375da5f7994b351eddc8ff6bea2875539faa44ca7e7b5094baeda2"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_plate_gold.png"
+hash = "5e035df5d6e4865d7743f82a4eea18e79f8a5b9abf8b117b92b9e344c61da7b3"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_plate_iron.png"
+hash = "db181f9bc6d1aeb1fff8390898e0f55c85410942c11a18e3b3b3ffa5309b3877"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_plate_lead.png"
+hash = "ccb375db079c0debe0258b14a23199b71ecaac92042e33793168c404887038eb"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_plate_nickel.png"
+hash = "7ced28bbf8cdffbc5c7856f19f9965683a7b6e818bc50db8a90d574b471d6a9e"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_plate_silver.png"
+hash = "37c7b51a68e0ddb96d792dd29bc11b4178108994f30fa1ffc2e0537e7f1bae69"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_plate_steel.png"
+hash = "88731f6ebbc3e714ffe7452003f7331f1e3629a3eae02416adc2ce6e642ff5f3"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_plate_uranium.png"
+hash = "af5aaeeb1904121d5e75b68cf8d1f18bad0cd3089e28d013a29c0fca8e77daac"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_raw_aluminum.png"
+hash = "450e6b1f966ec6d3b08d77c163869cd4eced94e2e6ef89c846ffcfb2c718b95c"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_raw_lead.png"
+hash = "f9ba01e8e97276c5573ce439794d15f9493dd66cf44f0f2b81c2d6459d95dfbe"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_raw_nickel.png"
+hash = "e3720283ccce682678e61a64ee7a71f1d8bdf1d4324dbf1ef9757ed9c4fd6925"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_raw_silver.png"
+hash = "6a1f2e264978e4c111a26d02f161f0fe8b098c7a87fbba5acde4c215cb2e2720"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/metal_raw_uranium.png"
+hash = "bc835e1e2c5120d02509ece00d62d9b42dec720676992dc8e909b2cfec343dd0"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/mold_bullet_casing.png"
+hash = "7cce1f9fd4e3617a8a21cf0c6ba698eba30daa831ae4c98c1dcf7d8c32321409"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/mold_gear.png"
+hash = "35d04a97ffc1ff90473fa7432e25a33ecb8b4e4dd72f0529dfc7bd834d2ddd48"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/mold_packing_4.png"
+hash = "9bc931ef1850161e18ef8c9eec5da1dd404821e38c9d82dfc63dbf923372ce20"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/mold_packing_9.png"
+hash = "4dd6a3a64d258e7b1d223c65a9504212d153ec13228040a449c412af44c4c276"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/mold_plate.png"
+hash = "8f8a1a3b07daaf42a3acaddfd705ef4a477855e7b5cc4ec219784265767eef27"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/mold_rod.png"
+hash = "80cced29d43485b9e1f82eb3112a6d6f8591c399c296486613f96677eb814dc6"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/mold_unpacking.png"
+hash = "3cb86fc1c77b72783e741b1431249ad0fc9b50dc1079b44116703eaad35f2196"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/mold_wire.png"
+hash = "93ca7a34cb3848306de92bf4c70e3b73e91208932c8572910e6f029ae05a7187"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/powerpack_unused.png"
+hash = "6c10b463841eebca11a51c5b93310c009e25fbdafd8947ebe97f9f6d33041a30"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/revolver_speedloader.png"
+hash = "2a1fc8d9aa7b5cba330ef928081b76943e067b573a3697b284532aa32a0ada90"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/rockcutter.png"
+hash = "b370f992b20df510e374fb4e560139c863269750a274ad183ca90eea27019970"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/sawblade.png"
+hash = "6d22c518b6739487612aebde6b3954157490a2dd4b4885cd85cdc02d0d6ede40"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/seed_hemp.png"
+hash = "8a9d11bab3bc7981d03f3c745f82e06c10fab0ed989515dfc97d7ad0808cd68c"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/shader_0.png"
+hash = "905231859b10c2e63db1551857c1443a30e54135304eb097d9de7e1e15303bb1"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/shader_1.png"
+hash = "b4c1e421b33404cef6a159fd508c95646d9b2b8b84dd51efd389bf4ed072f3f2"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/shader_2.png"
+hash = "1f2cda720e1ae2972e6e72cbf22c8f5225095f1fcba5098407b04dc7e4458af2"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/shader_bag.png"
+hash = "fe5bee115135e902eaa97be25bc6fe11fcd124e89e5f3fb1811df7b3e3da220b"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/shader_bag.png.mcmeta"
+hash = "ce479ab843a80c18cb7f5852b592648b6582cd18ad7a49f12d721dde10603e37"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/shader_slot.png"
+hash = "242d6b3cd1a3f50a32160ba5f917c0716a5e803fc49ef2279e23734c479b5314"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/skyhook.png"
+hash = "2e9b15c9902577f9d2e8bcca052c5a3e436a0657aa82ea8f8a94c6e3d5395f04"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/survey_tools.png"
+hash = "f07622bc02fead37ec8204033ced0a98d232c04c554e97f83e6ca30f61c61d76"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/tool_axe_steel.png"
+hash = "457a7739bc6ffe922b246ac16c5158fef9c7a393f21bad0e9a23d956dcdcc00f"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/tool_hoe_steel.png"
+hash = "514a5a28b4a6e6fc97e00b0eb2dfcf03ed0c3fd91e84092447023b15a8c018e4"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/tool_pickaxe_steel.png"
+hash = "c8f79e8ea9d2b59bd99bf0d53eea784bff6344b466e0e1f240f5ab5930a77d92"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/tool_shovel_steel.png"
+hash = "ac3e70285bdef7e89e1ebbda6410c24d32156329ea832633a3d872b5c6468afb"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/tool_sword_steel.png"
+hash = "160e2f4107aa303f17c8a4741826a2e8c5985c7667b04b7ed82261e9167265bc"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_buzzsaw_spareblades.png"
+hash = "522b81c1bda5bda8ca6b33682bf0b7e920ec8c5b24f9538616b9c5c188d7977c"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_chemthrower_focus.png"
+hash = "9a43bdb47df64e6bc1fbdd053999c6ff8ccb6225b09ef48ade4c7aa01ad34082"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_chemthrower_multitank.png"
+hash = "76724b3ac9b353f4caa98957bd3a9bbd8f314b561cb75ba976745eff68246447"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_drill_capacity.png"
+hash = "dbf8e917014e8a4b25c7eccbb60fa4d192a76923f15a060acac3d8bb1939b666"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_drill_damage.png"
+hash = "82a7171980dde72b169905d6ea025df4e65c80e1bc036e9688bad2c74126a000"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_drill_fortune.png"
+hash = "24dd4b978088b6a817b01d4cb10b5671931302a7e4c74587a6a17db69c65fcef"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_drill_lube.png"
+hash = "01bded4cb7cb69bb8d96cd299b2e36324d26c9d5d9955357fd1df8c1f38336bd"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_drill_waterproof.png"
+hash = "42beabddaa121adaa4fea41a6e2714f54d8333a2d74024fc13805662f0057b0b"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_powerpack_antenna.png"
+hash = "d5285a92176ce60270c4562fec329d3e3b7d5e4bd068e7f2773de89c5e633f68"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_powerpack_induction.png"
+hash = "07a5c504bd822cf9a643ed34d36046bcb8060b4ae275724a8e7e01d010d4249a"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_powerpack_tesla.png"
+hash = "ab667ea43bd13807ebfe041a4ddc93c0eade7f2502e6a4ca9d35895c5cad49af"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_railgun_capacitors.png"
+hash = "9791367148042eca2410b3179946dc5acf74d322e897a54c1e61f963e7275c3c"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_railgun_scope.png"
+hash = "53e164e604d041408b7498d683d11e95dd44f26acb289eaa4cfbf39e966c5a84"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_revolver_bayonet.png"
+hash = "3623550d179a61602195673692a94b7c272a16e2bc085866c5af9d5cae2bda55"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_revolver_electro.png"
+hash = "9d31c0322fd3ca8cc6c1833f8f67daa758e501fce048aa1ddd550c26952c3ab2"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_revolver_magazine.png"
+hash = "de0a5378adea9407b40ba0f562f74dd40f3775e81a85f68e2714f674f018bb83"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_shield_flash.png"
+hash = "dfd96983effc26feb6e34bc63a9f6259bd2630fea128cd9d3823429c9a10aa0d"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_shield_magnet.png"
+hash = "e40053cf2886290e66189502693da4f9b9e499455c6e126644e7a094d3cfed1c"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/toolupgrade_shield_shock.png"
+hash = "6a77a30d2c855d7fa44a81e3e7daeb1d8ffa4f949a3e5fcc51605e0dded842d7"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/wirecoil_copper.png"
+hash = "0a9d924dcfb671b56c79692f4c55ffe1ecd91d4e37b5a5d49f72928141f13727"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/wirecoil_copper_ins.png"
+hash = "a9c9276e4f7ae5fd75e44c9af00fad8b6ab22d75910734394e8a7bd2b7db8657"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/wirecoil_electrum.png"
+hash = "926f1a4ba243a8f3f3d9b103bbcb4cfba1df0c7a8c54f47e097897fd7c499d80"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/wirecoil_electrum_ins.png"
+hash = "7f48db3a4a7e51f84925fa2f536dcfec9d2e62c6ef151bfa9baec27c6a76b8a7"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/wirecoil_redstone.png"
+hash = "cd69390e04bf8486feeaacb43421b0cdcf5fb70d2dda092c1a95f7eadb6359d2"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/wirecoil_steel.png"
+hash = "718bbbab7cfc60497bb4b4e8205786ac12f2e69eadb31fca7e393653db91e56c"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/wirecoil_structure_rope.png"
+hash = "495c1cbf51e5b4dc71a68d0c8e58ef68afc27b75ae313569247b61b521182cff"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/item/wirecoil_structure_steel.png"
+hash = "2cf63510dc794230e8d2e7c897946c3922a2dd7ed4fc5695556202e17f80adce"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/models/armor_faraday.png"
+hash = "470682a72efaf4787a2e7d732c3ec2c7ae58bf3f7cefd927d850e6607de0d2f0"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/models/armor_faraday_legs.png"
+hash = "bfac4f64e7a6e429f31970968010ac675d2b152af9de32cc456ade20d92ff020"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/models/armor_steel.png"
+hash = "3e54ff4dfc0152cf53f51dcf697846f7fcf1e8416170a19958b14248b0629f7b"
+
+[[files]]
+file = "kubejs/assets/immersiveengineering/textures/models/armor_steel_legs.png"
+hash = "91022989b8ef7cd37f7269358214e54c862494f68ce492ffa92b03f5a694bf52"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/constantan_fence_post.json"
+hash = "2c1b1dd4062728e0643ecbf1499a231cafdc8acad99edef50ca03878ed054e2d"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/constantan_fence_side.json"
+hash = "9e5c3a387681e58d180b825e2c8ca7f51ef5b8136a1760f85a32d27db9a5dc08"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/copper_fence_post.json"
+hash = "34f9d420aa340fb3d2fca0008e88052641a62fcf937f7abb662700b10ca3d2bb"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/copper_fence_side.json"
+hash = "fdd4ecc95647e362b81c2544442229ab7d7a61c50744233afe99ab2ba573b3e5"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/electrum_fence_post.json"
+hash = "c13d1e071c917badf6c492717aeffe4e41304033c8a3f67160e8c8a4aa2f6fde"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/electrum_fence_side.json"
+hash = "583fd87a5405f90e58db3f2d362e60872208d9578e7c16056a9a5e5fc2539160"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/gold_fence_post.json"
+hash = "8cb78a6d7664d4dd17abf5d1838e2d27ca99bbf016335487bff4cd5dd87693eb"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/gold_fence_side.json"
+hash = "2012b9da44c8e065a2aed7bf6c81de3516b3e177abbe2da0096f16821d688550"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/inventory/constantan_fence_inventory.json"
+hash = "d18ba8e022a319fae6a4bc687b3a7f30e43885ce1ab63f61d5cc502a4ab23a15"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/inventory/copper_fence_inventory.json"
+hash = "df4bb38b4966f236cda2a7a206b57867d4cea6ba86ff8e92101318966db31453"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/inventory/electrum_fence_inventory.json"
+hash = "617c8b95296525187d239768c3afd937af7c9ffd60a88a746a9c6fa324c5aa8b"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/inventory/gold_fence_inventory.json"
+hash = "7c318b3420157acfcc1b36a7913067cdb319a618e32435dd289d9faa2deff682"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/inventory/iron_fence_inventory.json"
+hash = "1278a742c82ea2d369b08019a4f215d2424ba5d36d15a9c4e1ee4b0960112600"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/inventory/lead_fence_inventory.json"
+hash = "32c5f9b176438fc475be5c33c16930a5e6e92ce83a2e72bc4a154a39671f3a99"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/inventory/nickel_fence_inventory.json"
+hash = "d8394389bcb9ac6e49d4e1194eb4c68eeb073046ad45f089f312dd6d5ba7d31a"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/inventory/silver_fence_inventory.json"
+hash = "09c6f7fded12dec777116b3597fc5528226e288a20c802f5f8291857fb8a6168"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/inventory/uranium_fence_inventory.json"
+hash = "75a85bd8d79a09738b29ad35b48b103024a446576aaf7db6f7f6b5423096aad3"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/iron_fence_post.json"
+hash = "b0aea1ffd7eb2bd047e06f8a18fb63674e4c8ed474fee450432804feb5318198"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/iron_fence_side.json"
+hash = "d611a91a091f776ae35c50a93802298d26958d4210d84d6e659cf53678345fca"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/lead_fence_post.json"
+hash = "271e92591ffb9cf024511bdc98ffc57b1a948fe50d56fa413cd791395b80db68"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/lead_fence_side.json"
+hash = "cae9571ca0d804db870ca5adb5bebc9a7e599090bd9e7469ba3b0ba10963149c"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/nickel_fence_post.json"
+hash = "baa4c62d6d38ca5e0d4bed76c25cb9eaabf48af5b9baac6ee07933c149b3e78a"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/nickel_fence_side.json"
+hash = "f019676a1b462c41b60b835e3e9377a24afc8f132501556cf70ef80428d3a9b4"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/silver_fence_post.json"
+hash = "ca1e4b71fabffbd07d18a1343fcdd40816d79a1260257dd647b3d45e5e9a5147"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/silver_fence_side.json"
+hash = "8c61cc0dd5505ce37137249fadd54c7c7dc05a4e4cac50a16f938aa624ed5896"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/uranium_fence_post.json"
+hash = "c4fe673fefc5b5a08815e59265ee60873ff2846360ed12aba16fa4f8a44048ac"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fence/uranium_fence_side.json"
+hash = "84921bb409ff0802fd43b9afdc2afb42e4574c32514887a9a9d052096a6405eb"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fences/inventory/constantan_fence_inventory.json"
+hash = "87d790c9c73a506c1b39b5fe82f8181dcdc229d0583e72347da7bbec77efea48"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fences/inventory/copper_fence_inventory.json"
+hash = "ce8eaff02ef88ae20997784ab550d5318c077cbb6473cc4de05624226ee7e51d"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fences/inventory/electrum_fence_inventory.json"
+hash = "30670f9530e8457dd0f7d702dc0e406504985caee78099437e9461323d234007"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fences/inventory/gold_fence_inventory.json"
+hash = "2e1a08bd5050e2b876cf11da10e1eee99b5e99ed6a358c70ae5ca1569e6073ff"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fences/inventory/iron_fence_inventory.json"
+hash = "468ce327620e54cced82c7f9733e61037014d3870f97264fb698d80861de9777"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fences/inventory/lead_fence_inventory.json"
+hash = "aeff078a9bbe783a5d7cb417b2e9968c112ed7e254440d2ab34acc0ec89e1d67"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fences/inventory/nickel_fence_inventory.json"
+hash = "aad7f2a726ff76e0bb332314a2d60771b3b555abaa7c4eac2692799c35a622a6"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fences/inventory/silver_fence_inventory.json"
+hash = "5e6f5ae7bbe892d88d0a6a44b82f8ebd39dd1d1596b087098e7446e53c285a97"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/block/fences/inventory/uranium_fence_inventory.json"
+hash = "b130be362c0acb331771d3e9ba6a9f0f897c17f4f2bfb39add01036ed1d1d92f"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/constantan_fence_post.json"
+hash = "423722af0b37a84624aaf795486e61c1a95438f178b84d47599275a134c4df26"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/constantan_fence_side.json"
+hash = "60e3bf5d81a167475a5c7be98144c7f5bd30f0f1f9572c31ae344187fac10921"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/copper_fence_post.json"
+hash = "ff5fa309851b83c211392d4107c2172fb79927c3689133d07ed4f5bb94a93490"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/copper_fence_side.json"
+hash = "ef299c9af7dcad4c411682f6640dc154b2f764e33388fa4d430907bd5dfb98c5"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/electrum_fence_post.json"
+hash = "cce0267d4533a2c60a660ef26e62e5d657aa4815a0ee0f37a6e29ba7320f0d57"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/electrum_fence_side.json"
+hash = "8d68a588c69a9ab188faa0028ef0568725042bbc541fb968bdfc6f7658f18d92"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/gold_fence_post.json"
+hash = "602cfe9d5f318af6289c0276dada4fef1971612bc1be8dff71cfa0096899ec17"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/gold_fence_side.json"
+hash = "00e1253ef76764c4878968e49dbee35b7238afd81a01ca8ab8b35a26611f01ae"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/iron_fence_post.json"
+hash = "5e3f09e4496d7fd7a127e0a9a2e618518a9088e01965ae3237ae2d8f0d2540fb"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/iron_fence_side.json"
+hash = "75d66cf24e9dec00579a5b4707edcdb0e97919ab9aeb97cbb9ea4d7042c59ac0"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/lead_fence_post.json"
+hash = "8da7fe21e2d7efcf76beba7c1fbabacb0a04c0d5e09b64e8d3e18070c022ba31"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/lead_fence_side.json"
+hash = "fd12b8be11e5f6ac497643707fa71bbc86b289b25cd2c246b1daac798876a147"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/nickel_fence_post.json"
+hash = "4565933846caae4ed15e318be6b4e4d3ad8eea701183337db90f3e46745425d2"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/nickel_fence_side.json"
+hash = "a0337230b2fb25a77609098f17f00d222a0f9c191f620ef96ad335f3ee177969"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/silver_fence_post.json"
+hash = "2e78b41f339378ecad0217d013c952207585861073d0bb2a7dda7401c3eb869e"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/silver_fence_side.json"
+hash = "a3ab4a23d441d24ae6a00bf1d81a6dad21019e4dbd97759715de0d68ebad0bff"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/uranium_fence_post.json"
+hash = "7d67e95147e7e7432e09e70baab7f583145868f95b3fe7e14e2f8a9d67be9d56"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/fence/uranium_fence_side.json"
+hash = "9797649b295f57e2c778d993824e3736bde9af98707ac6af057dee90773ee619"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/constantan_fence_post.json"
+hash = "2c1b1dd4062728e0643ecbf1499a231cafdc8acad99edef50ca03878ed054e2d"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/constantan_fence_side.json"
+hash = "9e5c3a387681e58d180b825e2c8ca7f51ef5b8136a1760f85a32d27db9a5dc08"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/copper_fence_post.json"
+hash = "34f9d420aa340fb3d2fca0008e88052641a62fcf937f7abb662700b10ca3d2bb"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/copper_fence_side.json"
+hash = "fdd4ecc95647e362b81c2544442229ab7d7a61c50744233afe99ab2ba573b3e5"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/electrum_fence_post.json"
+hash = "c13d1e071c917badf6c492717aeffe4e41304033c8a3f67160e8c8a4aa2f6fde"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/electrum_fence_side.json"
+hash = "583fd87a5405f90e58db3f2d362e60872208d9578e7c16056a9a5e5fc2539160"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/fence_constantan.json"
+hash = "b2365a27ca81691273c6120775af001c0835d2242ffdc0a0bf7c82ab5199ca91"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/fence_copper.json"
+hash = "8e5bc6bc61bfe4bb27e80bc12b4864318d9ba78897e0de1ceaa43da675d3eb90"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/fence_electrum.json"
+hash = "8eb53c098c584cee58c32a2d407eefe4eb48aabafdd17e7d9385483b7cb16969"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/fence_gold.json"
+hash = "948861e384b2c3fd5bcc25fd6135a732b55468cbe968dff52cb5bcc68b8b79d1"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/fence_iron.json"
+hash = "ab491b13c783175a6bb9f4cde68124683e17064461f501d1cfb1c3cbe5a6932d"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/fence_lead.json"
+hash = "f3374bfbe36d9fb2a9be8326a9af5d0c5350ecf9e3b1e438e178ecbb7e802bdd"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/fence_nickel.json"
+hash = "29a56653cd25127db2fac270af44c4487f8324606744729a370de7133d00f2b5"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/fence_silver.json"
+hash = "e61fd73de34ebecbe340561c93e2504eed1cfb42227640c5cbdb689b197d9348"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/fence_uranium.json"
+hash = "f82480f5dd908797ddb0bab482df90c1ae4d68253cd44080139f8486270ee4cf"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/gold_fence_post.json"
+hash = "8cb78a6d7664d4dd17abf5d1838e2d27ca99bbf016335487bff4cd5dd87693eb"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/gold_fence_side.json"
+hash = "2012b9da44c8e065a2aed7bf6c81de3516b3e177abbe2da0096f16821d688550"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/iron_fence_post.json"
+hash = "b0aea1ffd7eb2bd047e06f8a18fb63674e4c8ed474fee450432804feb5318198"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/iron_fence_side.json"
+hash = "d611a91a091f776ae35c50a93802298d26958d4210d84d6e659cf53678345fca"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/lead_fence_post.json"
+hash = "271e92591ffb9cf024511bdc98ffc57b1a948fe50d56fa413cd791395b80db68"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/lead_fence_side.json"
+hash = "cae9571ca0d804db870ca5adb5bebc9a7e599090bd9e7469ba3b0ba10963149c"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/nickel_fence_post.json"
+hash = "baa4c62d6d38ca5e0d4bed76c25cb9eaabf48af5b9baac6ee07933c149b3e78a"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/nickel_fence_side.json"
+hash = "f019676a1b462c41b60b835e3e9377a24afc8f132501556cf70ef80428d3a9b4"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/silver_fence_post.json"
+hash = "ca1e4b71fabffbd07d18a1343fcdd40816d79a1260257dd647b3d45e5e9a5147"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/silver_fence_side.json"
+hash = "8c61cc0dd5505ce37137249fadd54c7c7dc05a4e4cac50a16f938aa624ed5896"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/uranium_fence_post.json"
+hash = "c4fe673fefc5b5a08815e59265ee60873ff2846360ed12aba16fa4f8a44048ac"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/models/item/uranium_fence_side.json"
+hash = "84921bb409ff0802fd43b9afdc2afb42e4574c32514887a9a9d052096a6405eb"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/constantan_fence.png"
+hash = "b8ab9bb3a6532a637cc55a9c32df0d5c0dce4e083c160f6ea92700744cb7ba87"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/constantan_fence_item.png"
+hash = "42bb83e80760d5f27269142aaeaca308462e9a6cc45d645b2cb685a069348ac8"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/constantan_fence_side.png"
+hash = "4bf76d0fd535725fc0fad5c0b54d314db8eb88b253d48bd7961027c5e2735a2f"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/copper_fence.png"
+hash = "d7c4e651e2bd3bf98b60790b873d2f841d8a2b103d240a76152a4404e0d33561"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/copper_fence_item.png"
+hash = "960bf327b73984b6d29fad184bd3f809e151cb784d095b4097d2b5e77cc3e735"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/copper_fence_side.png"
+hash = "a52e8d83e75be39396105bc8e29eb12c52d761283cf108c4e9302f2abef2b89c"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/electrum_fence.png"
+hash = "538568e4542f74591482a1cc19dade897051c579ae8c2239ca14866527921077"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/electrum_fence_item.png"
+hash = "abc7a7b76244d844cbfd0ca23a437dcdae3a79b1c9355f57e31c143517d473f5"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/electrum_fence_side.png"
+hash = "68def4670e879ca1b6f09daa481706cf68f3255eb5fb9f04e3e3dada8c6ff363"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/gold_fence.png"
+hash = "2c6de3c1a585797e50be2006d0f2c9c72ac9741d3e9ba91f16cdf97bc7e324c3"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/gold_fence_item.png"
+hash = "5808b1081bac72015933b7473ab8dedb78d42b8ef9fdf87e112298e0efce3551"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/gold_fence_side.png"
+hash = "14c068bfeba94a539d3eef74dc7ff1d8243a7e867241497bf3f1f30cec94db64"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/iron_fence.png"
+hash = "bb87be501338a02bf843fd7e295eae4691c9de74bbd22e57aa5140fd4f0b37e7"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/iron_fence_item.png"
+hash = "144f8f17def7b9ba8ca43b9370c94ff2f41c009dc56f427ce3a2b4e8ea485254"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/iron_fence_side.png"
+hash = "dbf860054416ac3f5dd496b6ce1ca8b770a2d8a00b651cf8880143fd90c3c4e1"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/lead_fence.png"
+hash = "f5096f3ed8613be496369229c5e889ef932a80602c6e767d67a48a2b50a2c50e"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/lead_fence_item.png"
+hash = "c1f8724323ecbc9e1caa14be556c266dc0008f1e73ecf613927cfcfb6a99aee4"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/lead_fence_side.png"
+hash = "02ec993c6b135ba3718b8c70a9971d4ea937b7a49e4a108f7447d3f332fc21b5"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/nickel_fence.png"
+hash = "b5190a8a378f468b8d23a6c5d9845244ef9625a7d398bb00c6782598ca27581f"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/nickel_fence_item.png"
+hash = "86c469deff6b8c9caf03bc05e2b5441c7a757bdaf381ee040b986214b946fe45"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/nickel_fence_side.png"
+hash = "9c75a3ffda1d6496cbb4bbb75eb27ed0953898c8bfcb08deac3b20834a4b42b8"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/posts/post_aluminium.png"
+hash = "72c40b19b72d2dc46f8ee1e25314ed6f7136c453122e742d573235cc8b8f4e63"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/posts/post_constantan.png"
+hash = "56dde624477b6b9c1020c82f59597d311b26c8c809196f9ebd1a6879573dc636"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/posts/post_copper.png"
+hash = "a7fb59f4f6d5747c6b2f441521707de15e8ccdf0f33f06f88b188761f8b7276e"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/posts/post_electrum.png"
+hash = "8f180d76621cab01b85b9011be55db269722b490d20812f39fdb05d165306210"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/posts/post_gold.png"
+hash = "5dd57d075f49f5384290c8db5ea363137c4b04fe4c452599a875819f246c8117"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/posts/post_iron.png"
+hash = "713fff1b9076b6c56fe2008e8c9304cdd6a3c16d57837818af96df874b0a9d87"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/posts/post_lead.png"
+hash = "529e4c939c56a2ffea08eb06930775c9e237b5b970f245d22dc76aed6dd94329"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/posts/post_nickel.png"
+hash = "97038517804d64ae23748d7b6f236e87929bafb4118320155f93d528ce5127f9"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/posts/post_silver.png"
+hash = "5e62ed177046cacfab7d01e7ef45464b0daa959068ecd5d5113431fe27e4da68"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/posts/post_steel.png"
+hash = "6ff5d03f5c4a6059d993921772cfee128e14684afb36340b9991534e2ec0619a"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/posts/post_uranium.png"
+hash = "22c0d3f62c477cbb5725fc06e8387fadc7c36708e2aa409abec3515121f7e18c"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/silver_fence.png"
+hash = "1bd4f213db91ef60244a309c9a2d8604ccd1202fac9c78ce049c493f4d590498"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/silver_fence_item.png"
+hash = "8198cde6c1e0bb94083a0c57bcc220be6308d2664c48eeef1b60bf1c3a9b04a0"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/silver_fence_side.png"
+hash = "43f773c47e479ffa4e971fb6f4d4eafd25aef6fdecc9f596e96965a5c40e84fe"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/uranium_fence.png"
+hash = "cc291b607edb24c81bb4968da5bdbba6ee8c8ef715bac8587d3cc8f595e98dab"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/uranium_fence_item.png"
+hash = "bf3ade724b48366d5d06bff4385e6e3912c8eb25b8f7b8731b8a77fb46006380"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/block/uranium_fence_side.png"
+hash = "a6e73b790556adbcc33895634917bf66c319a04cdbaac0eb99552a0990f6bb39"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/item/stick_constantan.png"
+hash = "134cb2c5de4b75b883a87db189a107927003da7664ad19227f655bb83baae4cc"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/item/stick_copper.png"
+hash = "0d3943e346e22c632198d39e5b2db7d266df2cf01bfc2a123fb3098ccac09778"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/item/stick_electrum.png"
+hash = "c135a6eb124c0d7380c31716d8c2a9c80aa86e5b6f9ee13faaf700935af6e004"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/item/stick_gold.png"
+hash = "b39e3fedfd07c1f420f5fd1bb563e096570220f8c71f296259190127963d0f17"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/item/stick_lead.png"
+hash = "a7fb5815cc928e5f502ac699576dc2f5a0e42613c6556c732603b3fd752fd767"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/item/stick_nickel.png"
+hash = "6b546173c2b3fbc85396f01df3eb8a7106f347a7600c26901e55d9207265955b"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/item/stick_silver.png"
+hash = "17c43b67013523e81d072b5c7dc92bc7ec1237af450624997ca510f2a9252625"
+
+[[files]]
+file = "kubejs/assets/immersiveposts/textures/item/stick_uranium.png"
+hash = "d894be6ca9718ac9556b61f95aa47676914035beff9d83537ca065e75568ab30"
+
+[[files]]
 file = "kubejs/assets/industrialforegoing/textures/item/incomplete_advanced_machine_frame.png"
 hash = "b5b06aa1ba2f2265dd9b72fc5c4e03a9b61440b0adfe72cfe511e4d906646f8a"
 
@@ -1479,6 +3007,10 @@ hash = "058d8956c9e84811e1de5cf372d97b191886c5ece29af98e27fa163c4245c6ae"
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/minecraft.png"
 hash = "bfd5499ac235e8a204cb6d68f22c64c634daebfafb6a2d2399f578b80cf6c84c"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/iron_nugget.png"
+hash = "d9966e612152153293797d7b787ad101a4014ddc8e72437eba2d044fd432b6d7"
 
 [[files]]
 file = "kubejs/assets/pneumaticcraft/lang/en_us.json"
@@ -2445,6 +3977,22 @@ file = "kubejs/data/extradatamodels/data_models/yungscavebiomes/sand_snapper.jso
 hash = "b0817574d222398880e3a86e5b46a4773c796468021fdc31b2f8649cb1941b56"
 
 [[files]]
+file = "kubejs/data/farmersrespite/loot_tables/blocks/kettle.json"
+hash = "0f42828838d5a8f6f96948519c1ca24f0d15b1cc4b8a434da631d763ce77700f"
+
+[[files]]
+file = "kubejs/data/farmersrespite/worldgen/configured_feature/patch_wild_coffee_bush.json"
+hash = "cd4560994de8fb003830f5ea4dc6ee06ed757e937a945f46848e4c6e570c8c47"
+
+[[files]]
+file = "kubejs/data/farmersrespite/worldgen/placed_feature/patch_wild_coffee_bush.json"
+hash = "6b2ea2cef89102c9d8bda6f1e96eb4eb469fc93595d82d462342923a58f38f17"
+
+[[files]]
+file = "kubejs/data/farmersrespite/worldgen/placed_feature/patch_wild_tea_bush.json"
+hash = "a156d78c6365dc5568ae1ddc3fef99cf1af247f7f40e4e06e8a228ba7608e3bd"
+
+[[files]]
 file = "kubejs/data/hostilenetworks/data_models/bee.json"
 hash = "4a3d190c0c2775d426d1e096cebfef57a0b6e28d081b23fcdbc9b64f43d06351"
 
@@ -2577,12 +4125,24 @@ file = "kubejs/data/hostilenetworks/data_models/zombified_piglin.json"
 hash = "55a21cf1cc3bb3e2225c089eebe5ea7e4776d7bd26b5b55060f7eb3879bc52c4"
 
 [[files]]
+file = "kubejs/data/minecraft/loot_tables/gameplay/piglin_bartering.json"
+hash = "a0d4357625a47f05097dc67d8fac7462e1d0c0ce853c9cb2d3b222ef130fdbed"
+
+[[files]]
 file = "kubejs/data/pneumaticcraft/tags/worldgen/biome/has_surface_oil_lakes.json"
 hash = "149dc642fbdb1f6e1a0bc7bdf23c92cd228d9d75f1b428bba555b65074a06967"
 
 [[files]]
 file = "kubejs/data/pneumaticcraft/tags/worldgen/biome/has_underground_oil_lakes.json"
 hash = "149dc642fbdb1f6e1a0bc7bdf23c92cd228d9d75f1b428bba555b65074a06967"
+
+[[files]]
+file = "kubejs/data/supplementaries/worldgen/configured_feature/basalt_ash.json"
+hash = "2fa17f08c132261aeecf3fb793eb5a9fd00e1b69e056d5b24281477154c845bd"
+
+[[files]]
+file = "kubejs/data/supplementaries/worldgen/placed_feature/basalt_ash.json"
+hash = "36ee9a45910ba5f526baea172d6c27882a8e6f84f4427bd326b84b32012cc3e3"
 
 [[files]]
 file = "kubejs/jsconfig.json"
