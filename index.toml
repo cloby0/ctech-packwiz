@@ -5945,8 +5945,3 @@ hash = "c92d7a6dc58ca7168bda2dfc3cc0a5acde7af7a4d2134ec54d2014ecf47d9928"
 [[files]]
 file = "packmenu/resources/pack.png"
 hash = "db4ba9188052b75c67fe536e5e7fc127499611abcb98b3542cf79a450fa13ece"
-
-[[files]]
-file = "resourcepacks/extra-data-models-trivia.pw.toml"
-hash = "65018b32ac6859bb118e8ce9b4cfa0021bdae9e8004e16813d16186bceda1c40"
-metafile = true
