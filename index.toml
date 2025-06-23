@@ -3159,6 +3159,16 @@ hash = "6f864eef65f9a38f57eb0cc6fc71469b36ea70444a10c3e27502d617c5eaf917"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs-neapolitan-compat.pw.toml"
+hash = "4b10cfb3a6e606eb1f8fc4e274517fc3d146a4ba058485c3cba25d741754878b"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
+metafile = true
+
+[[files]]
 file = "mods/alexscaves-2.0.2.jar"
 hash = "131e205ce3eed384d701b336d8a0d4a671108ed56b6eff6014f0e407db2997f0"
 
@@ -3301,6 +3311,11 @@ file = "mods/bloodmagic-1.20.1-3.3.3-45.jar"
 hash = "87e2cf59e61875360d5a69417c510a631404bf0a32338f5e6ad820bcb9c86f75"
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "790de162313fcbe950496580db107eb8da2ae29060cbf611764d1bb352461d03"
+metafile = true
+
+[[files]]
 file = "mods/bobby-1.20.1_v5.0.1.jar"
 hash = "4eb8296c24fa88cfc27145dc006b8acdea75d5f5175dd8b49dc5ef9709e66ee4"
 
@@ -3327,6 +3342,11 @@ hash = "37495445e79df8b30a3a038a0051f3c8aa8447f91a9d0aa0d20baef69dda9368"
 [[files]]
 file = "mods/camera-forge-1.20.1-1.0.19.jar"
 hash = "4fc34cd870ffce2d4a52957028ef6d8211be45d99f11558bdec95ce869c266f8"
+
+[[files]]
+file = "mods/casualness-delight.pw.toml"
+hash = "ca652d606992cb9276a8720c74d89b511886ffb64a7bb92aab3c28da3da82381"
+metafile = true
 
 [[files]]
 file = "mods/cbc_nukes-2.0.0.jar"
@@ -3590,6 +3610,11 @@ hash = "5c68ee27feb4ef10675c883ab67bfa0f1c3e3c0c2193f1c35f43a225d930d9b6"
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fa6e35c376181fa82ad33b9cb4c20382a0effd7eb09a06107dcc884b98f49ff2"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite.pw.toml"
+hash = "49431cb48a66b264c2cb7702c7bb80155d1a59a42d384348e30700ce0ebc1e4c"
 metafile = true
 
 [[files]]
@@ -3909,6 +3934,11 @@ file = "mods/nanhealthfixer-1.20.1-0.0.1.jar"
 hash = "d03619bda583c0d52848d9225b781d022d406cecf02da2d5703bead81803fe1f"
 
 [[files]]
+file = "mods/neapolitan.pw.toml"
+hash = "7bb01abc93a90da48ae8452f501ba60e32c468438c0f864e6bc7ef1b5746c712"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix-forge-1.20-13.0.1.jar"
 hash = "06f1354664aee53d4c32c83f76ed94bb72426a75b7e0eb8e415abfba3634cf4e"
 
@@ -4043,6 +4073,11 @@ hash = "c4aef41d50e5bb8be8609f1f89919f9caca8363365998688fb6aabac03abf428"
 [[files]]
 file = "mods/resourcefullib-forge-1.20.1-2.1.29.jar"
 hash = "b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8"
+
+[[files]]
+file = "mods/respiteful.pw.toml"
+hash = "2c43b6244fac08f2287a276a80093605044d846ef84b03302d21322addeb336c"
+metafile = true
 
 [[files]]
 file = "mods/rftoolsbase-1.20-5.0.5.jar"
@@ -4219,6 +4254,11 @@ hash = "6e1cba48ec4f62c7452357c603af64afe705984895dcb2e46c6e83c47119f0a9"
 [[files]]
 file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
+
+[[files]]
+file = "mods/vminus.pw.toml"
+hash = "e071e42078102016494cfe772d059c94e4d4a312c2da36981cf243b66a112aaa"
+metafile = true
 
 [[files]]
 file = "mods/voicechat-forge-1.20.1-2.5.27.jar"
