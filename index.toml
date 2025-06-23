@@ -3566,8 +3566,18 @@ file = "mods/emi-1.1.19+1.20.1+forge.jar"
 hash = "45c4ff7907763c5bf204986eed496d5a216e2e56bf94ef6cb9e2b7646ea559e8"
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "53d5d1b9287e8f53e4fff7405dcf7bfe90d5686571031bda1a6eba87a65bfa57"
+metafile = true
+
+[[files]]
 file = "mods/emi-ores.pw.toml"
 hash = "daef210e9d3922c541bfa5e62acf19f30202682b143b651cb6c9959e6a53821d"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d48a1ea93de8cd5febb95ba52989d8d9ab4e998cfbdf9c1076a9f2e571d2fcbe"
 metafile = true
 
 [[files]]
@@ -3680,6 +3690,11 @@ file = "mods/fusion-1.2.2-forge-mc1.20.1.jar"
 hash = "34941a217cae9b00fc9167a27343331abd9515a6da0a0859f9d78f45f4019601"
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "c35b46cec8c819cca0b163ae3ac8aeac405bf84a967f08e502e48618fbec1a5e"
+metafile = true
+
+[[files]]
 file = "mods/fzzy_config-0.6.0+1.20.1+forge.jar"
 hash = "31002155444d51df8269109d44451d119063059348ebaa82f183875b4938cb66"
 
@@ -3769,6 +3784,11 @@ hash = "0d83bcb477d761a73cdbb37f723a5d994e61a389340e219e5ce8dc9618be933e"
 [[files]]
 file = "mods/kleeslabs-forge-1.20-15.0.1.jar"
 hash = "2ec6931f57f35ace56bb67d118859158bcb6944a2d74971c2a668b965aa9cc5f"
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+metafile = true
 
 [[files]]
 file = "mods/kotlinforforge-4.11.0-all.jar"
