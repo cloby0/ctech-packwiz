@@ -5221,6 +5221,11 @@ file = "mods/ftb-chunks-forge-2001.3.4.jar"
 hash = "59167a26b96cff7937d311ae2d8db98029428f1e0c71c78267e93e1149e1e10e"
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "8cf91dcad4590fed49069cdae47b211bdbee7da6e0c175ae802421ec6a961ae1"
+metafile = true
+
+[[files]]
 file = "mods/ftb-filter-system.pw.toml"
 hash = "306994966b56905bb3468a0a9abb5bbcef853d4b1081526e62143c86fe473932"
 metafile = true
