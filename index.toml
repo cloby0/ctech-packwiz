@@ -5462,6 +5462,16 @@ file = "mods/lucky-block-forge-1.20.1-13.0.jar"
 hash = "c101dd326e5ed421d0373eec065054cf5972134f639f3853d35542e77a2e184c"
 
 [[files]]
+file = "mods/lucky-tnt-lib.pw.toml"
+hash = "f62265a0f8ce43af88830af255062c455d9101a9b12f2ff36d5a1ce8861c8461"
+metafile = true
+
+[[files]]
+file = "mods/luckytnt.pw.toml"
+hash = "1683cf59931738f037ebff1beda6d74cd494a80533b7fbea9bc35dc9256e95f0"
+metafile = true
+
+[[files]]
 file = "mods/mana-unification.pw.toml"
 hash = "b22e8f73ecf9314ff906dcc0c26adcac5a11c52005faa1266b56360339dc6700"
 metafile = true
@@ -5842,6 +5852,11 @@ hash = "6e1cba48ec4f62c7452357c603af64afe705984895dcb2e46c6e83c47119f0a9"
 [[files]]
 file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
+
+[[files]]
+file = "mods/unlucky-tnt.pw.toml"
+hash = "b194494fea14a98d43018b465a37486d1086307293e53cb22e8e723362941ecd"
+metafile = true
 
 [[files]]
 file = "mods/voicechat-forge-1.20.1-2.5.27.jar"
