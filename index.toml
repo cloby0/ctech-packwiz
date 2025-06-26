@@ -5858,11 +5858,6 @@ file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
 
 [[files]]
-file = "mods/unlucky-tnt.pw.toml"
-hash = "b194494fea14a98d43018b465a37486d1086307293e53cb22e8e723362941ecd"
-metafile = true
-
-[[files]]
 file = "mods/voicechat-forge-1.20.1-2.5.27.jar"
 hash = "b325358136acb56930ffd976ad56b47d0dbcc7cdf86e12aaec974682fd57e766"
 
