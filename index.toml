@@ -5335,11 +5335,6 @@ file = "mods/hexcasting-forge-1.20.1-0.11.2.jar"
 hash = "a9166417a07a2024c9155bbba16b295e53658d3759917f9bfcc26c17009c68d6"
 
 [[files]]
-file = "mods/hexcasting-media-display.pw.toml"
-hash = "85d2ea398b9d1f68bef1a51f5323b16830054fe9786f5e5a1ceb7991a8bf8f7d"
-metafile = true
-
-[[files]]
 file = "mods/hitindication-1.20.1-1.4.jar"
 hash = "3ae55eeead94555d3e2071ba76457a3aabae93036f1fa74b77bdaeaad3d53c12"
 
