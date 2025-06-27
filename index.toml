@@ -4773,6 +4773,11 @@ file = "mods/amendments-1.20-1.2.14.jar"
 hash = "1861c0fde7835f01a69829788428064708b015382e72c4ce81c2715f1f936d44"
 
 [[files]]
+file = "mods/apotheotic-additions.pw.toml"
+hash = "0fad8186fbeb910463e8b34629543c8d15c68baaa558b1501ccdc3caf15abeed"
+metafile = true
+
+[[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
 metafile = true
@@ -4806,6 +4811,11 @@ metafile = true
 [[files]]
 file = "mods/armorpointspp-forge-1.20-3.1.1.jar"
 hash = "95bb87c7324f0ee1680f5465e6e2ed73fba6a19bb90e58f0ca28ff3ff062fdfa"
+
+[[files]]
+file = "mods/ars-controle.pw.toml"
+hash = "57a5e8918b9b57d725380f56baf2f745f60b75187b894f36ed1b9ccbb9275e05"
+metafile = true
 
 [[files]]
 file = "mods/ars_creo-1.20.1-4.1.0.jar"
@@ -4982,6 +4992,11 @@ file = "mods/connectivity-1.20.1-6.5.jar"
 hash = "d8b6df45bf4a34cd2962118b04fe6affd29613bed398b0af68012d44f330babb"
 
 [[files]]
+file = "mods/consecration.pw.toml"
+hash = "49e90a7646c22fda29cc15364e34d15940807c2122cc25fe5e80d9a2b8fc020d"
+metafile = true
+
+[[files]]
 file = "mods/corn_delight-1.1.6-1.20.1.jar"
 hash = "c8a93ba4e570be2a46cd853c3e8ffa9c240e51b0840fa26b613dadf92fde1b78"
 
@@ -5104,6 +5119,11 @@ file = "mods/dummmmmmy-1.20-2.0.2.jar"
 hash = "38e7acada81316b761591dc23c70cd14e67b61cd2b1f4dabfe56934d4093eb3a"
 
 [[files]]
+file = "mods/dungeons-delight.pw.toml"
+hash = "306a21237b964360dd011d04a4ed9364d842b8fde2e2fe8f5bd222831a463be0"
+metafile = true
+
+[[files]]
 file = "mods/durabilitytooltip-1.1.5-forge-mc1.20.jar"
 hash = "a72012a2d54da61c76661061cb86043a5d5287feca136449a3eca4e64c370035"
 
@@ -5169,6 +5189,11 @@ hash = "ecf77af9b6b1abdc439152d8bfe34795f9681a55c74bb2aed76c161275580969"
 [[files]]
 file = "mods/ensorcellation-1.20.1-5.0.2.24.jar"
 hash = "84cb18702db2a26dfd5a21ff007e2bcf40e16092adf7b2a33b8489987c4d7b45"
+
+[[files]]
+file = "mods/esoteric-reforging-forge.pw.toml"
+hash = "ce2bc8fbb6ebbc3571ed0ac531b473da80fb9feb8742e5ff5dd7d7271c0ed1d5"
+metafile = true
 
 [[files]]
 file = "mods/etched-3.0.4.jar"
@@ -5298,6 +5323,11 @@ hash = "f4dfc92a9be4147155817229dbab0d46d5f4ce612b382693b65874afda83d758"
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "de1074bb6f0f63ce7580daab559efdea6e5b1238deb20074e0a87179b3c4dbd4"
+metafile = true
+
+[[files]]
+file = "mods/hex-ars-linker.pw.toml"
+hash = "8f61072af66eb53fb5869602defff312314e132263a34dc86e3f66934d2f74b2"
 metafile = true
 
 [[files]]
@@ -5517,6 +5547,11 @@ file = "mods/moonlight-1.20-2.13.48-forge.jar"
 hash = "87f623366ed432ef167eedee914fa93f1dc284460061b2fe55ccdf8eade3c222"
 
 [[files]]
+file = "mods/more-artifacts.pw.toml"
+hash = "b9ff0e3592129011a671f99cfd959753ae24a25961e0058ccfb79c5d63da3841"
+metafile = true
+
+[[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "6ff4dfc30b3df634c6a2e587742ad381aa5988a50a646003369331749882c0a9"
 metafile = true
@@ -5554,6 +5589,11 @@ hash = "ae069da180817f81f420659bfec4ae14ad44e167a81bb325bb5fa48c548bd52d"
 [[files]]
 file = "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar"
 hash = "b0b020250c81e8cce7776c3dc8f7085f269e2007570d5fbd492c4497ad60685c"
+
+[[files]]
+file = "mods/not-enough-glyphs.pw.toml"
+hash = "af9bf1a7210bf7037c1189f796264031e7801237c9097fe64be77830d4006dcf"
+metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes-4.4.7+1.20.1-forge.jar"
@@ -5701,6 +5741,11 @@ hash = "13383db7e58e4d34aa8abed6407b7c9bd00418a170dfba13df01367c65cc6140"
 metafile = true
 
 [[files]]
+file = "mods/runiclib.pw.toml"
+hash = "0f461f6fa8a5bdfb96dd64e937dd18cd4a7b2a4f1a4a4d2a61793a9acaacffcf"
+metafile = true
+
+[[files]]
 file = "mods/sanguine-neural-networks.pw.toml"
 hash = "6346357fa5976bf1e30a7b585496dce064d0ffc3976939d072fd167e897a53c3"
 metafile = true
@@ -5794,6 +5839,11 @@ hash = "5f6ebae7c78de7dea8120e3192ba95abd64d53f27b743782696d69a3120e1c49"
 [[files]]
 file = "mods/tact-1.2.1+1.20.1.jar"
 hash = "d8daa2ddb9a6bc08497d552a66921c03cff30953528b977db0fd2c00351c9551"
+
+[[files]]
+file = "mods/tarot-cards.pw.toml"
+hash = "c75c0ab49615b719a80bb0745f3a2691b15d08f4d902f142fafb76e7b5bb5789"
+metafile = true
 
 [[files]]
 file = "mods/tectonic-forge-1.20.1-2.4.1.jar"

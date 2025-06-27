@@ -1,0 +1,13 @@
+name = "Consecration (Fabric/Forge/Quilt)"
+filename = "consecration-forge-7.0.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb87aa3b6739aea3ec11e1a9e59e51d8a82b7f60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5005745
+project-id = 284001

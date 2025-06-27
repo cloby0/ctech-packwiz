@@ -1,0 +1,13 @@
+name = "Dungeons Delight"
+filename = "forge-dungeonsdelight-1.20.1-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73c165ffa2103091145dd51ed525a4a347d6f437"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6597121
+project-id = 1258923
