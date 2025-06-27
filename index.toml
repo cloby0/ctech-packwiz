@@ -5547,11 +5547,6 @@ file = "mods/moonlight-1.20-2.13.48-forge.jar"
 hash = "87f623366ed432ef167eedee914fa93f1dc284460061b2fe55ccdf8eade3c222"
 
 [[files]]
-file = "mods/more-artifacts.pw.toml"
-hash = "b9ff0e3592129011a671f99cfd959753ae24a25961e0058ccfb79c5d63da3841"
-metafile = true
-
-[[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "6ff4dfc30b3df634c6a2e587742ad381aa5988a50a646003369331749882c0a9"
 metafile = true
