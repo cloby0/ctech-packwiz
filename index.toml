@@ -4783,6 +4783,11 @@ hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
 metafile = true
 
 [[files]]
+file = "mods/apothic-curios.pw.toml"
+hash = "3126b524500c6d02b5b27b3cf37507a5ffc27944f893435605fb012cec815396"
+metafile = true
+
+[[files]]
 file = "mods/apothic_mutant_heads-0.1.0.jar"
 hash = "4df9e979da61b20ec3591e05fc69552766cda65f836855a8a52519aded65e0a1"
 
@@ -4849,6 +4854,11 @@ hash = "d171fdddd8dad64cba4c8c67cd2a0bdfc2697ff35e11f9fb666b7464e1e9468b"
 [[files]]
 file = "mods/badpackets-forge-0.4.3.jar"
 hash = "b621a8e31727324a6010adbfb84fd4dbb78b3c7d87e5a9aebfb4e3223448f1e3"
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "1b912abaf6db8c9107e2de1b891c0900aa9db637b90e926dcdee9688e6f49b32"
+metafile = true
 
 [[files]]
 file = "mods/balm-forge-1.20.1-7.3.11-all.jar"
@@ -5317,8 +5327,14 @@ file = "mods/gpumemleakfix-1.20.1-1.8.jar"
 hash = "a7019442f1b07b1a4a875fe404d04d162905cc7fd42e0b3c843aefc7b39efc46"
 
 [[files]]
-file = "mods/gravestone-forge-1.20.1-1.0.24.jar"
-hash = "f4dfc92a9be4147155817229dbab0d46d5f4ce612b382693b65874afda83d758"
+file = "mods/gravestone-mod.pw.toml"
+hash = "acf1aceab8c44817b0c376a99d2019614e0471d3d1a9cb2f40943fec03f05fbf"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "4e9a8e9192b8a65bbb1dbb50b2b8bf51cc09c6d8be2bc75a3430b5695c1fa399"
+metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
@@ -5341,6 +5357,11 @@ hash = "3ae55eeead94555d3e2071ba76457a3aabae93036f1fa74b77bdaeaad3d53c12"
 [[files]]
 file = "mods/hostile-neural-networks.pw.toml"
 hash = "d8f52c6109108160c9ca80ae2d1fd03f3b27f4a3196c62ba805928b66482be5b"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-curios-and-trinkets.pw.toml"
+hash = "1c0f2f133645d7c713d382578fa327611ad264cf70a720b5b27c2dcfc2bef620"
 metafile = true
 
 [[files]]
@@ -5784,6 +5805,16 @@ hash = "893c67fb4bbafee6e3208ba34bf60e2d6f17f4f9efdb6d1f12baa4052d8ddd10"
 [[files]]
 file = "mods/smoothchunk-1.20.1-3.9.jar"
 hash = "84c91e19922d0d3985aa1d644a6c4b8c648150b9eded49502769302b938f1281"
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "7b4c3fa7686e0e8eab25bb74e3d8a019384d32ea862c26ab712f3ebd4f0bb5cf"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "f6047f1f6dbe384e22925fe85e050cb43dedcec231a493dd8f3ddeec2e1d4437"
+metafile = true
 
 [[files]]
 file = "mods/spark-1.10.53-forge.jar"
