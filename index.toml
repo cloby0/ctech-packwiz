@@ -4165,6 +4165,10 @@ file = "kubejs/server_scripts/cumiumIngot/recipes.js"
 hash = "bae8516f66d58e0d44ae8621bf0801f57833e07fc12af628eb990f76273b1f0c"
 
 [[files]]
+file = "kubejs/server_scripts/luckyTNT.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "kubejs/server_scripts/magic/README_magic.txt"
 hash = "ff2de54a680dbaf07ed4eee6888176d6d52d5cf3a1ccd3166af39d1ee42e4bc4"
 
@@ -5455,7 +5459,7 @@ hash = "f07fc6cb7f2aa28197e87ffc3a35062390259ad803d8996b08b13473c0af6790"
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "6e01bbc17b0ca1282d4f2ada4ba520bc4d5393d7b7605eb286301faffdac5a35"
+hash = "77a7b2c2970989a57a1939b3fe98b540d49083e0f12151c153f1e48b29e68b1d"
 metafile = true
 
 [[files]]
@@ -5574,7 +5578,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiblocked2.pw.toml"
-hash = "dbbe671fab13e77f74edd44f69ed7c27bd2b2fd8fabad0100bbeff82d1a00c78"
+hash = "137c3234ff3f496da910ae1bb969a04722df6bace3cecf0561717875efd123ec"
 metafile = true
 
 [[files]]
