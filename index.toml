@@ -829,6 +829,10 @@ file = "config/cobblegenrandomizer-common.toml"
 hash = "11fcdbe8f2d46defe15101836c4f160338b445b15fd6d6dfe161c6e30297b49e"
 
 [[files]]
+file = "config/consecration-server.toml"
+hash = "4dcca91a4aaf11e5fea8bd7e85859bed357a560cd13767a8f84447e062dc6547"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "dc3f7b0744652cb2c393e0e54e570cac9f35600ab525ebfbe78ca515bf6000d3"
 
@@ -4271,6 +4275,10 @@ hash = "7cf0f39b1e521643a8794cecd1d7aa2d47bcd460233517dbc3db3f4c66e212fb"
 [[files]]
 file = "kubejs/startup_scripts/custom/itemDeclaration.js"
 hash = "50ca7f288421804dcbda7c969ddbc68e810cf6144d83d6ca42e20ba98abe736b"
+
+[[files]]
+file = "kubejs/tntsforremoval.txt"
+hash = "1d9c9b74c05e03267195ae324ed41968c5a24071a2181758892283de1d0c6a5a"
 
 [[files]]
 file = "ldlib/assets/mbd2/multiblock/tnt_forge_multiblock.mb"
