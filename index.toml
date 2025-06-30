@@ -4273,6 +4273,14 @@ file = "kubejs/startup_scripts/custom/itemDeclaration.js"
 hash = "50ca7f288421804dcbda7c969ddbc68e810cf6144d83d6ca42e20ba98abe736b"
 
 [[files]]
+file = "ldlib/assets/mbd2/multiblock/tnt_forge_multiblock.mb"
+hash = "c0683f36de4ae3b70c5434c15862f0b631fba60ae9291a71ec3e49e9dbc4bd2a"
+
+[[files]]
+file = "ldlib/assets/mbd2/recipe_type/tnt_forging_recipe.rt"
+hash = "a5f324eaeb9c5ede3106b63bafe6d37cb44bd97119450da20a08e93f42323c90"
+
+[[files]]
 file = "mods/AE2-Things-1.2.1.jar"
 hash = "6a900a8e4411f9c2653a38cdabbf503cf89766b289120a5f3599282120d2abc3"
 
