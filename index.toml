@@ -4969,6 +4969,11 @@ hash = "7be87a211d9fface39ff09d8402d0d635f00dde57546d87c68a2d466cfae6ff4"
 metafile = true
 
 [[files]]
+file = "mods/chloride.pw.toml"
+hash = "ac1e7559d7cbe48e6fbca5e7bad3f5376a772ccca14e1a6e53a402d51476220e"
+metafile = true
+
+[[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
 metafile = true
@@ -5202,8 +5207,9 @@ file = "mods/embeddium-0.3.31+mc1.20.1.jar"
 hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
 
 [[files]]
-file = "mods/embeddiumplus-1.20.1-v1.2.13.jar"
-hash = "7c072c963b358b2b737b31f2a67460c634f42d2f157c5ca7ba65856a69d27a01"
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
 
 [[files]]
 file = "mods/emi-1.1.19+1.20.1+forge.jar"
@@ -5392,11 +5398,6 @@ hash = "4e9a8e9192b8a65bbb1dbb50b2b8bf51cc09c6d8be2bc75a3430b5695c1fa399"
 metafile = true
 
 [[files]]
-file = "mods/gravity-control.pw.toml"
-hash = "bfe3ee93f07eb10eaf10346f96edbd18d9cde75f60846d823f16b42204a6682f"
-metafile = true
-
-[[files]]
 file = "mods/guideme.pw.toml"
 hash = "de1074bb6f0f63ce7580daab559efdea6e5b1238deb20074e0a87179b3c4dbd4"
 metafile = true
@@ -5571,11 +5572,6 @@ file = "mods/logical-iframes-1.0.1.jar"
 hash = "70e230f34f3e09d86e4d2b98dafa042b64f97b403f9ddff1c842cbefc81edf8f"
 
 [[files]]
-file = "mods/loot-beams-refork.pw.toml"
-hash = "3b0ec15691f1f2f3fad43735c7f5c7787d6309d7fcb7687e250cfb0b77a9dc16"
-metafile = true
-
-[[files]]
 file = "mods/loot-integrations-cataclysm.pw.toml"
 hash = "dc58aac183642c965c2b2fe267fb9f4635988a45ae3a64e73061af7814f3e4a3"
 metafile = true
@@ -5682,11 +5678,6 @@ hash = "06f1354664aee53d4c32c83f76ed94bb72426a75b7e0eb8e415abfba3634cf4e"
 [[files]]
 file = "mods/nethersdelight-1.20.1-4.0.jar"
 hash = "28b072bc5c09ee889468546676c9bf0268eaa415865704bbeeb33f6a37005a30"
-
-[[files]]
-file = "mods/nirvana-library.pw.toml"
-hash = "18a366c04b2a193196f0afd3eafc143c0a051638878709acef036332748b2f56"
-metafile = true
 
 [[files]]
 file = "mods/no-telemetry-1.8.0.jar"
