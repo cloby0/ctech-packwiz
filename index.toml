@@ -5203,10 +5203,6 @@ file = "mods/elytraslot-forge-6.4.4+1.20.1.jar"
 hash = "f96c26e7ac9e2dade0aa04f71b9f8708a2b7af92b9cc691103ae32c62764e6ab"
 
 [[files]]
-file = "mods/embeddium-0.3.31+mc1.20.1.jar"
-hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
@@ -5880,6 +5876,11 @@ file = "mods/silents-gems-1.20.1-4.7.0.jar"
 hash = "f02508a3f80eb903bdd2fddc2743fd6c9b2082992e31530b21850b367286009e"
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "c2c7b6d4eed58bc50c480356cfd76650133a5b0e0b31e88b81567f04736fe3fe"
+metafile = true
+
+[[files]]
 file = "mods/simplylight-1.20.1-1.4.6-build.50.jar"
 hash = "893c67fb4bbafee6e3208ba34bf60e2d6f17f4f9efdb6d1f12baa4052d8ddd10"
 
@@ -6025,8 +6026,9 @@ hash = "7149b1beafef2ce275da37dd5ca2e12f5527ad979420630ecdef5bcabd4fef32"
 metafile = true
 
 [[files]]
-file = "mods/voicechat-forge-1.20.1-2.5.27.jar"
-hash = "b325358136acb56930ffd976ad56b47d0dbcc7cdf86e12aaec974682fd57e766"
+file = "mods/voiceless-survival.pw.toml"
+hash = "82192a7d79287f5957b71093e5c2dad4b728e06a894e5bbc4fda000d76137b12"
+metafile = true
 
 [[files]]
 file = "mods/water-erosion-1.20.1-forge-1.1.7.jar"
