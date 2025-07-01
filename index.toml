@@ -4517,10 +4517,6 @@ file = "mods/LegendaryTooltips-1.20.1-forge-1.4.5.jar"
 hash = "15521ab414b92f60e75bdd49724eb65bb6aa8b3d6f72c157cc261011d58d625e"
 
 [[files]]
-file = "mods/Lexiconfig-forge-1.3.11.jar"
-hash = "3abf8c919ee356abd7f16de09c194f1ba3792e4c4fba039f8c86a9e41f05836a"
-
-[[files]]
 file = "mods/LibX-1.20.1-5.0.14.jar"
 hash = "6b795bbeeb320a4fc44438bec23f7937e8c70f7b87e809e044872e37a9ac1b27"
 
@@ -4647,10 +4643,6 @@ hash = "d25428542f15a1437613553902513b8a11d09e02266c223f15a70b5e8f778ae7"
 [[files]]
 file = "mods/SilentCompat-forge-1.20.1-1.4.0.jar"
 hash = "739fb3f43c8e70985ce24eb8c8b03d75b2b088feabef14bfd572891756633fff"
-
-[[files]]
-file = "mods/SimpleRadio-forge-1.20.1-2.4.6.1.jar"
-hash = "f711941e6440000e7e0ab4dd10c1d29ab80e022a660dbe35788ef87d99c6a827"
 
 [[files]]
 file = "mods/SimpleSponge-1.20.1-8.1.jar"
@@ -5539,6 +5531,11 @@ file = "mods/letmedespawn-1.20.x-forge-1.4.4.jar"
 hash = "69409e3010495660590089d882816fce9870dd2b1ac77c6e35301cc9dfaa4645"
 
 [[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "e72b77792a8d646cb9ff26043d590041d3d8ed9aaedd0b097d5879c90525d70f"
+metafile = true
+
+[[files]]
 file = "mods/libIPN-forge-1.20-4.0.2.jar"
 hash = "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6"
 
@@ -5878,6 +5875,11 @@ hash = "f02508a3f80eb903bdd2fddc2743fd6c9b2082992e31530b21850b367286009e"
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "c2c7b6d4eed58bc50c480356cfd76650133a5b0e0b31e88b81567f04736fe3fe"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-radio.pw.toml"
+hash = "7bb9b367774fd68ce3e0c600f41f5c882b2232a203d3132b7224229ae73f9534"
 metafile = true
 
 [[files]]
