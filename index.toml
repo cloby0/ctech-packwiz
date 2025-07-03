@@ -4481,10 +4481,6 @@ file = "mods/InsaneLib-1.16.1-mc1.20.1.jar"
 hash = "aa47e58e6009025243589277e5dd08b23f6d613c7f7f72fe30050670606066e1"
 
 [[files]]
-file = "mods/InventoryProfilesNext-forge-1.20-1.10.11.jar"
-hash = "594ca009bce2af1c915aed88590628a41fe0434848f4cca7e62b35186917bd66"
-
-[[files]]
 file = "mods/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar"
 hash = "a0de109d3405fbf4290e10df4f812eadd5125debb16ea7e9d908acbbabcb516b"
 
@@ -5444,8 +5440,8 @@ file = "mods/inline-forge-1.20.1-1.0.2.jar"
 hash = "3c9d4c5a6ffaf6ad70911493c24f5ab3ad161ddbb5f040ffe6387c4b9b08fb6f"
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "984992f9214094eaab3beb1ae7600c76fc793c27696192f02a8f35ca93803552"
+file = "mods/inventory-sorter.pw.toml"
+hash = "7c993c8854fa4a7510e886ada88f3070ccdfcf4ca199dda558a4f6b0318f0132"
 metafile = true
 
 [[files]]
