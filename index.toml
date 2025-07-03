@@ -5440,8 +5440,8 @@ file = "mods/inline-forge-1.20.1-1.0.2.jar"
 hash = "3c9d4c5a6ffaf6ad70911493c24f5ab3ad161ddbb5f040ffe6387c4b9b08fb6f"
 
 [[files]]
-file = "mods/inventory-sorter.pw.toml"
-hash = "7c993c8854fa4a7510e886ada88f3070ccdfcf4ca199dda558a4f6b0318f0132"
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "984992f9214094eaab3beb1ae7600c76fc793c27696192f02a8f35ca93803552"
 metafile = true
 
 [[files]]
