@@ -4461,10 +4461,6 @@ file = "mods/GunpowderLib-1.20.2-2.2.2.jar"
 hash = "3bfc04b30cff467c75553205c1f4d6d2be7f841b92adfe8441d8ce2f8d52cf4c"
 
 [[files]]
-file = "mods/Heroes_Beta_Forge_Fabric_V.1.1.83.jar"
-hash = "9d25c7e50ed840e6233fa4969985c3d893a7788fe577ac28c91150326b342dc1"
-
-[[files]]
 file = "mods/Iceberg-1.20.1-forge-1.1.25.jar"
 hash = "91ad6b459e0c7a16a9f3dc90230248a696600ceec6646aa23263559b8648dbc3"
 
@@ -4591,10 +4587,6 @@ hash = "ba9aff49091a56d81ec4e5f3c211d9032034fc8166d4cdb27ee9dfd18abb5150"
 [[files]]
 file = "mods/Patchouli-1.20.1-84-FORGE.jar"
 hash = "e883f33ae0e5eb128b36e145072027e620e9992e24809dc07bf4e7ac195b9519"
-
-[[files]]
-file = "mods/Pehkui-3.8.2+1.20.1-forge.jar"
-hash = "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc"
 
 [[files]]
 file = "mods/Placebo-1.20.1-8.6.2.jar"
@@ -5489,12 +5481,13 @@ file = "mods/kubejs-create-forge-2001.2.5-build.2.jar"
 hash = "96e5bfff4bdfc5e3a976f75328466d8085152c374fe99819584de6869189cee2"
 
 [[files]]
-file = "mods/kubejs-forge-2001.6.5-build.16.jar"
-hash = "3de6b7267d3aab981848ed54d3afe7edf20532fa4060631fd6fffcd99ac5f3d5"
-
-[[files]]
 file = "mods/kubejs-thermal-2001.1.10-build.2.jar"
 hash = "560a5cb11d8bcdbb4dc1ae63a33e721a8ca5e10d4a5368bb03d08e96f118f60d"
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
+metafile = true
 
 [[files]]
 file = "mods/kubejs_botania-1.4.0-forge.jar"
@@ -5711,6 +5704,11 @@ file = "mods/paucal-0.6.0+1.20.1-forge.jar"
 hash = "3f403fc200e744cc85c348206da70e4fb34808f14fda3fc88b0bde1688b784ca"
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
+metafile = true
+
+[[files]]
 file = "mods/petrolpark-1.20.1-1.4.1-all.jar"
 hash = "7f3eb38e524808e988aac114b1ea3b7588fe6a26348b0334441f193446c91e7a"
 
@@ -5747,6 +5745,11 @@ hash = "b2d80eca0c25898e06f91eec8c8eb934ad3ac7a3c7c3963982b142918ed5c666"
 [[files]]
 file = "mods/polymorph-forge-0.49.8+1.20.1.jar"
 hash = "c5384788f354effb9866a9a084c521bb3e05d246690765e1130a2778efd49ba4"
+
+[[files]]
+file = "mods/potentia.pw.toml"
+hash = "1731e9f80e1631cf6401fe87a18bba47de57868adceed904c11343ffa373c050"
+metafile = true
 
 [[files]]
 file = "mods/probejs-6.0.1-forge.jar"
@@ -5823,8 +5826,9 @@ file = "mods/rftoolsutility-1.20-6.0.6.jar"
 hash = "300b67fba7d79f90e34da445e16b04a82d002393afc99b0e65f9b28156522159"
 
 [[files]]
-file = "mods/rhino-forge-2001.2.3-build.6.jar"
-hash = "84a22d8581bba967a1cf4ed0ed90fbff7662816b9e88385930bd3078a479c605"
+file = "mods/rhino.pw.toml"
+hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
+metafile = true
 
 [[files]]
 file = "mods/right_click_get_crops-1.20.1-1.6.0.12.jar"
@@ -6003,6 +6007,11 @@ file = "mods/thermal_locomotion-1.20.1-11.0.1.19.jar"
 hash = "45565603b45eeac7df4a1c6dd36afb600a52f2c334be336260c357d7563e0682"
 
 [[files]]
+file = "mods/threetag-palladium.pw.toml"
+hash = "d2f6f3bae98debe8371858e9d4428c1b61d253ce5c1522e87d8c184c741c24c6"
+metafile = true
+
+[[files]]
 file = "mods/tia-1.20-1.1-forge.jar"
 hash = "302d28743e33ca1a889cc2c89453cdb4433c61de0472550ac6ae334fae389da7"
 
@@ -6062,8 +6071,9 @@ file = "mods/workshop_for_handsome_adventurer--mc1.20.1--1.32.3.jar"
 hash = "e3a4eba1f24f1750cc4322b08596cda69185c405db120145b9259044bd4c232c"
 
 [[files]]
-file = "mods/xlpackets-1.18.2-2.1.jar"
-hash = "0df95f1cbb246435160b5767171d4a7cb690d044f0c436a1d406ad46a844114d"
+file = "mods/xl-packets.pw.toml"
+hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
+metafile = true
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/mods.json"

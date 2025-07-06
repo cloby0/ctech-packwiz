@@ -1,0 +1,13 @@
+name = "Potentia"
+filename = "potentia-0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46faa71a1e90a5f3a8609c5b1f21b293c7a302e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6705173
+project-id = 1273469

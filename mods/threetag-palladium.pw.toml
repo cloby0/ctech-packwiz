@@ -1,0 +1,13 @@
+name = "Palladium 🐿️"
+filename = "palladium-4.2.3+1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ec8add946d0e2f0ab2cbae28d3e91e5557d6d23"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6655274
+project-id = 963363
