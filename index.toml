@@ -4894,11 +4894,6 @@ hash = "1d093db0add8486b407b1323d2add62c1710469922722ec2531f78ef667ec259"
 metafile = true
 
 [[files]]
-file = "mods/blockui.pw.toml"
-hash = "fa85cc4a9950579441376714cab8abeb1997d71aa3c6586f5a75b5951fdf6f83"
-metafile = true
-
-[[files]]
 file = "mods/bloodmagic-1.20.1-3.3.3-45.jar"
 hash = "87e2cf59e61875360d5a69417c510a631404bf0a32338f5e6ad820bcb9c86f75"
 
@@ -5145,11 +5140,6 @@ hash = "dc6cd2ef08cf4d76260dd2fd62db850601f5191f40b42e0b54fe545779e7059a"
 [[files]]
 file = "mods/domesticationinnovation-1.7.1-1.20.1.jar"
 hash = "00f20efea12ea981b8d75e257a136c08e0c00c324554e69cf20193376c942e97"
-
-[[files]]
-file = "mods/domum-ornamentum.pw.toml"
-hash = "67b30562f3c9b2bdfecc77cbe8fb042a5e43bb84015695c451342f514830ce86"
-metafile = true
 
 [[files]]
 file = "mods/doubledoors-1.20.1-5.9.jar"
@@ -5636,11 +5626,6 @@ file = "mods/merequester-forge-1.20.1-1.1.5.jar"
 hash = "119c23431ff06b1ebe57606daff460b7c74f74c8564a26f1cbac4cd3521968cd"
 
 [[files]]
-file = "mods/minecolonies.pw.toml"
-hash = "285d27d759a63d97d77df12fdaf404a11775b1cdb34df71f5e1aaa9d5ecd5ff6"
-metafile = true
-
-[[files]]
 file = "mods/miners_delight-1.20.1-1.2.3.jar"
 hash = "dd7fda44dba9a9e953e35b36f45e2f30dfc2b1df5141574100c80cd4c2861380"
 
@@ -5667,11 +5652,6 @@ hash = "87f623366ed432ef167eedee914fa93f1dc284460061b2fe55ccdf8eade3c222"
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "6ff4dfc30b3df634c6a2e587742ad381aa5988a50a646003369331749882c0a9"
-metafile = true
-
-[[files]]
-file = "mods/multi-piston.pw.toml"
-hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
 metafile = true
 
 [[files]]
@@ -5976,9 +5956,12 @@ hash = "5dfd5e42573659ad84a5d870082aae38aaa8469aba2655e5b2cb14de4ca4cbdd"
 metafile = true
 
 [[files]]
-file = "mods/structurize.pw.toml"
-hash = "0f1ece503f3ba54206e2a896574ba1d7d642684898394419ee4b43c0a0ec8efe"
-metafile = true
+file = "mods/structure_gel-1.20.1-2.16.2.jar"
+hash = "1584a5aed31c0f63e53c29d53cf4e069cdabf358e785240cc500702dc5918e3e"
+
+[[files]]
+file = "mods/structureessentials-1.20.1-3.4.jar"
+hash = "705d89f066c0b00d8ccd376313570b80279aa700fb477df727af7ff7b6a92b57"
 
 [[files]]
 file = "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
@@ -6059,11 +6042,6 @@ metafile = true
 [[files]]
 file = "mods/toomanyglyphs-1.20.1-2.3.2.12345.jar"
 hash = "8746ce72e1c4e9eac28dc40a26fffa56189efdcbb38ffa752f0fc3d7fadbb33e"
-
-[[files]]
-file = "mods/towntalk.pw.toml"
-hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
-metafile = true
 
 [[files]]
 file = "mods/trashslot-forge-1.20-15.1.1.jar"

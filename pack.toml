@@ -6,7 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "c321d31824ab15bb77f005900381eef124733d40c17cd19c6d59ed04b23082e5"
+=======
+hash = "3aabb3e663be2ebfffc4778456b2da8bd832a6e7a69eda64fec0c277949308f4"
+>>>>>>> parent of 2909d1d (added minecolonies)
 
 [versions]
 forge = "47.3.0"
