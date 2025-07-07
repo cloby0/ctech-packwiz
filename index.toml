@@ -1118,7 +1118,7 @@ hash = "4d7541b1485762b5ec2fcce926032ca43681ef67dc725383ce84ff823b14ef49"
 
 [[files]]
 file = "config/mods_optimizer/mods-database.json"
-hash = "730facec02563e257aa717e20cbf336a3675491a3c3122183071942ec72619bc"
+hash = "16f0e71d0a46f6a3574cdc4952eedb49c8dbbdc85f41047242aca1ca542fe54f"
 
 [[files]]
 file = "config/packmenu.cfg"
