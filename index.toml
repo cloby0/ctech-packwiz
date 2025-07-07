@@ -5022,6 +5022,11 @@ file = "mods/connectivity-1.20.1-6.5.jar"
 hash = "d8b6df45bf4a34cd2962118b04fe6affd29613bed398b0af68012d44f330babb"
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "b110d17098d959631ac663a006fe3145784048d5b443483189949ad8240fb82c"
+metafile = true
+
+[[files]]
 file = "mods/consecration.pw.toml"
 hash = "49e90a7646c22fda29cc15364e34d15940807c2122cc25fe5e80d9a2b8fc020d"
 metafile = true
@@ -5559,6 +5564,11 @@ file = "mods/lmft-1.0.4+1.20.1-forge.jar"
 hash = "e622af8d32c6a41904ceaa2da0174491c68b7acd3ec9888c47991dc9b6f591cc"
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "dce6fa268df602cfa84ed377a253c80a1492994d5eeadde732fb74f72ecc742f"
+metafile = true
+
+[[files]]
 file = "mods/logical-iframes-1.0.1.jar"
 hash = "70e230f34f3e09d86e4d2b98dafa042b64f97b403f9ddff1c842cbefc81edf8f"
 
@@ -5934,6 +5944,11 @@ hash = "889cf718205bd9547c233929e556de0776cd22e8df325824ff33d58c089062ba"
 [[files]]
 file = "mods/starlight-1.1.2+forge.1cda73c.jar"
 hash = "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500"
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "8f907c02b348e25358cf2bca42e9105b9b6103f670bf36432da6752e2c8806db"
+metafile = true
 
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
