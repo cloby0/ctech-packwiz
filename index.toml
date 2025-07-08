@@ -1117,10 +1117,6 @@ file = "config/lucky/1.20.1-13.0-forge/sword_drops.txt"
 hash = "4d7541b1485762b5ec2fcce926032ca43681ef67dc725383ce84ff823b14ef49"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
-hash = "3084bfe605f3ae92fd2edc1e979c702e11c25422748ad6dbeeb32e58045e8e92"
-
-[[files]]
 file = "config/mods_optimizer/mods-database.json"
 hash = "16f0e71d0a46f6a3574cdc4952eedb49c8dbbdc85f41047242aca1ca542fe54f"
 
