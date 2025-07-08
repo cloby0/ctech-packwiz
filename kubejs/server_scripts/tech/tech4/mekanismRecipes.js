@@ -41,16 +41,10 @@ ServerEvents.recipes(event => {
       "input": {
           "item": 'ae2:printed_silicon'
       },
-      "results": [
-          {
-              "item": 'mekanism:basic_control_circuit'
-          }
+      "results":[{"base_ingredient":{"item":"mekanism:basic_control_circuit"},"count":4}
       ],
       "time": 200
-  })
-    event.replaceInput({ input: '#forge:ingots/osmium', mod:'mekanism'}, '#forge:ingots/osmium', 'mekanism:pure_osmium_ingot')
-    event.replaceInput({ input: '#forge:ingots/osmium', mod:'mekanismgenerators'}, '#forge:ingots/osmium', 'mekanism:pure_osmium_ingot')
-    event.replaceInput({ input: '#forge:ingots/osmium', mod:'appmek'}, '#forge:ingots/osmium', 'mekanism:pure_osmium_ingot')
+  });
 
     event.shapeless(
         Item.of('mekanism:pure_osmium_nugget', 9), // arg 1: output
