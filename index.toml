@@ -4605,10 +4605,6 @@ file = "mods/Prism-1.20.1-forge-1.0.5.jar"
 hash = "b1a576f920faeb2175f693e3ee7ba9e5ff0bcf0e404da29f1824ea3c66efd240"
 
 [[files]]
-file = "mods/PuzzlesLib-v8.1.25-1.20.1-Forge.jar"
-hash = "9e3941c9abc80b6f935dca294eb0804bfd3d633df5c3b4d4efc94df8f072f983"
-
-[[files]]
 file = "mods/RainShield-1.20.1-1.1.3.jar"
 hash = "e4541058d4cef36da5d9646c6fd5e402810d83fcf6e244805007305b599160bf"
 
@@ -5793,6 +5789,11 @@ hash = "139b586b87a8bad536e0a8983fc01c48e8ff46fb2e5881b52ac8b59f44b1e609"
 [[files]]
 file = "mods/productivebees-1.20.1-12.6.0.jar"
 hash = "b728e5640fcfd0bd7137cabf475455588452ace89a3dd136333a60fdf7049af4"
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "62a76c5212c04d15c27d7c1141f0a0d7d803aa10d172444359e4dacbdba6da7b"
+metafile = true
 
 [[files]]
 file = "mods/questsadditions-1.4.7.jar"
