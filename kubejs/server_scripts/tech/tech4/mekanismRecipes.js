@@ -91,6 +91,9 @@ ServerEvents.recipes(event => {
           'mekanism:pure_osmium_nugget',
         ]
       )
+    event.replaceInput({ mod: 'mekanism'}, '#forge:ingots/osmium', 'mekanism:pure_osmium_ingot')
+    event.replaceInput({ mod: 'mekanismgenerators'}, '#forge:ingots/osmium', 'mekanism:pure_osmium_ingot')
+    event.replaceInput({ mod: 'megacells'}, '#forge:ingots/osmium', 'mekanism:pure_osmium_ingot')
 
     event.replaceInput({ output: 'alltheores:osmium_gear'}, 'mekanism:pure_osmium_ingot', '#forge:ingots/osmium')
     event.replaceInput({ output: 'alltheores:osmium_nugget'}, 'mekanism:pure_osmium_ingot', '#forge:ingots/osmium')

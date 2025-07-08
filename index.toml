@@ -4246,7 +4246,7 @@ hash = "34ecbdd1c0009eb7fa0033cf201345b7815d793a0e80c630df7ac74cb7fc9c8f"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tech4/mekanismRecipes.js"
-hash = "172b79526830104a35b6366fdd769309784c642124945e86e011420a1758bbc8"
+hash = "8a27276c341d301fdf148a2dfc15685c30ff9893439bbef51810db71d82adeea"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tech5/dissolutionChamber.js"
