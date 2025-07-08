@@ -5649,8 +5649,9 @@ file = "mods/modelfix-1.15.jar"
 hash = "35f27982242a3ea58c526204a28704ddf355d19bb2e9b0ff10f9585c255a4f16"
 
 [[files]]
-file = "mods/modernfix-forge-5.20.0+mc1.20.1.jar"
-hash = "a806fbcc09d3b34a11cd978cd4d6e069257e9eb8e96a84fba61d6cf8e1f33e09"
+file = "mods/modernfix.pw.toml"
+hash = "31908feb6048658402fc4c539a9105775df2dcd2aef5973100946ac912705ee9"
+metafile = true
 
 [[files]]
 file = "mods/modonomicon-1.20.1-forge-1.77.5.jar"
