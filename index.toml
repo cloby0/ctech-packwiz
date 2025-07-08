@@ -1118,7 +1118,7 @@ hash = "4d7541b1485762b5ec2fcce926032ca43681ef67dc725383ce84ff823b14ef49"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "2db89c7fbf02aad092313ced40f2895bcf1bd955b045ccd17daa8ec931aec57e"
+hash = "3084bfe605f3ae92fd2edc1e979c702e11c25422748ad6dbeeb32e58045e8e92"
 
 [[files]]
 file = "config/mods_optimizer/mods-database.json"
