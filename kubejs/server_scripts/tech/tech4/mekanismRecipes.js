@@ -41,7 +41,11 @@ ServerEvents.recipes(event => {
       "input": {
           "item": 'ae2:printed_silicon'
       },
-      "results":[{"base_ingredient":{"item":"mekanism:basic_control_circuit"},"count":4}
+      "results":[
+        {
+          "item":"mekanism:basic_control_circuit",
+          "count":4
+        }
       ],
       "time": 200
   });
