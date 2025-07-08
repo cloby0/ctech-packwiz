@@ -5686,10 +5686,6 @@ hash = "af9bf1a7210bf7037c1189f796264031e7801237c9097fe64be77830d4006dcf"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes-4.4.7+1.20.1-forge.jar"
-hash = "c40a66008546ad5061b1391c7e662b07254ec86af20d0c35bf61352024823c83"
-
-[[files]]
 file = "mods/observable-4.4.2.jar"
 hash = "009958985786081dad4007f8b4a5899b7aa82951b194d81ec48076d68950a4e8"
 
