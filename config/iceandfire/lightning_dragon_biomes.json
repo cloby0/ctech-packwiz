@@ -3,90 +3,90 @@
     [
       {
         "type": "BIOME_TAG",
-        "negate": false,
+        "negate": true,
         "value": "minecraft:is_overworld"
       },
       {
         "type": "BIOME_TAG",
-        "negate": false,
+        "negate": true,
         "value": "minecraft:is_jungle"
       }
     ],
     [
       {
         "type": "BIOME_TAG",
-        "negate": false,
+        "negate": true,
         "value": "minecraft:is_overworld"
       },
       {
         "type": "BIOME_TAG",
-        "negate": false,
+        "negate": true,
         "value": "minecraft:is_badlands"
       }
     ],
     [
       {
         "type": "BIOME_TAG",
-        "negate": false,
+        "negate": true,
         "value": "minecraft:is_overworld"
       },
       {
         "type": "BIOME_TAG",
-        "negate": false,
+        "negate": true,
         "value": "minecraft:is_savanna"
       }
     ],
     [
       {
         "type": "REGISTRY_NAME",
-        "negate": false,
+        "negate": true,
         "value": "terralith:ashen_savanna"
       }
     ],
     [
       {
         "type": "REGISTRY_NAME",
-        "negate": false,
+        "negate": true,
         "value": "terralith:savanna_badlands"
       }
     ],
     [
       {
         "type": "REGISTRY_NAME",
-        "negate": false,
+        "negate": true,
         "value": "terralith:savanna_slopes"
       }
     ],
     [
       {
         "type": "REGISTRY_NAME",
-        "negate": false,
+        "negate": true,
         "value": "byg:guiana_shield"
       }
     ],
     [
       {
         "type": "REGISTRY_NAME",
-        "negate": false,
+        "negate": true,
         "value": "byg:temperate_rainforest"
       }
     ],
     [
       {
         "type": "REGISTRY_NAME",
-        "negate": false,
+        "negate": true,
         "value": "byg:tropical_rainforest"
       },
       {
         "type": "REGISTRY_NAME",
-        "negate": false,
+        "negate": true,
         "value": "byg:jacaranda_forest"
       }
     ],
     [
       {
         "type": "REGISTRY_NAME",
-        "negate": false,
+        "negate": true,
         "value": "byg:sierra_badlands"
       }
     ]
