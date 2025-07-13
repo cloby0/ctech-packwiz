@@ -5156,7 +5156,7 @@ hash = "f516a408668b066e5a4a3f35c82f89b73a7e84ec44356851ce4db89a292ce9dd"
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "792d123c55ee8ad86af24d4c2f90d47547e5dc661696461f6e5405214e1497b4"
+hash = "84c7c881c8f3dacd798227f3019990868b99187e717eecdc63ce84e6b6330aa2"
 metafile = true
 
 [[files]]
@@ -5661,7 +5661,7 @@ hash = "75461182a955b149104d760db908af832da5e1ae1fbabf09d23cd40701d15f02"
 
 [[files]]
 file = "mods/to-tweaks-irons-spells.pw.toml"
-hash = "a7ad45d3b480a92a1c7d78d52d96e341243f55acfcf1f4dc1bbcf93aa3c75c6d"
+hash = "a14de16c03a30f00df5a996037a944342e2ac1cbc2ddb247b147351a39849cfa"
 metafile = true
 
 [[files]]
