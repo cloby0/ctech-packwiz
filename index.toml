@@ -4629,6 +4629,11 @@ hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
+metafile = true
+
+[[files]]
 file = "mods/cobblegenrandomizer-1.20.1-1.2.jar"
 hash = "6f3b80f7f0c9a147d3c2eb6b8e4b56aedfd09e3947fcd98c6cbc39d5f95bb9d6"
 
