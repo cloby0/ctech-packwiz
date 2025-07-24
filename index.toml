@@ -4454,6 +4454,11 @@ file = "mods/armorpointspp-forge-1.20-3.1.1.jar"
 hash = "95bb87c7324f0ee1680f5465e6e2ed73fba6a19bb90e58f0ca28ff3ff062fdfa"
 
 [[files]]
+file = "mods/arrzees-multiverse.pw.toml"
+hash = "2ec8cc0c427da4a9a9726651250f9509ccf9fd2bdffcd723427bac6e41a887c3"
+metafile = true
+
+[[files]]
 file = "mods/ars-controle.pw.toml"
 hash = "57a5e8918b9b57d725380f56baf2f745f60b75187b894f36ed1b9ccbb9275e05"
 metafile = true
@@ -4630,6 +4635,11 @@ hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
 metafile = true
 
 [[files]]
+file = "mods/coalesce.pw.toml"
+hash = "f56704b37ca262c930f882935c0f4541856b2981b35671ffd2e7ab06526f64d5"
+metafile = true
+
+[[files]]
 file = "mods/cobblegenrandomizer-1.20.1-1.2.jar"
 hash = "6f3b80f7f0c9a147d3c2eb6b8e4b56aedfd09e3947fcd98c6cbc39d5f95bb9d6"
 
@@ -4759,6 +4769,11 @@ metafile = true
 [[files]]
 file = "mods/cursery-1.20.1-4.2.jar"
 hash = "c5826a39a37982a0b663c2a7647f9f7f78b2b80f1c38663778746c281da184d1"
+
+[[files]]
+file = "mods/dampened.pw.toml"
+hash = "cae8b493a6f1da13336a1631782ef6da96927830e015cc04b7bd9d98f95d2c49"
+metafile = true
 
 [[files]]
 file = "mods/dankstorage-forge-1.20.1-15.jar"
@@ -5210,10 +5225,6 @@ hash = "dce6fa268df602cfa84ed377a253c80a1492994d5eeadde732fb74f72ecc742f"
 metafile = true
 
 [[files]]
-file = "mods/logical-iframes-1.0.1.jar"
-hash = "70e230f34f3e09d86e4d2b98dafa042b64f97b403f9ddff1c842cbefc81edf8f"
-
-[[files]]
 file = "mods/loot-integrations-cataclysm.pw.toml"
 hash = "dc58aac183642c965c2b2fe267fb9f4635988a45ae3a64e73061af7814f3e4a3"
 metafile = true
@@ -5397,11 +5408,6 @@ hash = "c5384788f354effb9866a9a084c521bb3e05d246690765e1130a2778efd49ba4"
 [[files]]
 file = "mods/portalgun-6.1.2+1.20.1.jar"
 hash = "bf56cfb0112fc9bd46a229b19ab63f7ac5ae80d54e80c638a245b98d15190e11"
-
-[[files]]
-file = "mods/potentia.pw.toml"
-hash = "1731e9f80e1631cf6401fe87a18bba47de57868adceed904c11343ffa373c050"
-metafile = true
 
 [[files]]
 file = "mods/probejs-6.0.1-forge.jar"
@@ -5723,6 +5729,11 @@ hash = "e3a4eba1f24f1750cc4322b08596cda69185c405db120145b9259044bd4c232c"
 [[files]]
 file = "mods/xl-packets.pw.toml"
 hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
+metafile = true
+
+[[files]]
+file = "mods/zoe-isnt-cyberpunk.pw.toml"
+hash = "a2e01307243b67353d9ac20897be0468b1e33b5d3496d7527326b4323d77c550"
 metafile = true
 
 [[files]]
