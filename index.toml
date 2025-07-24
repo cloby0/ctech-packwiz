@@ -4141,10 +4141,6 @@ file = "mods/JustEnoughProfessions-forge-1.20.1-3.0.1.jar"
 hash = "13e2012375d16663192cf67f5e4139335e5dcbeaf2adf7e8a4816b013802f96a"
 
 [[files]]
-file = "mods/KryptonReforged-0.2.3.jar"
-hash = "9b281428d0e7560b7b6e74cdc808c0ffd7a8e662ba84d1a12a6616b49cedec10"
-
-[[files]]
 file = "mods/KubeJS Blood Magic-1.0.2-1.20.1.jar"
 hash = "ab3f2f856c043a8576955510cf725352063641f1fd642e6d4b6fbf59ed8d4b1b"
 
