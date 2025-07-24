@@ -5066,11 +5066,6 @@ hash = "222af346b8936d3273ec3fa5ad56a4fe44ecacf65230523b306d21e7128ad57e"
 metafile = true
 
 [[files]]
-file = "mods/immersive-portal-gun-for-forge.pw.toml"
-hash = "6107bc78163a5cbee15d24a7741b16c9eb69ddccf3c11bab3646c5a0dcb5c537"
-metafile = true
-
-[[files]]
 file = "mods/immersive-portals-for-forge.pw.toml"
 hash = "3f39a4de2aa2f99842f2cbb3cc3af2d19335cc57c1ce52a26fb985cd937ec311"
 metafile = true
@@ -5402,6 +5397,10 @@ hash = "b2d80eca0c25898e06f91eec8c8eb934ad3ac7a3c7c3963982b142918ed5c666"
 [[files]]
 file = "mods/polymorph-forge-0.49.8+1.20.1.jar"
 hash = "c5384788f354effb9866a9a084c521bb3e05d246690765e1130a2778efd49ba4"
+
+[[files]]
+file = "mods/portalgun-6.1.2+1.20.1.jar"
+hash = "bf56cfb0112fc9bd46a229b19ab63f7ac5ae80d54e80c638a245b98d15190e11"
 
 [[files]]
 file = "mods/potentia.pw.toml"
