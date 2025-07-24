@@ -4547,6 +4547,11 @@ file = "mods/bocchium-1.20.1-0.0.3.jar"
 hash = "8cd971cc5774aed3b02b67810891837adc7e348c8a45be0590d28ea110fdb9fa"
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
+metafile = true
+
+[[files]]
 file = "mods/botarium-forge-1.20.1-2.3.4.jar"
 hash = "470810a364ff4ad4d4fcd4e55798263938fc893970eacecc58e8b741a392b1cf"
 
@@ -4739,6 +4744,16 @@ file = "mods/createdieselgenerators-1.20.1-1.2i.jar"
 hash = "337f3f26ebf262f09b4ece4898c888f37177a91b9ad20f8629ad0ace782460ac"
 
 [[files]]
+file = "mods/csaugmentations.pw.toml"
+hash = "a187ab80ce73407c1e43339259b6bc0274fe21dcc305d96ab252a184a6c414fc"
+metafile = true
+
+[[files]]
+file = "mods/cslibrary.pw.toml"
+hash = "99fa5a21c2732867f680d08a10d28a07f277aa2e4888c7ee4f1d78d02fcd85bc"
+metafile = true
+
+[[files]]
 file = "mods/cupboard-1.20.1-2.7.jar"
 hash = "63a1b6e8e9cffd53f283fae04f64b8d63dcaaa99fe0e383bb664f23ec87d395f"
 
@@ -4763,6 +4778,11 @@ hash = "c5826a39a37982a0b663c2a7647f9f7f78b2b80f1c38663778746c281da184d1"
 [[files]]
 file = "mods/dankstorage-forge-1.20.1-15.jar"
 hash = "e63244146c892f9d0127b23f6762fec1f071650a1aa23092fd7202e4fbb70dd0"
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "5c70601c99b306cf5b6bb918443a5814071fa528829958aa51a7e2385c3c0379"
+metafile = true
 
 [[files]]
 file = "mods/deep-aether.pw.toml"
@@ -5361,6 +5381,11 @@ file = "mods/petrolsparts-1.20.1-1.1.3.jar"
 hash = "1d1e04f78d8f2d4c447c3a81a7276310c27f9f8957e1a98dee17eec4e275919d"
 
 [[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "f896fefa7466845181da9db06ba4a89865f54b406ff3b1fb65773c66614b6f1b"
+metafile = true
+
+[[files]]
 file = "mods/pipe_connector-1.20.1-0.3.9.jar"
 hash = "9f7cf64d153919e8b364c273e77660f99271b20ff0a9053a768cc1f0817e8c7e"
 
@@ -5481,6 +5506,11 @@ hash = "43b5d4f5c3c3737fd10d18eab5d2c9d6734f9ad9b6d1a72aeddb7b9c9f2ef5ec"
 [[files]]
 file = "mods/ruins.pw.toml"
 hash = "13383db7e58e4d34aa8abed6407b7c9bd00418a170dfba13df01367c65cc6140"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "53254c5c7af6238845518f9e289b8b91337e88b6dad4566c2e1b223f6901f456"
 metafile = true
 
 [[files]]
