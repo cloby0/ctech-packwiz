@@ -5066,6 +5066,16 @@ hash = "222af346b8936d3273ec3fa5ad56a4fe44ecacf65230523b306d21e7128ad57e"
 metafile = true
 
 [[files]]
+file = "mods/immersive-portal-gun-for-forge.pw.toml"
+hash = "6107bc78163a5cbee15d24a7741b16c9eb69ddccf3c11bab3646c5a0dcb5c537"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-for-forge.pw.toml"
+hash = "3f39a4de2aa2f99842f2cbb3cc3af2d19335cc57c1ce52a26fb985cd937ec311"
+metafile = true
+
+[[files]]
 file = "mods/immersivesnow-1.20.1-1.3.0.jar"
 hash = "a9b81511c1ecb1824a2dd6ee5989404f3b7d05d89a4ac6802c20485cb1e4c671"
 
