@@ -4635,9 +4635,8 @@ hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
 metafile = true
 
 [[files]]
-file = "mods/coalesce.pw.toml"
-hash = "f56704b37ca262c930f882935c0f4541856b2981b35671ffd2e7ab06526f64d5"
-metafile = true
+file = "mods/coalesce-0.3.0.jar"
+hash = "e72b7774ac46fd09295e2505c0ca7c9715a126453275036dab1d2ffe15a9ec27"
 
 [[files]]
 file = "mods/cobblegenrandomizer-1.20.1-1.2.jar"
@@ -5732,9 +5731,8 @@ hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
 metafile = true
 
 [[files]]
-file = "mods/zoe-isnt-cyberpunk.pw.toml"
-hash = "a2e01307243b67353d9ac20897be0468b1e33b5d3496d7527326b4323d77c550"
-metafile = true
+file = "mods/zoe-2.0.8-forge-1.20.1.jar"
+hash = "d4f502c97aad5bb73d3fe2d95a781366ad88362c2a3c74774f07d8d4f7d44057"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/mods.json"
