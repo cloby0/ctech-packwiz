@@ -4958,6 +4958,11 @@ file = "mods/framework-forge-1.20.1-0.7.12.jar"
 hash = "28ade2da0795ca36de2925e14cb5fe6b4e51ae84c149352fd9690951fe1baf87"
 
 [[files]]
+file = "mods/fruits-delight.pw.toml"
+hash = "2d83d6fe471249033cb2ab305ba496a9ba85c2fea12eecb55c4cb8cb92520369"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-forge-2001.3.4.jar"
 hash = "59167a26b96cff7937d311ae2d8db98029428f1e0c71c78267e93e1149e1e10e"
 
