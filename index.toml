@@ -797,6 +797,10 @@ file = "config/watererosion-common.toml"
 hash = "d7bb73b4fcf42601d4f1c36ef272cb8f8d44e2ef047c986f5fd7cff0c056ed5e"
 
 [[files]]
+file = "defaultconfigs/ensorcellation-server.toml"
+hash = "71cb87c6c5e37956c96104a6ed50761fc772fe916b5b93faf89fd658847cff57"
+
+[[files]]
 file = "defaultconfigs/ftbchunks/client-config.snbt"
 hash = "6d5592c9b61ca156d7901a1b2a626d9c1f5401ec6988e73fe01fab57c7df2260"
 
