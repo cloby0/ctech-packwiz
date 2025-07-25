@@ -4560,6 +4560,16 @@ file = "mods/botarium-forge-1.20.1-2.3.4.jar"
 hash = "470810a364ff4ad4d4fcd4e55798263938fc893970eacecc58e8b741a392b1cf"
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "dc45e2a3431d818f9bb2b7217a62e62ec8f455ca37b9f4f35947d2c442bad42b"
+metafile = true
+
+[[files]]
+file = "mods/brewin-compat-delight.pw.toml"
+hash = "587bddcba98545188edbb64ca7b3be3efc1062ef44a533dd9b0edf63cf4e7cef"
+metafile = true
+
+[[files]]
 file = "mods/buildinggadgets2-1.0.7.jar"
 hash = "81e4bf64a0d1136de899d68f2693f0bc6439c520884bbb39c5c2a2fa82056f12"
 
