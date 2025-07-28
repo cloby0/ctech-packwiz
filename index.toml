@@ -549,6 +549,10 @@ file = "config/forgery/yeet_recipes.ini"
 hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
+file = "config/hex_ars_link-common.toml"
+hash = "20331f524fcbf70860932b3d49bd8ccc07fdbd5108e1b9f7ddbe1b78c2046f4d"
+
+[[files]]
 file = "config/hexcasting-client.toml"
 hash = "999879d1a458d1c35fd3734f3a21b0630296185c91c874cf3ade0fbec0d5223b"
 
@@ -5787,7 +5791,7 @@ hash = "d0758827ba55d17843347e7215f1b0cfa962c4da51020e09fd5177b2a64497ca"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/server.json"
-hash = "58c7590201713a9de717fd3c5fd5b691caa66e9cff22b8e8f58d9c2e38b228c7"
+hash = "c73426f7a15f8f96b69eeab149ec3875bc76801653ce8c5a4750424a84c9892a"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
