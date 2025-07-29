@@ -22,6 +22,32 @@ ServerEvents.recipes(event => {
   })
   event.remove({output: 'mekanism:basic_control_circuit'})
   event.custom({
+    "type":"mekanism:metallurgic_infusing",
+    "chemicalInput":
+        {"amount":20,"tag":"mekanism:redstone"},
+    "itemInput":
+        {"ingredient":
+          {"tag":"forge:silicon"}
+        },
+        "output":
+        {"amount":2,"item":"mekanism:basic_control_circuit"
+        }
+      }
+    )
+  event.custom({
+    "type":"mekanism:metallurgic_infusing",
+    "chemicalInput":
+        {"amount":20,"tag":"mekanism:redstone"},
+    "itemInput":
+        {"ingredient":
+          {"amount":4,"tag":"forge:ingots/osmium"}
+        },
+        "output":
+        {"item":"mekanism:pure_osmium_ingot"
+        }
+      }
+    )
+  event.custom({
       "type": "immersiveengineering:arc_furnace",
       "additives": [
           {
@@ -113,6 +139,17 @@ ServerEvents.recipes(event => {
           event.custom(json_recipe).id(r.getOrCreateId())
       }
     })
+
+    event.replaceInput(
+    { output: 'mekanism:metallurgic_infuser' },
+    'mekanism:pure_osmium_ingot',
+    'mekanism:pure_osmium_block'
+    )
+    event.replaceInput(
+    { output: 'mekanism:metallurgic_infuser' },
+    'minecraft:iron_ingot',
+    'alltheores:steel_ingot'
+    )
     
     let pipez = (output, moves) => {
       event.shaped(output, [
@@ -132,7 +169,7 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'mekanism:ultimate_universal_cable' })
     event.remove({ output: 'pipez:energy_pipe' })
 
-    pipez('16x pipez:energy_pipe', "#forge:ingots/steel")
+    pipez('32x pipez:energy_pipe', "#forge:ingots/steel")
 
     event.remove({ output: 'mekanism:basic_mechanical_pipe' })
     event.remove({ output: 'mekanism:advanced_mechanical_pipe' })
@@ -140,7 +177,7 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'mekanism:ultimate_mechanical_pipe' })
     event.remove({ output: 'pipez:fluid_pipe' })
 
-    pipez('16x pipez:fluid_pipe', "#mekanism:alloys/infused")
+    pipez('32x pipez:fluid_pipe', "#forge:ingots/copper")
 
     event.remove({ output: 'mekanism:basic_pressurized_tube' })
     event.remove({ output: 'mekanism:advanced_pressurized_tube' })
@@ -148,7 +185,7 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'mekanism:ultimate_pressurized_tube' })
     event.remove({ output: 'pipez:gas_pipe' })
 
-    pipez('16x pipez:gas_pipe', "#forge:ingots/pure_osmium")
+    pipez('32x pipez:gas_pipe', "#forge:ingots/pure_osmium")
 
     event.remove({ output: 'mekanism:basic_logistical_transporter' })
     event.remove({ output: 'mekanism:advanced_logistical_transporter' })
@@ -158,6 +195,6 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'mekanism:diversion_transporter' })
     event.remove({ output: 'pipez:item_pipe' })
 
-    pipez('16x pipez:item_pipe', "pneumaticcraft:plastic")
+    pipez('32x pipez:item_pipe', "pneumaticcraft:plastic")
 
 });

@@ -566,39 +566,39 @@ hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 
 [[files]]
 file = "config/iceandfire/fire_dragon_biomes.json"
-hash = "22ab89d9b8c57d2b4f50e30613085ebf6c3157489f3d42e6420127b8cae55694"
+hash = "0d8826c81c9ef568036fa0121d8651a5f1f7a7541a6f1e4a45b7db6611ba3fa4"
 
 [[files]]
 file = "config/iceandfire/fire_dragon_cave_biomes.json"
-hash = "22ab89d9b8c57d2b4f50e30613085ebf6c3157489f3d42e6420127b8cae55694"
+hash = "0d8826c81c9ef568036fa0121d8651a5f1f7a7541a6f1e4a45b7db6611ba3fa4"
 
 [[files]]
 file = "config/iceandfire/fire_dragon_skeleton_biomes.json"
-hash = "ec881117f542a92cade0f814ff9ccc48c4f3ef3c8fb2d69a7111bedc12b2c453"
+hash = "0d8826c81c9ef568036fa0121d8651a5f1f7a7541a6f1e4a45b7db6611ba3fa4"
 
 [[files]]
 file = "config/iceandfire/ice_dragon_biomes.json"
-hash = "22ab89d9b8c57d2b4f50e30613085ebf6c3157489f3d42e6420127b8cae55694"
+hash = "0d8826c81c9ef568036fa0121d8651a5f1f7a7541a6f1e4a45b7db6611ba3fa4"
 
 [[files]]
 file = "config/iceandfire/ice_dragon_cave_biomes.json"
-hash = "22ab89d9b8c57d2b4f50e30613085ebf6c3157489f3d42e6420127b8cae55694"
+hash = "0d8826c81c9ef568036fa0121d8651a5f1f7a7541a6f1e4a45b7db6611ba3fa4"
 
 [[files]]
 file = "config/iceandfire/ice_dragon_skeleton_biomes.json"
-hash = "91d500462895af7576de5eb64efd00faed857504f9eefe56cfa418a28ae34001"
+hash = "0d8826c81c9ef568036fa0121d8651a5f1f7a7541a6f1e4a45b7db6611ba3fa4"
 
 [[files]]
 file = "config/iceandfire/lightning_dragon_biomes.json"
-hash = "22ab89d9b8c57d2b4f50e30613085ebf6c3157489f3d42e6420127b8cae55694"
+hash = "0d8826c81c9ef568036fa0121d8651a5f1f7a7541a6f1e4a45b7db6611ba3fa4"
 
 [[files]]
 file = "config/iceandfire/lightning_dragon_cave_biomes.json"
-hash = "22ab89d9b8c57d2b4f50e30613085ebf6c3157489f3d42e6420127b8cae55694"
+hash = "0d8826c81c9ef568036fa0121d8651a5f1f7a7541a6f1e4a45b7db6611ba3fa4"
 
 [[files]]
 file = "config/iceandfire/lightning_dragon_skeleton_biomes.json"
-hash = "d01094612d9d8a48e99809522ff7e009bc1ec7e03a57e0f5f8c9cd51ef44b0bb"
+hash = "0d8826c81c9ef568036fa0121d8651a5f1f7a7541a6f1e4a45b7db6611ba3fa4"
 
 [[files]]
 file = "config/iceandfire/ore_gen_biomes.json"
@@ -3898,7 +3898,7 @@ hash = "34ecbdd1c0009eb7fa0033cf201345b7815d793a0e80c630df7ac74cb7fc9c8f"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tech4/mekanismRecipes.js"
-hash = "8a27276c341d301fdf148a2dfc15685c30ff9893439bbef51810db71d82adeea"
+hash = "a3d60ea25d1f60a73bd3ce6bcd2b16917ee29965fe2f01478201e847ab1b6eeb"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tech5/dissolutionChamber.js"
