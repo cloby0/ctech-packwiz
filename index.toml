@@ -605,6 +605,10 @@ file = "config/iceandfire/ore_gen_biomes.json"
 hash = "0d8826c81c9ef568036fa0121d8651a5f1f7a7541a6f1e4a45b7db6611ba3fa4"
 
 [[files]]
+file = "config/immersive_portals.json"
+hash = "0959f53107d56f3c3d2ff4c80628e0d4b54bdd7018eaa259c4ba481651a066e4"
+
+[[files]]
 file = "config/inline/client-config.toml"
 hash = "270478924d8bc8bfb4aa2e6a2036682fc4b3e66caafd46da821ca812d84afa88"
 
@@ -5108,10 +5112,6 @@ metafile = true
 file = "mods/immersive-portals-for-forge.pw.toml"
 hash = "3f39a4de2aa2f99842f2cbb3cc3af2d19335cc57c1ce52a26fb985cd937ec311"
 metafile = true
-
-[[files]]
-file = "mods/immersivesnow-1.20.1-1.3.0.jar"
-hash = "a9b81511c1ecb1824a2dd6ee5989404f3b7d05d89a4ac6802c20485cb1e4c671"
 
 [[files]]
 file = "mods/industrial-foregoing-1.20.1-3.5.19.jar"
