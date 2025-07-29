@@ -1,0 +1,13 @@
+name = "Celestial Core"
+filename = "celestial_core-1.5.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fda2b123364b77691abdf826dbbf765837253755"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6563321
+project-id = 988783

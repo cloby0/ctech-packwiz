@@ -1,0 +1,13 @@
+name = "Celestial Artifacts"
+filename = "celestial_artifacts-1.5.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86b19e1e8af22a01ee55f5b57e9518c55d2241c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6824705
+project-id = 988784
