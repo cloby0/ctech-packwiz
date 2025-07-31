@@ -4607,6 +4607,11 @@ file = "mods/cc-tweaked-1.20.1-forge-1.113.1.jar"
 hash = "12dedbf3436c214edd10a94762d57161eb0f5e966b36935a9c2a0964cf2b7e9f"
 
 [[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "b73b02e96dc793bfed23fbb157a252e798f6f1c68aec1f17ebbd61c45baaac7b"
+metafile = true
+
+[[files]]
 file = "mods/celestial-artifacts.pw.toml"
 hash = "fafff98aefd3eab46482711f17f4ca16a186931372c483ef6c4632cb3690f463"
 metafile = true
@@ -4742,6 +4747,11 @@ hash = "a18763be04f6a7921d2e3bc5e9150b0bb5bc89b5ef45a607e93939972021f932"
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "ed3eee802a13f2d099ce9496020d164c511db4bb5c545b2d4af341626605b9a7"
+metafile = true
+
+[[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "c636979fe6705452c913fecba3dd590c0feb83ddbccdf6e8ec5e921c9681c769"
 metafile = true
 
 [[files]]
@@ -5663,6 +5673,16 @@ hash = "5dfd5e42573659ad84a5d870082aae38aaa8469aba2655e5b2cb14de4ca4cbdd"
 metafile = true
 
 [[files]]
+file = "mods/superb-warfare.pw.toml"
+hash = "c1f9192fa542c0411f7e5600ab6f712e50331bbc672dc7ec138dfeaa2a833121"
+metafile = true
+
+[[files]]
+file = "mods/superbvs.pw.toml"
+hash = "443a6193c21f84393ccf848a5e1f17e8dcb0144ab1500154095e6c783eb92760"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
 hash = "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3"
 
@@ -5753,6 +5773,16 @@ hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7149b1beafef2ce275da37dd5ca2e12f5527ad979420630ecdef5bcabd4fef32"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "b531cb4a3b71c02b90f98367e9634822cf0fbdbe1f09c70267bc274180de90f3"
+metafile = true
+
+[[files]]
+file = "mods/vics-point-blank.pw.toml"
+hash = "711b1468e60bd3b5096768a57e62efde0ebe1b31b07266b1d83c012156469d34"
 metafile = true
 
 [[files]]
