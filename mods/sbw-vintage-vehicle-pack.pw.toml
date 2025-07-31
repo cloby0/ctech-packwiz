@@ -1,0 +1,13 @@
+name = "[SBW] Vintage Vehicle Pack"
+filename = "vvp-beta-0.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fcb347acaaf1392347695f8585c81a6ca18c8f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6775382
+project-id = 1280871
