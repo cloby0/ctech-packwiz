@@ -5344,11 +5344,6 @@ file = "mods/megacells-forge-2.4.5-1.20.1.jar"
 hash = "86c13322f6fd89ce89e2647b01c2aa8ac4d7a8c47e2a5e9101ae223dc3af647d"
 
 [[files]]
-file = "mods/mekanism-pipez-fix.pw.toml"
-hash = "78c76a8bd845e1e58f652fe80a275a74fff02ad4144fb3b6c7dc64e83e5783a7"
-metafile = true
-
-[[files]]
 file = "mods/merequester-forge-1.20.1-1.1.5.jar"
 hash = "119c23431ff06b1ebe57606daff460b7c74f74c8564a26f1cbac4cd3521968cd"
 
