@@ -3961,10 +3961,6 @@ file = "mods/AdLods-1.20.1-8.1.3.1-build.0980.jar"
 hash = "003882e485fff2075aaa5f95a10351c33d45edb03ad4704045e9c42988da8d74"
 
 [[files]]
-file = "mods/AdvancedPeripherals-1.20.1-0.7.41r.jar"
-hash = "acfd815b5a7481f06608ab99ad4b816e10a7f083ff7ea4b0a7450ade97c79aca"
-
-[[files]]
 file = "mods/AmbientSounds_FORGE_v6.1.4_mc1.20.1.jar"
 hash = "701e90966b207c6362daf4446cfac72eed550b7d9b16df3a5154e38615c55547"
 
@@ -4345,6 +4341,11 @@ file = "mods/ad_astra-forge-1.20.1-1.15.19.jar"
 hash = "62d1a8a23075a983526a8030a7f2daaf118087048e514f3b34541572c03dfcdf"
 
 [[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "a14189cc71f74aa0a0aac8fce6447f2cd5c84bbbed4764da9013216fe7e275ac"
+metafile = true
+
+[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "634efb4797404ecac183301afec7bbe96593ba56228ab25fa30b2a7805be88cb"
 metafile = true
@@ -4603,8 +4604,14 @@ file = "mods/cbc_nukes-2.0.0.jar"
 hash = "baffef4a8af6fff27235efcfc564c8fb22a204bdc5b0877aad19436edcc7bd9c"
 
 [[files]]
-file = "mods/cc-tweaked-1.20.1-forge-1.113.1.jar"
-hash = "12dedbf3436c214edd10a94762d57161eb0f5e966b36935a9c2a0964cf2b7e9f"
+file = "mods/cc-link.pw.toml"
+hash = "15487ca0341648d36e189234185431d2d6fecc62ce3f6b0605192db608467039"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "b7b5d139282c441057c253e1d01d8333ed22b377a75242edac5c78bb26907ab2"
+metafile = true
 
 [[files]]
 file = "mods/cc-vs.pw.toml"
