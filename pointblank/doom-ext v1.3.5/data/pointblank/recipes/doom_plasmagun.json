@@ -1,0 +1,32 @@
+{
+  "type": "pointblank:default",
+  "ingredients": [
+    {
+      "count": 40,
+      "item": "pointblank:doom_argent_ingot"
+    },
+    {
+      "count": 15,
+      "item": "pointblank:guninternals"
+    },
+    {
+      "count": 2,
+      "item": "pointblank:processor"
+    },
+    {
+      "count": 5,
+      "item": "minecraft:diamond"
+    },
+    {
+      "count": 40,
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "count": 30,
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "item": "pointblank:doom_plasmagun"
+  }
+}

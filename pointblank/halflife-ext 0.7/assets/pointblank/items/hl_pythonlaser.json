@@ -1,0 +1,19 @@
+{
+  "name": "hl_pythonlaser",
+  "type": "Attachment",
+  "category": "hl_pythonlaser",
+  "features": [
+    {
+      "type": "PartVisibility",
+      "parts": [
+        {
+          "name": "pythonlasermain",
+          "visible": true,
+          "condition": {
+            "isGunInHands": false
+          }
+        }
+      ]
+    }
+  ]
+}

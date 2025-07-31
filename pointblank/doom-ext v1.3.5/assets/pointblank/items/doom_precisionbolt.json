@@ -1,0 +1,41 @@
+{
+  "name": "doom_precisionbolt",
+  "type": "Attachment",
+  "category": "precisionbolt",
+  "features": [
+    {
+      "type": "PartVisibility",
+      "parts": [
+        {
+          "name": "precisionboltmain",
+          "visible": true,
+          "condition": {
+            "isGunInHands": false
+          }
+        }
+      ]
+    },
+    {
+      "type": "FireMode",
+      "fireModes": [
+        {
+          "name": "precisionbolt",
+          "displayName": "label.pointblank.fireMode.precisionbolt",
+          "type": "SINGLE",
+          "rpm": 67,
+          "damage": 50,
+          "animationName": "animation.model.firealt",
+          "shakeRecoilAmplitude": 2.0,
+          "shakeRecoilSpeed": 2.0,
+          "shakeRecoilDuration": 350,
+          "prepareFireAnimations": [
+            {
+              "name": "animation.model.preparefire",
+              "duration": 600
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

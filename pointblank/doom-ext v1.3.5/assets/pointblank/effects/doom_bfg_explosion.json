@@ -1,0 +1,16 @@
+{
+	"type": "impact",
+	"name": "doom_bfg_explosion",
+	"texture": "textures/effect/doom_bfg_explosion.png",
+	"blendMode": "ADDITIVE",
+	"duration" : 1350,
+	"sprites": {
+		"type": "play_once",
+		"rows": 9,
+		"columns": 9,
+		"fps": 60
+	},
+	"width": 12.0,
+	"glow": true,
+	"depthTest": true
+}

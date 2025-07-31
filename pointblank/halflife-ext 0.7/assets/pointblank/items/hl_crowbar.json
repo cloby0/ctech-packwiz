@@ -1,0 +1,51 @@
+{
+  "name": "hl_crowbar",
+  "type": "Gun",
+  "maxAmmoCapacity": "infinite",
+  "compatibleAmmo": [
+    "ammocreative"
+  ],
+  "damage": 5,
+  "fireSound": "hl_crowbar",
+  "fireSoundVolume": 1,
+  "fireModes": [
+    "AUTOMATIC"
+  ],
+  "rpm": 222,
+  "drawCooldownDuration": 420,
+  "shakeRecoilAmplitude": 0.35,
+  "shakeRecoilSpeed": 2,
+  "viewRecoilAmplitude": 0,
+  "inspectCooldownDuration": 2330,
+  "maxShootingDistance": 3.5,
+  "completeFireCooldownDuration": 350,
+  "phasedReloads": [
+    {
+      "phase": "RELOADING",
+      "duration": 3350,
+      "animation": "animation.model.reload"
+    }
+  ],
+  "fireAnimations": [
+    {
+      "name": "animation.model.fire",
+      "condition": "random"
+    },
+    {
+      "name": "animation.model.fire2",
+      "condition": "random"
+    },
+    {
+      "name": "animation.model.fire3",
+      "condition": "random"
+    },
+    {
+      "name": "animation.model.fire4",
+      "condition": "random"
+    },
+    {
+      "name": "animation.model.fire5",
+      "condition": "random"
+    }
+  ]
+}

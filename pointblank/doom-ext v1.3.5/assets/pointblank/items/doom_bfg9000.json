@@ -1,0 +1,58 @@
+{
+  "name" : "doom_bfg9000",
+  "type": "Gun",
+  "maxAmmoCapacity" : 1,
+  "compatibleAmmo" : ["ammocreative", "doom_argentblastcharge"],
+  "damage" : 8.0,
+  "rpm" : 89,
+  "reloadCooldownDuration" : 2500,
+  "fireModes" : ["SINGLE"],
+  "fireSound" : "doom_bfgshoot",
+  "reloadSound" : "reload",
+  "drawCooldownDuration" : 600,
+  "inspectCooldownDuration" : 2130,
+  "prepareFireCooldownDuration": 600,
+  "gunRecoilInitialAmplitude" : 0.3,
+  "shakeRecoilAmplitude" : 2,
+  "shakeRecoilSpeed" : 2,
+  "viewRecoilAmplitude" : 0.8,
+  "aimingEnabled": false,
+  "bobbing" : 0.5,
+  "glowingParts": [
+    {
+      "name": "glowy" 
+    }
+  ],
+  "phasedReloads": [
+    {
+      "phase": "RELOADING",
+      "duration": 900,
+      "animation": "animation.model.reload",
+      "shakeEffects": [
+        {
+          "start": 0,
+          "duration": 1500,
+          "initialAmplitude": 0.2,
+          "rateOfAmplitudeDecay": 0.8
+        },
+        {
+          "start": 230,
+          "duration": 1000,
+          "initialAmplitude": 0.2,
+          "rateOfAmplitudeDecay": 0.5
+        }
+      ]
+    }
+  ],
+  
+  "effects": [
+  	{ 
+		"phase": "firing",
+		"name": "doom_bfg_flash"
+  	},
+  	{ 
+		"phase": "preparing",
+		"name": "doom_bfg_charge"
+  	}
+  ]
+}

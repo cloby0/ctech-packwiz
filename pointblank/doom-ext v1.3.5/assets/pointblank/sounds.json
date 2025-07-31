@@ -1,0 +1,338 @@
+{
+    "doom_gausscharge": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_gausscharge",
+                "stream": false
+            }
+        ]
+    },
+    "doom_gl_shoot": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_gl_shoot",
+                "stream": false
+            }
+        ]
+    },
+    "doom_gl_r1": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_gl_r1",
+                "stream": false
+            }
+        ]
+    },
+    "doom_gl_r2": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_gl_r2",
+                "stream": false
+            }
+        ]
+    },
+    "doom_gl_r3": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_gl_r3",
+                "stream": false
+            }
+        ]
+    },
+    "doom_gl_r4": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_gl_r4",
+                "stream": false
+            }
+        ]
+    },
+    "doom_gausscannon": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_gausscannon",
+                "stream": false
+            }
+        ]
+    },
+    "doom_chaingunopen": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_chaingunopen",
+                "stream": false
+            }
+        ]
+    },
+    "doom_chaingunclose": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_chaingunclose",
+                "stream": false
+            }
+        ]
+    },
+    "doom_plasmachaingun": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_plasmachaingun",
+                "stream": false
+            }
+        ]
+    },
+    "doom_ssg_close": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_ssg_close",
+                "stream": false
+            }
+        ]
+    },
+    "doom_ssg_load": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_ssg_load",
+                "stream": false
+            }
+        ]
+    },
+    "doom_ssg_open": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_ssg_open",
+                "stream": false
+            }
+        ]
+    },
+    "doom_ssg_unload": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_ssg_unload",
+                "stream": false
+            }
+        ]
+    },
+    "doom_supershotgun": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_supershotgun",
+                "stream": false
+            }
+        ]
+    },
+    "doom_rl": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_rl",
+                "stream": false
+            }
+        ]
+    },
+    "doom_rl_load": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_rl_load",
+                "stream": false
+            }
+        ]
+    },
+    "doom_rl_loadnew": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_rl_loadnew",
+                "stream": false
+            }
+        ]
+    },
+    "doom_rl_unload": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_rl_unload",
+                "stream": false
+            }
+        ]
+    },
+    "heavycannon_action": {
+        "sounds": [
+            {
+                "name": "pointblank:heavycannon_action",
+                "stream": false
+            }
+        ]
+    },
+    "heavycannon_beltfeed": {
+        "sounds": [
+            {
+                "name": "pointblank:heavycannon_beltfeed",
+                "stream": false
+            }
+        ]
+    },
+    "heavycannon_beltin": {
+        "sounds": [
+            {
+                "name": "pointblank:heavycannon_beltin",
+                "stream": false
+            }
+        ]
+    },
+    "heavycannon_beltout": {
+        "sounds": [
+            {
+                "name": "pointblank:heavycannon_beltout",
+                "stream": false
+            }
+        ]
+    },
+    "doom_plasmapistol_back": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_plasmapistol_back",
+                "stream": false
+            }
+        ]
+    },
+    "doom_plasmapistol_forw": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_plasmapistol_forw",
+                "stream": false
+            }
+        ]
+    },
+    "doom_plasmapistol_out": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_plasmapistol_out",
+                "stream": false
+            }
+        ]
+    },
+    "doom_plasmapistol_in": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_plasmapistol_in",
+                "stream": false
+            }
+        ]
+    },
+    "doom_plasmapistol": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_plasmapistol",
+                "stream": false
+            }
+        ]
+    },
+    "plasmagun_doom": {
+        "sounds": [
+            {
+                "name": "pointblank:plasmagun_doom",
+                "stream": false
+            }
+        ]
+    },
+    "doom_plasmagun_load": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_plasmagun_load",
+                "stream": false
+            }
+        ]
+    },
+    "doom_plasmagun_unload": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_plasmagun_unload",
+                "stream": false
+            }
+        ]
+    },
+    "doom_bfgexplosion": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_bfgexplosion",
+                "stream": false
+            }
+        ]
+    },
+    "doom_bfgload1": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_bfgload1",
+                "stream": false
+            }
+        ]
+    },
+    "doom_bfgload2": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_bfgload2",
+                "stream": false
+            }
+        ]
+    },
+    "doom_bfgcharge": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_bfgcharge",
+                "stream": false
+            }
+        ]
+    },
+    "doom_bfgshoot": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_bfgshoot",
+                "stream": false
+            }
+        ]
+    },
+    "combatshotgun_open": {
+        "sounds": [
+            {
+                "name": "pointblank:combatshotgun_open",
+                "stream": false
+            }
+        ]
+    },
+    "combatshotgun_close": {
+        "sounds": [
+            {
+                "name": "pointblank:combatshotgun_close",
+                "stream": false
+            }
+        ]
+    },
+    "doomshotgun": {
+        "sounds": [
+            {
+                "name": "pointblank:doomshotgun",
+                "stream": false
+            }
+        ]
+    },
+    "doom_handgun": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_handgun",
+                "stream": false
+            }
+        ]
+    },
+    "heavycannon": {
+        "sounds": [
+            {
+                "name": "pointblank:heavycannon",
+                "stream": false
+            }
+        ]
+    },
+    "doom_combatshotgun": {
+        "sounds": [
+            {
+                "name": "pointblank:doom_combatshotgun",
+                "stream": false
+            }
+        ]
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "hl_draw": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_draw",
+                "stream": false
+            }
+        ]
+    },
+    "hl_taubatteryin": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_taubatteryin",
+                "stream": false
+            }
+        ]
+    },
+    "hl_taubatteryout": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_taubatteryout",
+                "stream": false
+            }
+        ]
+    },
+    "hl_taucharge": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_taucharge",
+                "stream": false
+            }
+        ]
+    },
+    "hl_tauchargemax": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_tauchargemax",
+                "stream": false
+            }
+        ]
+    },
+    "hl_taucannon": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_taucannon",
+                "stream": false
+            }
+        ]
+    },
+    "hl_slideback": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_slideback",
+                "stream": false
+            }
+        ]
+    },
+    "hl_slideforward": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_slideforward",
+                "stream": false
+            }
+        ]
+    },
+    "hl_spas12_altpump1": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_spas12_altpump1",
+                "stream": false
+            }
+        ]
+    },
+    "hl_spas12_altpump2": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_spas12_altpump2",
+                "stream": false
+            }
+        ]
+    },
+    "hl_spas12_open": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_spas12_open",
+                "stream": false
+            }
+        ]
+    },
+    "hl_spas12_pump1": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_spas12_pump1",
+                "stream": false
+            }
+        ]
+    },
+    "hl_spas12_pump2": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_spas12_pump2",
+                "stream": false
+            }
+        ]
+    },
+    "hl_mp5actionback": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_mp5actionback",
+                "stream": false
+            }
+        ]
+    },
+    "hl_mp5actionforward": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_mp5actionforward",
+                "stream": false
+            }
+        ]
+    },
+    "hl_mp5close": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_mp5close",
+                "stream": false
+            }
+        ]
+    },
+    "hl_mp5magin": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_mp5magin",
+                "stream": false
+            }
+        ]
+    },
+    "hl_mp5magout": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_mp5magout",
+                "stream": false
+            }
+        ]
+    },
+    "hl_mp5open": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_mp5open",
+                "stream": false
+            }
+        ]
+    },
+    "hl_mp5stockback": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_mp5stockback",
+                "stream": false
+            }
+        ]
+    },
+    "hl_mp5stockforward": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_mp5stockforward",
+                "stream": false
+            }
+        ]
+    },
+    "hl_spas12": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_spas12",
+                "stream": false
+            }
+        ]
+    },
+    "hl_spas12alt": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_spas12alt",
+                "stream": false
+            }
+        ]
+    },
+    "hl_mp5silenced": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_mp5silenced",
+                "stream": false
+            }
+        ]
+    },
+    "hl_mp5": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_mp5",
+                "stream": false
+            }
+        ]
+    },
+    "hl_resistancecrossbow": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_resistancecrossbow",
+                "stream": false
+            }
+        ]
+    },
+    "hl_stringback": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_stringback",
+                "stream": false
+            }
+        ]
+    },
+    "hl_placerebar": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_placerebar",
+                "stream": false
+            }
+        ]
+    },
+    "hl_coltpython": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_coltpython",
+                "stream": false
+            }
+        ]
+    },
+    "hl_pythonbulletsin": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_pythonbulletsin",
+                "stream": false
+            }
+        ]
+    },
+    "hl_pythonbulletsout": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_pythonbulletsout",
+                "stream": false
+            }
+        ]
+    },
+    "hl_pythonclose": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_pythonclose",
+                "stream": false
+            }
+        ]
+    },
+    "hl_pythonopen": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_pythonopen",
+                "stream": false
+            }
+        ]
+    },
+    "hl_pythonspin": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_pythonspin",
+                "stream": false
+            }
+        ]
+    },
+    "hl_pythonclick1": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_pythonclick1",
+                "stream": false
+            }
+        ]
+    },
+    "hl_pythonclick2": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_pythonclick2",
+                "stream": false
+            }
+        ]
+    },
+    "hl_crowbar": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_crowbar",
+                "stream": false
+            }
+        ]
+    },
+    "hl_mp7magout": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_mp7magout",
+                "stream": false
+            }
+        ]
+    },
+    "hl_mp7magin": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_mp7magin",
+                "stream": false
+            }
+        ]
+    },
+    "hl_mp7press": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_mp7press",
+                "stream": false
+            }
+        ]
+    },
+    "hl_switch": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_switch",
+                "stream": false
+            }
+        ]
+    },
+    "hl_mp7": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_mp7",
+                "stream": false
+            }
+        ]
+    },
+    "hl_pulserifle_load1": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_pulserifle_load1",
+                "stream": false
+            }
+        ]
+    },
+    "hl_pulserifle_load2": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_pulserifle_load2",
+                "stream": false
+            }
+        ]
+    },
+    "hl_pulserifle": {
+        "sounds": [
+            {
+                "name": "pointblank:hl_pulserifle",
+                "stream": false
+            }
+        ]
+    }
+}

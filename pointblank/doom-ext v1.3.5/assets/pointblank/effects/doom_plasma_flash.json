@@ -1,0 +1,14 @@
+{
+	"type": "muzzle_flash",
+	"name": "doom_plasma_flash",
+	"texture": "textures/effect/doom_plasma_flash.png",
+        "blendMode": "ADDITIVE",
+	"width": 1.3,
+	"duration" : 50,
+        "sprites": {
+	  "type": "random",
+	  "rows": 1,
+	  "columns": 9,
+	  "fps": 60
+	}
+}

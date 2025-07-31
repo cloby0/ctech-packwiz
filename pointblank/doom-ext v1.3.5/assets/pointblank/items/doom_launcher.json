@@ -1,0 +1,50 @@
+{
+  "name": "doom_launcher",
+  "type": "Attachment",
+  "category": "doomlauncher",
+  "features": [
+    {
+      "type": "Sound",
+      "fireSound": "doom_gl_shoot",
+      "condition": {
+        "selectedFireMode": "grenade"
+      }
+    },
+    {
+      "type": "PartVisibility",
+      "parts": [
+        {
+          "name": "launchermain",
+          "visible": true,
+          "condition": {
+            "isGunInHands": false
+          }
+        }
+      ]
+    },
+    {
+      "type": "Reload",
+      "maxAmmoPerReloadIteration": 3,
+      "condition": {
+        "selectedFireMode": "grenade"
+      }
+    },
+    {
+      "type": "FireMode",
+      "fireModes": [
+        {
+          "name": "grenade",
+          "displayName": "label.pointblank.fireMode.grenade",
+          "ammo": "grenade40mm",
+          "maxAmmoCapacity": 3,
+          "type": "SINGLE",
+          "rpm": 90,
+          "animationName": "animation.model.firegrenade",
+          "shakeRecoilAmplitude": 2.0,
+          "shakeRecoilSpeed": 2.0,
+          "shakeRecoilDuration": 350
+        }
+      ]
+    }
+  ]
+}

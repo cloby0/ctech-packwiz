@@ -1,0 +1,108 @@
+{
+  "name": "hl_taucannon",
+  "type": "Gun",
+  "maxAmmoCapacity": 20,
+  "compatibleAmmo": [
+    "ammocreative"
+  ],
+  "damage": 7.0,
+  "fireSound": "hl_taucannon",
+  "drawCooldownDuration": 750,
+  "gunRecoilInitialAmplitude": 0.2,
+  "shakeRecoilAmplitude": 2,
+  "shakeRecoilSpeed": 2,
+  "viewRecoilAmplitude": 1,
+  "inspectCooldownDuration": 3080,
+  "aimingEnabled": false,
+  "modelScale": 0.25,
+  "gunRecoilPitchMultiplier": 4.0,
+  "gunRandomizationAmplitude": 0.0001,
+  "bobbing": 0.3,
+  "bobbingRollMultiplier": 4,
+  "jumpMultiplier": 0.5,
+  "rotations": [
+    {
+      "phase": "fire",
+      "modelPart": "spinny",
+      "rpm": 100,
+      "acceleration": 2.0,
+      "deceleration": 1
+    }
+  ],
+  "glowingParts": [
+    {
+      "name": "glowy"
+    }
+  ],
+  "features": [
+    {
+      "type": "FireMode",
+      "fireModes": [
+        {
+          "name": "automatic",
+          "displayName": "label.pointblank.fireMode.automatic",
+          "type": "AUTOMATIC",
+          "rpm": 300,
+          "damage": 7,
+          "animationName": "animation.model.fire",
+          "shakeRecoilAmplitude": 0.4,
+          "shakeRecoilSpeed": 2.0,
+          "shakeRecoilDuration": 350
+        },
+        {
+          "name": "charge",
+          "displayName": "label.pointblank.fireMode.charge",
+          "type": "SINGLE",
+          "rpm": 80,
+          "damage": 23,
+          "animationName": "animation.model.firealt",
+          "shakeRecoilAmplitude": 2.0,
+          "shakeRecoilSpeed": 2.0,
+          "shakeRecoilDuration": 350,
+          "prepareFireAnimations": [
+            {
+              "name": "animation.model.preparefire",
+              "duration": 800
+            }
+          ],
+          "effects": [
+          {
+            "phase": "preparing",
+            "name": "hl_taucharge"
+          }
+  ]
+        },
+        {
+          "name": "chargemax",
+          "displayName": "label.pointblank.fireMode.chargemax",
+          "type": "SINGLE",
+          "rpm": 75,
+          "damage": 60,
+          "animationName": "animation.model.firealt2",
+          "shakeRecoilAmplitude": 2.0,
+          "shakeRecoilSpeed": 2.0,
+          "shakeRecoilDuration": 350,
+          "prepareFireAnimations": [
+            {
+              "name": "animation.model.preparefire2",
+              "duration": 2530
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "phasedReloads": [
+    {
+      "phase": "RELOADING",
+      "duration": 2720,
+      "animation": "animation.model.reload"
+    }
+  ],
+  "effects": [
+    {
+      "phase": "hit_scan_acquired",
+      "name": "hl_laser"
+    }
+  ]
+}

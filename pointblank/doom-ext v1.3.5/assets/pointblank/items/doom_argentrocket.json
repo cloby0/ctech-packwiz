@@ -1,0 +1,24 @@
+{
+  "name" : "doom_argentrocket",
+  "type" : "Ammo",
+  "projectile" : {
+    "initialVelocity" : 65,
+    "gravity" : 0.005,
+    "topDownAttackEnabled" : false,
+    "effects" : [ 
+	"chem_trail", "rocket_exhaust_plume"
+    ],
+    "renderer" : {
+      "type" : "model"
+    }
+  },
+  "explosion" : {
+    "power" : 4.0,
+    "fire" : false,
+    "sound" : null,
+    "soundVolume" : 8.0,
+    "effects": [
+      "explosion", "debris"
+    ]
+  }
+}

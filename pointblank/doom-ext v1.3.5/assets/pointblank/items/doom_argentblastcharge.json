@@ -1,0 +1,33 @@
+{
+  "name" : "doom_argentblastcharge",
+  "type" : "Ammo",
+  "projectile" : {
+    "initialVelocity" : 50,
+    "gravity" : 0,
+    "topDownAttackEnabled" : false,
+    "renderer" : {
+      "type" : "sprite",
+      "texture": "textures/effect/doom_bfg_ball.png",
+      "size": 4.0,
+      "sprites": {
+        "rows": 6,
+        "columns": 6,
+        "fps": 60,
+        "type": "loop"
+      },
+      "blendMode": "additive",
+      "depthTest": true,
+      "glow": true,
+      "rotations": 0.0
+    }
+  },
+  "explosion" : {
+    "power" : 12.0,
+    "fire" : false,
+    "sound" : "doom_bfgexplosion",
+    "soundVolume" : 12.0,
+    "effects": [
+      "doom_bfg_explosion", "debris"
+    ]
+  }
+}

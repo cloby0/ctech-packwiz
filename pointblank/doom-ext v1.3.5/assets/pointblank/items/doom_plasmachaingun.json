@@ -1,0 +1,58 @@
+{
+  "name" : "doom_plasmachaingun",
+  "type": "Gun",
+  "maxAmmoCapacity" : "150",
+  "compatibleAmmo" : ["ammocreative", "doom_plasmacell"],
+  "damage" : 5.0,
+  "rpm" : 762,
+  "fireModes" : ["AUTOMATIC"],
+  "fireSound" : "doom_plasmachaingun",
+  "drawCooldownDuration" : 600,
+  "aimingZoom" : 0.3,
+  "gunRecoilInitialAmplitude" : 0.4,
+  "shakeRecoilAmplitude" : 0.35,
+  "shakeRecoilSpeed" : 2,
+  "viewRecoilAmplitude" : 0.5,
+  "aimingEnabled": false,
+  "inspectCooldownDuration": 2720,
+  "prepareFireCooldownDuration": 500,
+  "completeFireCooldownDuration": 500,
+  "gunRandomizationAmplitude": 0.001,
+  "rotations": [
+     {
+	"phase": "fire",
+	"modelPart": "spinny",
+	"rpm": 100,
+	"acceleration": 2.0,
+	"deceleration": 1
+     }
+  ],
+  "glowingParts": [
+    {
+      "name": "glowy" 
+    },
+    {
+      "name": "glowy2" 
+    },
+    {
+      "name": "glowy3" 
+    }
+  ],
+  "phasedReloads": [
+    {
+      "phase": "RELOADING",
+      "duration": 1530,
+      "animation": "animation.model.reload"
+    }
+  ],
+  "effects": [
+  	{ 
+		"phase": "hit_scan_acquired",
+		"name": "doom_bluetracer"
+  	},
+        { 
+		"phase": "firing",
+		"name": "doom_plasma_flash"
+  	}
+  ]
+}

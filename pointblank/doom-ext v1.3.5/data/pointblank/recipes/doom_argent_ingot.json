@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "minecraft:blaze_powder"
+    },
+    "Y": {
+      "item": "pointblank:gunmetal_ingot"
+    }
+  },
+  "pattern": [
+    "XX",
+    "YX"
+  ],
+  "result": {
+    "item": "pointblank:doom_argent_ingot"
+  },
+  "show_notification": true
+}
