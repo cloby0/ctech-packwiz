@@ -5182,6 +5182,11 @@ hash = "3089988dcd2d81d07d1619c37ead2d3a7212671cc6811373756b5e4eaf66d8fd"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "07fc40541ee106402ce9eb26888d7d078e5fd28cd01a00cbc04dd57839c6aeeb"
+metafile = true
+
+[[files]]
 file = "mods/jei-1.20.1-forge-15.20.0.106.jar"
 hash = "e3d8f2c4028fa431368d42bde25b92b2210bddd2e1fb59a932d0c2cc62dd3587"
 
