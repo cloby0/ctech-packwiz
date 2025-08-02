@@ -1,9 +1,9 @@
 magic will seperate into three paths
 
-source /  mana / life /
-       /       /      /
-ars *  /botania/bl.mag/
-       /       /bioman/
+source   /  mana     / life /
+iron's   /           /      /
+ars *    /botania    /bl.mag/
+         /hex casting/bioman/
 
 
 magic is done in three sections which will converge at points
