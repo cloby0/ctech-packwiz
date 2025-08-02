@@ -5430,10 +5430,6 @@ file = "mods/packetfixer-forge-1.4.3-1.19-to-1.20.1.jar"
 hash = "de4f045370934c73fe6c4bf0a82c39353b53348948e74037c0383b88b9055b66"
 
 [[files]]
-file = "mods/palladium-4.1.7+1.20.1-forge.jar"
-hash = "9ad4c809f0e37607f0bc54172481512c6b2ea51fa09ad9c48e6be1b9bdbc0539"
-
-[[files]]
 file = "mods/paucal-0.6.0+1.20.1-forge.jar"
 hash = "3f403fc200e744cc85c348206da70e4fb34808f14fda3fc88b0bde1688b784ca"
 
