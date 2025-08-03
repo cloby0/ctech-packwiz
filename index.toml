@@ -11437,3 +11437,215 @@ hash = "8cc71b52bc99322246beb8bd3fa1f178fb5b91f74c2a36084b54038d3203f7e1"
 [[files]]
 file = "pointblank/halflife-ext 0.7/pack.mcmeta"
 hash = "e93dda27f9234ae23161240026e84df2d7735bb6600828f35ea2176e2d6fa254"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/computer_advanced_front.png"
+hash = "3be0d5c04cc7c869ed0e189a897375060c6d175bd8afc92fe73995fe689f1950"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/computer_advanced_side.png"
+hash = "89d10cf1561c7b45d59298b092f4cd8340e6b4cc92153ceef5458152caea9d66"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/computer_advanced_top.png"
+hash = "6d120420ab8ca6fefaec3cc07f6ce8572d40a8aa023a408fd21b7d0c210dba3b"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_0.png"
+hash = "47967df58fff9e2fc7839e375a354201cb953a61e1e04c8156bd01f4c82dc039"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_1.png"
+hash = "8bb8cee998a35832b3f56e5e7bef3c6e206621c5d2a6ee6bc4f07738a7d15813"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_15.png"
+hash = "7c575750315766252bb38ce032bf0c4a29d8850d2211f211e77e3db55ecf21e2"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_16.png"
+hash = "aa8e7215115b2e99423d7a66b0e6651d0fb00b9dfc7d658cd281cd4c16963384"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_17.png"
+hash = "5f14bec0014ac61495bb64e7fbff411ca0663d170b304067c75d63ed2444fc90"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_18.png"
+hash = "d5ea718e618bc2948f9e06ea4b539d0e8b66a422067736be7995ddf5fd1b6e8b"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_19.png"
+hash = "8819eebf3de4928f919da55d33ff5331272f0f1614acedc69afcca24e39ff78c"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_2.png"
+hash = "3d5aaf2e41af32f4784b29c0e6442fb8cf59506fda81de2bb264dcafdce5afce"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_20.png"
+hash = "47edb329835ef8da8b887d008fc2a42675e903f498fbd00da4e5f225b6273e76"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_21.png"
+hash = "a9101b20e8f2b4c404a61a7157ec1217640875ee892edf0cdd671ebdc7282dc8"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_22.png"
+hash = "fab54b2993d2ab63b239b32eed2f3c899dd67d466502d91328c140e2710f848b"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_23.png"
+hash = "17b558d90f2c92a490c2c2673d2ec772960794cf5a46d3edff3009cea0c35df0"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_24.png"
+hash = "e96d5fbb4c9d2ae7238dbc904e6cb87907f45285fcb820078c781848fb064708"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_25.png"
+hash = "885b2efacb24817ec474f69e9e2656353367443b34ccfc7d7fe5462f776565b3"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_26.png"
+hash = "ebad9662ce62979d3fbe09e02857d55ee538c38e0143e16ac5e2554d772139be"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_27.png"
+hash = "a901afae7bdb66678f08a39b32f8a46da9864c8a64fabc0e77a7f12b93df12ba"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_28.png"
+hash = "70c436c13a3d4deeac666e14acacd2eb0e67e23676807f89b3d3e9f20883abb5"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_29.png"
+hash = "1968cbcbdbfc970eb90747ffe9fcf95d3e99c35cddcc6d6321cba8e947ef7701"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_3.png"
+hash = "bc698aaac86ad6579aab474c8b0164d82bce6c5cb0ac15910f2a375e2e2adda8"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_30.png"
+hash = "af3aa70062deecaf3fe62eb467e9b3fcbff6365766117354c9019f3e29a6f94c"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_31.png"
+hash = "0873ac16c7af70e952ac61cd35c2b3c58b9a41e0ba6bfa3d97626381d8461663"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_32.png"
+hash = "37c7ccb2170ff4482c5b8e5c49b2378510c702e879f15f0311e37411c710503f"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_33.png"
+hash = "be61cf1396390584486c0796a588cade9b6893928e7a611c707656802a36637c"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_34.png"
+hash = "9ae336beab46765aa50b508b516e6be13956ba6fd09713c4995f567253a8268a"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_35.png"
+hash = "8d934d6253c7188a442e7afabe59dfb77c1ae4ff42194a1e1099bdb515763f29"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_36.png"
+hash = "0af939cc2e81b7bbea975bd5137f8f657e11a89765bfc93f9a7df0d17582f42c"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_37.png"
+hash = "988fee070f7cb740bf1a126940d9fe4895e72ed915198f933c3a0e4dcae92de3"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_38.png"
+hash = "9c3db985cc6d817779407fa131248bf69b21a1fa7fafd7fcd8865fea30666138"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_39.png"
+hash = "5ee05c7bd820348f13e73821b9d9e558c4a9ebdad57c1743817c418f84bf2a50"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_4.png"
+hash = "b7ecd0552b2c587a55a3722d0aad5b7efcd564d0b397a742d2db16b0e436da18"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_40.png"
+hash = "eca187938ae3a8c1489de36ce23e12a76ab60a78c1f6a789dc3afafce5480562"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_41.png"
+hash = "59bf0a9531e448ee00707a2a58f0f03d14b1a214f7145e0756b3f7678dcb1423"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_42.png"
+hash = "42700f3b15a06ba6e945e163aad1ecdeb2413952d5e45c0d11b2afd07162e099"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_43.png"
+hash = "ec65f844e7242f05079867d9fa942bbcde934c5962152b776ca3df4a48423c47"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_44.png"
+hash = "b35da05c4fa68c96e03186e3fe69fcbb06b3c330ae8cd5b12b02ef05544d7297"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_45.png"
+hash = "d53c01914101964cab1f34c6efe19cc2dc2f5362c429b685d59d73e70d5d2de2"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_46.png"
+hash = "c6fc2b691efc34a62318dfe3a3b63a9785bab794c460620082126d1b5acd9785"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_47.png"
+hash = "06de94294dcffc9f7ff42937936b0eb7fbc49a886b46d28bb166a2d8aac7fb27"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_5.png"
+hash = "f8e3530f0889f3a548f971be02c80f440caf5ae892d0c8c01b2ef32821d910f4"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_6.png"
+hash = "5cb4563b7bb012a54b3e3e7634807b624508e6e80a76a94fabd6579cc3de46e7"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/monitor_advanced_7.png"
+hash = "ed83447eb50edf5d0192e2b1efb356c6e720cb2dd5f35d99b3195ff12fcf05d0"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/speaker_front.png"
+hash = "0cc16f1ed6af8a2fb428494610b575ccb7f4d84ea1851d88641e56fbb5181f49"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/speaker_side.png"
+hash = "dd60a97bb7b75ad6deb98e637e58552af8ef5f460f89f9a5520dc2613b166a80"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/speaker_top.png"
+hash = "b79f1fcaa9778ed6cb7b4ace64869417d0a099c6804b56e571990619dd9e638e"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/wireless_modem_advanced_face.png"
+hash = "db89be17ca1f25afaddad9d313102a0510122cb3ffd0454ec1b792b664f4a210"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/wireless_modem_advanced_face_on.png"
+hash = "b397a99e0febeb584e23243aacb1ed06d6e74b6197365850c5a2caf13fde83e4"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/gui/border_advanced.png"
+hash = "45924d1e43114eb3db205e4c2e079e6feffa57e2db282572393707ab9a56e8b6"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/gui/sidebar_advanced.png"
+hash = "32ead6ebb94064c211051b7f246af53443a6e592695d5387dbea0714e69ecda5"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/pack.mcmeta"
+hash = "2d5d29b63b82363224584558f37ec330daa8ea20206f79e40d864c3d612d8ca4"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/pack.png"
+hash = "0cc16f1ed6af8a2fb428494610b575ccb7f4d84ea1851d88641e56fbb5181f49"
