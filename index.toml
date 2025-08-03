@@ -502,7 +502,7 @@ hash = "4180b3139d23a32ac8a597b07a613f240a34a82c5040fbbf4d934b996ab29840"
 
 [[files]]
 file = "config/enhancedai/common.toml"
-hash = "d1c7c40ffc612f998ce0ff829afc5cfe148ec2a2f67e6074e83eb62b564780d7"
+hash = "5d200860833163dc0c907659f54c2c99b6da75689f73971e4ec427b06866e14b"
 
 [[files]]
 file = "config/estrogen-server.toml"
