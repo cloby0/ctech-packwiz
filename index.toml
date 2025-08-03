@@ -5823,6 +5823,11 @@ hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
 metafile = true
 
 [[files]]
+file = "mods/you-shall-not-spawn.pw.toml"
+hash = "a76c190048d66ffd4271bcf14007a4d947b0dea37469b382139d6255ecab2bfc"
+metafile = true
+
+[[files]]
 file = "packmenu/resources/assets/packmenu/buttons/mods.json"
 hash = "5f29a4d0f93a33ef637a1b91a82781a2c84c3c1e862fa37f9704d9b03d49e827"
 
