@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 18,
-        "description": "A pack specifically designed for the c-tech nuclear reactor"
+        "pack_format": 15,
+        "description": "C-tech reactor custom pack"
     }
 }
