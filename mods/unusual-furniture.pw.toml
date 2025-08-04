@@ -1,0 +1,13 @@
+name = "Unusual Furniture"
+filename = "unusual_furniture-1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d74b2acf03fb044353d9927b58a0537bc6dfc8bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6604940
+project-id = 1278034

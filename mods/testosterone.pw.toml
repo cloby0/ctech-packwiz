@@ -1,0 +1,13 @@
+name = "Create: Testosterone"
+filename = "testosterone-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26e778cbec110086486edfdc63677f28a68b73e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6561499
+project-id = 1225057
