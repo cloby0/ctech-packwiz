@@ -4748,6 +4748,11 @@ hash = "ed3eee802a13f2d099ce9496020d164c511db4bb5c545b2d4af341626605b9a7"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "643d695c3fa6973c50f5815966df42b7259921f6078b54ebb88e958dfa9298a5"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "df7d19f604ff0661692e1dd14ea4d70d534bd960e536acb9a693b1ec7792433b"
 metafile = true
@@ -4756,10 +4761,6 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "26b5eb49763ba8b3078ea93222f2b73e86ad4b3b2030a1b7628aab37b9061ae2"
 metafile = true
-
-[[files]]
-file = "mods/create_connected-0.9.3-mc1.20.1-all.jar"
-hash = "a98fcdf55867f3284bf45c86c01b3eb5d998c9c0b6643819a1ef3e16e55e4093"
 
 [[files]]
 file = "mods/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar"
@@ -4774,8 +4775,9 @@ file = "mods/create_tweaked_controllers-1.20.1-1.2.4.jar"
 hash = "3707e82c6fe9a170d42f07eaa8ff32b93c0d6e338a4c8fac34b7d5ec1d9f13e2"
 
 [[files]]
-file = "mods/createaddition-1.20.1-1.2.4e.jar"
-hash = "7f4112e75fa058fec1eb3ca4656f35fe23200e4c1fa6f925b516d62f6b46c3f1"
+file = "mods/createaddition.pw.toml"
+hash = "9fd99767788ac2057a81fc222cfc5d21930ea23698be8fad70899f21c6c54d4e"
+metafile = true
 
 [[files]]
 file = "mods/createbb-1.20.1-3.2.2.jar"
@@ -5338,10 +5340,6 @@ file = "mods/mods_optimizer-forge-1.20.1-4.1.0.jar"
 hash = "7551b4b63bd34a36a73db27a724159ac2d5ead897668c506e3706ab8806e16f3"
 
 [[files]]
-file = "mods/moonlight-1.20-2.13.48-forge.jar"
-hash = "87f623366ed432ef167eedee914fa93f1dc284460061b2fe55ccdf8eade3c222"
-
-[[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "6ff4dfc30b3df634c6a2e587742ad381aa5988a50a646003369331749882c0a9"
 metafile = true
@@ -5565,6 +5563,11 @@ hash = "3db989e9bbe8f69ac8a9845784f2c4f78337a548e3eeb5aab678c163529785f3"
 [[files]]
 file = "mods/sbw-vintage-vehicle-pack.pw.toml"
 hash = "8f438001269a513c79646ed4e38fabe925a44983ed5e3fcb755ec65b62b3464e"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "cb07c379c25296d11d3805801ab2963f2196b5f3f38c3e46453db2e59193248c"
 metafile = true
 
 [[files]]
