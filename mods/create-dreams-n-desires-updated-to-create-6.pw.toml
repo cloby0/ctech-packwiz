@@ -1,0 +1,13 @@
+name = "Create: Dreams n' Desires Updated to Create 6"
+filename = "ddtocreate6-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e94f0f4ba45cf6611678955531ea43a0c658c8a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6557149
+project-id = 1271483
