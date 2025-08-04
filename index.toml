@@ -5749,11 +5749,6 @@ file = "mods/thermal_locomotion-1.20.1-11.0.1.19.jar"
 hash = "45565603b45eeac7df4a1c6dd36afb600a52f2c334be336260c357d7563e0682"
 
 [[files]]
-file = "mods/threetag-palladium.pw.toml"
-hash = "d2f6f3bae98debe8371858e9d4428c1b61d253ce5c1522e87d8c184c741c24c6"
-metafile = true
-
-[[files]]
 file = "mods/tia-1.20-1.1-forge.jar"
 hash = "302d28743e33ca1a889cc2c89453cdb4433c61de0472550ac6ae334fae389da7"
 
