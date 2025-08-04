@@ -4980,6 +4980,11 @@ file = "mods/forgery-3.5.5+1.20.jar"
 hash = "6d6f64b7ac049a3c6e9b4b8be94507ea4ea9ec01332d2cfe2102dc3d29eea0b0"
 
 [[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "04a41ef460a5aec46f060cffff5b296e663f1dd40ce1ad39f9f618ed2f8828ff"
+metafile = true
+
+[[files]]
 file = "mods/framework-forge-1.20.1-0.7.12.jar"
 hash = "28ade2da0795ca36de2925e14cb5fe6b4e51ae84c149352fd9690951fe1baf87"
 
