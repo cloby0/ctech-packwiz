@@ -4743,6 +4743,11 @@ hash = "f09161c0a013e3fdef2f6ee981cd68c29dc7801228bae9ebc16959e75bd38596"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "a92288574aeb3b2387d8c423b980321efa0f486074d6167aa30195a09d930369"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "ed3eee802a13f2d099ce9496020d164c511db4bb5c545b2d4af341626605b9a7"
 metafile = true
@@ -5209,7 +5214,7 @@ hash = "f07fc6cb7f2aa28197e87ffc3a35062390259ad803d8996b08b13473c0af6790"
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "fa0771166baa39de64dec05cda14254565d6b5323fe56384b56acdd480730b11"
+hash = "f2bca4baf170dc6aef52ded0a062e9b1ff54ae06c0a756905c9116a2b1e25ca0"
 metafile = true
 
 [[files]]
@@ -5346,7 +5351,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiblocked2.pw.toml"
-hash = "dbbe671fab13e77f74edd44f69ed7c27bd2b2fd8fabad0100bbeff82d1a00c78"
+hash = "48f34debbcccc30faafb0a8b3ae277cd165b219fb1b28a895b280d5fd88720a8"
 metafile = true
 
 [[files]]
@@ -5533,6 +5538,11 @@ metafile = true
 [[files]]
 file = "mods/right_click_get_crops-1.20.1-1.6.0.12.jar"
 hash = "43b5d4f5c3c3737fd10d18eab5d2c9d6734f9ad9b6d1a72aeddb7b9c9f2ef5ec"
+
+[[files]]
+file = "mods/ritchies-projectile-library.pw.toml"
+hash = "8206df6c97f3b0696ca143240084eea614dc1f404ab917dde9c5f156cebafa02"
+metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
