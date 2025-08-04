@@ -4934,11 +4934,6 @@ hash = "ce2bc8fbb6ebbc3571ed0ac531b473da80fb9feb8742e5ff5dd7d7271c0ed1d5"
 metafile = true
 
 [[files]]
-file = "mods/estrogen.pw.toml"
-hash = "df6a5cd61279030fefff3a336f1866362e1575e45380c9f5ad9165fbe049a2d7"
-metafile = true
-
-[[files]]
 file = "mods/etched-3.0.4.jar"
 hash = "18fa648a887eb8ae284e278b1c361c8bffe73947336761d8b1787052dd34fe69"
 
@@ -5715,11 +5710,6 @@ hash = "4d75401d454b77a2383bf8a7e8373af873d9ef6751e0f9f44f46451ab08dceb9"
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
-metafile = true
-
-[[files]]
-file = "mods/testosterone.pw.toml"
-hash = "4cf80170ef522fc174d2c68e0aa782ee15a9661fd056765d17c0c4eb3c2a0709"
 metafile = true
 
 [[files]]
