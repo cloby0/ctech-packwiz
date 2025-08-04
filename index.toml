@@ -5669,8 +5669,9 @@ file = "mods/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar"
 hash = "b89c7703f909c75bff8981be7a3c7219138e01549666bd5cd5c47a1d6330489e"
 
 [[files]]
-file = "mods/supplementaries-1.20-3.1.11.jar"
-hash = "5f6ebae7c78de7dea8120e3192ba95abd64d53f27b743782696d69a3120e1c49"
+file = "mods/supplementaries.pw.toml"
+hash = "bc95c66c8a61ad096681adcdef283f5a8a80d8686bf68b8ea989ff48fb5c0812"
+metafile = true
 
 [[files]]
 file = "mods/tact-1.2.1+1.20.1.jar"
