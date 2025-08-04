@@ -5694,12 +5694,14 @@ hash = "c1f9192fa542c0411f7e5600ab6f712e50331bbc672dc7ec138dfeaa2a833121"
 metafile = true
 
 [[files]]
-file = "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
-hash = "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3"
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
 
 [[files]]
-file = "mods/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar"
-hash = "b89c7703f909c75bff8981be7a3c7219138e01549666bd5cd5c47a1d6330489e"
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "4ddff1daf862f7e481a6c30c4cbb4bb32165f2c73cefc908dbf62b18f0d46a56"
+metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
