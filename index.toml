@@ -5208,8 +5208,9 @@ file = "mods/kotlinforforge-4.11.0-all.jar"
 hash = "ef988f86d170af499d147ea8a5c34c99dbd6d8f4a5ad236a4b43818dc4470a10"
 
 [[files]]
-file = "mods/kubejs-create-forge-2001.2.5-build.2.jar"
-hash = "96e5bfff4bdfc5e3a976f75328466d8085152c374fe99819584de6869189cee2"
+file = "mods/kubejs-create.pw.toml"
+hash = "7e9ef26310359f482e595815664b3d08381b30c6517c32a58078b0999e1d953a"
+metafile = true
 
 [[files]]
 file = "mods/kubejs-thermal-2001.1.10-build.2.jar"
