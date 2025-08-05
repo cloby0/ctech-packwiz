@@ -4455,12 +4455,13 @@ hash = "0502e2b33b08fe5920ff1ea61d3cd3c86d9e93ff234af56088c63dff4c189733"
 metafile = true
 
 [[files]]
-file = "mods/ars_elemental-1.20.1-0.6.7.7.jar"
-hash = "501f617604262a348bf948277cc43062ddd1a8efdf6b54c33fd673379c2ac2f6"
+file = "mods/ars-nouveau.pw.toml"
+hash = "44505ec6c8d7ac5948b3f192cff3db191b07c4d39d501ce3af916006cda3c5a6"
+metafile = true
 
 [[files]]
-file = "mods/ars_nouveau-1.20.1-4.12.6-all.jar"
-hash = "232a433dde4977b21d118557025cbb3fafb97cdcb812ee627e652d0d8ba94a24"
+file = "mods/ars_elemental-1.20.1-0.6.7.7.jar"
+hash = "501f617604262a348bf948277cc43062ddd1a8efdf6b54c33fd673379c2ac2f6"
 
 [[files]]
 file = "mods/ars_scalaes-1.20.1-1.10.7c.jar"
@@ -4600,7 +4601,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "b7b5d139282c441057c253e1d01d8333ed22b377a75242edac5c78bb26907ab2"
+hash = "33fbfba45630792a9223d4e20c9300bc9fef142c68781fc648c32b62313f3e16"
 metafile = true
 
 [[files]]
