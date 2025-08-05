@@ -806,7 +806,7 @@ hash = "d7bb73b4fcf42601d4f1c36ef272cb8f8d44e2ef047c986f5fd7cff0c056ed5e"
 
 [[files]]
 file = "config/ysns/disabled_entities.json5"
-hash = "a8f18d6fb923736588b86b7756abfa4927cdce808af644b9e04e8982a68764dc"
+hash = "988d64ce668990c7e3dc1d6f76d0889601b8d12987a820b7d5b2d6adef6a6bcd"
 
 [[files]]
 file = "config/ysns/per_dimension_entities.json5"
