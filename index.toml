@@ -805,6 +805,14 @@ file = "config/watererosion-common.toml"
 hash = "d7bb73b4fcf42601d4f1c36ef272cb8f8d44e2ef047c986f5fd7cff0c056ed5e"
 
 [[files]]
+file = "config/ysns/disabled_entities.json5"
+hash = "a8f18d6fb923736588b86b7756abfa4927cdce808af644b9e04e8982a68764dc"
+
+[[files]]
+file = "config/ysns/per_dimension_entities.json5"
+hash = "fe0bc8c3a04c4f9c39caea44a81d725dbdc02db561b52d6681c10cb34063174a"
+
+[[files]]
 file = "defaultconfigs/ensorcellation-server.toml"
 hash = "71cb87c6c5e37956c96104a6ed50761fc772fe916b5b93faf89fd658847cff57"
 
