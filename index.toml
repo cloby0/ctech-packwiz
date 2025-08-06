@@ -11439,6 +11439,22 @@ file = "pointblank/halflife-ext 0.7/pack.mcmeta"
 hash = "e93dda27f9234ae23161240026e84df2d7735bb6600828f35ea2176e2d6fa254"
 
 [[files]]
+file = "resourcepacks/CCreactor+/assets/computercraft/textures/block/computer_blink.png"
+hash = "ad5b5845e14ce1b9c33ec660d853271bc85a0fb982eeb86421726c58f5a91783"
+
+[[files]]
+file = "resourcepacks/CCreactor+/assets/computercraft/textures/block/computer_blink.png.mcmeta"
+hash = "6e902dc281c55793a801ef35b271320f4f49a70d60dd8d41634f42cbdc3fda4b"
+
+[[files]]
+file = "resourcepacks/CCreactor+/pack.mcmeta"
+hash = "ab7acd93782752012bdda17dbfbd15381a315c28e868282f87b70f8cb5443e77"
+
+[[files]]
+file = "resourcepacks/CCreactor+/pack.png"
+hash = "fb4dd22633cf4ba10eeb34e74b29578f0662bcb1c5b033fdafe314ee3c5e1567"
+
+[[files]]
 file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/computer_advanced_front.png"
 hash = "3be0d5c04cc7c869ed0e189a897375060c6d175bd8afc92fe73995fe689f1950"
 
@@ -11625,6 +11641,34 @@ hash = "dd60a97bb7b75ad6deb98e637e58552af8ef5f460f89f9a5520dc2613b166a80"
 [[files]]
 file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/speaker_top.png"
 hash = "b79f1fcaa9778ed6cb7b4ace64869417d0a099c6804b56e571990619dd9e638e"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/turtle_advanced_back.png"
+hash = "314f5fc556b7b22d8352448797cdcd1586496f9a7293cffe0a641d4ffaecb420"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/turtle_advanced_backpack.png"
+hash = "33321c430d14fdc9076437f5c85202e30533cf2280a455645b123d5fe6e816ed"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/turtle_advanced_bottom.png"
+hash = "8dc45038db7749f383126f8695a4e893dbf4951f36bc87ff34b08381d7810052"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/turtle_advanced_front.png"
+hash = "fc65aeaf0c15ec33f342bb2bd96893b4fc300254d2356664ef71761616b3b3fc"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/turtle_advanced_left.png"
+hash = "fa80d4bc2a3c1905d91c388f2005c762732de52540d760b427f7751eece529ef"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/turtle_advanced_right.png"
+hash = "26ad77bd6e5ad79f4db927cb0e4bc5d9ff431fa2a36c34f9bc6ba041f800487d"
+
+[[files]]
+file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/turtle_advanced_top.png"
+hash = "0dd5343878af5515d2387ed0b473fc686ec42b40fa143aced0aea7a7fc1be99e"
 
 [[files]]
 file = "resourcepacks/Reactor CC Pack/assets/computercraft/textures/block/wireless_modem_advanced_face.png"
