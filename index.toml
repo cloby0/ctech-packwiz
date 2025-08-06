@@ -5340,6 +5340,11 @@ hash = "1683cf59931738f037ebff1beda6d74cd494a80533b7fbea9bc35dc9256e95f0"
 metafile = true
 
 [[files]]
+file = "mods/maintenance-mode-forge-fabric-quilt.pw.toml"
+hash = "421ae73f3d143681f4b527256020513f021e37616ff6eb1aa731ae2ad7f6842a"
+metafile = true
+
+[[files]]
 file = "mods/mana-unification.pw.toml"
 hash = "b22e8f73ecf9314ff906dcc0c26adcac5a11c52005faa1266b56360339dc6700"
 metafile = true
@@ -5408,6 +5413,11 @@ hash = "06f1354664aee53d4c32c83f76ed94bb72426a75b7e0eb8e415abfba3634cf4e"
 [[files]]
 file = "mods/nethersdelight-1.20.1-4.0.jar"
 hash = "28b072bc5c09ee889468546676c9bf0268eaa415865704bbeeb33f6a37005a30"
+
+[[files]]
+file = "mods/nirvana.pw.toml"
+hash = "bf5f3004e578787aea690a99aaa1b266d88f23d9ab3979c1f5374b7833d7d27d"
+metafile = true
 
 [[files]]
 file = "mods/no-telemetry-1.8.0.jar"
