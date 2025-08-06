@@ -4213,10 +4213,6 @@ file = "mods/NekosEnchantedBooks-1.20.1-1.8.0.jar"
 hash = "244e92c2d98c017a7a31371cf534e0046cd24fc8a7831f74fbc5d4d1701df095"
 
 [[files]]
-file = "mods/Nimble-1.20.1-forge-5.0.1.jar"
-hash = "6fcaab6840a8b65efa1c55cc737938c81ab2721fcbeb61827706e924d752e2a5"
-
-[[files]]
 file = "mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar"
 hash = "ef7fa5096dfd492c3d3ae7228888ca4b92ce07d9b8e302297ceb2ceb1f8d238c"
 
