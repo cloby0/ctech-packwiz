@@ -4498,11 +4498,6 @@ file = "mods/balm-forge-1.20.1-7.3.11-all.jar"
 hash = "3fcafab1ee0b5aa2788a723c8bd7c939660e6ee67669659cea79be9fa9ef5d4a"
 
 [[files]]
-file = "mods/bellsandwhistles.pw.toml"
-hash = "585a3071c68587c3c041832210a58e74e7701162dbc360d47956655ca1a6438e"
-metafile = true
-
-[[files]]
 file = "mods/betterchunkloading-1.20.1-5.2.jar"
 hash = "c0f6c45e08d513ae21418246ec3d27a4248ae7ca60b34d4ed3271811c74b6222"
 
