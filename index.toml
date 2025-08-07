@@ -5029,12 +5029,17 @@ hash = "8fa0bdb17932f3fef69f02ad46ef39ab822983886c8b9f416778711f708c23d2"
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "eb351918762f5c8f05672257082d1ca144c3c9397c40d6785116d1af8b02d864"
+hash = "691798dd9acfd386bc9332249cd4c1291c646af4d97999090ec0528d9bb35c88"
 metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge-2001.4.9.jar"
 hash = "7d904d3a61b43a18f73734b215b37b49bb9a7d243096cb81ba44f9ee9facf63e"
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "218ceb46f632cbcdef9f1156c9d138ac7ad52e387f7d1cf2fac92952f92f8fd1"
+metafile = true
 
 [[files]]
 file = "mods/ftb-teams-forge-2001.3.0.jar"
