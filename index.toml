@@ -845,6 +845,42 @@ file = "kubejs/alloys.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "kubejs/assets/ae2/textures/item/calculation_processor.png"
+hash = "7e9a87b1a3fb2f21f6e09a0eec381ee5ce996f74ebaee31f2c1186242b79f65d"
+
+[[files]]
+file = "kubejs/assets/ae2/textures/item/enderium_ingot.png"
+hash = "ee003047d47e0be3f27cfc00435f2f33293277c1e7d7f950752604d5e5d1e630"
+
+[[files]]
+file = "kubejs/assets/ae2/textures/item/engineering_processor.png"
+hash = "4f1b60cd023b0b6844212c3d82db142be12c914467457f0d263a2ab386270b6c"
+
+[[files]]
+file = "kubejs/assets/ae2/textures/item/logic_processor.png"
+hash = "19e1997cebbf9487a832e9f8a2b894ae74bb6bb91ad8f274fba0edadb2f8e05e"
+
+[[files]]
+file = "kubejs/assets/ae2/textures/item/lumium_ingot.png"
+hash = "f56d6e22b986ab5d784810f3a486799fd48ecab76cdddd6076297cbe0ff02b77"
+
+[[files]]
+file = "kubejs/assets/ae2/textures/item/printed_calculation_processor.png"
+hash = "5d8fc9ef5c0d2bc26cbac3701f724039c8d4375c4a03de977ff714f283a01656"
+
+[[files]]
+file = "kubejs/assets/ae2/textures/item/printed_engineering_processor.png"
+hash = "9576b118f20a47a21176a783a7f90501850c3f21e137dbec87e0ccb09ee60777"
+
+[[files]]
+file = "kubejs/assets/ae2/textures/item/printed_logic_processor.png"
+hash = "cbd3a34061cc1414f3b2054995adbc33c0589e6504d44328e8cfd23644d09b4b"
+
+[[files]]
+file = "kubejs/assets/ae2/textures/item/signalum_ingot.png"
+hash = "01a82f206c92f5ed96d1ce00335b623cf407a288326a6f3d7c461bf23ea7a513"
+
+[[files]]
 file = "kubejs/assets/biomancy/textures/item/meat_core.png"
 hash = "f46c870e7ad65a600f3f4db9ceffb123611d8c20add89e979db76f03de273200"
 
@@ -3945,14 +3981,6 @@ file = "kubejs/tntsforremoval.txt"
 hash = "1d9c9b74c05e03267195ae324ed41968c5a24071a2181758892283de1d0c6a5a"
 
 [[files]]
-file = "ldlib/assets/mbd2/multiblock/tnt_forge_multiblock.mb"
-hash = "c0683f36de4ae3b70c5434c15862f0b631fba60ae9291a71ec3e49e9dbc4bd2a"
-
-[[files]]
-file = "ldlib/assets/mbd2/recipe_type/tnt_forging_recipe.rt"
-hash = "a5f324eaeb9c5ede3106b63bafe6d37cb44bd97119450da20a08e93f42323c90"
-
-[[files]]
 file = "mods/AE2-Things-1.2.1.jar"
 hash = "6a900a8e4411f9c2653a38cdabbf503cf89766b289120a5f3599282120d2abc3"
 
@@ -5324,16 +5352,6 @@ hash = "537ea446b9a3715807624a68b34f6b30d5f7ed2980a69ec80c8c4d0075825ddd"
 [[files]]
 file = "mods/lucky-block-forge-1.20.1-13.0.jar"
 hash = "c101dd326e5ed421d0373eec065054cf5972134f639f3853d35542e77a2e184c"
-
-[[files]]
-file = "mods/lucky-tnt-lib.pw.toml"
-hash = "f62265a0f8ce43af88830af255062c455d9101a9b12f2ff36d5a1ce8861c8461"
-metafile = true
-
-[[files]]
-file = "mods/luckytnt.pw.toml"
-hash = "1683cf59931738f037ebff1beda6d74cd494a80533b7fbea9bc35dc9256e95f0"
-metafile = true
 
 [[files]]
 file = "mods/maintenance-mode-forge-fabric-quilt.pw.toml"
