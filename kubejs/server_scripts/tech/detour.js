@@ -8,7 +8,7 @@ ServerEvents.recipes(event => {
       },
       "results":[
         {
-          "item":"pneumaticcraft:ingot_iron_compresssed",
+          "item":'pneumaticcraft:ingot_iron_compressed',
           "count":1
         }
       ],

@@ -3918,7 +3918,7 @@ hash = "6edfcc1df3241c2b52c7d523c87c20b98157f3d34670e2d443429f7fa06fd69b"
 
 [[files]]
 file = "kubejs/server_scripts/tech/detour.js"
-hash = "259e2e3c9ce08f7ba6f39fe29a212ec25e3fc873cdabf76c6e119f0188827c3d"
+hash = "fa4b6341b59de47db6bd8e6b8fe67cb57e9f376b612bb666c3a1367398ac4942"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier1.js"
