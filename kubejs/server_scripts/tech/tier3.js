@@ -50,7 +50,7 @@ ServerEvents.recipes(event => {
     event.custom({
         "type": "thermal:smelter",
         "ingredient": {
-            "item": "#forge:dusts/certus_quartz"
+            "item": "ae2:certus_quartz_dust"
         },
         "result": [
             {

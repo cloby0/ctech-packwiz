@@ -26,7 +26,7 @@ ServerEvents.recipes(event => {
 
     //adds electrode blueprint recipe
     event.shaped(
-        Item.of('immersiveengineering:blueprint', '{blueprint:"electrode"}')
+        Item.of('immersiveengineering:blueprint', '{blueprint:"electrode"}'),
         [
             'AAA',
             'BBB',
