@@ -6,9 +6,4 @@ StartupEvents.registry('fluid', event => {
     .stillTexture('kubejs:block/cum_still')
     .flowingTexture('kubejs:block/cum_flow')
     .displayName('Cum')
-  
-  event.create('formula')
-    .thinTexture(0xee23ab)
-    .bucketColor(0xee23ab)
-    .displayName('Formula')
 })

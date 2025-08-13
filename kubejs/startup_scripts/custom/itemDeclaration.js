@@ -84,6 +84,13 @@ StartupEvents.registry('item', e => {
     .displayName("The Last Gemstone")
     .rarity('rare')
 
+  e.create('rat_coin')
+    .displayName("Coin of the Rodent")
+    .rarity('rare')
+
+  e.create('unfinished_rat_coin')
+    .displayName('The Prodigal Cheese')
+
   e.create('wonder_jewel')
     .displayName("Wonder Jewel")
     .rarity('rare')

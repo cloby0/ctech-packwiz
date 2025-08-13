@@ -6,7 +6,7 @@ ServerEvents.recipes(event => {
         'create:copper_casing'
     );
     event.replaceInput(
-        {output: 'create:fluid_tank'},
+        {output: 'create:steam_engine'},
         'minecraft:copper_block',
         'create:copper_casing'
     );
@@ -14,6 +14,7 @@ ServerEvents.recipes(event => {
     //removes some steel recipes
     event.remove({id: "ad_astra/alloying/steel_ingot_from_all"})
     event.remove({id: "create_tank_defenses/steel_mixing"})
+    event.remove({ type: "create:mixing", output: "alltheores:steel_ingot"})
 
     //new precision mechanism
     event.remove({output: "create:precision_mechanism" });
@@ -60,11 +61,13 @@ ServerEvents.recipes(event => {
         '#forge:stripped_logs',
         'create:andesite_casing'
     )
+    event.remove({ id: "create/item_application/copper_casing_from_wood"})
 
     event.replaceInput({output: "create:brass_casing"},
         '#forge:stripped_logs',
         'create:copper_casing'
     )
+    event.remove({ id: "create/item_application/brass_casing_from_wood"})
 
     event.replaceInput({output: "create_tank_defenses:steel_casing"},
         '#minecraft:logs',

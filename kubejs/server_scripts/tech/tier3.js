@@ -27,7 +27,7 @@ ServerEvents.recipes(event => {
         ],
         {
             A: 'immersiveengineering:component_electronic_adv',
-            B: 'alltheores:iron_plate',
+            B: 'alltheores:steel_plate',
             C: 'immersiveengineering:rs_engineering'
         }
     )
@@ -177,6 +177,7 @@ ServerEvents.recipes(event => {
     event.remove({ id: "thermal:fire_charge/lumium_ingot_4"})
     event.remove({ id: "alltheores:lumium_dust_from_alloy_blending"})
     event.remove({ id: "thermal:lumium_dust_4"})
+    event.remove({ id: "thermal/machines/smelter/smelter_alloy_lumium"})
     event.custom({
         "type": "thermal:smelter",
         "ingredients": [
@@ -268,6 +269,7 @@ ServerEvents.recipes(event => {
     event.remove({ id: "alltheores:signalum_dust_from_alloy_blending"})
     event.remove({ id: "thermal_signalum_dust_4"})
     event.remove({ id: "thermal:fire_charge/signalum_ingot_4"})
+    event.remove({ id: "thermal/machines/smelter/smelter_alloy_signalum"})
     event.custom({
         "type": "thermal:smelter",
         "ingredients": [
