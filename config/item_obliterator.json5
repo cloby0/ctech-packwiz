@@ -18,7 +18,8 @@
   "blacklisted_items": [
     "ad_astra:etrionic_blast_furnace",
     "superbwarfare:coal_iron_powder",
-    "ae2:inscriber"
+    "ae2:inscriber",
+    "expatternprovider:circuit_cutter"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

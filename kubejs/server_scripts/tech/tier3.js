@@ -2,6 +2,9 @@ ServerEvents.recipes(event => {
     //new thermal part recipes
     event.remove({ id: 'thermal:rf_coil' })
     event.remove({ id: 'thermal:redstone_servo' })
+    event.remove({ type: 'ae2:inscriber'})
+    event.remove({ type: 'expatternprovider:circuit_cutter'})
+
     event.shaped(
         Item.of('thermal:rf_coil', 4),
         [
@@ -163,6 +166,13 @@ ServerEvents.recipes(event => {
         "energy": 2400
     })
 
+    event.replaceInput(
+        { input: 'ae2:engineering_processor' }, // Arg 1: the filter
+        'ae2:engineering_processor',            // Arg 2: the item to replace
+        'mekanism:advanced_control_circuit'         // Arg 3: the item to replace it with
+        // Note: tagged fluid ingredients do not work on Fabric, but tagged items do.
+    )
+
     //lumium recipes
     event.remove({ id: "thermal:fire_charge/lumium_ingot_4"})
     event.remove({ id: "alltheores:lumium_dust_from_alloy_blending"})
@@ -205,6 +215,13 @@ ServerEvents.recipes(event => {
         ],
         "energy": 12000
     })
+
+    event.replaceInput(
+        { input: 'ae2:calculation_processor' }, // Arg 1: the filter
+        'ae2:calculation_processor',            // Arg 2: the item to replace
+        'mekanism:advanced_control_circuit'         // Arg 3: the item to replace it with
+        // Note: tagged fluid ingredients do not work on Fabric, but tagged items do.
+    )
 
     event.custom({
         "type": "thermal:smelter",
@@ -330,4 +347,23 @@ ServerEvents.recipes(event => {
         ],
         "energy": 2400
     })
+
+    event.replaceInput(
+        { input: 'ae2:logic_processor' },
+        'ae2:logic_processor',
+        'mekanism:advanced_control_circuit'
+    )
+
+    //changes two last circuits
+    event.replaceInput(
+        { input: 'megacells:accumulation_processor' },
+        'megacells:accumulation_processor',
+        'mekanism:elite_control_circuit'
+    )
+
+    event.replaceInput(
+        { input: 'advanced_ae:quantum_processor' },
+        'advanced_ae:quantum_processor',
+        'mekanism:ultimate_control_circuit'
+    )
 })
