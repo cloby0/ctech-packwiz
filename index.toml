@@ -3926,11 +3926,11 @@ hash = "c45c2d7a8fa5c2754060f9e350e3216855a8c97a5a5b395b295748f9d821dfd7"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier2.js"
-hash = "3da1a9d33f001597254d46bb5d4ddf9d9f4c6ddbcb642df5e620915486f6deb8"
+hash = "c4ecfeda6c1eb4a1ac5b547d7486c9568a4f55f9ef99a89ba8543b5abb58ddd2"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier3.js"
-hash = "01ac7f70d6a0a45fc087b03599ce6908ecac0605db4af48a44f460b766ce6acb"
+hash = "3c0e558477c82ca7edcdb67811870e6ead71ea3b87db270eef1554d62d05830f"
 
 [[files]]
 file = "kubejs/startup_scripts/alteration/meth.js"
