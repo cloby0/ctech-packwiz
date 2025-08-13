@@ -38,7 +38,8 @@ ServerEvents.recipes(event => {
             C: 'forge:paper'
         }
     )
-    event.remove({id: "immersiveengineering/blueprint/component_electronic_adv"})
+    event.remove({ id: "immersiveengineering/blueprint/component_electronic_adv"})
+    event.remove({ output: "immersiveengineering:component_electronic_adv"})
     event.custom({
         "type":"immersiveengineering:blueprint","category":"components","inputs":
         [

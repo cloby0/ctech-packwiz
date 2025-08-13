@@ -47,6 +47,7 @@ ServerEvents.recipes(event => {
     )
 
     //certus silicon
+    event.remove({ output: "ae2:silicon"})
     event.custom({
         "type": "thermal:smelter",
         "ingredient": {
@@ -114,7 +115,7 @@ ServerEvents.recipes(event => {
         ],
         "result": [
             {
-            "item": "thermal:enderium_ingot",
+            "item": "alltheores:enderium_ingot",
             "count": 2
             }
         ],
@@ -141,7 +142,7 @@ ServerEvents.recipes(event => {
     })
 
     event.custom({
-        "type": "thermal:press",
+        "type": "thermal:smelter",
         "ingredients": [
             {
             "item": "ae2:printed_engineering_processor"
@@ -198,7 +199,7 @@ ServerEvents.recipes(event => {
         ],
         "result": [
             {
-            "item": "thermal:lumium_ingot",
+            "item": "alltheores:lumium_ingot",
             "count": 4
             }
         ],
@@ -206,7 +207,7 @@ ServerEvents.recipes(event => {
     })
 
     event.custom({
-        "type": "thermal:press",
+        "type": "thermal:smelter",
         "ingredients": [
             {
             "tag": "forge:ingots/lumium"
@@ -225,7 +226,7 @@ ServerEvents.recipes(event => {
     })
 
     event.custom({
-        "type": "thermal:press",
+        "type": "thermal:smelter",
         "ingredients": [
             {
             "item": "ae2:printed_calculation_processor"
@@ -282,7 +283,7 @@ ServerEvents.recipes(event => {
         ],
         "result": [
             {
-            "item": "thermal:signalum_ingot",
+            "item": "alltheores:signalum_ingot",
             "count": 4
             }
         ],
@@ -309,7 +310,7 @@ ServerEvents.recipes(event => {
     })
 
     event.custom({
-        "type": "thermal:press",
+        "type": "thermal:smelter",
         "ingredients": [
             {
             "item": "ae2:printed_logic_processor"
