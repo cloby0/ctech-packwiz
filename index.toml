@@ -613,6 +613,10 @@ file = "config/inline/client-config.toml"
 hash = "270478924d8bc8bfb4aa2e6a2036682fc4b3e66caafd46da821ca812d84afa88"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "e04b95c865dd22125c0ade18beafb51b8235747510e46e7555a5f066282c1bab"
+
+[[files]]
 file = "config/jei/blacklist.cfg"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -3913,48 +3917,20 @@ file = "kubejs/server_scripts/tags.js"
 hash = "6edfcc1df3241c2b52c7d523c87c20b98157f3d34670e2d443429f7fa06fd69b"
 
 [[files]]
-file = "kubejs/server_scripts/tech/README_technology.txt"
-hash = "c2137011982bbee4c9507b4dc9e60031ebce6e8246af1c09e0a875f370728a7f"
+file = "kubejs/server_scripts/tech/detour.js"
+hash = "259e2e3c9ce08f7ba6f39fe29a212ec25e3fc873cdabf76c6e119f0188827c3d"
 
 [[files]]
-file = "kubejs/server_scripts/tech/tech1/createModRecipes.js"
-hash = "8183268fc4d64364e8f710b5f86da6da6383252e5b16957a729eed89708184dd"
+file = "kubejs/server_scripts/tech/tier1.js"
+hash = "c45c2d7a8fa5c2754060f9e350e3216855a8c97a5a5b395b295748f9d821dfd7"
 
 [[files]]
-file = "kubejs/server_scripts/tech/tech2.5pncr/pncrRecipes.js"
-hash = "92fd82c674fb5e7af395aefde8fac816c9d1cd6418ed646bf1bddf34513700dd"
+file = "kubejs/server_scripts/tech/tier2.js"
+hash = "3da1a9d33f001597254d46bb5d4ddf9d9f4c6ddbcb642df5e620915486f6deb8"
 
 [[files]]
-file = "kubejs/server_scripts/tech/tech2/computerCraftRecipes.js"
-hash = "5129f538d7739dd3d84efc67e0d9f5b4d8b6dd54f4273193b3c27daa398bc847"
-
-[[files]]
-file = "kubejs/server_scripts/tech/tech2/immersiveEngineeringRecipes.js"
-hash = "fc93787d1f90017d0f1286ab2c961969030b9936dc0dd0e13bafed4944d95d4c"
-
-[[files]]
-file = "kubejs/server_scripts/tech/tech3/thermalRecipes.js"
-hash = "8e42d06307e881794e99c52c558709aba2f051a802134175b25e4a9a23d2b547"
-
-[[files]]
-file = "kubejs/server_scripts/tech/tech4/ae2Recipes.js"
-hash = "34ecbdd1c0009eb7fa0033cf201345b7815d793a0e80c630df7ac74cb7fc9c8f"
-
-[[files]]
-file = "kubejs/server_scripts/tech/tech4/mekanismRecipes.js"
-hash = "a3d60ea25d1f60a73bd3ce6bcd2b16917ee29965fe2f01478201e847ab1b6eeb"
-
-[[files]]
-file = "kubejs/server_scripts/tech/tech5/dissolutionChamber.js"
-hash = "fae869d330bd625190046379252e99ab1e818c4bfa420d71d199cf4952231bca"
-
-[[files]]
-file = "kubejs/server_scripts/tech/tech5/industrialForegoingMachineRecipes.js"
-hash = "96493899765aeddbd08c8a038d257e8baceb94faa145a2f7369a3eb34ab406cf"
-
-[[files]]
-file = "kubejs/server_scripts/tech/tech5/industrialForegoingMaterialRecipes.js"
-hash = "ee30ac303d7eac4f4cd6ac8d3861f56957fe628401d3f6f12374200060770640"
+file = "kubejs/server_scripts/tech/tier3.js"
+hash = "01ac7f70d6a0a45fc087b03599ce6908ecac0605db4af48a44f460b766ce6acb"
 
 [[files]]
 file = "kubejs/startup_scripts/alteration/meth.js"
