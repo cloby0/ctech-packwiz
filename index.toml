@@ -614,7 +614,7 @@ hash = "270478924d8bc8bfb4aa2e6a2036682fc4b3e66caafd46da821ca812d84afa88"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "e2b60da06310d050ec2f81235e661c415d09e9dc20316ef7de9310b6f73c065d"
+hash = "46e4bfd57cbde263d4fc1031d10a07ad006c0720c578e09122ffa1dec8aac689"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -2730,11 +2730,11 @@ hash = "3e14177407df398bb9467fd88f679d6b60de0bba7defb55a526fae4f99589738"
 
 [[files]]
 file = "kubejs/client_scripts/JEIHide.js"
-hash = "dec352b013d113a4142dd936bcb1b421e974a8088a338b871e973d8872279f65"
+hash = "554a2a66fc6c8318c2fb454af30e54939770820b7061e10eecf4977cfa22989f"
 
 [[files]]
 file = "kubejs/client_scripts/tooltip/customItemTooltips.js"
-hash = "96095d970e90a1079034ac0068973407f5c5cc66de51454b126229117a5d12aa"
+hash = "31ad7c6848c72791a7ab601b625a552ad7373e0b379cfbe838924113dcce34d2"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -3946,11 +3946,11 @@ hash = "9db743e4e3fb10a510741994a495ad2456e1c6d5d95d52dd4c32ff78940115c9"
 
 [[files]]
 file = "kubejs/startup_scripts/custom/fluidDeclaration.js"
-hash = "7cf0f39b1e521643a8794cecd1d7aa2d47bcd460233517dbc3db3f4c66e212fb"
+hash = "dac92c5cf1cd382c99994b5fc77401e66f51ba9f752454620fb9e17d8e9556ca"
 
 [[files]]
 file = "kubejs/startup_scripts/custom/itemDeclaration.js"
-hash = "50ca7f288421804dcbda7c969ddbc68e810cf6144d83d6ca42e20ba98abe736b"
+hash = "c9026f7a852c6984b0412debb0f8a0a9a39485c29c704b0ceed934160d325430"
 
 [[files]]
 file = "kubejs/tntsforremoval.txt"
