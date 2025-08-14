@@ -1,4 +1,5 @@
 ServerEvents.recipes(event => {
+
     //new thermal part recipes
     event.remove({ id: 'thermal:rf_coil' })
     event.remove({ id: 'thermal:redstone_servo' })
@@ -13,9 +14,19 @@ ServerEvents.recipes(event => {
                 {
                 "item": "ae2:calculation_processor"
                 },
+            ],
+            "count": 1
+            },
+            {
+            "value": [
                 {
                 "item": "ae2:engineering_processor"
                 },
+            ],
+            "count": 1
+            },
+            {
+            "value": [
                 {
                 "item": "ae2:logic_processor"
                 }

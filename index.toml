@@ -3910,7 +3910,7 @@ hash = "f5065de3ecef7da145181269746c05df8d5f9abeef2e6f7671ff6dc0a71989ac"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier1.js"
-hash = "daaced8652beae24b087e079545a9057934614921736268e6d77dc862ca38c00"
+hash = "48db339042349621f99191d440b92aaf3af52d927b623d2441f252d3839b946b"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier2.js"
@@ -3918,7 +3918,7 @@ hash = "081819fa7c0d6d1fdcdeae3854da0cd0c4acc20ead5637696d486188eb716f5f"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier3.js"
-hash = "6d569df81c5fbb5f0743daef93366bc317901b63619003d12c9900a3678c81d9"
+hash = "2b78d706355433f807f5b5849ff3d10dfaa89f78b7790af3bd3f55a2097d86ff"
 
 [[files]]
 file = "kubejs/startup_scripts/alteration/meth.js"

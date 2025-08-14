@@ -73,4 +73,9 @@ ServerEvents.recipes(event => {
         '#minecraft:logs',
         'create:brass_casing'
     )
+
+    event.remove({ type: "createaddition:rolling"}, {output: "#forge:wires"})
+    event.remove({ type: "create:sawing"}, {output: "#forge:wires"})
+    event.replaceInput({ output: "createaddition:alternator"}, "#forge:rods/iron", "create_tank_defenses:steel_casing")
+    event.replaceInput({ output: "createaddition:alternator"}, "createaddition:copper_spool", "immersiveengineering:wirecoil_copper")
 })
