@@ -3873,10 +3873,6 @@ file = "kubejs/server_scripts/cumiumIngot/recipes.js"
 hash = "bae8516f66d58e0d44ae8621bf0801f57833e07fc12af628eb990f76273b1f0c"
 
 [[files]]
-file = "kubejs/server_scripts/luckyTNT.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "kubejs/server_scripts/magic/README_magic.txt"
 hash = "82a812cdea5d8c28600afca04f105ad24dc37e1b9ba8439616d84f2f58b83c78"
 
@@ -3899,14 +3895,6 @@ hash = "fa7c2aefb1b431a3db6d491b2b791bf93ab5abf4f1a27474352653daf955bc18"
 [[files]]
 file = "kubejs/server_scripts/miscTech.js"
 hash = "56aef3fa5086fc10697acf73f637c52bea62b897c44f1836886302e609fd92f3"
-
-[[files]]
-file = "kubejs/server_scripts/palladium.js"
-hash = "03d670dca4b397b06f53a34a935bc4d44f67bcc5fe19f02ce638b9fada08eaf4"
-
-[[files]]
-file = "kubejs/server_scripts/removedItems.txt"
-hash = "e594e369d0bb0781484f33721637cd4793a0b28e0fd28e98d835bfbe25b3d590"
 
 [[files]]
 file = "kubejs/server_scripts/serverStuff/DEATHBAN.js"
@@ -5616,6 +5604,11 @@ hash = "3db989e9bbe8f69ac8a9845784f2c4f78337a548e3eeb5aab678c163529785f3"
 [[files]]
 file = "mods/sbw-vintage-vehicle-pack.pw.toml"
 hash = "8f438001269a513c79646ed4e38fabe925a44983ed5e3fcb755ec65b62b3464e"
+metafile = true
+
+[[files]]
+file = "mods/scannable.pw.toml"
+hash = "6e62d24584603de6f35af3599681d71d20fa20f59dd8206042bb7026b7021a4f"
 metafile = true
 
 [[files]]
