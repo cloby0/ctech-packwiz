@@ -75,8 +75,9 @@ ServerEvents.recipes(event => {
     )
 
     //nerfs early wires
-    event.remove({ type: "createaddition:rolling"}, {output: "#forge:wires"})
-    event.remove({ type: "create:sawing"}, {output: "#forge:wires"})
+    event.remove({ type: "createaddition:rolling", output: "#forge:wires"})
+    event.remove({ type: "create:sawing", output: "#forge:wires"})
+
 
     //changes/nerfs alternators
     event.replaceInput({ output: "createaddition:alternator"}, "#forge:rods/iron", "create_tank_defenses:steel_casing")
