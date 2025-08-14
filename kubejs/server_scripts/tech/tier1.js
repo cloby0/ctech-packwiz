@@ -82,7 +82,4 @@ ServerEvents.recipes(event => {
     //changes/nerfs alternators
     event.replaceInput({ output: "createaddition:alternator"}, "#forge:rods/iron", "create_tank_defenses:steel_casing")
     event.replaceInput({ output: "createaddition:alternator"}, "createaddition:copper_spool", "immersiveengineering:wirecoil_copper")
-
-    //removes redudant item (create diesel generators mold)
-    event.replaceInput({ input: Item.of('createdieselgenerators:mold', '{Mold:"createdieselgenerators:bar"}')})
 })
