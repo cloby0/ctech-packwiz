@@ -6,6 +6,12 @@ ServerEvents.recipes(event => {
     event.remove({ type: 'ae2:inscriber'})
     event.remove({ type: 'expatternprovider:circuit_cutter'})
     event.remove({ output: 'mekanism:basic_control_circuit'})
+    event.replaceOutput({id: "pneumaticcraft:printed_circuit_board"}, 
+        "pneumaticcraft:printed_circuit_board", 
+        "mekanism:basic_control_circuit")
+    event.replaceInput({id: "pneumaticcraft:printed_circuit_board"}, 
+        "pneumaticcraft:printed_circuit_board", 
+        "mekanism:basic_control_circuit")
     event.custom({
         "type": "thermal:smelter",
         "ingredients": [
@@ -121,8 +127,9 @@ ServerEvents.recipes(event => {
     })
 
     //enderium recipes
-    event.remove({ id: "thermal:fire_charge/enderium_ingot_2"}),
-    event.remove({ id: "thermal:enderium_dust_2"}),    event.remove({ id: "thermal:machines/smelter/smelter_alloy_enderium"})
+    event.remove({ id: "thermal:fire_charge/enderium_ingot_2"})
+    event.remove({ id: "thermal:enderium_dust_2"})
+    event.remove({ id: "thermal:machines/smelter/smelter_alloy_enderium"})
     event.custom({
         "type": "thermal:smelter",
         "ingredients": [
@@ -204,10 +211,9 @@ ServerEvents.recipes(event => {
     })
 
     event.replaceInput(
-        { input: 'ae2:engineering_processor' }, // Arg 1: the filter
-        'ae2:engineering_processor',            // Arg 2: the item to replace
-        'mekanism:advanced_control_circuit'         // Arg 3: the item to replace it with
-        // Note: tagged fluid ingredients do not work on Fabric, but tagged items do.
+        { input: 'ae2:engineering_processor' },
+        'ae2:engineering_processor',
+        'mekanism:advanced_control_circuit'
     )
 
     //lumium recipes
@@ -255,10 +261,9 @@ ServerEvents.recipes(event => {
     })
 
     event.replaceInput(
-        { input: 'ae2:calculation_processor' }, // Arg 1: the filter
-        'ae2:calculation_processor',            // Arg 2: the item to replace
-        'mekanism:advanced_control_circuit'         // Arg 3: the item to replace it with
-        // Note: tagged fluid ingredients do not work on Fabric, but tagged items do.
+        { input: 'ae2:calculation_processor' },
+        'ae2:calculation_processor',
+        'mekanism:advanced_control_circuit'
     )
 
     event.custom({

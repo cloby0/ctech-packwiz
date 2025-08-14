@@ -34,10 +34,4 @@ ServerEvents.recipes(event => {
             }
         ]
   });
-  event.replaceOutput({id: "pneumaticcraft:printed_circuit_board"}, 
-    "pneumaticcraft:printed_circuit_board", 
-    "mekanism:basic_control_circuit")
-  event.replaceInput({id: "pneumaticcraft:printed_circuit_board"}, 
-    "pneumaticcraft:printed_circuit_board", 
-    "mekanism:basic_control_circuit")
   })
