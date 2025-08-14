@@ -4,6 +4,33 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'thermal:redstone_servo' })
     event.remove({ type: 'ae2:inscriber'})
     event.remove({ type: 'expatternprovider:circuit_cutter'})
+    event.remove({ output: 'mekanism:basic_control_circuit'})
+    event.custom({
+        "type": "thermal:smelter",
+        "ingredients": [
+            {
+            "value": [
+                {
+                "item": "ae2:calculation_processor"
+                },
+                {
+                "item": "ae2:engineering_processor"
+                },
+                {
+                "item": "ae2:logic_processor"
+                }
+            ],
+            "count": 1
+            }
+        ],
+        "result": [
+            {
+            "item": "mekanism:basic_control_circuit",
+            "count": 1
+            }
+        ],
+        "energy": 16000
+    })
 
     event.shaped(
         Item.of('thermal:rf_coil', 4),
@@ -84,8 +111,7 @@ ServerEvents.recipes(event => {
 
     //enderium recipes
     event.remove({ id: "thermal:fire_charge/enderium_ingot_2"}),
-    event.remove({ id: "thermal:enderium_dust_2"}),
-    event.remove({ id: "thermal/machines/smelter/smelter_alloy_enderium"})
+    event.remove({ id: "thermal:enderium_dust_2"}),    event.remove({ id: "thermal:machines/smelter/smelter_alloy_enderium"})
     event.custom({
         "type": "thermal:smelter",
         "ingredients": [
@@ -177,7 +203,7 @@ ServerEvents.recipes(event => {
     event.remove({ id: "thermal:fire_charge/lumium_ingot_4"})
     event.remove({ id: "alltheores:lumium_dust_from_alloy_blending"})
     event.remove({ id: "thermal:lumium_dust_4"})
-    event.remove({ id: "thermal/machines/smelter/smelter_alloy_lumium"})
+    event.remove({ id: "thermal:machines/smelter/smelter_alloy_lumium"})
     event.custom({
         "type": "thermal:smelter",
         "ingredients": [
@@ -269,7 +295,7 @@ ServerEvents.recipes(event => {
     event.remove({ id: "alltheores:signalum_dust_from_alloy_blending"})
     event.remove({ id: "thermal_signalum_dust_4"})
     event.remove({ id: "thermal:fire_charge/signalum_ingot_4"})
-    event.remove({ id: "thermal/machines/smelter/smelter_alloy_signalum"})
+    event.remove({ id: "thermal:machines/smelter/smelter_alloy_signalum"})
     event.custom({
         "type": "thermal:smelter",
         "ingredients": [
