@@ -3918,7 +3918,7 @@ hash = "081819fa7c0d6d1fdcdeae3854da0cd0c4acc20ead5637696d486188eb716f5f"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier3.js"
-hash = "0bec3fe5930a7707289856da37affe6dc939ee235db7a807d71fada95dfa128c"
+hash = "48ee5cd8ec83c8fb5b66b89c5cd2e5b7efb55ebc9cd6087a8559f76924bc34e1"
 
 [[files]]
 file = "kubejs/startup_scripts/alteration/meth.js"

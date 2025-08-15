@@ -9,7 +9,7 @@ ServerEvents.recipes(event => {
     event.replaceOutput({id: "pneumaticcraft:printed_circuit_board"}, 
         "pneumaticcraft:printed_circuit_board", 
         "mekanism:basic_control_circuit")
-    event.replaceInput({id: "pneumaticcraft:printed_circuit_board"}, 
+    event.replaceInput({input: "pneumaticcraft:printed_circuit_board"}, 
         "pneumaticcraft:printed_circuit_board", 
         "mekanism:basic_control_circuit")
     event.custom({
@@ -48,6 +48,13 @@ ServerEvents.recipes(event => {
         ],
         "energy": 16000
     })
+    event.forEachRecipe({mod: 'pneumaticcraft', type: "pneumaticcraft:crafting_shaped_pressurizable"}, r => {
+        let json_recipe = r.json.toString()
+            if (json_recipe.includes("pneumaticcraft:printed_circuit_board")) {
+                json_recipe = json_recipe.replaceAll("pneumaticcraft:printed_circuit_board", "mekanism:basic_control_circuit")
+                event.custom(json_recipe).id(r.getOrCreateId())
+            }
+        })
 
     event.shaped(
         Item.of('thermal:rf_coil', 4),
@@ -267,7 +274,7 @@ ServerEvents.recipes(event => {
     )
 
     event.custom({
-        "type": "thermal:smelter",
+        "type": "thermal:press",
         "ingredients": [
             {
             "tag": "forge:ingots/lumium"
@@ -329,10 +336,10 @@ ServerEvents.recipes(event => {
             {
             "value": [
                 {
-                "tag": "forge:ingots/constanstan"
+                "tag": "forge:ingots/constantan"
                 },
                 {
-                "tag": "forge:dusts/constanstan"
+                "tag": "forge:dusts/constantan"
                 }
             ],
             "count": 1
