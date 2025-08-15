@@ -35,9 +35,10 @@ ServerEvents.recipes(event => {
         {
             A: 'immersiveengineering:graphite_electrode',
             B: 'minecraft:blue_dye',
-            C: 'forge:paper'
+            C: '#forge:paper'
         }
     )
+    event.remove({id: "createdieselgenerators:compat/immersiveengineering/graphite_electrode"})
     event.remove({ id: "immersiveengineering/blueprint/component_electronic_adv"})
     event.remove({ output: "immersiveengineering:component_electronic_adv"})
     event.custom({

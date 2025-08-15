@@ -3910,11 +3910,11 @@ hash = "ef22da2598f38d4d781a07869605b2e1dc4146e24766dced7c5397c646c02b60"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier1.js"
-hash = "817ebc0f1189273a3c7b8bd4365bb2a7d703fdba4958d60fd06ff68bb6cf0da6"
+hash = "ce589a4b40870a4ff366a937ef7fb24b7918c866259bffba34d767f507858ed7"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier2.js"
-hash = "081819fa7c0d6d1fdcdeae3854da0cd0c4acc20ead5637696d486188eb716f5f"
+hash = "e321dd8fa55af039852288e9473e84eea374568c6e754bbe9db4d7f655333354"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier3.js"
@@ -4475,6 +4475,11 @@ metafile = true
 [[files]]
 file = "mods/async-locator-forge-1.20-1.3.0.jar"
 hash = "d171fdddd8dad64cba4c8c67cd2a0bdfc2697ff35e11f9fb666b7464e1e9468b"
+
+[[files]]
+file = "mods/attract-to-sound.pw.toml"
+hash = "5995da391d6ad3c67de60411960c413f1e24553f0c8a7a3d0850300cf04692ed"
+metafile = true
 
 [[files]]
 file = "mods/badpackets-forge-0.4.3.jar"
@@ -5297,6 +5302,16 @@ hash = "dc58aac183642c965c2b2fe267fb9f4635988a45ae3a64e73061af7814f3e4a3"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations-ice-and-fire.pw.toml"
+hash = "a5379491b295a257581f149f7b21cf10f48248085d7e67063a83e6e5c80b990c"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-philips-ruins.pw.toml"
+hash = "aad2485b7897747d413bfad963f1287aa3bb271df5845824e3343e1315183b3a"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "41a036a86db9c0cab20b9b8956b0749bdfea13942d6ca00668304e5d0731166f"
 metafile = true
@@ -5791,6 +5806,11 @@ hash = "6e1cba48ec4f62c7452357c603af64afe705984895dcb2e46c6e83c47119f0a9"
 [[files]]
 file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
+
+[[files]]
+file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
+hash = "2c55793a16d42dc2b10b5507c8799a41b42996e84f7be231341d1d79ecbe7881"
+metafile = true
 
 [[files]]
 file = "mods/vics-point-blank.pw.toml"
