@@ -1,0 +1,13 @@
+name = "DragN's Valiant Vehicles!"
+filename = "DragN_Vehicles-1.20.1-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d4ca12857a7d863c7ebbf84d551f716e45fc46f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6132402
+project-id = 1038652

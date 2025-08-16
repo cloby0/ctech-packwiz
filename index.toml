@@ -4538,6 +4538,11 @@ hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
 
 [[files]]
+file = "mods/botanical-machinery.pw.toml"
+hash = "f97b2f19177fe2dcfc8b4377787c7b9b38d46776bc4a345b4f3ba89ee732fac1"
+metafile = true
+
+[[files]]
 file = "mods/botarium-forge-1.20.1-2.3.4.jar"
 hash = "470810a364ff4ad4d4fcd4e55798263938fc893970eacecc58e8b741a392b1cf"
 
@@ -4575,6 +4580,11 @@ hash = "4fc34cd870ffce2d4a52957028ef6d8211be45d99f11558bdec95ce869c266f8"
 [[files]]
 file = "mods/casualness-delight.pw.toml"
 hash = "ca652d606992cb9276a8720c74d89b511886ffb64a7bb92aab3c28da3da82381"
+metafile = true
+
+[[files]]
+file = "mods/cbc-modern-warfare.pw.toml"
+hash = "24ef339d819c9d4dec14ce7aeb7b1478bf17cb742bf1fbe1114592932e588af9"
 metafile = true
 
 [[files]]
@@ -4660,6 +4670,11 @@ metafile = true
 [[files]]
 file = "mods/cofh_core-1.20.1-11.0.2.56.jar"
 hash = "d7cd3ec8083e294e17cb50fe607b416c1dc83ce885e53ba3995d86e028f790e0"
+
+[[files]]
+file = "mods/cognition-mod.pw.toml"
+hash = "f66f9fd1bcce63afca5e06f39b1df665d4cda057de91954e2dfc72267a1b0096"
+metafile = true
 
 [[files]]
 file = "mods/collective-1.20.1-7.87.jar"
@@ -4844,6 +4859,16 @@ hash = "00f20efea12ea981b8d75e257a136c08e0c00c324554e69cf20193376c942e97"
 [[files]]
 file = "mods/doubledoors-1.20.1-5.9.jar"
 hash = "b4308561bae59657e5f80f82ea98bacd0e71c1626ef105e46f412dea92d2a2cb"
+
+[[files]]
+file = "mods/dragns-valiant-vehicles.pw.toml"
+hash = "2fe75f31ab497ab193debb8503845cf75872edf80931664605a7a81428648cfa"
+metafile = true
+
+[[files]]
+file = "mods/dragns-vv-refueled.pw.toml"
+hash = "2a28cef7b39a28ae212cc3248b257a053a0547cacf3463285f667bde8410f2ac"
+metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
@@ -5374,12 +5399,22 @@ hash = "31908feb6048658402fc4c539a9105775df2dcd2aef5973100946ac912705ee9"
 metafile = true
 
 [[files]]
+file = "mods/modernmarkings.pw.toml"
+hash = "14635472ed19cead165190388a628cbef383ffaefd4c7a85998f0b87589451bc"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon-1.20.1-forge-1.77.5.jar"
 hash = "3ab59833084107df31e61676349814c3d1f7edcc3cf223e329b9e8a66ab41dc5"
 
 [[files]]
 file = "mods/mods_optimizer-forge-1.20.1-4.1.0.jar"
 hash = "7551b4b63bd34a36a73db27a724159ac2d5ead897668c506e3706ab8806e16f3"
+
+[[files]]
+file = "mods/more-create-burners.pw.toml"
+hash = "82b4aab81f6bed12f1529c0dc6173f90f832b2df5b9b79cbc85cf4c4eae4878d"
+metafile = true
 
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
@@ -5811,11 +5846,6 @@ hash = "6e1cba48ec4f62c7452357c603af64afe705984895dcb2e46c6e83c47119f0a9"
 [[files]]
 file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
-
-[[files]]
-file = "mods/ultimate-car-mod.pw.toml"
-hash = "4a573affdf85c095f8653891cd061e130bae98d7b9773db0816c89dc316d1fa6"
-metafile = true
 
 [[files]]
 file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
