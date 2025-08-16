@@ -5377,6 +5377,11 @@ file = "mods/mods_optimizer-forge-1.20.1-4.1.0.jar"
 hash = "7551b4b63bd34a36a73db27a724159ac2d5ead897668c506e3706ab8806e16f3"
 
 [[files]]
+file = "mods/more-relics.pw.toml"
+hash = "c18d4cfca97378be9b192eac5c55e180128d80aa0e92c8071fc55085b4cd52de"
+metafile = true
+
+[[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "6ff4dfc30b3df634c6a2e587742ad381aa5988a50a646003369331749882c0a9"
 metafile = true
@@ -5644,6 +5649,11 @@ file = "mods/showcaseitem-1.20.1-1.2.jar"
 hash = "17dd8bbd0efc1170f94a1e4c3e395f49ba0a5c921e8f682f1912607a01f5e649"
 
 [[files]]
+file = "mods/sidekick.pw.toml"
+hash = "7aa889fe1ab963622daaf8923886c51362b0fa0e0f0618fed09ae87c87445b6f"
+metafile = true
+
+[[files]]
 file = "mods/silent-gear-1.20.1-3.6.6.jar"
 hash = "7d5eff113b04b95026f5445385d6057da1d52b5fad46a8f4338247fa9c8c3948"
 
@@ -5806,6 +5816,11 @@ hash = "6e1cba48ec4f62c7452357c603af64afe705984895dcb2e46c6e83c47119f0a9"
 [[files]]
 file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
+
+[[files]]
+file = "mods/ultimate-car-mod.pw.toml"
+hash = "4a573affdf85c095f8653891cd061e130bae98d7b9773db0816c89dc316d1fa6"
+metafile = true
 
 [[files]]
 file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
