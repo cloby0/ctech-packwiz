@@ -5377,11 +5377,6 @@ file = "mods/mods_optimizer-forge-1.20.1-4.1.0.jar"
 hash = "7551b4b63bd34a36a73db27a724159ac2d5ead897668c506e3706ab8806e16f3"
 
 [[files]]
-file = "mods/more-relics.pw.toml"
-hash = "c18d4cfca97378be9b192eac5c55e180128d80aa0e92c8071fc55085b4cd52de"
-metafile = true
-
-[[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "6ff4dfc30b3df634c6a2e587742ad381aa5988a50a646003369331749882c0a9"
 metafile = true
