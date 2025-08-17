@@ -4861,16 +4861,6 @@ file = "mods/doubledoors-1.20.1-5.9.jar"
 hash = "b4308561bae59657e5f80f82ea98bacd0e71c1626ef105e46f412dea92d2a2cb"
 
 [[files]]
-file = "mods/dragns-valiant-vehicles.pw.toml"
-hash = "2fe75f31ab497ab193debb8503845cf75872edf80931664605a7a81428648cfa"
-metafile = true
-
-[[files]]
-file = "mods/dragns-vv-refueled.pw.toml"
-hash = "2a28cef7b39a28ae212cc3248b257a053a0547cacf3463285f667bde8410f2ac"
-metafile = true
-
-[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "d5e99d10b77820007cd65c78de9a572814dab691435726cf611707f81c55bb36"
 metafile = true
@@ -5396,11 +5386,6 @@ hash = "35f27982242a3ea58c526204a28704ddf355d19bb2e9b0ff10f9585c255a4f16"
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "31908feb6048658402fc4c539a9105775df2dcd2aef5973100946ac912705ee9"
-metafile = true
-
-[[files]]
-file = "mods/modernmarkings.pw.toml"
-hash = "14635472ed19cead165190388a628cbef383ffaefd4c7a85998f0b87589451bc"
 metafile = true
 
 [[files]]
