@@ -4583,11 +4583,6 @@ hash = "ca652d606992cb9276a8720c74d89b511886ffb64a7bb92aab3c28da3da82381"
 metafile = true
 
 [[files]]
-file = "mods/cbc-modern-warfare.pw.toml"
-hash = "24ef339d819c9d4dec14ce7aeb7b1478bf17cb742bf1fbe1114592932e588af9"
-metafile = true
-
-[[files]]
 file = "mods/cc-androids.pw.toml"
 hash = "9cad81dcc829d75e7b874c5f261d388cc84a8f57c2de74fd1443f59256873d51"
 metafile = true
