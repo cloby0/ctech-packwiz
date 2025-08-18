@@ -565,6 +565,10 @@ file = "config/iceandfire-client.toml"
 hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 
 [[files]]
+file = "config/iceandfire-common.toml"
+hash = "36e95ffed3a94877ddb463815e57d2966b4fe25e438bdcebf7106ccddff0329b"
+
+[[files]]
 file = "config/iceandfire/fire_dragon_biomes.json"
 hash = "0d8826c81c9ef568036fa0121d8651a5f1f7a7541a6f1e4a45b7db6611ba3fa4"
 
