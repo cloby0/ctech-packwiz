@@ -3922,7 +3922,7 @@ hash = "e321dd8fa55af039852288e9473e84eea374568c6e754bbe9db4d7f655333354"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier3.js"
-hash = "48ee5cd8ec83c8fb5b66b89c5cd2e5b7efb55ebc9cd6087a8559f76924bc34e1"
+hash = "e96b695d58ba9d4add394bc5cc4f1fa5c8eb86cac6889a48a3a7bbf1a7efe478"
 
 [[files]]
 file = "kubejs/startup_scripts/alteration/meth.js"
@@ -3943,10 +3943,6 @@ hash = "dac92c5cf1cd382c99994b5fc77401e66f51ba9f752454620fb9e17d8e9556ca"
 [[files]]
 file = "kubejs/startup_scripts/custom/itemDeclaration.js"
 hash = "c9026f7a852c6984b0412debb0f8a0a9a39485c29c704b0ceed934160d325430"
-
-[[files]]
-file = "kubejs/tntsforremoval.txt"
-hash = "1d9c9b74c05e03267195ae324ed41968c5a24071a2181758892283de1d0c6a5a"
 
 [[files]]
 file = "mods/AE2-Things-1.2.1.jar"

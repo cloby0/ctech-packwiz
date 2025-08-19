@@ -100,6 +100,28 @@ ServerEvents.recipes(event => {
         }
     )
 
+    //pure osmium
+    event.custom({
+        "type" : "thermal:smelter",
+        "ingredient": [{
+            "item": "alltheores:osmium_block"
+            },
+            {
+            "item": "minecraft:redstone"
+            },
+            {
+            "item": "minecraft:glowstone_dust"
+            }
+        ],
+        "result": [
+            {
+            "item": "mekanism:pure_osmium_ingot",
+            "count": 1
+            },
+        ]
+        
+    })
+
     //certus silicon
     event.remove({ output: "ae2:silicon"})
     event.custom({
