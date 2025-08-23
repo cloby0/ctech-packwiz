@@ -2677,6 +2677,10 @@ file = "kubejs/assets/kubejs/textures/mob_effect/zombifying.png"
 hash = "46520b07d2443ebde58e149111963d428f2cc017a61cd93181828d03360d3468"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/quest_images/2025-08-23_13.09.33.png"
+hash = "5ab038bc9a3c7ba07f9e1d162960861936536d45d2bec441f21d3d9f683165b0"
+
+[[files]]
 file = "kubejs/assets/mekanism/lang/en_us.json"
 hash = "7c41c4aa9b6fedd78a37f4754a2415b9170dd8f2530533cabdd60d65ccb872cc"
 
