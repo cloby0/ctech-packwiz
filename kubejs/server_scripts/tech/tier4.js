@@ -15,6 +15,7 @@ ServerEvents.recipes(event => {
     )
     
     //advanced AE machine rebalances
+    event.remove("advanced_ae:reaction_chamber")
     event.shaped(
         Item.of("advanced_ae:reaction_chamber", 1),
         [

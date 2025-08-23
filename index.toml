@@ -3894,7 +3894,7 @@ hash = "6db9aeb77e4348d28fa7e840237eac5ef05c472705d3dced15145c3dddd30c6b"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipeChanges.js"
-hash = "fa7c2aefb1b431a3db6d491b2b791bf93ab5abf4f1a27474352653daf955bc18"
+hash = "d43ab3b5d5e3e209d76bb82ee9acf161599a32fddbe715f72da727bfcbc51f0d"
 
 [[files]]
 file = "kubejs/server_scripts/miscTech.js"
@@ -3926,7 +3926,7 @@ hash = "e96b695d58ba9d4add394bc5cc4f1fa5c8eb86cac6889a48a3a7bbf1a7efe478"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier4.js"
-hash = "9132044215e52ba9705cf6cba3db2fbed780159b6b243dfe9322d4d941279321"
+hash = "101c400c600e56b876a3e866079cc179e749c9326c57e649cae0e2c36fa7c053"
 
 [[files]]
 file = "kubejs/startup_scripts/alteration/meth.js"

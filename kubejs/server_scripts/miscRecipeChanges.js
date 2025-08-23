@@ -119,4 +119,20 @@ event.replaceInput(
   '#forge:raw_materials/uranium',
   '#forge:ingots/uranium'
 )
+//cognition changes
+event.remove("experienceobelisk:mending_neurogel")
+event.remove("experienceobelisk:mending_neurogel_blob")
+event.remove("experienceobelisk:cognitive_flux")
+event.shapeless(
+  Item.of("experienceobelisk:cognitive_flux", 4),
+  [
+    "minecraft:quartz",
+    "minecraft:lapis_lazuli",
+    "#minecraft:soul_fire_base_blocks",
+    "#forge:dusts/steel",
+    "irons_spellbooks:arcane_essence"
+  ]
+)
+
 });
+
