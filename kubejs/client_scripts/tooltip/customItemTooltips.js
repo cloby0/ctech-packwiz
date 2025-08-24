@@ -83,6 +83,10 @@ ItemEvents.tooltip(tooltip => {
     text.add(2, Text.darkGray('Ratlantis'))
   })
 
+    tooltip.addAdvanced('kubejs:unfinished_rat_coin', (item, advanced, text) =>{
+    text.add(1, Text.darkGray('\"Say cheese!\"'))
+  })
+
   tooltip.addAdvanced('kubejs:overworld_coin', (item, advanced, text) =>{
     text.add(1, Text.green('The worldly fall to your hand.'))
     text.add(2, Text.darkGray('The Overworld'))

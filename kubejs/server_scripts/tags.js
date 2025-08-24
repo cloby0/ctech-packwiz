@@ -2,14 +2,14 @@ ServerEvents.tags('item', event => {
     event.add('forge:ingots', 'kubejs:cumium_ingot')
     event.add('forge:ingots/cumium', 'kubejs:cumium_ingot')
 
+    event.add('forge:nuggets', 'kubejs:cumium_nugget')
+    event.add('forge:nuggets/cumium', 'kubejs:cumium_nugget')
+
     event.add('forge:ingots', 'mekanism:pure_osmium_ingot')
     event.add('forge:ingots/pure_osmium', 'mekanism:pure_osmium_ingot')
 
     event.add('forge:nuggets', 'mekanism:pure_osmium_nugget')
     event.add('forge:nuggets/pure_osmium', 'mekanism:pure_osmium_nugget')
-
-    event.add('forge:storage_blocks/pure_osmium')
-    event.add('forge:storage_blocks')
 
     event.add('forge:gems', 'create:rose_quartz')
 

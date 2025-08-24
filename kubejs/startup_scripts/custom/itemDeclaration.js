@@ -4,6 +4,10 @@ StartupEvents.registry('item', e => {
     .displayName("Cumium Ingot")
     .rarity('epic')
 
+  e.create('cumium_nugget')
+    .displayName("Cumium Nugget")
+    .rarity('epic')
+
   e.create('handwavium_alloy')
     .displayName("Handwavium Alloy")
     .rarity('rare')

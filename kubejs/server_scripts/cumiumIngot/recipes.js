@@ -34,7 +34,7 @@ ServerEvents.recipes(event => {
 
   //refined cumium alloy -> unforged cumium alloy
   event.recipes.create.mixing('kubejs:unforged_cumium_alloy', [
-    'industrialforegoing:fertilizer',
+    'draconicevolution:draconium_ingot',
     'biomancy:breeding_stimulant',
     'kubejs:refined_cumium_alloy',
     Fluid.of('kubejs:cum', 1000)
@@ -157,6 +157,22 @@ ServerEvents.recipes(event => {
     { id: 'apotheosis:augmenting_table' },
     'minecraft:nether_star',
     'kubejs:cumium_ingot'
+  )
+
+  event.replaceInput(
+    { input: 'draconicevolution:draconium_ingot' },
+    'draconicevolution:draconium_ingot',
+    'kubejs:cumium_ingot'
+  )
+  event.replaceInput(
+    { input: 'draconicevolution:draconium_nugget' },
+    'draconicevolution:draconium_nugget',
+    'kubejs:cumium_nugget'
+  )
+  event.replaceInput(
+    { input: 'draconicevolution:draconium_block' },
+    'draconicevolution:draconium_block',
+    'kubejs:cumium_block'
   )
   
   event.shaped(Item.of('esotericreforging:esoteric_reforging_table', 1),

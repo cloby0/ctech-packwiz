@@ -6,4 +6,12 @@ StartupEvents.registry('block', event => {
     .requiresTool(true) // Requires a tool or it won't drop (see tags below)
     .tagBlock('minecraft:mineable/pickaxe') // or a pickaxe
     .tagBlock('minecraft:needs_diamond_tool') // the tool tier must be at least iron
+
+    event.create('kubejs:cumium_block') // Create a new block
+    .displayName('Cumium Block') // Set a custom name
+    .tagItem('forge:storage_blocks/cumium') // Tag the block with `#minecraft:my_custom_tag` (can have multiple tags)
+    .tagItem('forge:storage_blocks') // Tag the block with `#minecraft:my_custom_tag` (can have multiple tags)
+    .requiresTool(true) // Requires a tool or it won't drop (see tags below)
+    .tagBlock('minecraft:mineable/pickaxe') // or a pickaxe
+    .tagBlock('#forge:needs_netherite_tool') // the tool tier must be at least iron
 })

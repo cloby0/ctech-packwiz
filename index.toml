@@ -2501,8 +2501,8 @@ file = "kubejs/assets/kubejs/textures/block/cum_still.png"
 hash = "6fb5995498aea0c7cbbbb3a37a0e1d40783cfc75584277f4f8a78d19fb153fc8"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+file = "kubejs/assets/kubejs/textures/block/cumium_block.png"
+hash = "22595f82de70977c578a89650ae6847def3326b80c87567c8694bcf82d9c3fcc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/entity/dragonborn_fireball_frost.png"
@@ -2565,8 +2565,8 @@ file = "kubejs/assets/kubejs/textures/item/cumium_ingot.png"
 hash = "5ec67536439fa25ddb4cdb295ee3ae6234d585259c7c0347fce431e83098f304"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/dragon_fireball.png"
-hash = "e0ae8981e3517404de2de477b1943afe48b1cab30674acec4b0ef561a55da660"
+file = "kubejs/assets/kubejs/textures/item/cumium_nugget.png"
+hash = "b9d1718132c06dd730afa836711250b1fcc39934661773ac0451c739bd46cc51"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/end_coin.png"
@@ -2587,6 +2587,10 @@ hash = "6270013eb668e6f50bb4a3528fb7bd3e4396b7fd74c1332607f2afeb15490ba0"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/overworld_coin.png"
 hash = "16ab647b87976c6b0a9138cfd3a5c9ad3b9305eb3053bad93eced8b4053389a1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rat_coin.png"
+hash = "498e97df15e69b7f0a8f7c38fd3cb713882d86a9430b9f98985e21c6f42316cc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/refined_cumium_alloy.png"
@@ -2627,6 +2631,10 @@ hash = "7462893de71df8ea996bf6d2b9414006b14993225fda9cf944bcdf5f6b509a43"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/unfinished_overworld_coin.png"
 hash = "9d5fe2ab1a615e443b442d2afaa0545fc50ce81c5ea067d88448fb0594137abb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unfinished_rat_coin.png"
+hash = "2972df72bca2633ae9ab5516e5f20ad80cbb6c07e5acdfee60d98a6469b62d61"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/unfinished_space_coin.png"
@@ -2738,7 +2746,7 @@ hash = "554a2a66fc6c8318c2fb454af30e54939770820b7061e10eecf4977cfa22989f"
 
 [[files]]
 file = "kubejs/client_scripts/tooltip/customItemTooltips.js"
-hash = "31ad7c6848c72791a7ab601b625a552ad7373e0b379cfbe838924113dcce34d2"
+hash = "dfc3b7feac2503633de22c487dfc6c1b028c721ae79ca0bee64ef35c9ff9ff9a"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -3878,7 +3886,7 @@ hash = "06cbeb8b657ec5627bdf6b118fe5cb854852d10420565d98719de7117c91d17a"
 
 [[files]]
 file = "kubejs/server_scripts/cumiumIngot/recipes.js"
-hash = "2534f6a54e75ad548c518e3556e1ca00c58623bb99466e2f668fea2416834353"
+hash = "c379b8fefdc10d59c49e584e695c6144a9a608d65434697277e250fd61fd4bb2"
 
 [[files]]
 file = "kubejs/server_scripts/magic/README_magic.txt"
@@ -3910,7 +3918,7 @@ hash = "33d372640f02fcb318468981999eba204288980854343d4615ae7ae312ba1d7e"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "6edfcc1df3241c2b52c7d523c87c20b98157f3d34670e2d443429f7fa06fd69b"
+hash = "1442b5ae73abead4ddb7815c6b18ade07eac9c0f869aeac1b1822debdb03d745"
 
 [[files]]
 file = "kubejs/server_scripts/tech/detour.js"
@@ -3942,7 +3950,7 @@ hash = "6c23cc4357a54bd6182210791e7f2c01e5dcea543905781a9fd4d0e97ab35ad6"
 
 [[files]]
 file = "kubejs/startup_scripts/custom/blockDeclaration.js"
-hash = "9db743e4e3fb10a510741994a495ad2456e1c6d5d95d52dd4c32ff78940115c9"
+hash = "dec30b850f82875283a49a8967a13681356de3aeb7e491913f02fddde0ece25c"
 
 [[files]]
 file = "kubejs/startup_scripts/custom/fluidDeclaration.js"
@@ -3950,7 +3958,7 @@ hash = "dac92c5cf1cd382c99994b5fc77401e66f51ba9f752454620fb9e17d8e9556ca"
 
 [[files]]
 file = "kubejs/startup_scripts/custom/itemDeclaration.js"
-hash = "c9026f7a852c6984b0412debb0f8a0a9a39485c29c704b0ceed934160d325430"
+hash = "186632dd785120269b91360b8b33402cc36569274f19c63389af9fab9e7484e7"
 
 [[files]]
 file = "mods/AE2-Things-1.2.1.jar"
