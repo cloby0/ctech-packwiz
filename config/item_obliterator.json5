@@ -52,7 +52,13 @@
     'industrialforegoing:infinity_drill',
     'industrialforegoing:infinity_saw',
     'industrialforegoing:infinity_hammer',
-    'industrialforegoing:infinity_trident'
+    'industrialforegoing:infinity_trident',
+
+    "industrialforegoing:fluid_extractor",
+    "industrialforegoing:latex_processing_unit",
+    "industrialforegoing:pitiful_generator",
+    "ad_astra:coal_generator",
+    "ad_astra:compressor"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

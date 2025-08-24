@@ -120,8 +120,6 @@ event.replaceInput(
   '#forge:ingots/uranium'
 )
 //cognition changes
-event.remove("experienceobelisk:mending_neurogel")
-event.remove("experienceobelisk:mending_neurogel_blob")
 event.remove("experienceobelisk:cognitive_flux")
 event.shapeless(
   Item.of("experienceobelisk:cognitive_flux", 4),
@@ -136,7 +134,6 @@ event.shapeless(
 //changes recipes that allow progression skips
 event.remove({input:"superbwarfare:hammer", output:"#forge:dusts"}, {input:"superbwarfare:hammer", output:"#forge:plates"})
 event.remove({input:"immersiveengineering:hammer", output:"#forge:dusts"}, {input:"immersiveengineering:hammer", output:"#forge:plates"})
-event.remove({type:"createdieselgenerators:hammering"})
 event.remove({type:"ad_astra:compressing"})
 });
 
