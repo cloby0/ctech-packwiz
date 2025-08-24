@@ -3857,6 +3857,10 @@ file = "kubejs/data/pneumaticcraft/tags/worldgen/biome/has_underground_oil_lakes
 hash = "149dc642fbdb1f6e1a0bc7bdf23c92cd228d9d75f1b428bba555b65074a06967"
 
 [[files]]
+file = "kubejs/data/silentcompat/silentgear_materials/cumium_ingot.json"
+hash = "c4b50366001ee793889744d6a498afc78614e45c347b0ebee5ba303d02c09c03"
+
+[[files]]
 file = "kubejs/data/supplementaries/worldgen/configured_feature/basalt_ash.json"
 hash = "2fa17f08c132261aeecf3fb793eb5a9fd00e1b69e056d5b24281477154c845bd"
 

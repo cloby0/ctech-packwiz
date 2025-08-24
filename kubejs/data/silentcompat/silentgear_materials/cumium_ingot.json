@@ -1,0 +1,176 @@
+{
+    "type": "silentgear:standard",
+    "simple": true,
+    "harvest_tier": "minecraft:netherite",
+    "availability": {
+      "tier": 5,
+      "categories": [
+        "metal",
+	"organic"
+      ],
+      "visible": true,
+      "gear_blacklist": [],
+      "can_salvage": true
+    },
+    "crafting_items": {
+      "main": {
+        "tag": "forge:ingots/cumium"
+      }
+    },
+    "name": {
+      "text": "The Cumium Ingot"
+    },
+    "stats": {
+      "main": {
+        "durability": 5500.0,
+        "armor_durability": 77.0,
+        "enchantment_value": -30.0,
+        "rarity": 80.0,
+        "charging_value": 1.8,
+        "harvest_speed": 25.0,
+        "melee_damage": 14.0,
+        "magic_damage": 5.0,
+        "attack_speed": 1.0,
+        "attack_speed/axe": 1.0,
+        "attack_speed/knife": 1.0,
+        "attack_speed/dagger": 1.0,
+        "attack_speed/katana": 1.0,
+        "attack_speed/spear": 1.0,
+        "ranged_damage": 6.0,
+        "ranged_speed": 1.0,
+        "projectile_speed": 2.0,
+        "projectile_accuracy": 1.44,
+        "armor": 52.0,
+        "armor/helmet": 9.0,
+        "armor/chestplate": 20.0,
+        "armor/leggings": 15.0,
+        "armor/boots": 9.0,
+        "armor_toughness": 29.0,
+        "magic_armor": 15.0
+      },
+      "rod": {
+        "durability": {
+          "mul1": 326.0
+        },
+        "harvest_speed": {
+          "mul2": 2.0
+        },
+        "melee_damage": {
+          "mul2": 2.0
+        },
+        "ranged_damage": {
+          "mul2": 2.0
+        },
+        "rarity": 40.0
+      },
+     "coating": {
+        "durability": [
+          {
+            "mul2": 2
+          },
+          {
+            "add": 3.0
+          }
+        ],
+        "armor_durability": {
+          "mul2": 2.0
+        },
+        "harvest_speed": {
+          "mul2": 2.0
+        },
+        "melee_damage": {
+          "mul2": 3.0
+        },
+        "attack_speed": {
+          "add": 0.5
+        },
+        "magic_damage": {
+          "mul2": 0.0
+        },
+        "armor/helmet": {
+            "add": 2
+        },
+        "armor/chestplate": {
+            "add": 4
+        },
+        "armor/leggings": {
+            "add": 2
+        },
+        "armor/boots": {
+            "add": 2
+        },
+        "armor_toughness": {
+          "add": 4
+        },
+        "knockback_resistance": {
+          "add": 3.0
+        },
+        "enchantment_value": {
+          "add": 8.0
+        }
+      }
+    },
+    "traits": {
+      "main": [
+        {
+          "name": "silentcompat:jolt_hit",
+          "level": 4,
+          "conditions": [
+            {
+              "type": "silentgear:material_ratio",
+              "ratio": 0.5
+            }
+          ]
+        },
+        {
+          "name": "silentcompat:amplifying",
+          "level": 1,
+          "conditions": [
+            {
+              "type": "silentgear:material_ratio",
+              "ratio": 0.5
+            }
+          ]
+        },
+        {
+            "name": "silentgear:accelerate",
+            "level": 1
+        }
+      ],
+      "rod": [
+        {
+            "name": "silentgear:malleable",
+            "level": 1
+        }
+      ]
+    },
+    "model": {
+      "main/all": [
+        {
+          "texture": "silentgear:main_generic_hc",
+          "color": "#dde1e4"
+        },
+        {
+          "texture": "silentgear:_highlight"
+        }
+      ],
+      "main/fragment": [
+        {
+          "texture": "silentgear:metal",
+          "color": "#dde1e4"
+        }
+      ],
+      "rod/all": [
+        {
+          "texture": "silentgear:rod_generic_hc",
+          "color": "#dde1e4"
+        }
+      ],
+      "rod/part": [
+        {
+          "texture": "silentgear:rod",
+          "color": "#dde1e4"
+        }
+      ]
+    }
+  }
