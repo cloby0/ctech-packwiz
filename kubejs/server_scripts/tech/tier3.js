@@ -441,6 +441,7 @@ ServerEvents.recipes(event => {
     )
 
     //advanced machine frame
+    event.remove({output: "industrialforegoing:machine_frame_advanced"})
     event.custom({
         "type": "industrialforegoing:dissolution_chamber",
   "input": [

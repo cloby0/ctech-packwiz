@@ -54,11 +54,12 @@ ServerEvents.recipes(event => {
                 }}
             )
     //simple machine frame change
+    event.remove({output:"industrialforegoing:machine_frame_simple"})
     event.custom({
          "type": "industrialforegoing:dissolution_chamber",
   "input": [
     {
-      "tag": "immersiveengineering:ingot_hop_graphite"
+      "item": "immersiveengineering:ingot_hop_graphite"
     },
     {
       "tag": "industrialforegoing:machine_frame/pity"

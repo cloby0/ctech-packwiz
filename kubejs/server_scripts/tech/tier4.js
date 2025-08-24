@@ -32,6 +32,7 @@ ServerEvents.recipes(event => {
         }
     )
     //supreme machine frame
+    event.remove({output: "industrialforegoing:machine_frame_supreme"})
     event.custom({
         "type": "industrialforegoing:dissolution_chamber",
   "input": [
@@ -60,7 +61,7 @@ ServerEvents.recipes(event => {
       "item": "mekanism:pellet_antimatter"
     }
   ],
-  "inputFluid": "{Amount:500,FluidName:\"mekanism:antimatter\"}",
+  "inputFluid": "{Amount:500,FluidName:\"mekanismgenerators:fusion_fuel\"}",
   "output": {
     "count": 1,
     "item": "industrialforegoing:machine_frame_supreme"
