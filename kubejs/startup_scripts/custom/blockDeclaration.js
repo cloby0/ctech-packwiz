@@ -13,5 +13,5 @@ StartupEvents.registry('block', event => {
     .tagItem('forge:storage_blocks') // Tag the block with `#minecraft:my_custom_tag` (can have multiple tags)
     .requiresTool(true) // Requires a tool or it won't drop (see tags below)
     .tagBlock('minecraft:mineable/pickaxe') // or a pickaxe
-    .tagBlock('#forge:needs_netherite_tool') // the tool tier must be at least iron
+    .tagBlock('forge:needs_netherite_tool') // the tool tier must be at least iron
 })

@@ -3950,7 +3950,7 @@ hash = "6c23cc4357a54bd6182210791e7f2c01e5dcea543905781a9fd4d0e97ab35ad6"
 
 [[files]]
 file = "kubejs/startup_scripts/custom/blockDeclaration.js"
-hash = "dec30b850f82875283a49a8967a13681356de3aeb7e491913f02fddde0ece25c"
+hash = "16f11e1bdbee5d6ff94c19bee8652b5eedb2c6d5162f747c1130696b87e1cfc3"
 
 [[files]]
 file = "kubejs/startup_scripts/custom/fluidDeclaration.js"
