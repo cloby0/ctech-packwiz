@@ -3878,7 +3878,7 @@ hash = "06cbeb8b657ec5627bdf6b118fe5cb854852d10420565d98719de7117c91d17a"
 
 [[files]]
 file = "kubejs/server_scripts/cumiumIngot/recipes.js"
-hash = "bae8516f66d58e0d44ae8621bf0801f57833e07fc12af628eb990f76273b1f0c"
+hash = "2534f6a54e75ad548c518e3556e1ca00c58623bb99466e2f668fea2416834353"
 
 [[files]]
 file = "kubejs/server_scripts/magic/README_magic.txt"
@@ -3898,7 +3898,7 @@ hash = "6db9aeb77e4348d28fa7e840237eac5ef05c472705d3dced15145c3dddd30c6b"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipeChanges.js"
-hash = "a0c352e6d58d956c1fdcd80cacd2b24a2f1b7f1d89d43e64a8752f379f4d966c"
+hash = "a621c5eb14c872a6e88d9de8680e470517c66b073c18a1d73ab1ce59fb82ac45"
 
 [[files]]
 file = "kubejs/server_scripts/miscTech.js"
@@ -5623,10 +5623,6 @@ hash = "b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8"
 [[files]]
 file = "mods/rftoolsbase-1.20-5.0.5.jar"
 hash = "552eef0bca91ff8c43d4df9f311057d730f0f61b5dbdeff50d919714451c268e"
-
-[[files]]
-file = "mods/rftoolsdim-1.20-11.0.10.jar"
-hash = "ed7eb696e18ac36e8b18536475eae38958b35a0108daad6caab9f27c95c717fd"
 
 [[files]]
 file = "mods/rftoolsutility-1.20-6.0.6.jar"

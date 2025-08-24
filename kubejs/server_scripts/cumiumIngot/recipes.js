@@ -150,60 +150,28 @@ ServerEvents.recipes(event => {
 
 //RECIPES TO USE ***WITH*** THE CUMIUM INGOT
 
-  event.replaceInput(
-    { id: 'mekanism:mekasuit_helmet' }, // Arg 1: the filter
-    'mekanism:basic_induction_cell',            // Arg 2: the item to replace
-    'kubejs:cumium_ingot'         // Arg 3: the item to replace it with
-  )
-  event.replaceInput(
-    { id: 'mekanism:mekasuit_helmet' }, // Arg 1: the filter
-    'minecraft:netherite_helmet',            // Arg 2: the item to replace
-    'pneumaticcraft:pneumatic_helmet'         // Arg 3: the item to replace it with
-  )
-
-  event.replaceInput(
-    { id: 'mekanism:mekasuit_bodyarmor' }, // Arg 1: the filter
-    'mekanism:basic_induction_cell',            // Arg 2: the item to replace
-    'kubejs:cumium_ingot'         // Arg 3: the item to replace it with
-  )
-  event.replaceInput(
-    { id: 'mekanism:mekasuit_bodyarmor' }, // Arg 1: the filter
-    'minecraft:netherite_chestplate',            // Arg 2: the item to replace
-    'pneumaticcraft:pneumatic_chestplate'         // Arg 3: the item to replace it with
-  )
-
-  event.replaceInput(
-    { id: 'mekanism:mekasuit_pants' }, // Arg 1: the filter
-    'mekanism:basic_induction_cell',            // Arg 2: the item to replace
-    'kubejs:cumium_ingot'         // Arg 3: the item to replace it with
-  )
-  event.replaceInput(
-    { id: 'mekanism:mekasuit_pants' }, // Arg 1: the filter
-    'minecraft:netherite_leggings',            // Arg 2: the item to replace
-    'pneumaticcraft:pneumatic_leggings'         // Arg 3: the item to replace it with
-  )
-
-  event.replaceInput(
-    { id: 'mekanism:mekasuit_boots' }, // Arg 1: the filter
-    'mekanism:basic_induction_cell',            // Arg 2: the item to replace
-    'kubejs:cumium_ingot'         // Arg 3: the item to replace it with
-  )
-  event.replaceInput(
-    { id: 'mekanism:mekasuit_boots' }, // Arg 1: the filter
-    'minecraft:netherite_boots',            // Arg 2: the item to replace
-    'pneumaticcraft:pneumatic_boots'         // Arg 3: the item to replace it with
-  )
-
-  event.replaceInput(
-    { id: 'mekanism:meka_tool' }, // Arg 1: the filter
-    'mekanism:basic_induction_cell',            // Arg 2: the item to replace
-    'kubejs:cumium_ingot'         // Arg 3: the item to replace it with
-  )
+  event.remove({id: "industrialforegoing:dissolution_chamber/infinity_nuke"})
   coining(Item.of('industrialforegoing:infinity_nuke', '{CanCharge:1b,Energy:0L,Fluid:{Amount:0,FluidName:"biofuel"},Selected:"POOR",Special:0b}'), 'kubejs:cumium_ingot', 'witherstormmod:formidibomb',  'alexscaves:nuclear_bomb');
 
   event.replaceInput(
-    { id: 'apotheosis:augmenting_table' }, // Arg 1: the filter
-    'minecraft:nether_star',            // Arg 2: the item to replace
-    'kubejs:cumium_ingot'         // Arg 3: the item to replace it with
+    { id: 'apotheosis:augmenting_table' },
+    'minecraft:nether_star',
+    'kubejs:cumium_ingot'
   )
+  
+  event.shaped(Item.of('esotericreforging:esoteric_reforging_table', 1),
+  [
+    ' C ',
+    'BAB',
+    'DDD'
+  ],
+  {
+    A: 'apotheosis:reforging_table',
+    B: 'apotheosis:mythic_material',
+    C: '#forge:ingots/cumium',
+    D: 'rechiseled:netherite_block_bricks'
+  }
+)
+
+
 });
