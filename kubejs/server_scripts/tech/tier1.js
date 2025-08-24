@@ -82,4 +82,10 @@ ServerEvents.recipes(event => {
     //changes/nerfs alternators
     event.replaceInput({ output: "createaddition:alternator"}, "#forge:rods/iron", "create_tank_defenses:steel_casing")
     event.replaceInput({ output: "createaddition:alternator"}, "createaddition:copper_spool", "immersiveengineering:wirecoil_copper")
+
+    //pitiful machine frame
+    event.replaceInput({output:"industrialforegoing:machine_frame_pity"}, "minecraft:redstone_block", "create:precision_mechanism")
+    event.replaceInput({output:"industrialforegoing:machine_frame_pity"}, "minecraft:iron_ingot", "#forge:ingots/steel")
+    event.replaceInput({output:"industrialforegoing:machine_frame_pity"}, "#minecraft:logs", "create:brass_casing")
+    event.replaceInput({input:"industrialforegoing:machine_frame_pity"}, "industrialforegoing:plastic", "#forge:plates/brass")
 })

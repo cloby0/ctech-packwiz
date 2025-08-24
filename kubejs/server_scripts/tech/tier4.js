@@ -31,5 +31,43 @@ ServerEvents.recipes(event => {
             B: "minecraft:bucket"
         }
     )
+    //supreme machine frame
+    event.custom({
+        "type": "industrialforegoing:dissolution_chamber",
+  "input": [
+    {
+      "item": "mekanism:pellet_polonium"
+    },
+    {
+      "tag": "industrialforegoing:machine_frame/advanced"
+    },
+    {
+      "item": "mekanism:pellet_polonium"
+    },
+    {
+      "item": "mekanism:pellet_plutonium"
+    },
+    {
+      "item": "mekanism:pellet_plutonium"
+    },
+    {
+      "item": "mekanism:pellet_antimatter"
+    },
+    {
+      "item": "mekanism:ultimate_control_circuit"
+    },
+    {
+      "item": "mekanism:pellet_antimatter"
+    }
+  ],
+  "inputFluid": "{Amount:500,FluidName:\"mekanism:antimatter\"}",
+  "output": {
+    "count": 1,
+    "item": "industrialforegoing:machine_frame_supreme"
+  },
+  "processingTime": 300
+    })
+
+    event.replaceInput({input:"industrialforegoing:machine_frame_supreme"}, "industrialforegoing:plastic", "mekanism:pellet_antimatter" )
 
 })

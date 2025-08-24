@@ -439,4 +439,42 @@ ServerEvents.recipes(event => {
         'advanced_ae:quantum_processor',
         'mekanism:ultimate_control_circuit'
     )
+
+    //advanced machine frame
+    event.custom({
+        "type": "industrialforegoing:dissolution_chamber",
+  "input": [
+    {
+      "tag": "forge:ingots/signalum"
+    },
+    {
+      "tag": "industrialforegoing:machine_frame/simple"
+    },
+    {
+      "tag": "forge:ingots/signalum"
+    },
+    {
+      "tag": "forge:ingots/enderium"
+    },
+    {
+      "tag": "forge:ingots/enderium"
+    },
+    {
+      "tag": "forge:ingots/lumium"
+    },
+    {
+      "item": "mekanism:basic_control_circuit"
+    },
+    {
+      "tag": "forge:ingots/lumium"
+    }
+  ],
+  "inputFluid": "{Amount:500,FluidName:\"industrialforegoing:pink_slime\"}",
+  "output": {
+    "count": 1,
+    "item": "industrialforegoing:machine_frame_advanced"
+  },
+  "processingTime": 300
+    })
+    event.replaceInput({input:"industrialforegoing:machine_frame_advanced"}, "industrialforegoing:plastic", "mekanism:basic_control_circuit")
 })

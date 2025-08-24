@@ -53,4 +53,41 @@ ServerEvents.recipes(event => {
                     "item":"immersiveengineering:component_electronic_adv"
                 }}
             )
+    //simple machine frame change
+    event.custom({
+         "type": "industrialforegoing:dissolution_chamber",
+  "input": [
+    {
+      "tag": "immersiveengineering:ingot_hop_graphite"
+    },
+    {
+      "tag": "industrialforegoing:machine_frame/pity"
+    },
+    {
+      "item": "immersiveengineering:ingot_hop_graphite"
+    },
+    {
+      "item": "immersiveengineering:plate_duroplast"
+    },
+    {
+      "item": "immersiveengineering:plate_duroplast"
+    },
+    {
+      "item": "immersiveengineering:ingot_hop_graphite"
+    },
+    {
+      "item": "immersiveengineering:component_electronic_adv"
+    },
+    {
+      "item": "immersiveengineering:ingot_hop_graphite"
+    }
+  ],
+  "inputFluid": "{Amount:1000,FluidName:\"immersiveengineering:biodiesel\"}",
+  "output": {
+    "count": 1,
+    "item": "industrialforegoing:machine_frame_simple"
+  },
+  "processingTime": 300
+    })
+  event.replaceInput({input:"industrialforegoing:machine_frame_simple"}, "industrialforegoing:plastic", "immersiveengineering:plate_duroplast")
 })

@@ -2677,10 +2677,6 @@ file = "kubejs/assets/kubejs/textures/mob_effect/zombifying.png"
 hash = "46520b07d2443ebde58e149111963d428f2cc017a61cd93181828d03360d3468"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/quest_images/2025-08-23_13.09.33.png"
-hash = "5ab038bc9a3c7ba07f9e1d162960861936536d45d2bec441f21d3d9f683165b0"
-
-[[files]]
 file = "kubejs/assets/mekanism/lang/en_us.json"
 hash = "7c41c4aa9b6fedd78a37f4754a2415b9170dd8f2530533cabdd60d65ccb872cc"
 
@@ -3902,7 +3898,7 @@ hash = "6db9aeb77e4348d28fa7e840237eac5ef05c472705d3dced15145c3dddd30c6b"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipeChanges.js"
-hash = "d43ab3b5d5e3e209d76bb82ee9acf161599a32fddbe715f72da727bfcbc51f0d"
+hash = "e18b595f32e8f52233d5027549429b0644e2d5a1ccf2478ee56e2b8c9c757109"
 
 [[files]]
 file = "kubejs/server_scripts/miscTech.js"
@@ -3918,23 +3914,23 @@ hash = "6edfcc1df3241c2b52c7d523c87c20b98157f3d34670e2d443429f7fa06fd69b"
 
 [[files]]
 file = "kubejs/server_scripts/tech/detour.js"
-hash = "ef22da2598f38d4d781a07869605b2e1dc4146e24766dced7c5397c646c02b60"
+hash = "47f7ec7d997d79745874e88c15139133e6615153dab77a53262db7169e4413e8"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier1.js"
-hash = "ce589a4b40870a4ff366a937ef7fb24b7918c866259bffba34d767f507858ed7"
+hash = "f0a8a8680ab8d61dfdb0788885c88f8272563390e6a48468cf2ddb0f277fcdb4"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier2.js"
-hash = "e321dd8fa55af039852288e9473e84eea374568c6e754bbe9db4d7f655333354"
+hash = "97818b301272167714ad6732790db0da37effc5421b9565f91d8e9f0303a96a6"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier3.js"
-hash = "e96b695d58ba9d4add394bc5cc4f1fa5c8eb86cac6889a48a3a7bbf1a7efe478"
+hash = "9dbf3b30a802855e0456e432b86fc7660967ffc02334d9174738b6cb2ad28647"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier4.js"
-hash = "101c400c600e56b876a3e866079cc179e749c9326c57e649cae0e2c36fa7c053"
+hash = "b39e7ef39b0197522393cbc75e9f8e50eafbe59660b7cec5b51af57f00a0862f"
 
 [[files]]
 file = "kubejs/startup_scripts/alteration/meth.js"

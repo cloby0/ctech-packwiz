@@ -133,6 +133,10 @@ event.shapeless(
     "irons_spellbooks:arcane_essence"
   ]
 )
-
+//changes recipes that allow progression skips
+event.remove({input:"superbwarfare:hammer", output:"#forge:dusts"}, {input:"superbwarfare:hammer", output:"#forge:plates"})
+event.remove({input:"immersiveengineering:hammer", output:"#forge:dusts"}, {input:"immersiveengineering:hammer", output:"#forge:plates"})
+event.remove({type:"createdieselgenerators:hammering"})
+event.remove({type:"ad_astra:compressing"})
 });
 

@@ -34,4 +34,41 @@ ServerEvents.recipes(event => {
             }
         ]
   });
+
+    //advanced machine frame
+    event.custom({
+    "type": "industrialforegoing:dissolution_chamber",
+  "input": [
+    {
+      "item": "pneumaticcraft:plastic"
+    },
+    {
+      "tag": "industrialforegoing:machine_frame/simple"
+    },
+    {
+      "item": "pneumaticcraft:plastic"
+    },
+    {
+      "item": "pneumaticcraft:transistor"
+    },
+    {
+      "item": "pneumaticcraft:transistor"
+    },
+    {
+      "item": "pneumaticcraft:capacitor"
+    },
+    {
+      "item": "forge:gears/diamond"
+    },
+    {
+      "item": "pneumaticcraft:capacitor"
+    }
+  ],
+  "inputFluid": "{Amount:500,FluidName:\"industrialforegoing:pink_slime\"}",
+  "output": {
+    "count": 1,
+    "item": "industrialforegoing:machine_frame_advanced"
+  },
+  "processingTime": 300
+  })
   })
