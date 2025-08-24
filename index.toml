@@ -4555,6 +4555,11 @@ file = "mods/botarium-forge-1.20.1-2.3.4.jar"
 hash = "470810a364ff4ad4d4fcd4e55798263938fc893970eacecc58e8b741a392b1cf"
 
 [[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "dcfcb5a0d4132f1baa0f66e824531d1bbcb77c1b7ca2b5d3497514e233564dd8"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "dc45e2a3431d818f9bb2b7217a62e62ec8f455ca37b9f4f35947d2c442bad42b"
 metafile = true
@@ -4668,6 +4673,11 @@ metafile = true
 [[files]]
 file = "mods/cobblegen.pw.toml"
 hash = "3bebbeed1ce73064dadc4814b103c3e859dd550cd7f648077fbff2bef5e2b5de"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
 metafile = true
 
 [[files]]
@@ -4862,6 +4872,11 @@ hash = "00f20efea12ea981b8d75e257a136c08e0c00c324554e69cf20193376c942e97"
 [[files]]
 file = "mods/doubledoors-1.20.1-5.9.jar"
 hash = "b4308561bae59657e5f80f82ea98bacd0e71c1626ef105e46f412dea92d2a2cb"
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+hash = "2ded5af656d072e9d4f33fa02687639b7fe3d3bcd289cd0d161299d7c6d117df"
+metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
