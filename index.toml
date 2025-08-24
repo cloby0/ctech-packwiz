@@ -618,7 +618,7 @@ hash = "270478924d8bc8bfb4aa2e6a2036682fc4b3e66caafd46da821ca812d84afa88"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "46e4bfd57cbde263d4fc1031d10a07ad006c0720c578e09122ffa1dec8aac689"
+hash = "e54b56d195dc6bcf54cda3cae03ec3b73a194fc19c578fb385e53cd0f24a1452"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -3898,7 +3898,7 @@ hash = "6db9aeb77e4348d28fa7e840237eac5ef05c472705d3dced15145c3dddd30c6b"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipeChanges.js"
-hash = "e18b595f32e8f52233d5027549429b0644e2d5a1ccf2478ee56e2b8c9c757109"
+hash = "a0c352e6d58d956c1fdcd80cacd2b24a2f1b7f1d89d43e64a8752f379f4d966c"
 
 [[files]]
 file = "kubejs/server_scripts/miscTech.js"

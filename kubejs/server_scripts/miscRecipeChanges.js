@@ -132,8 +132,10 @@ event.shapeless(
   ]
 )
 //changes recipes that allow progression skips
-event.remove({input:"superbwarfare:hammer", output:"#forge:dusts"}, {input:"superbwarfare:hammer", output:"#forge:plates"})
-event.remove({input:"immersiveengineering:hammer", output:"#forge:dusts"}, {input:"immersiveengineering:hammer", output:"#forge:plates"})
-event.remove({type:"ad_astra:compressing"})
+event.remove({input:"superbwarfare:hammer", output:"#forge:dusts"})
+event.remove({input:"superbwarfare:hammer", output:"#forge:plates"})
+event.remove({input:"immersiveengineering:hammer", output:"#forge:dusts"})
+event.remove({input:"immersiveengineering:hammer", output:"#forge:plates"})
+event.remove({type: "ad_astra:compressing"})
 });
 
