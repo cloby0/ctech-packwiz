@@ -11,6 +11,9 @@ ServerEvents.tags('item', event => {
     event.add('forge:nuggets', 'mekanism:pure_osmium_nugget')
     event.add('forge:nuggets/pure_osmium', 'mekanism:pure_osmium_nugget')
 
+    event.add('forge:plates', /^forge:plates/)
+
+
     event.add('forge:gems', 'create:rose_quartz')
 
     event.remove('forge:gems/uranium', 'alexscaves:uranium')
