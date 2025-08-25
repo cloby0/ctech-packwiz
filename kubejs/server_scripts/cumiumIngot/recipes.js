@@ -146,6 +146,22 @@ ServerEvents.recipes(event => {
   "#forge:ingots/signalum"
   ])
 
+  event.shapeless("kubejs:cumium_ingot", [
+    "9x kubejs:cumium_nugget"
+  ])
+  event.shapeless(
+    Item.of('kubejs:cumium_nugget', 9), [
+    "kubejs:cumium_ingot"
+  ])
+
+  event.shapeless("kubejs:cumium_block", [
+    "9x kubejs:cumium_ingot"
+  ])
+  event.shapeless(
+    Item.of('kubejs:cumium_ingot', 9), [
+    "kubejs:cumium_block"
+  ])
+
 
 
 //RECIPES TO USE ***WITH*** THE CUMIUM INGOT
