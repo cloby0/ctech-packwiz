@@ -160,16 +160,25 @@ ServerEvents.recipes(event => {
   )
 
   event.replaceInput(
+    { not: { output: 'draconicevolution:draconium_nugget'}},
+    { not: { output: 'draconicevolution:draconium_ingot'}},
+    { not: { output: 'draconicevolution:draconium_block'}},
     { input: 'draconicevolution:draconium_ingot' },
     'draconicevolution:draconium_ingot',
     'kubejs:cumium_ingot'
   )
   event.replaceInput(
+    { not: { output: 'draconicevolution:draconium_nugget'}},
+    { not: { output: 'draconicevolution:draconium_ingot'}},
+    { not: { output: 'draconicevolution:draconium_block'}},
     { input: 'draconicevolution:draconium_nugget' },
     'draconicevolution:draconium_nugget',
     'kubejs:cumium_nugget'
   )
   event.replaceInput(
+    { not: { output: 'draconicevolution:draconium_nugget'}},
+    { not: { output: 'draconicevolution:draconium_ingot'}},
+    { not: { output: 'draconicevolution:draconium_block'}},
     { input: 'draconicevolution:draconium_block' },
     'draconicevolution:draconium_block',
     'kubejs:cumium_block'

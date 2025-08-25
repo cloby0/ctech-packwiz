@@ -3886,7 +3886,7 @@ hash = "06cbeb8b657ec5627bdf6b118fe5cb854852d10420565d98719de7117c91d17a"
 
 [[files]]
 file = "kubejs/server_scripts/cumiumIngot/recipes.js"
-hash = "c379b8fefdc10d59c49e584e695c6144a9a608d65434697277e250fd61fd4bb2"
+hash = "b364a4ac9b15c483f4f369897ae6c9523b75f23f26b69cfd4547a78d2098c7a5"
 
 [[files]]
 file = "kubejs/server_scripts/magic/README_magic.txt"
