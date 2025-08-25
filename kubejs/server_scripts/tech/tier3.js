@@ -1,19 +1,21 @@
 ServerEvents.recipes(event => {
-    event.shapeless("kubejs:pure_osmium_ingot", [
-        "9x kubejs:pure_osmium_nugget"
-    ])
-    event.shapeless(
-        Item.of('kubejs:pure_osmium_nugget', 9), [
-        "kubejs:pure_osmium_ingot"
-    ])
 
-    event.shapeless("kubejs:pure_osmium_block", [
-        "9x kubejs:pure_osmium_ingot"
-    ])
-    event.shapeless(
-        Item.of('kubejs:pure_osmium_ingot', 9), [
-        "kubejs:pure_osmium_block"
-    ])
+  event.shapeless("mekanism:pure_osmium_ingot", [
+    "9x mekanism:pure_osmium_nugget"
+  ])
+  event.shapeless(
+    Item.of('mekanism:pure_osmium_nugget', 9), [
+    "mekanism:pure_osmium_ingot"
+  ])
+
+  event.shapeless("mekanism:pure_osmium_block", [
+    "9x mekanism:pure_osmium_ingot"
+  ])
+  event.shapeless(
+    Item.of('mekanism:pure_osmium_ingot', 9), [
+    "mekanism:pure_osmium_block"
+  ])
+
     //new thermal part recipes
     event.remove({ id: 'thermal:rf_coil' })
     event.remove({ id: 'thermal:redstone_servo' })

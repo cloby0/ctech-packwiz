@@ -3906,7 +3906,7 @@ hash = "6db9aeb77e4348d28fa7e840237eac5ef05c472705d3dced15145c3dddd30c6b"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipeChanges.js"
-hash = "a621c5eb14c872a6e88d9de8680e470517c66b073c18a1d73ab1ce59fb82ac45"
+hash = "558d6496da7534a015e460077d6ed21022b40e2d912fe7b3aa282ab3fac506a4"
 
 [[files]]
 file = "kubejs/server_scripts/miscTech.js"
@@ -3934,7 +3934,7 @@ hash = "2d9f83a85ae6844846fd27f4bfbf18a18b0520488fea786dc6415e7cc2e8053a"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier3.js"
-hash = "a826d58bb648c848fd7552804918a59a99001fd3381bf93e95d5c45992890e4e"
+hash = "db7eb6289bde9333e2e3d1e5ad1a4bae5642c085040aec3571b0d23b0b337603"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier4.js"
@@ -5202,11 +5202,6 @@ hash = "222af346b8936d3273ec3fa5ad56a4fe44ecacf65230523b306d21e7128ad57e"
 metafile = true
 
 [[files]]
-file = "mods/immersive-portals-for-forge.pw.toml"
-hash = "3f39a4de2aa2f99842f2cbb3cc3af2d19335cc57c1ce52a26fb985cd937ec311"
-metafile = true
-
-[[files]]
 file = "mods/industrial-foregoing-1.20.1-3.5.19.jar"
 hash = "f2860cb5fb96ef73b780d3bb53834a235e2bbdeb6b312b644d430e2772d64c28"
 
@@ -5562,10 +5557,6 @@ hash = "b2d80eca0c25898e06f91eec8c8eb934ad3ac7a3c7c3963982b142918ed5c666"
 [[files]]
 file = "mods/polymorph-forge-0.49.8+1.20.1.jar"
 hash = "c5384788f354effb9866a9a084c521bb3e05d246690765e1130a2778efd49ba4"
-
-[[files]]
-file = "mods/portalgun-6.1.2+1.20.1.jar"
-hash = "bf56cfb0112fc9bd46a229b19ab63f7ac5ae80d54e80c638a245b98d15190e11"
 
 [[files]]
 file = "mods/probejs-6.0.1-forge.jar"

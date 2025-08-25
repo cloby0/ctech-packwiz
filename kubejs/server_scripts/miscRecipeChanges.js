@@ -137,9 +137,6 @@ event.remove({input:"superbwarfare:hammer", output:"#forge:plates"})
 event.remove({input:"immersiveengineering:hammer", output:"#forge:dusts"})
 event.remove({input:"immersiveengineering:hammer", output:"#forge:plates"})
 event.remove({type: "ad_astra:compressing"})
-
-ServerEvents.recipes(event => {
-
   //replace all usage of polymer place with plastic
 event.remove({ output: 'alexscaves:polymer_plate' })
 event.replaceInput(
@@ -309,8 +306,5 @@ event.replaceInput(
       'minecraft:white_wool'
     ]
   )
-});
-
-
 });
 
