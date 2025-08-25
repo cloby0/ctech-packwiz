@@ -3886,7 +3886,7 @@ hash = "06cbeb8b657ec5627bdf6b118fe5cb854852d10420565d98719de7117c91d17a"
 
 [[files]]
 file = "kubejs/server_scripts/cumiumIngot/recipes.js"
-hash = "a4b27c312bc4ceabca9f77e7762246f37119223de296365c6006de0e3a38ef9e"
+hash = "22e365d2249ad6928bec234b5fd2599557de64c04285d4f67a81b439d41d1658"
 
 [[files]]
 file = "kubejs/server_scripts/magic/README_magic.txt"
@@ -3934,7 +3934,7 @@ hash = "2d9f83a85ae6844846fd27f4bfbf18a18b0520488fea786dc6415e7cc2e8053a"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier3.js"
-hash = "981cd0fb062a0149c63f762d61a1e31f954884c22312b469bc3e34bcab5929a8"
+hash = "a826d58bb648c848fd7552804918a59a99001fd3381bf93e95d5c45992890e4e"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier4.js"
@@ -3958,7 +3958,7 @@ hash = "dac92c5cf1cd382c99994b5fc77401e66f51ba9f752454620fb9e17d8e9556ca"
 
 [[files]]
 file = "kubejs/startup_scripts/custom/itemDeclaration.js"
-hash = "186632dd785120269b91360b8b33402cc36569274f19c63389af9fab9e7484e7"
+hash = "423d42f6bb144f61e595d4f5e612b02a6761b4855d1009674db9154f260618b6"
 
 [[files]]
 file = "mods/AE2-Things-1.2.1.jar"

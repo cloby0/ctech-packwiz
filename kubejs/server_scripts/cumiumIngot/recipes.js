@@ -29,7 +29,8 @@ ServerEvents.recipes(event => {
       "kubejs:overworld_coin",
       "kubejs:twilight_coin",
       "kubejs:space_coin",
-      "kubejs:end_coin"
+      "kubejs:end_coin",
+      "kubejs:rat_coin"
 ])
 
   //refined cumium alloy -> unforged cumium alloy
@@ -176,29 +177,46 @@ ServerEvents.recipes(event => {
   )
 
   event.replaceInput(
-    { not: { output: 'draconicevolution:draconium_nugget'}},
-    { not: { output: 'draconicevolution:draconium_ingot'}},
-    { not: { output: 'draconicevolution:draconium_block'}},
-    { input: 'draconicevolution:draconium_ingot' },
+    {
+      not: {
+        output: [
+          'draconicevolution:draconium_nugget',
+          'draconicevolution:draconium_ingot',
+          'draconicevolution:draconium_block'
+        ]
+      }
+    },
     'draconicevolution:draconium_ingot',
-    'kubejs:cumium_ingot'
-  )
-  event.replaceInput(
-    { not: { output: 'draconicevolution:draconium_nugget'}},
-    { not: { output: 'draconicevolution:draconium_ingot'}},
-    { not: { output: 'draconicevolution:draconium_block'}},
-    { input: 'draconicevolution:draconium_nugget' },
-    'draconicevolution:draconium_nugget',
     'kubejs:cumium_nugget'
   )
   event.replaceInput(
-    { not: { output: 'draconicevolution:draconium_nugget'}},
-    { not: { output: 'draconicevolution:draconium_ingot'}},
-    { not: { output: 'draconicevolution:draconium_block'}},
-    { input: 'draconicevolution:draconium_block' },
+    {
+      not: {
+        output: [
+          'draconicevolution:draconium_nugget',
+          'draconicevolution:draconium_ingot',
+          'draconicevolution:draconium_block'
+        ]
+      }
+    },
+    'draconicevolution:draconium_ingot',
+    'kubejs:cumium_ingot'
+  )
+
+  event.replaceInput(
+    {
+      not: {
+        output: [
+          'draconicevolution:draconium_nugget',
+          'draconicevolution:draconium_ingot',
+          'draconicevolution:draconium_block'
+        ]
+      }
+    },
     'draconicevolution:draconium_block',
     'kubejs:cumium_block'
   )
+  
   
   event.shaped(Item.of('esotericreforging:esoteric_reforging_table', 1),
   [

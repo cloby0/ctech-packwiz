@@ -94,6 +94,7 @@ StartupEvents.registry('item', e => {
 
   e.create('unfinished_rat_coin')
     .displayName('The Prodigal Cheese')
+    .rarity('rare')
 
   e.create('wonder_jewel')
     .displayName("Wonder Jewel")
