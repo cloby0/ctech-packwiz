@@ -469,6 +469,10 @@ file = "config/ars_nouveau/wololo.toml"
 hash = "978214f42431cd238adc4e732695e23beaf46a07b5d50f66ea92de38f3e38458"
 
 [[files]]
+file = "config/brandon3055/DraconicEvolution.cfg"
+hash = "da65854c29f469ee6f7bdcbaa2c3db044e6d178940997a45c39594178f962027"
+
+[[files]]
 file = "config/cobblegenrandomizer-common.toml"
 hash = "11fcdbe8f2d46defe15101836c4f160338b445b15fd6d6dfe161c6e30297b49e"
 
@@ -3886,7 +3890,7 @@ hash = "06cbeb8b657ec5627bdf6b118fe5cb854852d10420565d98719de7117c91d17a"
 
 [[files]]
 file = "kubejs/server_scripts/cumiumIngot/recipes.js"
-hash = "22e365d2249ad6928bec234b5fd2599557de64c04285d4f67a81b439d41d1658"
+hash = "ee2690b3ac81f625afb1cd8284bf78240092303649ac27116600936bd4c1f435"
 
 [[files]]
 file = "kubejs/server_scripts/magic/README_magic.txt"
@@ -3898,7 +3902,7 @@ hash = "9ab650c87ad870444d813f259eaf1d0adbeda5aa1c3bd57c5ef840fc1720afcb"
 
 [[files]]
 file = "kubejs/server_scripts/magic/mana/recipeChanges.js"
-hash = "1cfed301a6332474fba4dc333d18a70f95ea8063064b27a065a802a9d649a58e"
+hash = "6b388bc7a3ef87437b989f888c5fea03f2736b3fd8b7d4e61f09857cbf01974f"
 
 [[files]]
 file = "kubejs/server_scripts/magic/source/recipeChanges.js"
