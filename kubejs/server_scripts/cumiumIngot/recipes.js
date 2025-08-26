@@ -179,6 +179,9 @@ ServerEvents.recipes(event => {
   event.replaceInput(
     {
       not: {
+        input: [
+          '#forge:ingots'
+        ],
         output: [
           'draconicevolution:draconium_nugget',
           'draconicevolution:draconium_ingot',
@@ -186,12 +189,15 @@ ServerEvents.recipes(event => {
         ]
       }
     },
-    'draconicevolution:draconium_ingot',
+    'draconicevolution:draconium_nugget',
     'kubejs:cumium_nugget'
   )
   event.replaceInput(
     {
       not: {
+        input: [
+          '#forge:ingots'
+        ],
         output: [
           'draconicevolution:draconium_nugget',
           'draconicevolution:draconium_ingot',
@@ -206,6 +212,9 @@ ServerEvents.recipes(event => {
   event.replaceInput(
     {
       not: {
+        input: [
+          '#forge:ingots'
+        ],
         output: [
           'draconicevolution:draconium_nugget',
           'draconicevolution:draconium_ingot',
