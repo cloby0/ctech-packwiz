@@ -1,0 +1,13 @@
+name = "Simple Clouds"
+filename = "simpleclouds-0.7.3+1.20.1-forge-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73a2d9a17d3052ea51d68c3213246d9543be3230"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6928978
+project-id = 1121215
