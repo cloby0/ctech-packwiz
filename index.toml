@@ -5717,11 +5717,6 @@ file = "mods/silents-gems-1.20.1-4.7.0.jar"
 hash = "f02508a3f80eb903bdd2fddc2743fd6c9b2082992e31530b21850b367286009e"
 
 [[files]]
-file = "mods/simple-clouds.pw.toml"
-hash = "5b8e9b68de4791fc875de20080977ea4103f5da72adc3a4ff9e541992b24826a"
-metafile = true
-
-[[files]]
 file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
 hash = "9fa1c699ea7c78033b058f50f7ca9c9cd2fee74323d1ebdc61a04e03e27224bc"
 metafile = true
