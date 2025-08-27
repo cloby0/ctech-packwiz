@@ -5732,6 +5732,11 @@ file = "mods/simplylight-1.20.1-1.4.6-build.50.jar"
 hash = "893c67fb4bbafee6e3208ba34bf60e2d6f17f4f9efdb6d1f12baa4052d8ddd10"
 
 [[files]]
+file = "mods/slots-machine.pw.toml"
+hash = "578f94d98b31e8c75e4c9f38821fceefd7ed64da78bd05ea41f9a2ab0cd7b80f"
+metafile = true
+
+[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
 metafile = true
@@ -5840,6 +5845,11 @@ file = "mods/thermal_locomotion-1.20.1-11.0.1.19.jar"
 hash = "45565603b45eeac7df4a1c6dd36afb600a52f2c334be336260c357d7563e0682"
 
 [[files]]
+file = "mods/threetag-palladium.pw.toml"
+hash = "c5952425b3efa9ea551d981624f26d9c3be7c43444a23609fcc1037cd36a2074"
+metafile = true
+
+[[files]]
 file = "mods/tia-1.20-1.1-forge.jar"
 hash = "302d28743e33ca1a889cc2c89453cdb4433c61de0472550ac6ae334fae389da7"
 
@@ -5863,6 +5873,11 @@ hash = "6e1cba48ec4f62c7452357c603af64afe705984895dcb2e46c6e83c47119f0a9"
 [[files]]
 file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
+
+[[files]]
+file = "mods/unorthodox.pw.toml"
+hash = "ef2558bc9067dc0186893eead9d0490837534d7a7082066c8472f08d88d9532e"
+metafile = true
 
 [[files]]
 file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"

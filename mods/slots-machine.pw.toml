@@ -1,0 +1,13 @@
+name = "Slots Machine"
+filename = "slotmachinemod-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6d98976c8bf956967373ca48d2d3f7e6b915cde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5460910
+project-id = 1009453
