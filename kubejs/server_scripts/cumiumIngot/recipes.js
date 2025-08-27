@@ -35,7 +35,6 @@ ServerEvents.recipes(event => {
 
   //refined cumium alloy -> unforged cumium alloy
   event.recipes.create.mixing('kubejs:unforged_cumium_alloy', [
-    'draconicevolution:draconium_ingot',
     'biomancy:breeding_stimulant',
     'kubejs:refined_cumium_alloy',
     Fluid.of('kubejs:cum', 1000)
@@ -144,7 +143,8 @@ ServerEvents.recipes(event => {
   'mekanism:pellet_antimatter',
   "#forge:ingots/enderium",
   "#forge:ingots/lumium", 	//arg 2: the array of inputs
-  "#forge:ingots/signalum"
+  "#forge:ingots/signalum",
+  "#forge:ingots/draconium"
   ])
 
   event.shapeless("kubejs:cumium_ingot", [
@@ -179,50 +179,47 @@ ServerEvents.recipes(event => {
   event.replaceInput(
     {
       not: {
-        input: [
-          '#forge:ingots'
-        ],
         output: [
-          'draconicevolution:draconium_nugget',
-          'draconicevolution:draconium_ingot',
-          'draconicevolution:draconium_block'
+          '#forge:nuggets/draconium',
+          '#forge:ingots/draconium',
+          '#forge:storage_blocks/draconium',
+          "advanced_ae:adv_pattern_provider_upgrade",
+          "advanced_ae:adv_pattern_provider_capactity_upgrade",
         ]
       }
     },
-    'draconicevolution:draconium_nugget',
+    '#forge:nuggets/draconium',
     'kubejs:cumium_nugget'
   )
   event.replaceInput(
     {
       not: {
-        input: [
-          '#forge:ingots'
-        ],
         output: [
-          'draconicevolution:draconium_nugget',
-          'draconicevolution:draconium_ingot',
-          'draconicevolution:draconium_block'
+          '#forge:nuggets/draconium',
+          '#forge:ingots/draconium',
+          '#forge:storage_blocks/draconium',
+          "advanced_ae:adv_pattern_provider_upgrade",
+          "advanced_ae:adv_pattern_provider_capactity_upgrade",
         ]
       }
     },
-    'draconicevolution:draconium_ingot',
+    '#forge:ingots/draconium',
     'kubejs:cumium_ingot'
   )
 
   event.replaceInput(
     {
       not: {
-        input: [
-          '#forge:ingots'
-        ],
         output: [
-          'draconicevolution:draconium_nugget',
-          'draconicevolution:draconium_ingot',
-          'draconicevolution:draconium_block'
+          '#forge:nuggets/draconium',
+          '#forge:ingots/draconium',
+          '#forge:storage_blocks/draconium',
+          "advanced_ae:adv_pattern_provider_upgrade",
+          "advanced_ae:adv_pattern_provider_capactity_upgrade",
         ]
       }
     },
-    'draconicevolution:draconium_block',
+    '#forge:storage_blocks/draconium',
     'kubejs:cumium_block'
   )
   
