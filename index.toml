@@ -4325,6 +4325,10 @@ file = "mods/TreeChop-1.20.1-forge-0.19.0-fixed.jar"
 hash = "219fbe5bf8d862dc7b524ca5a0151f66bba4d53a01010858e136a9e8c4d55d4f"
 
 [[files]]
+file = "mods/UnOrthodox-9.0.0.jar"
+hash = "c2f02b1d72aede88d1481d7e8d17a684ea9c44d8298ac1e553c54225f2bbae2f"
+
+[[files]]
 file = "mods/[forge]ctov-3.4.10.jar"
 hash = "8afc22c9b75fbece285b5d0945f4d34bc8fc1ee0c45c8c4ec520ea0c8009632f"
 
@@ -5873,11 +5877,6 @@ hash = "6e1cba48ec4f62c7452357c603af64afe705984895dcb2e46c6e83c47119f0a9"
 [[files]]
 file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
-
-[[files]]
-file = "mods/unorthodox.pw.toml"
-hash = "ef2558bc9067dc0186893eead9d0490837534d7a7082066c8472f08d88d9532e"
-metafile = true
 
 [[files]]
 file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
