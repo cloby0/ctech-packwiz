@@ -177,48 +177,57 @@ ServerEvents.recipes(event => {
   )
 
   event.replaceInput(
-    {
-      not: {
-        output: [
-          '#forge:nuggets/draconium',
-          '#forge:ingots/draconium',
-          '#forge:storage_blocks/draconium',
-          "advanced_ae:adv_pattern_provider_upgrade",
-          "advanced_ae:adv_pattern_provider_capactity_upgrade",
-        ]
+  {
+    and: [
+      { mod: 'draconicevolution' },
+      {
+        not: {
+          output: [
+            'draconicevolution:draconium_nugget',
+            'draconicevolution:draconium_ingot',
+            'draconicevolution:draconium_block'
+          ]
+        }
       }
-    },
+    ]
+  },
     '#forge:nuggets/draconium',
     'kubejs:cumium_nugget'
   )
   event.replaceInput(
-    {
-      not: {
-        output: [
-          '#forge:nuggets/draconium',
-          '#forge:ingots/draconium',
-          '#forge:storage_blocks/draconium',
-          "advanced_ae:adv_pattern_provider_upgrade",
-          "advanced_ae:adv_pattern_provider_capactity_upgrade",
-        ]
+  {
+    and: [
+      { mod: 'draconicevolution' },
+      {
+        not: {
+          output: [
+            'draconicevolution:draconium_nugget',
+            'draconicevolution:draconium_ingot',
+            'draconicevolution:draconium_block'
+          ]
+        }
       }
-    },
+    ]
+  },
     '#forge:ingots/draconium',
     'kubejs:cumium_ingot'
   )
 
   event.replaceInput(
-    {
-      not: {
-        output: [
-          '#forge:nuggets/draconium',
-          '#forge:ingots/draconium',
-          '#forge:storage_blocks/draconium',
-          "advanced_ae:adv_pattern_provider_upgrade",
-          "advanced_ae:adv_pattern_provider_capactity_upgrade",
-        ]
+  {
+    and: [
+      { mod: 'draconicevolution' },
+      {
+        not: {
+          output: [
+            'draconicevolution:draconium_nugget',
+            'draconicevolution:draconium_ingot',
+            'draconicevolution:draconium_block'
+          ]
+        }
       }
-    },
+    ]
+  },
     '#forge:storage_blocks/draconium',
     'kubejs:cumium_block'
   )

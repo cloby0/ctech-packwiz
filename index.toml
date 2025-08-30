@@ -3890,7 +3890,7 @@ hash = "06cbeb8b657ec5627bdf6b118fe5cb854852d10420565d98719de7117c91d17a"
 
 [[files]]
 file = "kubejs/server_scripts/cumiumIngot/recipes.js"
-hash = "226a220b399832d57cfce9bc40e3ef63cd4a5fd182c36c26310c1d1592893f89"
+hash = "dc0bc0f2756fc2dcfb07aa92351d96ca5bbad7035e26d1799a4c57b737cca77d"
 
 [[files]]
 file = "kubejs/server_scripts/magic/README_magic.txt"
@@ -3923,6 +3923,10 @@ hash = "33d372640f02fcb318468981999eba204288980854343d4615ae7ae312ba1d7e"
 [[files]]
 file = "kubejs/server_scripts/tags.js"
 hash = "a354e950015b2df28f714ed7988d3c053539e1f60607ea8119ffb9af5111241b"
+
+[[files]]
+file = "kubejs/server_scripts/tech/chemistry.js"
+hash = "95a1d9d415e3a56806ff31e8117a35ca6061c384b15bfaffcd8eec9411428b13"
 
 [[files]]
 file = "kubejs/server_scripts/tech/detour.js"
@@ -4348,6 +4352,21 @@ hash = "634efb4797404ecac183301afec7bbe96593ba56228ab25fa30b2a7805be88cb"
 metafile = true
 
 [[files]]
+file = "mods/ae2-alchemistry-addon.pw.toml"
+hash = "411b6ecdfd9884e3c232482b72b0504739fb239356a590ab07c91f8487a05b41"
+metafile = true
+
+[[files]]
+file = "mods/ae2-mega-things.pw.toml"
+hash = "d51a624a969371b36050a8e8a13a65f3ce4ca3bb95735efcdf0f22fea04fd305"
+metafile = true
+
+[[files]]
+file = "mods/ae2-network-analyser.pw.toml"
+hash = "59b441c02123a358b138b0e1421fdb085b8138392f2a65ff479e09d3f10098f2"
+metafile = true
+
+[[files]]
 file = "mods/ae2insertexportcard-1.20.1-1.3.0.jar"
 hash = "329dff2184edc476e7261b073f17239015636543a22c16df1161fafe547d6b1c"
 
@@ -4455,6 +4474,11 @@ hash = "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "2477a2166d3514dcba5ca03f7f14edab215b98ec8e06ccdfd1330fe9b6a2eb75"
+metafile = true
+
+[[files]]
+file = "mods/applied-flux.pw.toml"
+hash = "bb77661edbfb01aeff3b4e890ab2ac738597993df613993832e0627486850a50"
 metafile = true
 
 [[files]]
