@@ -4472,6 +4472,11 @@ file = "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
 hash = "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "ce0e9fa014aa89feba5a400cdf445299f7c1450fff978b15dbd72fbc8cec7552"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "2477a2166d3514dcba5ca03f7f14edab215b98ec8e06ccdfd1330fe9b6a2eb75"
 metafile = true
@@ -4804,6 +4809,11 @@ hash = "2939fd6ca8211c283d1606b140951d543880d5f5843c26b4f87c85ef8e34259d"
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "f09161c0a013e3fdef2f6ee981cd68c29dc7801228bae9ebc16959e75bd38596"
+metafile = true
+
+[[files]]
+file = "mods/crazy-ae2-addons.pw.toml"
+hash = "3d3c7a5c7154c4a11c002b2539505b999f2879c95064903a95d92cfb4916d325"
 metafile = true
 
 [[files]]
@@ -5150,8 +5160,9 @@ file = "mods/furnish-26-forge.jar"
 hash = "0cf5ecebce8e9d67406b6e854b4f2dd107e1009adaa132e616f8aa48bfc0fecc"
 
 [[files]]
-file = "mods/fusion-1.2.2-forge-mc1.20.1.jar"
-hash = "34941a217cae9b00fc9167a27343331abd9515a6da0a0859f9d78f45f4019601"
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "e17f96677912ca1e42ab05ba1e959226c7b5244f6a24eb573ace63f57e6c222f"
+metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
