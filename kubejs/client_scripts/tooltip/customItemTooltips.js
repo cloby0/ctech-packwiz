@@ -79,7 +79,7 @@ ItemEvents.tooltip(tooltip => {
   })
 
     tooltip.addAdvanced('kubejs:rat_coin', (item, advanced, text) =>{
-    text.add(1, Text.Yellow('The vermin fall to your hand.'))
+    text.add(1, Text.yellow('The vermin fall to your hand.'))
     text.add(2, Text.darkGray('Ratlantis'))
   })
 

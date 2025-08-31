@@ -1,0 +1,13 @@
+name = "Theft"
+filename = "theft-1.5.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7bb104ada86566a5dd8f8c067c9f523f0212e63f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5248410
+project-id = 666268

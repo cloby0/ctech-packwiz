@@ -179,9 +179,7 @@ ServerEvents.recipes(event => {
   event.replaceInput(
   {
     and: [
-      { mod: 'draconicevolution' },
-      {
-        not: {
+      { mod: 'draconicevolution', not: {
           output: [
             'draconicevolution:draconium_nugget',
             'draconicevolution:draconium_ingot',
@@ -197,9 +195,7 @@ ServerEvents.recipes(event => {
   event.replaceInput(
   {
     and: [
-      { mod: 'draconicevolution' },
-      {
-        not: {
+      { mod: 'draconicevolution', not: {
           output: [
             'draconicevolution:draconium_nugget',
             'draconicevolution:draconium_ingot',
@@ -216,10 +212,7 @@ ServerEvents.recipes(event => {
   event.replaceInput(
   {
     and: [
-      { mod: 'draconicevolution' },
-      {
-        not: {
-          output: [
+      { mod: 'draconicevolution', not: {output: [
             'draconicevolution:draconium_nugget',
             'draconicevolution:draconium_ingot',
             'draconicevolution:draconium_block'

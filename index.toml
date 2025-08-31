@@ -2750,7 +2750,7 @@ hash = "554a2a66fc6c8318c2fb454af30e54939770820b7061e10eecf4977cfa22989f"
 
 [[files]]
 file = "kubejs/client_scripts/tooltip/customItemTooltips.js"
-hash = "dfc3b7feac2503633de22c487dfc6c1b028c721ae79ca0bee64ef35c9ff9ff9a"
+hash = "43be1ffd540d4a1fe9832c8c1b547bfdb439efc0f127311941f7a97a45aaf9f1"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -3890,7 +3890,7 @@ hash = "06cbeb8b657ec5627bdf6b118fe5cb854852d10420565d98719de7117c91d17a"
 
 [[files]]
 file = "kubejs/server_scripts/cumiumIngot/recipes.js"
-hash = "dc0bc0f2756fc2dcfb07aa92351d96ca5bbad7035e26d1799a4c57b737cca77d"
+hash = "f46db8c4fe586d8a82ef9ba93d5cfaa5f53a7ce58b34da8579df11430389bea9"
 
 [[files]]
 file = "kubejs/server_scripts/magic/README_magic.txt"
@@ -4558,6 +4558,11 @@ file = "mods/balm-forge-1.20.1-7.3.11-all.jar"
 hash = "3fcafab1ee0b5aa2788a723c8bd7c939660e6ee67669659cea79be9fa9ef5d4a"
 
 [[files]]
+file = "mods/better-fusion-reactor-for-mekanism.pw.toml"
+hash = "e8a656ca626ceeded8dedc4a78ebbd193418222989f5f0ccdeb7f2158b8231e7"
+metafile = true
+
+[[files]]
 file = "mods/betterchunkloading-1.20.1-5.2.jar"
 hash = "c0f6c45e08d513ae21418246ec3d27a4248ae7ca60b34d4ed3271811c74b6222"
 
@@ -5027,6 +5032,16 @@ file = "mods/energymeter-forge-1.20.1-1.0.0.jar"
 hash = "ecf77af9b6b1abdc439152d8bfe34795f9681a55c74bb2aed76c161275580969"
 
 [[files]]
+file = "mods/enigmatic-addons.pw.toml"
+hash = "d600307c5560577367f872b940cd145aa1d91d42f6718424d9510705dc51c459"
+metafile = true
+
+[[files]]
+file = "mods/enigmatic-legacy.pw.toml"
+hash = "76700218b9a2e6ca8854512ca7c90511c756ae7f76a93fa81518d9d0e81ef084"
+metafile = true
+
+[[files]]
 file = "mods/ensorcellation-1.20.1-5.0.2.24.jar"
 hash = "84cb18702db2a26dfd5a21ff007e2bcf40e16092adf7b2a33b8489987c4d7b45"
 
@@ -5310,6 +5325,11 @@ hash = "ef988f86d170af499d147ea8a5c34c99dbd6d8f4a5ad236a4b43818dc4470a10"
 [[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "7e9ef26310359f482e595815664b3d08381b30c6517c32a58078b0999e1d953a"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-irons-spells.pw.toml"
+hash = "820082842a6136c2bcbd0d2715cb5ff7a24af7e5e5261a4558fa69c13c25c863"
 metafile = true
 
 [[files]]
@@ -5602,6 +5622,11 @@ file = "mods/polymorph-forge-0.49.8+1.20.1.jar"
 hash = "c5384788f354effb9866a9a084c521bb3e05d246690765e1130a2778efd49ba4"
 
 [[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "2d47877684bd91ad4c597b68bae4a8af3964011bfc0fd52e004469368f23b834"
+metafile = true
+
+[[files]]
 file = "mods/probejs-6.0.1-forge.jar"
 hash = "139b586b87a8bad536e0a8983fc01c48e8ff46fb2e5881b52ac8b59f44b1e609"
 
@@ -5720,6 +5745,11 @@ metafile = true
 [[files]]
 file = "mods/scannable.pw.toml"
 hash = "6e62d24584603de6f35af3599681d71d20fa20f59dd8206042bb7026b7021a4f"
+metafile = true
+
+[[files]]
+file = "mods/schematic-energistics.pw.toml"
+hash = "2974aed2b63dfb5695b06e06cb1926c53272883ee09d10a4a6632b7cb4df9927"
 metafile = true
 
 [[files]]
@@ -5857,6 +5887,11 @@ hash = "4d75401d454b77a2383bf8a7e8373af873d9ef6751e0f9f44f46451ab08dceb9"
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
+metafile = true
+
+[[files]]
+file = "mods/theft-mod.pw.toml"
+hash = "322c334457d1e864d325b2cebc9d69217567375bf3285d7a09d011b77b01b3b9"
 metafile = true
 
 [[files]]
