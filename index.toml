@@ -3893,6 +3893,10 @@ file = "kubejs/server_scripts/cumiumIngot/recipes.js"
 hash = "f46db8c4fe586d8a82ef9ba93d5cfaa5f53a7ce58b34da8579df11430389bea9"
 
 [[files]]
+file = "kubejs/server_scripts/dimension.js"
+hash = "b488702aea9c96aaa596fa86afe87c63dd819d20910f79b64d14e69b8c3af123"
+
+[[files]]
 file = "kubejs/server_scripts/magic/README_magic.txt"
 hash = "82a812cdea5d8c28600afca04f105ad24dc37e1b9ba8439616d84f2f58b83c78"
 
@@ -4504,6 +4508,11 @@ file = "mods/armorpointspp-forge-1.20-3.1.1.jar"
 hash = "95bb87c7324f0ee1680f5465e6e2ed73fba6a19bb90e58f0ca28ff3ff062fdfa"
 
 [[files]]
+file = "mods/ars-botania.pw.toml"
+hash = "c0f4986f73853bb87bdf05232c517eb6d42ac492a88cf9015000644f6e4ae298"
+metafile = true
+
+[[files]]
 file = "mods/ars-controle.pw.toml"
 hash = "57a5e8918b9b57d725380f56baf2f745f60b75187b894f36ed1b9ccbb9275e05"
 metafile = true
@@ -4603,6 +4612,11 @@ hash = "8cd971cc5774aed3b02b67810891837adc7e348c8a45be0590d28ea110fdb9fa"
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
+metafile = true
+
+[[files]]
+file = "mods/botania-seeds.pw.toml"
+hash = "b8b07fe5d7384fabbd8f2b491bd0c46e5a31f08f5a44e1c5cab300a073428e17"
 metafile = true
 
 [[files]]
@@ -5636,6 +5650,11 @@ hash = "62a76c5212c04d15c27d7c1141f0a0d7d803aa10d172444359e4dacbdba6da7b"
 metafile = true
 
 [[files]]
+file = "mods/quantumchunks.pw.toml"
+hash = "3fcad80a1e43cd9116556b425c133df006c0eaea8bbefda052b4ebe1ff5267a3"
+metafile = true
+
+[[files]]
 file = "mods/questsadditions-1.4.7.jar"
 hash = "c0914e53b3545972f1b81511a00363d724da209af290a0fda301836bc5b3f2ba"
 
@@ -5868,6 +5887,11 @@ hash = "b6e96f4d009b04c0bc19a0093645db8087347927c41ae526dd3508f8ff44da10"
 metafile = true
 
 [[files]]
+file = "mods/sync-forge.pw.toml"
+hash = "60755b849ee5c1b45233a84181becdc03e0c20ac6f8c6bca16f72d6ced5b7420"
+metafile = true
+
+[[files]]
 file = "mods/tact-1.2.1+1.20.1.jar"
 hash = "d8daa2ddb9a6bc08497d552a66921c03cff30953528b977db0fd2c00351c9551"
 
@@ -5937,12 +5961,22 @@ hash = "a14de16c03a30f00df5a996037a944342e2ac1cbc2ddb247b147351a39849cfa"
 metafile = true
 
 [[files]]
+file = "mods/tome-of-blood-rebirth.pw.toml"
+hash = "5dccfff265f9a6c8a38a46a09d2034617045588671af2ea04b6ffe922b469506"
+metafile = true
+
+[[files]]
 file = "mods/toomanyglyphs-1.20.1-2.3.2.12345.jar"
 hash = "8746ce72e1c4e9eac28dc40a26fffa56189efdcbb38ffa752f0fc3d7fadbb33e"
 
 [[files]]
 file = "mods/trashslot-forge-1.20-15.1.1.jar"
 hash = "6e1cba48ec4f62c7452357c603af64afe705984895dcb2e46c6e83c47119f0a9"
+
+[[files]]
+file = "mods/twilight-tweaks.pw.toml"
+hash = "0114d9f98e6dc69c53da54417d5a2c3f90350f02eab0043985965e56ba165357"
+metafile = true
 
 [[files]]
 file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"

@@ -1,0 +1,13 @@
+name = "QuantumChunks"
+filename = "quantumchunks-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3bc26605182da3655fdfcfe9fe1d0eff90c1dca1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6871900
+project-id = 1324649
