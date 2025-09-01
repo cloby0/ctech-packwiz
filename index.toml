@@ -4926,6 +4926,11 @@ file = "mods/cursery-1.20.1-4.2.jar"
 hash = "c5826a39a37982a0b663c2a7647f9f7f78b2b80f1c38663778746c281da184d1"
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "656e8b0a6d0e0ba01c6d916d2d17c6c5ed9e3c77f7ad33020996f0751f943c10"
+metafile = true
+
+[[files]]
 file = "mods/dark-utilities.pw.toml"
 hash = "5c70601c99b306cf5b6bb918443a5814071fa528829958aa51a7e2385c3c0379"
 metafile = true
@@ -5076,6 +5081,11 @@ metafile = true
 [[files]]
 file = "mods/everycomp-1.20-2.7.11.jar"
 hash = "20af08e04f5ed22236e807bf359d6d4c2f572e27ea87101e88783acf4d4ce6ec"
+
+[[files]]
+file = "mods/evilcraft.pw.toml"
+hash = "dd5affefdec2bdfe335a5f6bfbcd50d0f5d32a4af3ef2dfe54778e18e6b7866c"
+metafile = true
 
 [[files]]
 file = "mods/explosiveenhancement-1.1.0-1.20.1-client-and-server.jar"
@@ -5502,8 +5512,9 @@ hash = "31908feb6048658402fc4c539a9105775df2dcd2aef5973100946ac912705ee9"
 metafile = true
 
 [[files]]
-file = "mods/modonomicon-1.20.1-forge-1.77.5.jar"
-hash = "3ab59833084107df31e61676349814c3d1f7edcc3cf223e329b9e8a66ab41dc5"
+file = "mods/modonomicon.pw.toml"
+hash = "fe03ff925a227f90b4a4bba5d1c36ba5e733d4ca182f45baed795a0e1a7d7ac2"
+metafile = true
 
 [[files]]
 file = "mods/mods_optimizer-forge-1.20.1-4.1.0.jar"
@@ -5531,6 +5542,11 @@ hash = "4550d7d8f4840b2a97758744e529a6ecc54774ef9a3ba4ca17b3f78219a9ebf8"
 [[files]]
 file = "mods/nanhealthfixer-1.20.1-0.0.1.jar"
 hash = "d03619bda583c0d52848d9225b781d022d406cecf02da2d5703bead81803fe1f"
+
+[[files]]
+file = "mods/natures-aura.pw.toml"
+hash = "252f0822fccd24bb3c615c95c4d5acdad853ce8482c71e06b79f50a3520652c5"
+metafile = true
 
 [[files]]
 file = "mods/neapolitan.pw.toml"
@@ -5566,6 +5582,11 @@ metafile = true
 [[files]]
 file = "mods/observable-4.4.2.jar"
 hash = "009958985786081dad4007f8b4a5899b7aa82951b194d81ec48076d68950a4e8"
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "9be77e7f777afbaa77f954093f4e95cd6a0e823fd80a2989ba12f2c90ef253cd"
+metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
@@ -5822,6 +5843,11 @@ hash = "893c67fb4bbafee6e3208ba34bf60e2d6f17f4f9efdb6d1f12baa4052d8ddd10"
 [[files]]
 file = "mods/slots-machine.pw.toml"
 hash = "578f94d98b31e8c75e4c9f38821fceefd7ed64da78bd05ea41f9a2ab0cd7b80f"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "8d3e9ef52ac3b65fb976629b55652ca30f9ad8b7ff37925c3111ae78386e1a97"
 metafile = true
 
 [[files]]
