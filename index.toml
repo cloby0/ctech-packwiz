@@ -5563,11 +5563,6 @@ file = "mods/nethersdelight-1.20.1-4.0.jar"
 hash = "28b072bc5c09ee889468546676c9bf0268eaa415865704bbeeb33f6a37005a30"
 
 [[files]]
-file = "mods/nirvana.pw.toml"
-hash = "bf5f3004e578787aea690a99aaa1b266d88f23d9ab3979c1f5374b7833d7d27d"
-metafile = true
-
-[[files]]
 file = "mods/no-telemetry-1.8.0.jar"
 hash = "ae069da180817f81f420659bfec4ae14ad44e167a81bb325bb5fa48c548bd52d"
 
