@@ -4045,10 +4045,6 @@ file = "mods/Bookshelf-Forge-1.20.1-20.2.13.jar"
 hash = "c31fed2c1a1c0d72d3ef996bb84521b7d6a8fbd3115c89c001f13a7ffd56f64b"
 
 [[files]]
-file = "mods/Botania-1.20.1-446-FORGE.jar"
-hash = "bd6a063f016c5da48e9b534458c5de383d16183a6ee6f6a14032d71216ec3219"
-
-[[files]]
 file = "mods/CerbonsAPI-Forge-1.20.1-1.1.0.jar"
 hash = "54a0a20da56ab1af2d0d7f5cf1133c059a7523485d567521084f822e81505dfb"
 
@@ -4554,10 +4550,6 @@ file = "mods/async-locator-forge-1.20-1.3.0.jar"
 hash = "d171fdddd8dad64cba4c8c67cd2a0bdfc2697ff35e11f9fb666b7464e1e9468b"
 
 [[files]]
-file = "mods/auralily-1.0.0.jar"
-hash = "6a8d1d03535ed8cfc26208c98271e0c14f02fc4bffaa2fc5625d7a8519e80796"
-
-[[files]]
 file = "mods/badpackets-forge-0.4.3.jar"
 hash = "b621a8e31727324a6010adbfb84fd4dbb78b3c7d87e5a9aebfb4e3223448f1e3"
 
@@ -4621,6 +4613,11 @@ metafile = true
 [[files]]
 file = "mods/botania-seeds.pw.toml"
 hash = "b8b07fe5d7384fabbd8f2b491bd0c46e5a31f08f5a44e1c5cab300a073428e17"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "8c0f450f657efab9f25ae5bc6dfb6a43aafc0e7e411fea8df2c885593bb67fde"
 metafile = true
 
 [[files]]
