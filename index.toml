@@ -785,6 +785,10 @@ file = "config/mods_optimizer/mods-database.json"
 hash = "16f0e71d0a46f6a3574cdc4952eedb49c8dbbdc85f41047242aca1ca542fe54f"
 
 [[files]]
+file = "config/naturesaura-common.toml"
+hash = "37db3700c5e48a17c7d9c1777cbc5ba226670c14d57ebf672784bb8d6a32404d"
+
+[[files]]
 file = "config/packmenu.cfg"
 hash = "1dff32a219cb28f622e712536e02cb0a9e6087ce2851d332cd6da5ecf5784bd3"
 
@@ -3897,19 +3901,15 @@ file = "kubejs/server_scripts/dimension.js"
 hash = "b488702aea9c96aaa596fa86afe87c63dd819d20910f79b64d14e69b8c3af123"
 
 [[files]]
-file = "kubejs/server_scripts/magic/README_magic.txt"
-hash = "82a812cdea5d8c28600afca04f105ad24dc37e1b9ba8439616d84f2f58b83c78"
-
-[[files]]
-file = "kubejs/server_scripts/magic/life/recipeChanges.js"
-hash = "9ab650c87ad870444d813f259eaf1d0adbeda5aa1c3bd57c5ef840fc1720afcb"
-
-[[files]]
-file = "kubejs/server_scripts/magic/mana/recipeChanges.js"
+file = "kubejs/server_scripts/magic/botanics.js"
 hash = "6b388bc7a3ef87437b989f888c5fea03f2736b3fd8b7d4e61f09857cbf01974f"
 
 [[files]]
-file = "kubejs/server_scripts/magic/source/recipeChanges.js"
+file = "kubejs/server_scripts/magic/hemomancy.js"
+hash = "9ab650c87ad870444d813f259eaf1d0adbeda5aa1c3bd57c5ef840fc1720afcb"
+
+[[files]]
+file = "kubejs/server_scripts/magic/source.js"
 hash = "6db9aeb77e4348d28fa7e840237eac5ef05c472705d3dced15145c3dddd30c6b"
 
 [[files]]
@@ -4552,6 +4552,10 @@ metafile = true
 [[files]]
 file = "mods/async-locator-forge-1.20-1.3.0.jar"
 hash = "d171fdddd8dad64cba4c8c67cd2a0bdfc2697ff35e11f9fb666b7464e1e9468b"
+
+[[files]]
+file = "mods/auralily-1.0.0.jar"
+hash = "6a8d1d03535ed8cfc26208c98271e0c14f02fc4bffaa2fc5625d7a8519e80796"
 
 [[files]]
 file = "mods/badpackets-forge-0.4.3.jar"
