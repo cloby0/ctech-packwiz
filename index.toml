@@ -4550,6 +4550,10 @@ file = "mods/async-locator-forge-1.20-1.3.0.jar"
 hash = "d171fdddd8dad64cba4c8c67cd2a0bdfc2697ff35e11f9fb666b7464e1e9468b"
 
 [[files]]
+file = "mods/auralily-1.0.0.jar"
+hash = "c29e43fc6d55ccd655bf1b1a14e45920b0d7a63adb024be8d62c31433adf2306"
+
+[[files]]
 file = "mods/badpackets-forge-0.4.3.jar"
 hash = "b621a8e31727324a6010adbfb84fd4dbb78b3c7d87e5a9aebfb4e3223448f1e3"
 
