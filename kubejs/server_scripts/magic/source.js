@@ -1,18 +1,59 @@
 ServerEvents.recipes(event => {
+//book recipe
     event.recipes.ars_nouveau.imbuement(
         "witherstormmod:command_block_book",
         "kubejs:ars_book",
         15000,
     []
     )
-
+//adds an arcane essence recpie
     event.recipes.ars_nouveau.imbuement(
         '#forge:dusts/amethyst',
         'irons_spellbooks:arcane_essence',
         500,
         []
     )
+//updates source gem recipe
+    event.recipes.ars_nouveau.imbuement(
+        "#forge:gems/zanite",
+        "ars_nouveau:source_gem",
+        500,
+        []
+    )
+//all changes from gold to ambrosium
+    event.replace(
+        {input: "minecraft:gold_ingot", mod: "ars_nouveau"},
+        "minecraft:gold_ingot",
+        "aether:ambrosium_block"
+    )
+    event.replace(
+        {input: "minecraft:gold_nugget", mod: "ars_nouveau"},
+        "minecraft:gold_nugget",
+        "aether:ambrosium_shard"
+    )
+//changes redstone block in spell turret
+    event.replaceInput(
+        {output:"ars_nouveau:basic_spell_turret"},
+        "minecraft:redstone_block",
+        "aether_redux:sentrite"
+    )
+//updates sourcestone recipe
+    event.remove({input:"forge:stone",output:"ars_nouveau:sourcestone"})
+    event.shaped(
+        Item.of("ars_nouveau:sourcestone", 8),
+        [
+            "SSS",
+            "SGS",
+            "SSS"
 
+        ],
+        {
+            S:"aether:holystone",
+            G:"ars_nouveau:source_gem"
+        }
+    )
+
+//adds a way to turn iron's blood vials into blood magic life essence (do we wanna keep this?)
     event.recipes.create.filling(
         'irons_spellbooks:blood_vial',
         [
@@ -28,7 +69,7 @@ ServerEvents.recipes(event => {
         ],
             'minecraft:bottle'
         )
-
+//updates novice spell book recipe
     event.remove({output: 'ars_nouveau:novice_spell_book'})
     event.shapeless(
     Item.of('ars_nouveau:novice_spell_book', 1), // output item with count
@@ -40,9 +81,9 @@ ServerEvents.recipes(event => {
       'minecraft:iron_sword'
     ]
   )
-
+//updates scroll forge recipe
     event.remove({output: 'irons_spellbooks:scroll_forge'})
-     event.shaped(
+    event.shaped(
         Item.of('irons_spellbooks:scroll_forge', 1), // output item with count
         [
         'AAA',

@@ -3902,7 +3902,7 @@ hash = "b488702aea9c96aaa596fa86afe87c63dd819d20910f79b64d14e69b8c3af123"
 
 [[files]]
 file = "kubejs/server_scripts/magic/botanics.js"
-hash = "6b388bc7a3ef87437b989f888c5fea03f2736b3fd8b7d4e61f09857cbf01974f"
+hash = "03e63ba9493dbf96fb7264d63919b0cdc29b6131fc6470c2b6fcff2975cbac70"
 
 [[files]]
 file = "kubejs/server_scripts/magic/hemomancy.js"
@@ -3910,7 +3910,7 @@ hash = "9ab650c87ad870444d813f259eaf1d0adbeda5aa1c3bd57c5ef840fc1720afcb"
 
 [[files]]
 file = "kubejs/server_scripts/magic/source.js"
-hash = "6db9aeb77e4348d28fa7e840237eac5ef05c472705d3dced15145c3dddd30c6b"
+hash = "0a5b18bc5e9e20f3bb5ee4f59720d70620fc30624e74f758dde76968af012101"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipeChanges.js"
