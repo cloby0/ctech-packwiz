@@ -21,13 +21,13 @@ ServerEvents.recipes(event => {
         []
     )
 //all changes from gold to ambrosium
-    event.replace(
-        {input: "minecraft:gold_ingot", mod: "ars_nouveau"},
+    event.replaceInput(
+        {input: "minecraft:gold_ingot",mod: "ars_nouveau"},
         "minecraft:gold_ingot",
         "aether:ambrosium_block"
     )
-    event.replace(
-        {input: "minecraft:gold_nugget", mod: "ars_nouveau"},
+    event.replaceInput(
+        {input: "minecraft:gold_nugget",mod: "ars_nouveau"},
         "minecraft:gold_nugget",
         "aether:ambrosium_shard"
     )
