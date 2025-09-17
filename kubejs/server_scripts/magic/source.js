@@ -1,20 +1,21 @@
 ServerEvents.recipes(event => {
 //book recipe
     event.recipes.ars_nouveau.imbuement(
-        ["ars_nouveau:wilden_tribute"],
         "witherstormmod:command_block_book",
         "kubejs:ars_book",
         15000,
+        [
+            "ars_nouveau:wilden_tribute"
+        ],
     []
     )
 //arcane core recipe
     event.remove({output:"ars_nouveau:arcane_core"})
     event.recipes.ars_nouveau.imbuement(
-        ["ars_nouveau:wilden_tribute","aether:sun_altar","ars_elemental:advanced_prism","ars_elemental:advanced_prism"],
         "aether:altar",
         "ars_nouveau:arcane_core",
         7500,
-        []
+        ["ars_nouveau:wilden_tribute","aether:sun_altar","ars_elemental:advanced_prism","ars_elemental:advanced_prism"]
     )
 //adds an arcane essence recpie
     event.recipes.ars_nouveau.imbuement(
