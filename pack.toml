@@ -6,15 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< Updated upstream
-hash = "0984a6be01fe16a201399766702e257301cc19bd1c87aa9ff533d8e8864a665c"
-=======
-<<<<<<< HEAD
-hash = "e458187a0d33a6f93fe699fbafc4be9c99201bb0b62c829c68be7146ac934fcb"
-=======
-hash = "0984a6be01fe16a201399766702e257301cc19bd1c87aa9ff533d8e8864a665c"
->>>>>>> 20cc980ec667eca278bf8e3f7a9b89baba9910ff
->>>>>>> Stashed changes
+hash = "f605594ad60bcaa90ee8c9d0b234746cccf2d011fbf04d967c2bf4edae09d500"
 
 [versions]
 forge = "47.4.0"
