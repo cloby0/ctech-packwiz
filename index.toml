@@ -3910,7 +3910,7 @@ hash = "9ab650c87ad870444d813f259eaf1d0adbeda5aa1c3bd57c5ef840fc1720afcb"
 
 [[files]]
 file = "kubejs/server_scripts/magic/source.js"
-hash = "7fdea1f6fdac6bf64dfe939284ea05bd9baf5bd2edf64b27debbc94ad7c200e3"
+hash = "2cdae5655e0b16740af4713499172cf9803dcfa3b61d565a629173e23f193472"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipeChanges.js"

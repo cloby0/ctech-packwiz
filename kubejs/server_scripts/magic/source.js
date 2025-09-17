@@ -6,31 +6,35 @@ ServerEvents.recipes(event => {
         15000,
         [
             "ars_nouveau:wilden_tribute"
-        ],
-    []
-    )
+        ])
 //arcane core recipe
     event.remove({output:"ars_nouveau:arcane_core"})
     event.recipes.ars_nouveau.imbuement(
         "aether:altar",
         "ars_nouveau:arcane_core",
         7500,
-        ["ars_nouveau:wilden_tribute","aether:sun_altar","ars_elemental:advanced_prism","ars_elemental:advanced_prism"]
-    )
+        [
+            "ars_nouveau:wilden_tribute",
+            "aether:sun_altar",
+            "ars_elemental:advanced_prism",
+            "ars_elemental:advanced_prism"
+        ]);
 //adds an arcane essence recpie
     event.recipes.ars_nouveau.imbuement(
         '#forge:dusts/amethyst',
         'irons_spellbooks:arcane_essence',
         500,
-        []
-    )
+        [
+
+        ])
 //updates source gem recipe
     event.recipes.ars_nouveau.imbuement(
         "#forge:gems/zanite",
         "ars_nouveau:source_gem",
         500,
-        []
-    )
+        [
+
+        ])
 //all changes from gold to ambrosium
     event.replaceInput(
         {input: "minecraft:gold_ingot",mod: "ars_nouveau"},
