@@ -1,10 +1,20 @@
 ServerEvents.recipes(event => {
 //book recipe
     event.recipes.ars_nouveau.imbuement(
+        ["ars_nouveau:wilden_tribute"],
         "witherstormmod:command_block_book",
         "kubejs:ars_book",
         15000,
     []
+    )
+//arcane core recipe
+    event.remove({output:"ars_nouveau:arcane_core"})
+    event.recipes.ars_nouveau.imbuement(
+        ["ars_nouveau:wilden_tribute","aether:sun_altar","ars_elemental:advanced_prism","ars_elemental:advanced_prism"],
+        "aether:altar",
+        "ars_nouveau:arcane_core",
+        7500,
+        []
     )
 //adds an arcane essence recpie
     event.recipes.ars_nouveau.imbuement(
@@ -38,20 +48,10 @@ ServerEvents.recipes(event => {
         "aether_redux:sentrite"
     )
 //updates sourcestone recipe
-    event.remove({input:"forge:stone",output:"ars_nouveau:sourcestone"})
-    event.shaped(
-        Item.of("ars_nouveau:sourcestone", 8),
-        [
-            "SSS",
-            "SGS",
-            "SSS"
-
-        ],
-        {
-            S:"aether:holystone",
-            G:"ars_nouveau:source_gem"
-        }
-    )
+    event.replaceInput(
+        {input:"#forge:stone",output:"ars_nouveau:sourcestone"},
+        "#forge:stone",
+        "aether:holystone")
 
 //adds a way to turn iron's blood vials into blood magic life essence (do we wanna keep this?)
     event.recipes.create.filling(
