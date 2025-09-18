@@ -3938,7 +3938,7 @@ hash = "47f7ec7d997d79745874e88c15139133e6615153dab77a53262db7169e4413e8"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier1.js"
-hash = "f0a8a8680ab8d61dfdb0788885c88f8272563390e6a48468cf2ddb0f277fcdb4"
+hash = "78a5362da90dffd2b76a0e318b5cfe4bf029ae437332b73ced22bb29f415940c"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier2.js"

@@ -20,7 +20,7 @@ ServerEvents.recipes(event => {
     event.remove({output: "create:precision_mechanism" });
     event.recipes.create.sequenced_assembly([
 		Item.of('create:precision_mechanism').withChance(130.0), // this is the item that will appear in JEI as the result
-		Item.of('create:golden_sheet').withChance(8.0), // the rest of these items will be part of the scrap
+		Item.of('alltheores:gold_plate').withChance(8.0), // the rest of these items will be part of the scrap
 		Item.of('create:andesite_alloy').withChance(8.0),
 		Item.of('create:cogwheel').withChance(5.0),
 		Item.of('create:shaft').withChance(2.0),
@@ -28,7 +28,7 @@ ServerEvents.recipes(event => {
 		Item.of('2x minecraft:gold_nugget').withChance(2.0),
 		'minecraft:iron_ingot',
 		'minecraft:clock'
-	], 'create:golden_sheet', [ // 'create:golden_sheet' is the input
+	], 'alltheores:gold_plate', [ // 'alltheores:gold_plate' is the input
 		// the transitional item set by `transitionalItem('create:incomplete_large_cogwheel')` is the item used during the intermediate stages of the assembly
 		event.recipes.createDeploying('create:incomplete_precision_mechanism', ['create:incomplete_precision_mechanism', 'create:cogwheel']),
 		// like a normal recipe function, is used as a sequence step in this array. Input and output have the transitional item
