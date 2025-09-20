@@ -3901,6 +3901,10 @@ file = "kubejs/server_scripts/dimension.js"
 hash = "b488702aea9c96aaa596fa86afe87c63dd819d20910f79b64d14e69b8c3af123"
 
 [[files]]
+file = "kubejs/server_scripts/magic/aura.js"
+hash = "46b29444ac2ef15ad243c7df224bbf4ba23179f8fcd9cc2b35ab98f9a93d94bf"
+
+[[files]]
 file = "kubejs/server_scripts/magic/botanics.js"
 hash = "03e63ba9493dbf96fb7264d63919b0cdc29b6131fc6470c2b6fcff2975cbac70"
 
@@ -3910,7 +3914,7 @@ hash = "9ab650c87ad870444d813f259eaf1d0adbeda5aa1c3bd57c5ef840fc1720afcb"
 
 [[files]]
 file = "kubejs/server_scripts/magic/source.js"
-hash = "2cdae5655e0b16740af4713499172cf9803dcfa3b61d565a629173e23f193472"
+hash = "cdfb5fa895e74374d1ef90bd653e6b7f52de808c8acfd88bee29efa3f5ea2042"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipeChanges.js"

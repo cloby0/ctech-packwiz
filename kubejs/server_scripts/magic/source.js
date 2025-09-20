@@ -28,6 +28,7 @@ ServerEvents.recipes(event => {
 
         ])
 //updates source gem recipe
+    event.remove({output:"ars_nouveau:source_gem",type:"ars_nouveau:imbuement",type:"thermal:press"})
     event.recipes.ars_nouveau.imbuement(
         "#forge:gems/zanite",
         "ars_nouveau:source_gem",
@@ -58,22 +59,14 @@ ServerEvents.recipes(event => {
         "#forge:stone",
         "aether:holystone")
 
-//adds a way to turn iron's blood vials into blood magic life essence (do we wanna keep this?)
-    event.recipes.create.filling(
-        'irons_spellbooks:blood_vial',
-        [
-        'minecraft:bottle',
-        Fluid.of('bloodmagic:life_essence_fluid', 250)
-        ]
+//updates brilliant fiber
+    event.remove({output:"naturesaura:gold_fiber"})
+    event.recipes.ars_nouveau.enchantment_apparatus(
+        ["aether:golden_gummy_swet","aether:golden_gummy_swet","aether:golden_oak_leaves","aether:golden_oak_leaves"],
+        "deep_aether:golden_grass_seeds",
+        "naturesaura:gold_fiber",
+        2000
     )
-
-    event.recipes.create.emptying(
-        [
-        Fluid.of('bloodmagic:life_essence_fluid', 250),
-        'irons_spellbooks:blood_vial'
-        ],
-            'minecraft:bottle'
-        )
 //updates novice spell book recipe
     event.remove({output: 'ars_nouveau:novice_spell_book'})
     event.shapeless(
