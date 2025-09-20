@@ -5123,6 +5123,11 @@ file = "mods/fastasyncworldsave-1.20.1-2.2.jar"
 hash = "31e7bb90b226a8637baf8e1c4a28effd6118e12966a6c44bd2ab997bfa605cbc"
 
 [[files]]
+file = "mods/female-gender-neoforge.pw.toml"
+hash = "a7c436a324f9e052218b21b5eb66aa575853920e8327c36a84284c92dfc1f7df"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-6.0.1-forge.jar"
 hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
 
