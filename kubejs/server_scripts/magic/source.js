@@ -62,9 +62,9 @@ ServerEvents.recipes(event => {
 //updates brilliant fiber
     event.remove({output:"naturesaura:gold_fiber"})
     event.recipes.ars_nouveau.enchantment_apparatus(
+        ["aether:golden_gummy_swet","aether:golden_gummy_swet","aether:golden_oak_leaves","aether:golden_oak_leaves"],
         "deep_aether:golden_grass_seeds",
         "naturesaura:gold_fiber",
-        ["aether:golden_gummy_swet","aether:golden_gummy_swet","aether:golden_oak_leaves","aether:golden_oak_leaves"]
         2000
     )
 //updates novice spell book recipe
