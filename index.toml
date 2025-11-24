@@ -3977,6 +3977,26 @@ file = "kubejs/startup_scripts/custom/itemDeclaration.js"
 hash = "423d42f6bb144f61e595d4f5e612b02a6761b4855d1009674db9154f260618b6"
 
 [[files]]
+file = "mods/Apothic Amendments - Enchanting - 0.1.4.jar"
+hash = "d05da88a29fb0130b883e6abb8cd7afbd5c6b49ec2e710de210a88d56754b7ae"
+
+[[files]]
+file = "mods/Apothic Supplementaries - Enchanting - 0.1.2a.jar"
+hash = "dff56516fffbf97cdb781958aa3a694cc1d668e8e79baa9af689b609b3610b86"
+
+[[files]]
+file = "mods/SilentCompat-forge-1.20.1-1.4.0.jar"
+hash = "739fb3f43c8e70985ce24eb8c8b03d75b2b088feabef14bfd572891756633fff"
+
+[[files]]
+file = "mods/Structory_Towers_1.20.x_v1.0.7.jar"
+hash = "74aa182524af55e172d7bfcf828dd1c1a3259a304980e7a94fbfbf1f0d9fac0c"
+
+[[files]]
+file = "mods/UnOrthodox-9.0.0.jar"
+hash = "c2f02b1d72aede88d1481d7e8d17a684ea9c44d8298ac1e553c54225f2bbae2f"
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "a2080d212c79e1331198d5fe4ac3146e9894c19dab497216a11627ddeaeea5d5"
 metafile = true
@@ -4117,11 +4137,6 @@ hash = "0fad8186fbeb910463e8b34629543c8d15c68baaa558b1501ccdc3caf15abeed"
 metafile = true
 
 [[files]]
-file = "mods/apothic-amendments-enchanting.pw.toml"
-hash = "c89308468aace53f9d375be2f547388f5a843f3a8f2c21e43923300668ed397e"
-metafile = true
-
-[[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
 metafile = true
@@ -4137,14 +4152,8 @@ hash = "3126b524500c6d02b5b27b3cf37507a5ffc27944f893435605fb012cec815396"
 metafile = true
 
 [[files]]
-file = "mods/apothic-mutant-heads.pw.toml"
-hash = "e2c5f8d98f5edfa7b2afe5a65c6e7d4c1fa0f05744eab3f3662a0b74145aaff4"
-metafile = true
-
-[[files]]
-file = "mods/apothic-supplementaries-enchanting.pw.toml"
-hash = "8db95d3ea114724d27b5f487b36fe85f730541c99a03dcf015eb25e7d74e98c8"
-metafile = true
+file = "mods/apothic_mutant_heads-0.1.0.jar"
+hash = "4df9e979da61b20ec3591e05fc69552766cda65f836855a8a52519aded65e0a1"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -4961,9 +4970,8 @@ hash = "83227a3f2e94e9a4d28623fe81015650257c39d7d6eab14e08aef83c53cb9d77"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-recoloured.pw.toml"
-hash = "eeb686993eeab4daf934079946966780ba7d367c41316e5febcda85059b4f85e"
-metafile = true
+file = "mods/ftb-chunks-modded-1.20+1.1.9.jar"
+hash = "ac1c0d687867b98ce9c1f86e70bc112e9a1e07b654f21bdcadcb0fa40c090dbb"
 
 [[files]]
 file = "mods/ftb-essentials.pw.toml"
@@ -5330,9 +5338,8 @@ hash = "cd4fe8b667d14c946028050cf9e4c3367868f79d9f429ec18eb47cce34e021a3"
 metafile = true
 
 [[files]]
-file = "mods/lucky-block.pw.toml"
-hash = "ecbf67162e047b2b2138ec85129abc5321abcd61f5fa4a96322bdfe151f50dfb"
-metafile = true
+file = "mods/lucky-block-forge-1.20.1-13.0.jar"
+hash = "c101dd326e5ed421d0373eec065054cf5972134f639f3853d35542e77a2e184c"
 
 [[files]]
 file = "mods/lychee.pw.toml"
@@ -5410,9 +5417,8 @@ hash = "81da708e6a9add4237562e15bd2be857cfa3908c50951408ab2137ff1c68fbbd"
 metafile = true
 
 [[files]]
-file = "mods/mods-optimizer.pw.toml"
-hash = "921ce5a918c5ef64015e5ed749cbee5724868c312103b427e26fd46557ab723a"
-metafile = true
+file = "mods/mods_optimizer-forge-1.20.1-4.1.0.jar"
+hash = "7551b4b63bd34a36a73db27a724159ac2d5ead897668c506e3706ab8806e16f3"
 
 [[files]]
 file = "mods/more-create-burners.pw.toml"
@@ -5790,9 +5796,8 @@ hash = "ea27ff5d255f08f63d989df00ef08424f1fc3708325fe7db0a30e44cb0028e15"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "4c1d37d3aecc6d67ce6c6a97d859345cdaefcf619a057069b0a8635f2ad551ac"
-metafile = true
+file = "mods/servercore-forge-1.5.2+1.20.1.jar"
+hash = "d9ad4f456b6c36bac17a71cd12935fdccae69ca1e1fcd33857210758cb58e586"
 
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
@@ -5812,11 +5817,6 @@ metafile = true
 [[files]]
 file = "mods/silent-lib.pw.toml"
 hash = "7f281333e1c573bc3673446c291d82f3137bfc7de6a5256d61417f67be7b40bc"
-metafile = true
-
-[[files]]
-file = "mods/silentgear-compat.pw.toml"
-hash = "38b00dd0ebb49d9b378bb11afbc53b1e9f983dba1288e3254ff6e7e8d9226cda"
 metafile = true
 
 [[files]]
@@ -5902,11 +5902,6 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "eb7fb878f669cc17a22d19902fe96cdcfe541a9cf7d03eb7244fc11e13713b61"
-metafile = true
-
-[[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "34b542ad473b6a70a744b3b6efbada3e9ca9d4033b625cfb0f99d6ef320b32c6"
 metafile = true
 
 [[files]]
@@ -6069,11 +6064,6 @@ hash = "0114d9f98e6dc69c53da54417d5a2c3f90350f02eab0043985965e56ba165357"
 metafile = true
 
 [[files]]
-file = "mods/unorthodox.pw.toml"
-hash = "ef2558bc9067dc0186893eead9d0490837534d7a7082066c8472f08d88d9532e"
-metafile = true
-
-[[files]]
 file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
 hash = "2c55793a16d42dc2b10b5507c8799a41b42996e84f7be231341d1d79ecbe7881"
 metafile = true
@@ -6089,9 +6079,8 @@ hash = "29829e7f15c096dd7b901efbf0737c0040d4519b9a592b7c43675c6fb7558de9"
 metafile = true
 
 [[files]]
-file = "mods/water-erosion.pw.toml"
-hash = "371b454cb8861d181bcc5e425952781186b912a9dac1e7ff548ee0d733bb0996"
-metafile = true
+file = "mods/water-erosion-1.20.1-forge-1.1.7.jar"
+hash = "3766287e5eba8c62beb229ac736979ab07d1aef96c6ad5d9abe3b4f51a743bfb"
 
 [[files]]
 file = "mods/workshop-for-handsome-adventurer.pw.toml"
