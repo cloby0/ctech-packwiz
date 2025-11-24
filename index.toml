@@ -4153,6 +4153,10 @@ file = "mods/InsaneLib-1.16.1-mc1.20.1.jar"
 hash = "aa47e58e6009025243589277e5dd08b23f6d613c7f7f72fe30050670606066e1"
 
 [[files]]
+file = "mods/InventoryProfilesNext-forge-1.20-1.10.19.jar"
+hash = "d4f22942888438f7fabf40e16f47d2e454ece7585a262cdfb7d20b4b13683013"
+
+[[files]]
 file = "mods/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar"
 hash = "a0de109d3405fbf4290e10df4f812eadd5125debb16ea7e9d908acbbabcb516b"
 
@@ -4714,9 +4718,8 @@ hash = "882da059a6d7439b9cdf746813c61ce1e8e73c00a88e4e0cbe4412d4c312702a"
 metafile = true
 
 [[files]]
-file = "mods/chloride.pw.toml"
-hash = "ac1e7559d7cbe48e6fbca5e7bad3f5376a772ccca14e1a6e53a402d51476220e"
-metafile = true
+file = "mods/chloride-FORGE-mc1.20.1-v1.7.2.jar"
+hash = "a964213a0df7c178ce921121c9a9d9d50cff8bb590348ff8ada11f0ed7e28f31"
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
@@ -5218,13 +5221,8 @@ hash = "e17f96677912ca1e42ab05ba1e959226c7b5244f6a24eb573ace63f57e6c222f"
 metafile = true
 
 [[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "f1982207e782ffe93f3cc6b38a910fdd6d9a3630d0d61498d5eb8b31cbe14469"
-metafile = true
-
-[[files]]
-file = "mods/fzzy_config-0.6.0+1.20.1+forge.jar"
-hash = "31002155444d51df8269109d44451d119063059348ebaa82f183875b4938cb66"
+file = "mods/fzzy_config-0.7.3+1.20.1+forge.jar"
+hash = "cc0db1514435953677dea20c246b2f86a61b5ff4348143aa8e1154a2808c6191"
 
 [[files]]
 file = "mods/geckolib-forge-1.20.1-4.7.jar"
@@ -5304,11 +5302,6 @@ hash = "f2860cb5fb96ef73b780d3bb53834a235e2bbdeb6b312b644d430e2772d64c28"
 [[files]]
 file = "mods/inline-forge-1.20.1-1.0.2.jar"
 hash = "3c9d4c5a6ffaf6ad70911493c24f5ab3ad161ddbb5f040ffe6387c4b9b08fb6f"
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "fb8b143630e9d758531fa727594c76b8735f1c7a8ecc4911307c8e71e99b70a1"
-metafile = true
 
 [[files]]
 file = "mods/ironchest-1.20.1-14.4.4.jar"
