@@ -4260,11 +4260,6 @@ file = "mods/auralily-1.0.0.jar"
 hash = "c29e43fc6d55ccd655bf1b1a14e45920b0d7a63adb024be8d62c31433adf2306"
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "7b82c00d58b304aa7e5c94426610b7a7b6247baa1122dbaa480bd7c7eabb6a6e"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "64bf8b278979f6e2aa9dc0fb5d2168212bc9337e41fb9a9f7e114fe91695194a"
 metafile = true
@@ -4383,6 +4378,10 @@ metafile = true
 file = "mods/building-gadgets.pw.toml"
 hash = "528a5c2d50126e1b2906b47449b40a996fce3b4a50b9a0460533f2b7b74f5c99"
 metafile = true
+
+[[files]]
+file = "mods/bwncr-forge-1.20.1-3.17.2.jar"
+hash = "d6c120a438f0b347f78d21758d0e05459e09ccd87bb9cae9ee1955ab2750afd9"
 
 [[files]]
 file = "mods/cable-facades.pw.toml"
