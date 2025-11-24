@@ -5037,7 +5037,7 @@ hash = "45c4ff7907763c5bf204986eed496d5a216e2e56bf94ef6cb9e2b7646ea559e8"
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "53d5d1b9287e8f53e4fff7405dcf7bfe90d5686571031bda1a6eba87a65bfa57"
+hash = "6b8c71e3702dda17065a7dbeb7753e0681d7ea9a05d1331fd264e9659c6d328d"
 metafile = true
 
 [[files]]
@@ -5338,11 +5338,6 @@ hash = "0d83bcb477d761a73cdbb37f723a5d994e61a389340e219e5ce8dc9618be933e"
 [[files]]
 file = "mods/jinxedlib.pw.toml"
 hash = "4729ea0f81112833449f27ce03cb9f308e5bd7b54cc6853444f97a43b555ff3f"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-immersive-multiblocks.pw.toml"
-hash = "36bb8d1caf3421773f37bd7057706f2eb7bdc04922e061e639496412f57011c7"
 metafile = true
 
 [[files]]
