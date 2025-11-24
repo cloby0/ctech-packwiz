@@ -4113,7 +4113,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "07ff1b204dc995bc655d37a29518f41b56569fe49df558eb71026d0dc1dc742e"
+hash = "cef2dd266eded7cbb430449fc697075a458849cbfe2514d836ef72d9141c09bb"
 metafile = true
 
 [[files]]
@@ -4480,7 +4480,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.pw.toml"
-hash = "89fe0146b277ebd76abb64946b40a2ba33481e5d3c797a44c11cc72f9e6ff27c"
+hash = "bb4bdc05adcd1f895af038cfd46eded05a7e6047f05fade31dd20d4de7572bdb"
 metafile = true
 
 [[files]]
@@ -4765,7 +4765,7 @@ metafile = true
 
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
-hash = "d17ba9f4478fcb4486ddd6bf02876ec8c5e89fd0ed6c7e028a59258714f53c50"
+hash = "248f6279e2f44c0e58f4e86adc4dd1131909b4a3bf976ab16b12295b02588053"
 metafile = true
 
 [[files]]
@@ -5491,7 +5491,7 @@ metafile = true
 
 [[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
-hash = "d754eab59d0f2c0268ebb006409286f8e7e4e132e6b8dffc217a82bcade633f7"
+hash = "5b43f76702dde99cd2763d90b8d2e8d1d688b26ddc06192fdee9671de62164aa"
 metafile = true
 
 [[files]]
