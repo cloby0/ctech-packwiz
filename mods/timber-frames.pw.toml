@@ -1,0 +1,13 @@
+name = "Timber Frames"
+filename = "TimberFrames-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e3e63cbde94a95184a881f9ff5ddee7ac891a0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5372390
+project-id = 606011

@@ -3977,372 +3977,9 @@ file = "kubejs/startup_scripts/custom/itemDeclaration.js"
 hash = "423d42f6bb144f61e595d4f5e612b02a6761b4855d1009674db9154f260618b6"
 
 [[files]]
-file = "mods/AE2-Things-1.2.1.jar"
-hash = "6a900a8e4411f9c2653a38cdabbf503cf89766b289120a5f3599282120d2abc3"
-
-[[files]]
-file = "mods/AI-Improvements-1.20-0.5.2.jar"
-hash = "575a4a8e00f982c064d54bb3e73e5cda2d14414de054a471a3daf3f58bdf560a"
-
-[[files]]
-file = "mods/Ad-Astra-Giselle-Addon-forge-1.20.1-6.16.jar"
-hash = "243f911b0c46f4d25bcde90804e2a22e47f687d5e90853bd2b86b734d2bc0d56"
-
-[[files]]
-file = "mods/AdLods-1.20.1-8.1.3.1-build.0980.jar"
-hash = "003882e485fff2075aaa5f95a10351c33d45edb03ad4704045e9c42988da8d74"
-
-[[files]]
-file = "mods/AmbientSounds_FORGE_v6.1.4_mc1.20.1.jar"
-hash = "701e90966b207c6362daf4446cfac72eed550b7d9b16df3a5154e38615c55547"
-
-[[files]]
-file = "mods/Amplified_Nether_1.20.x_v1.2.5.jar"
-hash = "f571479a0375581f21095b03ab948833f94500261824bf4a7257e5b9865e726d"
-
-[[files]]
-file = "mods/Apotheosis-1.20.1-7.4.4.jar"
-hash = "7bc507ac122e7afdd49969f52ee3a917896ff46eb45935c4454d5cb9bc32ee34"
-
-[[files]]
-file = "mods/Apothic Amendments - Enchanting - 0.1.4.jar"
-hash = "d05da88a29fb0130b883e6abb8cd7afbd5c6b49ec2e710de210a88d56754b7ae"
-
-[[files]]
-file = "mods/Apothic Supplementaries - Enchanting - 0.1.2a.jar"
-hash = "dff56516fffbf97cdb781958aa3a694cc1d668e8e79baa9af689b609b3610b86"
-
-[[files]]
-file = "mods/ApothicAttributes-1.20.1-1.3.7.jar"
-hash = "68487b11c0d4e2f67a85f2b04bf65e99ac15294f2923f4391f83e9542293187a"
-
-[[files]]
-file = "mods/ApothicCombat-1.20.1-1.1.0.jar"
-hash = "620a6a8b65f294679d9a157d4cf9b340cd71f30aaee971e4e009fc7ec9e4c0fd"
-
-[[files]]
-file = "mods/Applied-Botanics-forge-1.5.0.jar"
-hash = "a47a1a156b7da0b6da25c5ae082f29cedab54bf7dedd4d7ac20e2e8e06e17315"
-
-[[files]]
-file = "mods/Applied-Mekanistics-1.4.2.jar"
-hash = "957e59989cc8388bcc10c42c8f68c0f1e3afce8a066a02bb2b6d0f4d641cce55"
-
-[[files]]
-file = "mods/AttributeFix-Forge-1.20.1-21.0.4.jar"
-hash = "5d8cc8928ce480288d5b504663bb13104df56ac72ce5bf36f2743ec27c701112"
-
-[[files]]
-file = "mods/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar"
-hash = "71ecffc7c33ae896d9299f392db11bd50027c2dcbd8b16593fa6b6a6a4018502"
-
-[[files]]
-file = "mods/BetterF3-7.0.2-Forge-1.20.1.jar"
-hash = "e46ced73bdf78a59573a7188cfbe7256353f21a67eef752dc39b5e5816fc61c0"
-
-[[files]]
-file = "mods/Block Swap-forge-1.20.1-5.0.0.0.jar"
-hash = "2b9f3a08f6bcdb9ad301dfffffaf2e5e40674cbf96181c3870346fb74dced731"
-
-[[files]]
-file = "mods/Bookshelf-Forge-1.20.1-20.2.13.jar"
-hash = "c31fed2c1a1c0d72d3ef996bb84521b7d6a8fbd3115c89c001f13a7ffd56f64b"
-
-[[files]]
-file = "mods/CerbonsAPI-Forge-1.20.1-1.1.0.jar"
-hash = "54a0a20da56ab1af2d0d7f5cf1133c059a7523485d567521084f822e81505dfb"
-
-[[files]]
-file = "mods/Chimes-v2.0.1-1.20.1.jar"
-hash = "4e062fa1494d3e85497ff6dfe501a6336ce3eb774513ae133d9f0129d3a2572e"
-
-[[files]]
-file = "mods/CodeChickenLib-1.20.1-4.4.0.516-universal.jar"
-hash = "9037fc4bc73e4cec717501fc362f660f46c2a1ac34674da2106b4605b3e4d8db"
-
-[[files]]
-file = "mods/Continents_1.20.x_v1.1.5.jar"
-hash = "95d344e3f606ea2f0935240e0c66ad2fb5364bf1301aaa9c7c6eff688d1c7075"
-
-[[files]]
-file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
-hash = "516308a93824119f6a1ebc75425aa21ee8f8de0c331942793a054ba6d9c24944"
-
-[[files]]
-file = "mods/CreateTankDefenses v0.80.jar"
-hash = "eecf472173fa9ffdd73b5b17aefb4f2b7ca63dbfd9deba0bb34f0cf2172b208f"
-
-[[files]]
-file = "mods/CreativeCore_FORGE_v2.12.28_mc1.20.1.jar"
-hash = "0c5939422e4eb1f852bbcfb21d95d5161f52772f0d95bafc842d1a139e6a4a07"
-
-[[files]]
-file = "mods/DarkModeEverywhere-1.20.1-1.2.3.jar"
-hash = "747b7f7487f664afc143b25d630cb13358ea7bf55aff056c86418b4985d5c947"
-
-[[files]]
-file = "mods/DramaticDoors-QuiFabrge-1.20.1-3.2.8.jar"
-hash = "de0a92cf084a40b7cf21687db9d19b1834450706e16edb8a3fc788554e9255f4"
-
-[[files]]
-file = "mods/Dungeon Crawl-1.20.1-2.3.15.jar"
-hash = "71e1b8ceaf20c3102ae42ef2761ca47f30fe4cbd20ecbb687df2ce75d1785514"
-
-[[files]]
-file = "mods/EnhancedAI-2.5.2-mc1.20.1.jar"
-hash = "b62fb6ef08cd8477521c86099cb1cfaf1d523cff0c664485c9dba0ca4eeab153"
-
-[[files]]
-file = "mods/Explorify v1.6.2 f10-48.jar"
-hash = "8280dd4b3fa9a25a34dd663c3e0dc6342ba792ae31ab97d75c3c20e44bcc2df5"
-
-[[files]]
-file = "mods/ExtendedAE-1.20-1.3.2-forge.jar"
-hash = "7b125df5186ea9b28497fe433d75cd6f06df857a277d6832cfca9f3be827d9db"
-
-[[files]]
-file = "mods/FastLeafDecay-32.jar"
-hash = "ce48db06bfb5830c147969793771a8f8b5a5774b182543b906bc439efd4e9469"
-
-[[files]]
-file = "mods/FastSuite-1.20.1-5.0.1.jar"
-hash = "dcda3782c54946e85e7eebac25a5f770135f441e70c1152c878f8219ccf27047"
-
-[[files]]
-file = "mods/Fastload-Reforged-mc1.20.1-3.4.0.jar"
-hash = "038a5fa1c044d5afae22502ca1444eeb1a700d34a224996c25f233524ae35a7a"
-
-[[files]]
-file = "mods/ForgeConfigScreens-v8.0.2-1.20.1-Forge.jar"
-hash = "0e2f3e6b962071da3c98292b3836bbfe5b03b8236a83043137a7e29b530ebd8e"
-
-[[files]]
-file = "mods/ForgeEndertech-1.20.1-11.1.6.0-build.0980.jar"
-hash = "57836769f1b6ad375d2568b38ea24ecff700cbd0b5e155f7ca414bb41f684b37"
-
-[[files]]
-file = "mods/FramedBlocks-9.3.1.jar"
-hash = "5b394dc0c467eb7ec2a36886b3ba469d25199a4d1c87d391c5c467f72edbe413"
-
-[[files]]
-file = "mods/GeophilicReforged-v1.2.0.jar"
-hash = "ad95a25d38477c38eb43304d9e49a5040684b39c6b02a131d7778203883b1ef3"
-
-[[files]]
-file = "mods/Glodium-1.20-1.5-forge.jar"
-hash = "fc419cb5bf511750c0a2da498b925f5122ac4f78617aca6630fe80abf0b6f460"
-
-[[files]]
-file = "mods/GunpowderLib-1.20.2-2.2.2.jar"
-hash = "3bfc04b30cff467c75553205c1f4d6d2be7f841b92adfe8441d8ce2f8d52cf4c"
-
-[[files]]
-file = "mods/Iceberg-1.20.1-forge-1.1.25.jar"
-hash = "91ad6b459e0c7a16a9f3dc90230248a696600ceec6646aa23263559b8648dbc3"
-
-[[files]]
-file = "mods/ImmersiveEngineering-1.20.1-10.1.0-171.jar"
-hash = "bbb04345b8263b1de026521500e28ceba207470e0dd78c9f022331d7fbca42d2"
-
-[[files]]
-file = "mods/ImmersiveUI-FORGE-0.3.0.jar"
-hash = "7295ae6681b178ed633e951b1f4478d15b2ed7b13836038caf7d3c9427fff1ff"
-
-[[files]]
-file = "mods/InsaneLib-1.16.1-mc1.20.1.jar"
-hash = "aa47e58e6009025243589277e5dd08b23f6d613c7f7f72fe30050670606066e1"
-
-[[files]]
-file = "mods/InventoryProfilesNext-forge-1.20-1.10.19.jar"
-hash = "d4f22942888438f7fabf40e16f47d2e454ece7585a262cdfb7d20b4b13683013"
-
-[[files]]
-file = "mods/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar"
-hash = "a0de109d3405fbf4290e10df4f812eadd5125debb16ea7e9d908acbbabcb516b"
-
-[[files]]
-file = "mods/JAOPCA-1.20.1-4.4.13.23.jar"
-hash = "290b41be3758c09061e1bbd3835664c93fbcfca8e11fd33d60555cdf3bbb0724"
-
-[[files]]
-file = "mods/Jade-1.20.1-Forge-11.12.2.jar"
-hash = "50495e551bd3914d040c14924176649584a5c815d1f1a19eb3b410e30347dc7c"
-
-[[files]]
-file = "mods/JadeAddons-1.20.1-Forge-5.3.1.jar"
-hash = "a14d9ad7479249265ec01a3213ee0cb462d647634c38faacc975690d98e9bdd2"
-
-[[files]]
-file = "mods/JustEnoughProfessions-forge-1.20.1-3.0.1.jar"
-hash = "13e2012375d16663192cf67f5e4139335e5dcbeaf2adf7e8a4816b013802f96a"
-
-[[files]]
-file = "mods/KubeJS Blood Magic-1.0.2-1.20.1.jar"
-hash = "ab3f2f856c043a8576955510cf725352063641f1fd642e6d4b6fbf59ed8d4b1b"
-
-[[files]]
-file = "mods/LegendaryTooltips-1.20.1-forge-1.4.5.jar"
-hash = "15521ab414b92f60e75bdd49724eb65bb6aa8b3d6f72c157cc261011d58d625e"
-
-[[files]]
-file = "mods/LibX-1.20.1-5.0.14.jar"
-hash = "6b795bbeeb320a4fc44438bec23f7937e8c70f7b87e809e044872e37a9ac1b27"
-
-[[files]]
-file = "mods/Lychee-1.20.1-Forge-5.1.15.jar"
-hash = "05e67481f998b5ac25013af52f2387d4cdb6c5bece73bd3fb2b18fd4260a59e3"
-
-[[files]]
-file = "mods/MRU-1.0.4+1.20.1+forge.jar"
-hash = "520c07bceb8987c4bb355d32b495ae03e4f106553df47b1a9691a08420016fa2"
-
-[[files]]
-file = "mods/MagnumTorch-v8.0.2-1.20.1-Forge.jar"
-hash = "fa9df7fad29f50da46d5852d0ad06a0215d910ad2050da64b0996342a4489c63"
-
-[[files]]
-file = "mods/Measurements-forge-1.20.1-2.0.0.jar"
-hash = "6778038033d01172090ac04a59b4edf079b23022fadcf0ec6e08a83ebc532708"
-
-[[files]]
-file = "mods/Mekanism-1.20.1-10.4.13.69.jar"
-hash = "c99a6584a9f5b616dc5b5833583293ab022f532589bf9fd4c753c62c82b9bac7"
-
-[[files]]
-file = "mods/MekanismGenerators-1.20.1-10.4.13.69.jar"
-hash = "8b089dbe4511819c85c1fbb242a9db1c633cfaa9bc15615af6f5d81c81a77cf3"
-
-[[files]]
-file = "mods/Morph-o-Tool-1.7-38.jar"
-hash = "6c29ae80b7543fec025bae65e8abe328d2e5b160e9577a749fd220fc778d1fbc"
-
-[[files]]
-file = "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
-hash = "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08"
-
-[[files]]
-file = "mods/MutantMonsters-v8.0.7-1.20.1-Forge.jar"
-hash = "d378814520e3a630ca74ba629e9252066e51df983a44568c85234114ba909108"
-
-[[files]]
-file = "mods/NaNny-1.0.1.jar"
-hash = "ded54029203f0bf5f6564216ff76052b46970dd9c583080566c9e0f33cddf11f"
-
-[[files]]
-file = "mods/Necronomicon-Forge-1.6.0+1.20.1.jar"
-hash = "403b23457288c624a55feb90d5e813c88c23a611bc42cda397c4bfac94b4c3a3"
-
-[[files]]
-file = "mods/NekosEnchantedBooks-1.20.1-1.8.0.jar"
-hash = "244e92c2d98c017a7a31371cf534e0046cd24fc8a7831f74fbc5d4d1701df095"
-
-[[files]]
-file = "mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar"
-hash = "ef7fa5096dfd492c3d3ae7228888ca4b92ce07d9b8e302297ceb2ceb1f8d238c"
-
-[[files]]
-file = "mods/OctoLib-FORGE-0.4.2+1.20.1.jar"
-hash = "1388bf3c1699556a9a2d50f4db67a5d792dbaf35059b8bbee38be170c5f91ed6"
-
-[[files]]
-file = "mods/PackMenu-1.20.1-6.1.2.jar"
-hash = "fc33c41205dc2fd432dd07d5b5f28d105d7a99dced19220e9b3c6529c2f2af55"
-
-[[files]]
-file = "mods/ParCool-1.20.1-3.4.1.2.jar"
-hash = "92c42b728bc6138d5b165ffb010ad8ac8152acebf8cd88ca7125b5accd05e167"
-
-[[files]]
-file = "mods/Patchouli-1.20.1-84-FORGE.jar"
-hash = "e883f33ae0e5eb128b36e145072027e620e9992e24809dc07bf4e7ac195b9519"
-
-[[files]]
-file = "mods/Placebo-1.20.1-8.6.2.jar"
-hash = "1fcacfb17c4f5f3880d99a1bf29c76bc2d6bf6ed6e02ca8051a3b6eee4c99c5a"
-
-[[files]]
-file = "mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar"
-hash = "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb"
-
-[[files]]
-file = "mods/Prism-1.20.1-forge-1.0.5.jar"
-hash = "b1a576f920faeb2175f693e3ee7ba9e5ff0bcf0e404da29f1824ea3c66efd240"
-
-[[files]]
-file = "mods/RainShield-1.20.1-1.1.3.jar"
-hash = "e4541058d4cef36da5d9646c6fd5e402810d83fcf6e244805007305b599160bf"
-
-[[files]]
-file = "mods/Rats-1.20.1-8.1.3.jar"
-hash = "9a73aa327f8d48a06208bb6f47f03799e061eac8714f09301df0ef5d34ca5f3c"
-
-[[files]]
-file = "mods/RecipesLibrary-1.20.1-2.0.1.jar"
-hash = "d0bef24e090b8002f6fbc86c35e0c2c52612ffd853e21e788a9572f466d55ff3"
-
-[[files]]
-file = "mods/Searchables-forge-1.20.1-1.0.3.jar"
-hash = "c1a76e93886210574d3f298c0461241fb711e52ac22c7a04d3236840f29e6576"
-
-[[files]]
-file = "mods/ServerTabInfo-1.20-1.3.8.jar"
-hash = "d25428542f15a1437613553902513b8a11d09e02266c223f15a70b5e8f778ae7"
-
-[[files]]
-file = "mods/SilentCompat-forge-1.20.1-1.4.0.jar"
-hash = "739fb3f43c8e70985ce24eb8c8b03d75b2b088feabef14bfd572891756633fff"
-
-[[files]]
-file = "mods/SimpleSponge-1.20.1-8.1.jar"
-hash = "efbb554807691eae15113e003edf11c7369522092f79e2913f03606873a5e2ed"
-
-[[files]]
-file = "mods/SmartBrainLib-forge-1.20.1-1.15.jar"
-hash = "665f65f77cc36379a9ae11c09db5d9efa1ad4f8d017edc8f65903ff27cacdb1d"
-
-[[files]]
-file = "mods/Snad-1.20.1-(Neo)Forge-3.0.1.jar"
-hash = "12e6caf6d05567bc93730443ba8bde533ece2ac7793e5b1569ccccd7c191a37f"
-
-[[files]]
-file = "mods/Sounds-2.2.1+1.20.1+forge.jar"
-hash = "2fa22c59f967e963c97e7d4374a8713247402fa6c87654b3057a1c248217c7fd"
-
-[[files]]
-file = "mods/StorageDrawers-1.20.1-12.9.13.jar"
-hash = "f7d0df800bf13399c8d9e3b04d5723ed8468aca68224f4fb2133ac55bb4313a0"
-
-[[files]]
-file = "mods/Structory_Towers_1.20.x_v1.0.7.jar"
-hash = "74aa182524af55e172d7bfcf828dd1c1a3259a304980e7a94fbfbf1f0d9fac0c"
-
-[[files]]
-file = "mods/TerraBlender-forge-1.20.1-3.0.1.7.jar"
-hash = "8f00e766f5a75aa52809cf9825817e874ac4b21b5d3f52fb02d40a19ec0b759b"
-
-[[files]]
-file = "mods/Terralith_1.20.x_v2.5.4.jar"
-hash = "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f"
-
-[[files]]
-file = "mods/TimberFrames-2.0.0.jar"
-hash = "f3a3bb83ae53cb17a9edf1789d6846335b7fe2f38f0a2b5b42d24353bbb2a902"
-
-[[files]]
-file = "mods/TravelAnchors-1.20.1-5.0.1.jar"
-hash = "12fe743ffc70809c16cddd57fdf14e4e2a4b2bb0a168129f645e5e1aba467438"
-
-[[files]]
-file = "mods/TreeChop-1.20.1-forge-0.19.0-fixed.jar"
-hash = "219fbe5bf8d862dc7b524ca5a0151f66bba4d53a01010858e136a9e8c4d55d4f"
-
-[[files]]
-file = "mods/UnOrthodox-9.0.0.jar"
-hash = "c2f02b1d72aede88d1481d7e8d17a684ea9c44d8298ac1e553c54225f2bbae2f"
-
-[[files]]
-file = "mods/[forge]ctov-3.4.10.jar"
-hash = "8afc22c9b75fbece285b5d0945f4d34bc8fc1ee0c45c8c4ec520ea0c8009632f"
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "a2080d212c79e1331198d5fe4ac3146e9894c19dab497216a11627ddeaeea5d5"
+metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -4365,6 +4002,11 @@ hash = "411b6ecdfd9884e3c232482b72b0504739fb239356a590ab07c91f8487a05b41"
 metafile = true
 
 [[files]]
+file = "mods/ae2-import-export-card.pw.toml"
+hash = "e4c225451a42377a82279c3579dddf607b139807d82127b4626fa128601ab0d4"
+metafile = true
+
+[[files]]
 file = "mods/ae2-mega-things.pw.toml"
 hash = "d51a624a969371b36050a8e8a13a65f3ce4ca3bb95735efcdf0f22fea04fd305"
 metafile = true
@@ -4375,8 +4017,9 @@ hash = "59b441c02123a358b138b0e1421fdb085b8138392f2a65ff479e09d3f10098f2"
 metafile = true
 
 [[files]]
-file = "mods/ae2insertexportcard-1.20.1-1.3.0.jar"
-hash = "329dff2184edc476e7261b073f17239015636543a22c16df1161fafe547d6b1c"
+file = "mods/ae2-things-forge.pw.toml"
+hash = "8f7696617249a4be35a9d1a2caecce4e17bbffe823f904d10c6fc8b72c4352ca"
+metafile = true
 
 [[files]]
 file = "mods/aeroblender.pw.toml"
@@ -4396,6 +4039,11 @@ metafile = true
 [[files]]
 file = "mods/aether.pw.toml"
 hash = "6f87edf40bf0be7e7e266f9e2ff0bf7584c6bedff7975bad3259a21a60d1e598"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
 
 [[files]]
@@ -4419,12 +4067,9 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
-file = "mods/alexscaves-2.0.2.jar"
-hash = "131e205ce3eed384d701b336d8a0d4a671108ed56b6eff6014f0e407db2997f0"
-
-[[files]]
-file = "mods/alexsmobs-1.22.9.jar"
-hash = "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c"
+file = "mods/all-the-trims.pw.toml"
+hash = "771494578ebb46fbe81cdabfaa4fbb752edae5f0ffa97f93ed9f4af6e0cbe788"
+metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
@@ -4432,28 +4077,38 @@ hash = "40bab1828ae2b4d755db64f1c887a2fe06171fad6ab54d4a1863ca5c30ff9b55"
 metafile = true
 
 [[files]]
-file = "mods/alltheores-1.20.1-47.1.3-2.2.4.jar"
-hash = "b3aee8294e1a285f875192745194b910d945a09beeb050f25a2eb37ddc497408"
+file = "mods/almanac-lib.pw.toml"
+hash = "067c72c78318b03c01b6d35aff74135ef1c969425e471efe777dce7a174c7005"
+metafile = true
 
 [[files]]
-file = "mods/allthetrims-3.4.3-forge+1.20.1.jar"
-hash = "060a9441b1530237c5c1066215a5e97b640059024d33539034953a2c9d1aba79"
+file = "mods/almost-unified.pw.toml"
+hash = "6c1abc7203698f420023a1655bc803113babd2dc00b2ced0e071de8b46147b5a"
+metafile = true
 
 [[files]]
-file = "mods/almanac-1.20.x-forge-1.0.2.jar"
-hash = "b8e0b42329c11739201d132bc99720e8205badc4ce862b30e4eec04b833e3419"
+file = "mods/alternate-current.pw.toml"
+hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
+metafile = true
 
 [[files]]
-file = "mods/almostunified-forge-1.20.1-0.9.4.jar"
-hash = "bd9f014d5de7bf98e1433c948758f8f0c0c16d21658a80fb61b3db5bf1afca7b"
-
-[[files]]
-file = "mods/alternate_current-mc1.20-1.7.0.jar"
-hash = "9dfa5365ef170323612d6ada820b7cac12e05135f00f16d0f627488426f59565"
+file = "mods/ambientsounds.pw.toml"
+hash = "e03b05307a9186baa39fdcc6113030f4a631068438801e3fda1be55cdf42d7f8"
+metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "a966c425617e0583ccadc2fe7f521a53833c93f4aacd9c89c24ad7cc76eca97a"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "03fa352715705a0354e049b4fe0b3fab7772476134cd3393e343811c2862d13b"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "eaef82b3a44f3f081f04c8c98438b2816b4fa04757f1228eb80d045c1cbca92a"
 metafile = true
 
 [[files]]
@@ -4462,8 +4117,18 @@ hash = "0fad8186fbeb910463e8b34629543c8d15c68baaa558b1501ccdc3caf15abeed"
 metafile = true
 
 [[files]]
+file = "mods/apothic-amendments-enchanting.pw.toml"
+hash = "c89308468aace53f9d375be2f547388f5a843f3a8f2c21e43923300668ed397e"
+metafile = true
+
+[[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
+metafile = true
+
+[[files]]
+file = "mods/apothic-combat.pw.toml"
+hash = "e4e4335daf42f4ba4769a1a35685e220360227ae60358a87090ee235c74f3eba"
 metafile = true
 
 [[files]]
@@ -4472,12 +4137,24 @@ hash = "3126b524500c6d02b5b27b3cf37507a5ffc27944f893435605fb012cec815396"
 metafile = true
 
 [[files]]
-file = "mods/apothic_mutant_heads-0.1.0.jar"
-hash = "4df9e979da61b20ec3591e05fc69552766cda65f836855a8a52519aded65e0a1"
+file = "mods/apothic-mutant-heads.pw.toml"
+hash = "e2c5f8d98f5edfa7b2afe5a65c6e7d4c1fa0f05744eab3f3662a0b74145aaff4"
+metafile = true
 
 [[files]]
-file = "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
-hash = "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
+file = "mods/apothic-supplementaries-enchanting.pw.toml"
+hash = "8db95d3ea114724d27b5f487b36fe85f730541c99a03dcf015eb25e7d74e98c8"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
+file = "mods/applied-botanics-addon.pw.toml"
+hash = "276ce628e43d33191605204300202bae93973005a5ed51eb74908f12ce200253"
+metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
@@ -4486,7 +4163,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "0f4c2198603cd84a14dc6741729d0b0dcf509574776e620c36c3e7180082db32"
+hash = "c7100d21cf1018145253a9b7242d75d576ba6b99e60232ad84072cb48fdb8c98"
 metafile = true
 
 [[files]]
@@ -4495,12 +4172,9 @@ hash = "19abab960aa6e095c86c96e85de6e49a0395a1cae904dacc06cbbd98e89f711c"
 metafile = true
 
 [[files]]
-file = "mods/appliedenergistics2-forge-15.3.2-beta.jar"
-hash = "49a485b9e4dea008a52dca583045c010c317bce4367d2966f1b068a376e9a6f5"
-
-[[files]]
-file = "mods/architectury-9.2.14-forge.jar"
-hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+file = "mods/applied-mekanistics.pw.toml"
+hash = "e86f6cb8be0b72ee9920dd3745fec63eb46300d06ae78e3beb5a08dedc8ed46b"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -4508,8 +4182,9 @@ hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
-file = "mods/armorpointspp-forge-1.20-3.1.1.jar"
-hash = "95bb87c7324f0ee1680f5465e6e2ed73fba6a19bb90e58f0ca28ff3ff062fdfa"
+file = "mods/armorpoints.pw.toml"
+hash = "3b6ae13d46854f2eeee5f6f102bc0ae44ce992a14b060cfd059264eb0a1ea3fc"
+metafile = true
 
 [[files]]
 file = "mods/ars-botania.pw.toml"
@@ -4527,21 +4202,24 @@ hash = "0502e2b33b08fe5920ff1ea61d3cd3c86d9e93ff234af56088c63dff4c189733"
 metafile = true
 
 [[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "1ee1ee248c2061162602391279e2e13b878e5fd28679a74f68382b5f8f54cdc3"
+metafile = true
+
+[[files]]
+file = "mods/ars-energistique.pw.toml"
+hash = "fe693ae80d95c3b06c0c91285417bf58d13e1e1d69496d35224dbf0002d54476"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "44505ec6c8d7ac5948b3f192cff3db191b07c4d39d501ce3af916006cda3c5a6"
 metafile = true
 
 [[files]]
-file = "mods/ars_elemental-1.20.1-0.6.7.7.jar"
-hash = "501f617604262a348bf948277cc43062ddd1a8efdf6b54c33fd673379c2ac2f6"
-
-[[files]]
-file = "mods/ars_scalaes-1.20.1-1.10.7c.jar"
-hash = "a9ea6f3ee414d174d32a48b946fd85cf1f87e617f28a5fb56045eab0565df5cb"
-
-[[files]]
-file = "mods/arseng-1.2.0.jar"
-hash = "02850730d3535afeb19d94311c31693ee1986d07795934e4dc50282f7956e827"
+file = "mods/ars-scalaes.pw.toml"
+hash = "cff38a0ff474bdbd272e2766a697f4964bcc232e4ecd67f27daf367ee162a053"
+metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
@@ -4554,16 +4232,33 @@ hash = "6d7488c03c6ce1b0f06e030bb90094d3b029ccfb01c20de674488710f8ad2891"
 metafile = true
 
 [[files]]
-file = "mods/async-locator-forge-1.20-1.3.0.jar"
-hash = "d171fdddd8dad64cba4c8c67cd2a0bdfc2697ff35e11f9fb666b7464e1e9468b"
+file = "mods/async-locator.pw.toml"
+hash = "89a00ce9f08a33a529f3f9a8baa50e281cbd50d451720e219a62928eb155c686"
+metafile = true
+
+[[files]]
+file = "mods/ato.pw.toml"
+hash = "d64d02d240575e58a4b2ee8794a60f67f053d1fd675dfbd280b2bb8c3438fb93"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
+metafile = true
 
 [[files]]
 file = "mods/auralily-1.0.0.jar"
 hash = "c29e43fc6d55ccd655bf1b1a14e45920b0d7a63adb024be8d62c31433adf2306"
 
 [[files]]
-file = "mods/badpackets-forge-0.4.3.jar"
-hash = "b621a8e31727324a6010adbfb84fd4dbb78b3c7d87e5a9aebfb4e3223448f1e3"
+file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
+hash = "7b82c00d58b304aa7e5c94426610b7a7b6247baa1122dbaa480bd7c7eabb6a6e"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "64bf8b278979f6e2aa9dc0fb5d2168212bc9337e41fb9a9f7e114fe91695194a"
+metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
@@ -4571,8 +4266,29 @@ hash = "c18c17c9ab83c9943c0b34598301d50c7fccfd8103ee56e256f77b1808a22477"
 metafile = true
 
 [[files]]
-file = "mods/balm-forge-1.20.1-7.3.11-all.jar"
-hash = "3fcafab1ee0b5aa2788a723c8bd7c939660e6ee67669659cea79be9fa9ef5d4a"
+file = "mods/balm.pw.toml"
+hash = "9dae802973a30aed624261c4dbae65643ea656c337a0cba936e06427aa66023e"
+metafile = true
+
+[[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "2d9e7369d044681a03fc08a5d2f6409c9201c5e42db4ff2ec090247272b5b898"
+metafile = true
+
+[[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "f6a0e47845c06a47bbd3471318c2b95e83ad4e3d1759c84d0a2a3bf6437ca33a"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "0651f0e4c8067fbbc25f3efcd1d43278b44d240e4c8e375fb398eaf63e34f58d"
+metafile = true
 
 [[files]]
 file = "mods/better-fusion-reactor-for-mekanism.pw.toml"
@@ -4580,24 +4296,19 @@ hash = "e8a656ca626ceeded8dedc4a78ebbd193418222989f5f0ccdeb7f2158b8231e7"
 metafile = true
 
 [[files]]
-file = "mods/betterchunkloading-1.20.1-5.2.jar"
-hash = "c0f6c45e08d513ae21418246ec3d27a4248ae7ca60b34d4ed3271811c74b6222"
+file = "mods/better-invisibility.pw.toml"
+hash = "40fa40d6b427c8d6bbab5371287e1fdf9444eafcf2702237f97edf8eb3d72a88"
+metafile = true
 
 [[files]]
-file = "mods/bettercombat-forge-1.8.6+1.20.1.jar"
-hash = "e147e13732e0fac83aee209487fdeb10a03e52c33e1b1439dbce01a80f3e8dbb"
+file = "mods/betterf3.pw.toml"
+hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
+metafile = true
 
 [[files]]
-file = "mods/betterfpsdist-1.20.1-6.0.jar"
-hash = "0fa8855bcdc67962f109a096381107f58917faa64c61dd99b32ae0e738aae4f7"
-
-[[files]]
-file = "mods/betterinvisibility-1.20.1-1.0.4.jar"
-hash = "a3f86c91961b6a1b4a599da88698cd1b2f5e09b8400f6476ae1e0267337297cb"
-
-[[files]]
-file = "mods/biomancy-forge-1.20.1-2.8.19.0.jar"
-hash = "69c5ea80dba2aaec70a5fdf6b6f29977374eb1d73398e4bd69548d87dd3c4149"
+file = "mods/biomancy.pw.toml"
+hash = "d9c6be712050ede6a6aaf8c6d1d299fb08f475d874bc2f7ae8b2c33dc0c1d632"
+metafile = true
 
 [[files]]
 file = "mods/block-swap.pw.toml"
@@ -4605,8 +4316,9 @@ hash = "1d093db0add8486b407b1323d2add62c1710469922722ec2531f78ef667ec259"
 metafile = true
 
 [[files]]
-file = "mods/bloodmagic-1.20.1-3.3.3-45.jar"
-hash = "87e2cf59e61875360d5a69417c510a631404bf0a32338f5e6ad820bcb9c86f75"
+file = "mods/blood-magic.pw.toml"
+hash = "488623331de35d0132795aeb028cca441fc0d5c2e358faf25e973894fb3859a7"
+metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
@@ -4614,8 +4326,9 @@ hash = "790de162313fcbe950496580db107eb8da2ae29060cbf611764d1bb352461d03"
 metafile = true
 
 [[files]]
-file = "mods/bocchium-1.20.1-0.0.3.jar"
-hash = "8cd971cc5774aed3b02b67810891837adc7e348c8a45be0590d28ea110fdb9fa"
+file = "mods/bocchium.pw.toml"
+hash = "7ec99baf6e863d37c9c5cf5960ca4adeaa9e6b4e83b956e5985807b460877cf7"
+metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
@@ -4638,8 +4351,9 @@ hash = "f97b2f19177fe2dcfc8b4377787c7b9b38d46776bc4a345b4f3ba89ee732fac1"
 metafile = true
 
 [[files]]
-file = "mods/botarium-forge-1.20.1-2.3.4.jar"
-hash = "470810a364ff4ad4d4fcd4e55798263938fc893970eacecc58e8b741a392b1cf"
+file = "mods/botarium.pw.toml"
+hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
+metafile = true
 
 [[files]]
 file = "mods/brandons-core.pw.toml"
@@ -4657,12 +4371,9 @@ hash = "3cea30ad5a954ac65ccc1f6ddca8cefadb1ed754e2ffdfc3db3b4490edbf5f6c"
 metafile = true
 
 [[files]]
-file = "mods/buildinggadgets2-1.0.7.jar"
-hash = "81e4bf64a0d1136de899d68f2693f0bc6439c520884bbb39c5c2a2fa82056f12"
-
-[[files]]
-file = "mods/bwncr-forge-1.20.1-3.17.2.jar"
-hash = "d6c120a438f0b347f78d21758d0e05459e09ccd87bb9cae9ee1955ab2750afd9"
+file = "mods/building-gadgets.pw.toml"
+hash = "8461b7344559646b5051a6d812e2cd4d43e62c8c817d17f0b2552f65306f43d4"
+metafile = true
 
 [[files]]
 file = "mods/cable-facades.pw.toml"
@@ -4670,12 +4381,14 @@ hash = "bfc9064726d16308c9eb720741eec4efae2513fe3a78f0f1b466cfe32a61d4c3"
 metafile = true
 
 [[files]]
-file = "mods/caelus-forge-3.2.0+1.20.1.jar"
-hash = "37495445e79df8b30a3a038a0051f3c8aa8447f91a9d0aa0d20baef69dda9368"
+file = "mods/caelus.pw.toml"
+hash = "da069e723737ae49203f7572eb774be0fd21f5f083ce7a7ee1bed25916befca8"
+metafile = true
 
 [[files]]
-file = "mods/camera-forge-1.20.1-1.0.19.jar"
-hash = "4fc34cd870ffce2d4a52957028ef6d8211be45d99f11558bdec95ce869c266f8"
+file = "mods/camera-mod.pw.toml"
+hash = "f13863c4eb38983c4ee5fc5465279a124f5fb03c0c91245b8ddc86dc5abbc8c2"
+metafile = true
 
 [[files]]
 file = "mods/casualness-delight.pw.toml"
@@ -4713,13 +4426,29 @@ hash = "bbf18684baead8a30bac1f043891f7bd1b687c42fe99fd5681392660fd41df61"
 metafile = true
 
 [[files]]
+file = "mods/cerbons-api.pw.toml"
+hash = "da9026c48b5c6bc9eab17bca48f4b1fd8540fcae23365d63c9d7c4e5c7eb0a30"
+metafile = true
+
+[[files]]
 file = "mods/chemlib.pw.toml"
 hash = "882da059a6d7439b9cdf746813c61ce1e8e73c00a88e4e0cbe4412d4c312702a"
 metafile = true
 
 [[files]]
-file = "mods/chloride-FORGE-mc1.20.1-v1.7.2.jar"
-hash = "a964213a0df7c178ce921121c9a9d9d50cff8bb590348ff8ada11f0ed7e28f31"
+file = "mods/chimes.pw.toml"
+hash = "d960f68e4c5e5f79eff91a277dc22d7acb49f04080fcf0fe1648b5a9a83e3d4f"
+metafile = true
+
+[[files]]
+file = "mods/chloride.pw.toml"
+hash = "ac1e7559d7cbe48e6fbca5e7bad3f5376a772ccca14e1a6e53a402d51476220e"
+metafile = true
+
+[[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "84c40a6efca7145bcbbd66653d961fdb02c7824cdf4bd123ac97689987be5754"
+metafile = true
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
@@ -4727,29 +4456,19 @@ hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
 metafile = true
 
 [[files]]
-file = "mods/chunksending-1.20.1-2.8.jar"
-hash = "54207d488545db565838bad97db7978800f5171e02c4ab7741b9ee5cd8ab5001"
-
-[[files]]
-file = "mods/citadel-2.6.1-1.20.1.jar"
-hash = "8ceb5eb471c6feb899c02a9d560917dcc460cd0cb0d6b77d3237889cffb7e1d9"
-
-[[files]]
 file = "mods/citadel.pw.toml"
-hash = "0c8838dba7d2090968ca9ec633260d42ca16f1df186a780bd5965994541d9f74"
+hash = "ab769d9c60cfba798a0538bad596e374dc9c68a9c59ad83684afc66ce4ebfe7f"
 metafile = true
 
 [[files]]
-file = "mods/clientcrafting-1.20.1-1.8.jar"
-hash = "b0954f3e1d6dabf71bd88ad870f13b0e1bd6f0ee9d7ceb047823378a8a0e0a4c"
+file = "mods/client-crafting.pw.toml"
+hash = "8708549001bab45590a8560d7c0dd9b0859e416887f7b63b3edd2c09d05246e5"
+metafile = true
 
 [[files]]
-file = "mods/clienttweaks-forge-1.20-11.1.0.jar"
-hash = "81196afb20496f00550db258c95ceeb9fb24611e08e53f6f5576e889af6119bb"
-
-[[files]]
-file = "mods/cloth-config-11.1.136-forge.jar"
-hash = "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+file = "mods/client-tweaks.pw.toml"
+hash = "f71088a0f4930a32f27756a6fc6db26a88ead8bf5e236159c52c98868e26ed27"
+metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -4772,8 +4491,9 @@ hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
 metafile = true
 
 [[files]]
-file = "mods/cofh_core-1.20.1-11.0.2.56.jar"
-hash = "d7cd3ec8083e294e17cb50fe607b416c1dc83ce885e53ba3995d86e028f790e0"
+file = "mods/cofh-core.pw.toml"
+hash = "20fcd633516ef654e4a1546ab7e1cd4e22bc96a087544ae583f85df9b7a65468"
+metafile = true
 
 [[files]]
 file = "mods/cognition-mod.pw.toml"
@@ -4781,12 +4501,14 @@ hash = "6b896c01ea5754527d1ab31cffa90d92a17c5b74498a4ae29645abded74568b3"
 metafile = true
 
 [[files]]
-file = "mods/collective-1.20.1-7.87.jar"
-hash = "57022326808f31ce7bab1e4c169dbbfec320815c9ac10d0aca40f174b5a699f3"
+file = "mods/collective.pw.toml"
+hash = "56ca5adf65660e95f1acd0a30e3fed0565e490bc545e7b32c628051a5926632c"
+metafile = true
 
 [[files]]
-file = "mods/comforts-forge-6.4.0+1.20.1.jar"
-hash = "56398103e0e3821c98f21a5b556d57deb0686b9f50868b4278ecb73cc9d2f42c"
+file = "mods/comforts.pw.toml"
+hash = "58bf97ca61f74ea9a540f6e6090aef631155748c49b83a7a338b34d8dece9109"
+metafile = true
 
 [[files]]
 file = "mods/common-network.pw.toml"
@@ -4794,16 +4516,18 @@ hash = "fdf6907c29fa9ded3d3ab3ce04853f59256978dbfefe6af8618c492677c875e2"
 metafile = true
 
 [[files]]
-file = "mods/connectedglass-1.1.12-forge-mc1.20.1.jar"
-hash = "8d2270ce90b7c6af5740bf0546fba29a1bd44dbd884644765f51c9c73ce2f421"
+file = "mods/config-menus-forge.pw.toml"
+hash = "b5654bebe5833aaae75b7d5f0d4df212322bd6748f0f9d51e981a183dbe0976c"
+metafile = true
 
 [[files]]
-file = "mods/connectivity-1.20.1-6.5.jar"
-hash = "d8b6df45bf4a34cd2962118b04fe6affd29613bed398b0af68012d44f330babb"
+file = "mods/connected-glass.pw.toml"
+hash = "0cd1cb879ed803a08bf08ec01882f3c63ae4e267c51af102dbe4c5bff32a268d"
+metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "c4624bc1de86bbe9739fc2e9d4a580dd52c1b7e1ac23dee8c01344307cc2cb57"
+hash = "9a236307deb2c8e352f465a5883e10bd2b068f8579993c0a7da562e453055e45"
 metafile = true
 
 [[files]]
@@ -4812,17 +4536,24 @@ hash = "49e90a7646c22fda29cc15364e34d15940807c2122cc25fe5e80d9a2b8fc020d"
 metafile = true
 
 [[files]]
-file = "mods/corn-delight.pw.toml"
-hash = "c819d16483e4d029feee1b799a75cbea606ef759c6dfd67e91b5b2ed45907d29"
+file = "mods/continents.pw.toml"
+hash = "2d401ef61e5e74ca49efe475ac4f0d45a849e81adbb75ac53a991905de802ff6"
 metafile = true
 
 [[files]]
-file = "mods/corn_delight-1.1.6-1.20.1.jar"
-hash = "c8a93ba4e570be2a46cd853c3e8ffa9c240e51b0840fa26b613dadf92fde1b78"
+file = "mods/controlling.pw.toml"
+hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+metafile = true
 
 [[files]]
-file = "mods/cosmeticarmorreworked-1.20.1-v1a.jar"
-hash = "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804"
+file = "mods/corn-delight.pw.toml"
+hash = "e5436d140858377db41e50dbc6ef5ea6fc8efecdbedbb56ae6bf25ac6b4de57e"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
 
 [[files]]
 file = "mods/cosmopolitan.pw.toml"
@@ -4830,12 +4561,19 @@ hash = "b1dc522406ddf39dc412152ef47c315c5c4eda83806942bae6c3d59802a1597d"
 metafile = true
 
 [[files]]
-file = "mods/crafting-on-a-stick-1.20.1-1.1.5.jar"
-hash = "b66dada0efff8ce5e89ecf84fdeb7b38ef4d72f23fb89644dec7065690858eac"
+file = "mods/crackers-wither-storm-mod.pw.toml"
+hash = "6752a3970c0dfef9abdd6fdd389a23f2df88332356a6e8568b99ab9c68485d66"
+metafile = true
 
 [[files]]
-file = "mods/crashutilities-8.1.4.jar"
-hash = "2939fd6ca8211c283d1606b140951d543880d5f5843c26b4f87c85ef8e34259d"
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "ea56fed05fb38c1390a59961dabc757c5c9cb7a6adba3a5e0e1203971f082fd7"
+metafile = true
+
+[[files]]
+file = "mods/crash-utilities.pw.toml"
+hash = "8b0e68470cf87f5165c7286b9675d9e644aa7ca36e8dd026606c1cc6a88f1edc"
+metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
@@ -4878,6 +4616,11 @@ hash = "200b30b8eeaaf2fa9e8345fcabdd80f6195b5af67926fb1e277931100e7e1eff"
 metafile = true
 
 [[files]]
+file = "mods/create-oppenheimered.pw.toml"
+hash = "2930f1c10740b3cc505568db3fdc44cab137efdb606e052412f8cb32155f2e41"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "39cb52a90d4f3c40ad7d845e597b91c49526b8307fd52ac56b3fda2ae46160a1"
 metafile = true
@@ -4885,6 +4628,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "0971029a9e6cbc93c8fd694f97942c566979973f3d98023b730b1d436f617220"
+metafile = true
+
+[[files]]
+file = "mods/create-tank-defenses.pw.toml"
+hash = "c58b3c215d107ad651567522d6f8ea19248c20691b20ae47d07fe42127173c19"
 metafile = true
 
 [[files]]
@@ -4898,10 +4646,6 @@ hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
 
 [[files]]
-file = "mods/create_oppenheimered-1.0.5.jar"
-hash = "6d6a162385e0280d4781008ee60f5672150a46c4b9aecc3df164bd815e79a2a5"
-
-[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "8a5f33277995fccd2be6793c4fba1b5d657983be32f0b47e4afab4eac70b8ab8"
 metafile = true
@@ -4912,12 +4656,9 @@ hash = "405ff79c6621a967dd641150b7cd5f10b33a0d646b976176f5d3b85f0731e61b"
 metafile = true
 
 [[files]]
-file = "mods/createbb-1.20.1-3.2.2.jar"
-hash = "a39c71185ef168b896d1711d8b8955be5261258ad8d8d9592397bcf9863b65dd"
-
-[[files]]
-file = "mods/cupboard-1.20.1-2.7.jar"
-hash = "63a1b6e8e9cffd53f283fae04f64b8d63dcaaa99fe0e383bb664f23ec87d395f"
+file = "mods/creativecore.pw.toml"
+hash = "c18e5f723a8067f79a1ca7d190a685ae453a4cc8481620807aaef903f2ef61bb"
+metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
@@ -4925,21 +4666,23 @@ hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
-file = "mods/curios-forge-5.11.1+1.20.1.jar"
-hash = "6ab1eb98d412bd505933abb3cdbc625035ce1256d290d9fdc36ed535d267011b"
-
-[[files]]
 file = "mods/curios.pw.toml"
-hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+hash = "e070f775c1f909298453169788642d63c8058af7df55a51dc877bcc2675725b2"
 metafile = true
 
 [[files]]
-file = "mods/cursery-1.20.1-4.2.jar"
-hash = "c5826a39a37982a0b663c2a7647f9f7f78b2b80f1c38663778746c281da184d1"
+file = "mods/cursery.pw.toml"
+hash = "2994e9f5cb4f258694f4704ef96eb1ebcf2b1799cd8d9361341c359660cb6744"
+metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "0f0099feea1db673f6dded201550c7ee4aaf96434c1af7b6bbe65eac4b669d3c"
+metafile = true
+
+[[files]]
+file = "mods/dark-mode-everywhere.pw.toml"
+hash = "f6d009a00e3388324c31552d3a7da2b30873c159ad7a98a3ba0a4b2451e7b113"
 metafile = true
 
 [[files]]
@@ -4958,8 +4701,9 @@ hash = "5ca70c9ee479f137ba0c3df149c1660f0204db373f2b127a788cad502efa19c6"
 metafile = true
 
 [[files]]
-file = "mods/dimdungeons-194-forge-1.20.1.jar"
-hash = "dc6cd2ef08cf4d76260dd2fd62db850601f5191f40b42e0b54fe545779e7059a"
+file = "mods/dimensional-dungeons.pw.toml"
+hash = "1bbef590cb21c0a5938d60c06d988866a61dc9b01825a32fc97608ba439018ea"
+metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
@@ -4967,12 +4711,14 @@ hash = "1bc1fd0cb2fda0b3950b11efbca3239a89b4184e3b5e0550dd7f1f94ca67cddc"
 metafile = true
 
 [[files]]
-file = "mods/domesticationinnovation-1.7.1-1.20.1.jar"
-hash = "00f20efea12ea981b8d75e257a136c08e0c00c324554e69cf20193376c942e97"
+file = "mods/domestication-innovation.pw.toml"
+hash = "2aa8e99103e73af719667f2c03ab4380b1febed92cce4724aff8a5ec0e3cafea"
+metafile = true
 
 [[files]]
-file = "mods/doubledoors-1.20.1-5.9.jar"
-hash = "b4308561bae59657e5f80f82ea98bacd0e71c1626ef105e46f412dea92d2a2cb"
+file = "mods/double-doors.pw.toml"
+hash = "0b4ba1babc1ac58e27d41b810a2e68f58cfb140b4dfe3fe5da35f8a0fa2ecf59"
+metafile = true
 
 [[files]]
 file = "mods/draconic-evolution.pw.toml"
@@ -4981,7 +4727,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "d5e99d10b77820007cd65c78de9a572814dab691435726cf611707f81c55bb36"
+hash = "299ad211422fefa7b4af86b12cfd8e2fc573ca5f69b1ff5b730503e0f4aa0f50"
 metafile = true
 
 [[files]]
@@ -4990,12 +4736,14 @@ hash = "c8b6d9f1132abc8139ab91a05fb2b5e33424a16c80e1a7487548a86b52eb0b06"
 metafile = true
 
 [[files]]
-file = "mods/duckyperiphs-1.20.1-1.3.1-forge.jar"
-hash = "0045f6e92ec310155a8e3ef83f47c82ef60ef45be11b04d962d01f5c6115d928"
+file = "mods/ducky-periphs.pw.toml"
+hash = "2c7ff95da129218e3858446b34840db57405231a50e41badebe7e5037a8afbb4"
+metafile = true
 
 [[files]]
-file = "mods/dummmmmmy-1.20-2.0.2.jar"
-hash = "38e7acada81316b761591dc23c70cd14e67b61cd2b1f4dabfe56934d4093eb3a"
+file = "mods/dungeon-crawl.pw.toml"
+hash = "3a4845166040ce2be2967b33371140b809b8d49889ba99f91da78e0228cd6f8e"
+metafile = true
 
 [[files]]
 file = "mods/dungeons-delight.pw.toml"
@@ -5003,28 +4751,34 @@ hash = "008290999ef17b875db91622f60abd8d2ddbea5ccccca5f23050f5e3836b7cdc"
 metafile = true
 
 [[files]]
-file = "mods/durabilitytooltip-1.1.5-forge-mc1.20.jar"
-hash = "a72012a2d54da61c76661061cb86043a5d5287feca136449a3eca4e64c370035"
+file = "mods/durability-tooltip.pw.toml"
+hash = "4a66eb10fbfd1a9cc225eb6c4eadfc03a7938e0427641d25802b7d32748f7a11"
+metafile = true
 
 [[files]]
-file = "mods/dynamictrim-1.4.1-forge+1.20.1.jar"
-hash = "86e91e9282a83e01bc45de814e7e916f3fe6ff9fabed9b67d2736559abb73307"
+file = "mods/dynamic-trim.pw.toml"
+hash = "75cd6ef2de722ecdb1308b0d3233a0c630fb8c131090425a6c1e6b6d9c47f3f5"
+metafile = true
 
 [[files]]
-file = "mods/dynview-1.20.1-4.0.jar"
-hash = "a8cfb3bbafc282b6649fcb0ff582f881577c0584dff6abb0569914488fc5ee7c"
+file = "mods/dynamic-view.pw.toml"
+hash = "9503bfd7d59bb3f50232a6c5ea90e5790e178cc96b2463eb3e9775f65d1ef4ea"
+metafile = true
 
 [[files]]
-file = "mods/e4mc_minecraft-forge-5.2.1.jar"
-hash = "e4fe7f9cedd019c166400a71bb7909280eed7b4238ac4865b424134c8621c70e"
+file = "mods/e4mc.pw.toml"
+hash = "bb1e19411760131d3a45f20805a917a75124c80e73a2083d4c1b1965badb14a4"
+metafile = true
 
 [[files]]
-file = "mods/eccentrictome-1.20.1-1.10.3.jar"
-hash = "c6350e2889e7f92787ead1d1c0bb61f46c844dee8a8619496c25ba037813b0ba"
+file = "mods/eccentric-tome.pw.toml"
+hash = "4abc98a99c650db0c96fd73e8ed3e4e15e035cee6350877ccbfd3e9d644791e0"
+metafile = true
 
 [[files]]
-file = "mods/elytraslot-forge-6.4.4+1.20.1.jar"
-hash = "f96c26e7ac9e2dade0aa04f71b9f8708a2b7af92b9cc691103ae32c62764e6ab"
+file = "mods/elytra-slot.pw.toml"
+hash = "c94b9427a8d7f0e6aa0a1779c68bde63b98b4adc1968b48adad521f51bde84f3"
+metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
@@ -5032,8 +4786,9 @@ hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
 
 [[files]]
-file = "mods/emi-1.1.19+1.20.1+forge.jar"
-hash = "45c4ff7907763c5bf204986eed496d5a216e2e56bf94ef6cb9e2b7646ea559e8"
+file = "mods/emi-enchanting.pw.toml"
+hash = "6d5b51a81ccf1a172c9d15461f6405d32f55fbd1b27b8ab6b272fca9fd817508"
+metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
@@ -5046,21 +4801,24 @@ hash = "daef210e9d3922c541bfa5e62acf19f30202682b143b651cb6c9959e6a53821d"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "d48a1ea93de8cd5febb95ba52989d8d9ab4e998cfbdf9c1076a9f2e571d2fcbe"
+file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
+hash = "27b1964e1583318e348f75fcb6a955c47f0d8650fcef62c6a07b7b1891bd2526"
 metafile = true
 
 [[files]]
-file = "mods/emi_enchanting-0.1.2+1.20.1+forge.jar"
-hash = "adcb1007f165e2c8fd734fe845bdd45026e936c7dde6c6dfed3a21b2787368aa"
+file = "mods/emi.pw.toml"
+hash = "f297130ffd9011c86bf9d6cc0759c5b57d289b41a420faaef404b0f0b1b13df6"
+metafile = true
 
 [[files]]
-file = "mods/emitrades-forge-1.2.1+mc1.20.1.jar"
-hash = "166874f0f4c9e269cab646ac03a2dec93a261b544670afa98e2eb06275d52a86"
+file = "mods/energymeter.pw.toml"
+hash = "96c83f92d038524c36df54aadad8a3d8ba4a3f3643b998a1a5a228a9f35e2abc"
+metafile = true
 
 [[files]]
-file = "mods/energymeter-forge-1.20.1-1.0.0.jar"
-hash = "ecf77af9b6b1abdc439152d8bfe34795f9681a55c74bb2aed76c161275580969"
+file = "mods/enhanced-ai.pw.toml"
+hash = "ee294f21ed1430ad66011cc9e4d2f1c9a8b12eeebec6dd456301333538682b2b"
+metafile = true
 
 [[files]]
 file = "mods/enigmatic-addons.pw.toml"
@@ -5073,8 +4831,9 @@ hash = "76700218b9a2e6ca8854512ca7c90511c756ae7f76a93fa81518d9d0e81ef084"
 metafile = true
 
 [[files]]
-file = "mods/ensorcellation-1.20.1-5.0.2.24.jar"
-hash = "84cb18702db2a26dfd5a21ff007e2bcf40e16092adf7b2a33b8489987c4d7b45"
+file = "mods/ensorcellation.pw.toml"
+hash = "9780912a21d843e262d6f137ae4e7f95ae21e059e82c8a449b5930c767b06dc4"
+metafile = true
 
 [[files]]
 file = "mods/esoteric-reforging-forge.pw.toml"
@@ -5082,17 +4841,14 @@ hash = "ce2bc8fbb6ebbc3571ed0ac531b473da80fb9feb8742e5ff5dd7d7271c0ed1d5"
 metafile = true
 
 [[files]]
-file = "mods/etched-3.0.4.jar"
-hash = "18fa648a887eb8ae284e278b1c361c8bffe73947336761d8b1787052dd34fe69"
-
-[[files]]
-file = "mods/every-compat.pw.toml"
-hash = "7e2fb62f8f972ee92174e4e7e5d97dfbae675de068b31a7558aad7188a467851"
+file = "mods/etched.pw.toml"
+hash = "c9f73e2b93b64fb0c44fbbde6245a5d5934143d6c4b9cc9829e3ba62c02ead4e"
 metafile = true
 
 [[files]]
-file = "mods/everycomp-1.20-2.7.11.jar"
-hash = "20af08e04f5ed22236e807bf359d6d4c2f572e27ea87101e88783acf4d4ce6ec"
+file = "mods/every-compat.pw.toml"
+hash = "207517be9d31568477f8308498eef64a7d81260653522c11284867d54157900a"
+metafile = true
 
 [[files]]
 file = "mods/evilcraft.pw.toml"
@@ -5100,12 +4856,24 @@ hash = "bc1fdafe2df5b081b787ad9f4325e0176ca4a6f63e594751a7acfa396b876722"
 metafile = true
 
 [[files]]
-file = "mods/explosiveenhancement-1.1.0-1.20.1-client-and-server.jar"
-hash = "658f09ff6bfd0c6d44c12215f18103c7e45f851fe6dc2c583b169cf6a157bd7a"
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "07d69ae98f7564a02147c0677416feee23601c2ae5d447006ee2ff3106cdcf3d"
+metafile = true
 
 [[files]]
-file = "mods/fairylights-7.0.0-1.20.1.jar"
-hash = "5c68ee27feb4ef10675c883ab67bfa0f1c3e3c0c2193f1c35f43a225d930d9b6"
+file = "mods/explorify.pw.toml"
+hash = "2728d8eb6fced8220aaebafacfdef1ebca454657fbb215cc46d80442efd25dab"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement-reforged.pw.toml"
+hash = "197ae024f6d018efc44da09a5324c2cec24219e3213b3fd2a34b9b6f2f0f7f01"
+metafile = true
+
+[[files]]
+file = "mods/fairy-lights.pw.toml"
+hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
+metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
@@ -5118,12 +4886,29 @@ hash = "49431cb48a66b264c2cb7702c7bb80155d1a59a42d384348e30700ce0ebc1e4c"
 metafile = true
 
 [[files]]
-file = "mods/farmingforblockheads-forge-1.20.1-14.0.2.jar"
-hash = "cdc7e92a2f2cd31a7d55198957c827ad6e627dac9d1b0ebd6aea2dde8d882692"
+file = "mods/farming-for-blockheads.pw.toml"
+hash = "4db64b70cbc5b078b807402a1e82ad324a44495958c1236390beaaeebf4d689e"
+metafile = true
 
 [[files]]
-file = "mods/fastasyncworldsave-1.20.1-2.2.jar"
-hash = "31e7bb90b226a8637baf8e1c4a28effd6118e12966a6c44bd2ab997bfa605cbc"
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "df66d283b59b8a06c9dcc3f817aa38ab36895c8ba6e51aebd6740110a490dc31"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "b4fc21a94115c0044b9c7bf79b5b5eddef5034361039a1cbc1af4afc47662f46"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
+metafile = true
 
 [[files]]
 file = "mods/female-gender-neoforge.pw.toml"
@@ -5131,25 +4916,39 @@ hash = "a7c436a324f9e052218b21b5eb66aa575853920e8327c36a84284c92dfc1f7df"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore-6.0.1-forge.jar"
-hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
-
-[[files]]
-file = "mods/findme-3.2.1-forge.jar"
-hash = "e23c0c503ee271ca351084c5a40411c5921dbf1d97e95fc59c304270977171c6"
-
-[[files]]
-file = "mods/forgery-3.5.5+1.20.jar"
-hash = "6d6f64b7ac049a3c6e9b4b8be94507ea4ea9ec01332d2cfe2102dc3d29eea0b0"
-
-[[files]]
-file = "mods/framedblocks.pw.toml"
-hash = "04a41ef460a5aec46f060cffff5b296e663f1dd40ce1ad39f9f618ed2f8828ff"
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
-file = "mods/framework-forge-1.20.1-0.7.12.jar"
-hash = "28ade2da0795ca36de2925e14cb5fe6b4e51ae84c149352fd9690951fe1baf87"
+file = "mods/findme.pw.toml"
+hash = "c6a2d9b3f0a172663eb91a650de90332cf7adf41662c01a9d3ad581d66e32ada"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
+metafile = true
+
+[[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "628b59d31760869883fc30bcad9708d48301bf1766e66f2ec67299017a65e478"
+metafile = true
+
+[[files]]
+file = "mods/forgery.pw.toml"
+hash = "9bbda0744b30a049e3616ef093a44c1e0b5236af7497415232bc8e661f76a9ee"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "f0985d39c6bb45984378049516de43f8faa6ee52ac74487d67442452cbf84d60"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
+metafile = true
 
 [[files]]
 file = "mods/fruits-delight.pw.toml"
@@ -5157,17 +4956,14 @@ hash = "ccb2eb5a60aa59a17f3379702899e9fbba9d80ef21e3a619875ea9b7f885f594"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-forge-2001.3.4.jar"
-hash = "59167a26b96cff7937d311ae2d8db98029428f1e0c71c78267e93e1149e1e10e"
-
-[[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
-hash = "c727cdfb22c0a34cafbdb2e33da7504e6aa9e96a0d78e5d913bf5fa9006d44c7"
+hash = "83227a3f2e94e9a4d28623fe81015650257c39d7d6eab14e08aef83c53cb9d77"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-modded-1.20+1.1.9.jar"
-hash = "ac1c0d687867b98ce9c1f86e70bc112e9a1e07b654f21bdcadcb0fa40c090dbb"
+file = "mods/ftb-chunks-recoloured.pw.toml"
+hash = "eeb686993eeab4daf934079946966780ba7d367c41316e5febcda85059b4f85e"
+metafile = true
 
 [[files]]
 file = "mods/ftb-essentials.pw.toml"
@@ -5180,30 +4976,18 @@ hash = "306994966b56905bb3468a0a9abb5bbcef853d4b1081526e62143c86fe473932"
 metafile = true
 
 [[files]]
-file = "mods/ftb-library-forge-2001.2.7.jar"
-hash = "8fa0bdb17932f3fef69f02ad46ef39ab822983886c8b9f416778711f708c23d2"
-
-[[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "691798dd9acfd386bc9332249cd4c1291c646af4d97999090ec0528d9bb35c88"
+hash = "15a17641d9dac6c7e026f827dcfdb6cdf9682a4233bfee4884764d9bd8981eb7"
 metafile = true
-
-[[files]]
-file = "mods/ftb-quests-forge-2001.4.9.jar"
-hash = "7d904d3a61b43a18f73734b215b37b49bb9a7d243096cb81ba44f9ee9facf63e"
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "8bf558bb846804bbf5858fd795617509caabab721adb6f8c4ad185e75f514532"
+hash = "1add1e6ab88f2bd2cd87968dfb20050935a1cfbde9129911abefd26d94ce72c3"
 metafile = true
 
 [[files]]
-file = "mods/ftb-teams-forge-2001.3.0.jar"
-hash = "74817d522e59c62d083772ad66fe2395642751edb60b991a33f0306cb1aad105"
-
-[[files]]
 file = "mods/ftb-teams-forge.pw.toml"
-hash = "6a0155012732893dae42d8a7dae4df181367eaaea57296e0ca9849567e7b9b4f"
+hash = "c60c16eb8208cda2c8e119a325dd0d5e2a8b3d2b9d1d83e662be1338680a3ff8"
 metafile = true
 
 [[files]]
@@ -5212,8 +4996,9 @@ hash = "39e65bf3c47517cdb2f9b4b49c6632dd56db797744faaf8b1a3726b1b95aacb4"
 metafile = true
 
 [[files]]
-file = "mods/furnish-26-forge.jar"
-hash = "0cf5ecebce8e9d67406b6e854b4f2dd107e1009adaa132e616f8aa48bfc0fecc"
+file = "mods/furnish.pw.toml"
+hash = "f03e2060a27fcc74e7f1ff17120e2f80812269081bd71d854fc72e4cdf2c1f8b"
+metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
@@ -5221,26 +5006,24 @@ hash = "e17f96677912ca1e42ab05ba1e959226c7b5244f6a24eb573ace63f57e6c222f"
 metafile = true
 
 [[files]]
-file = "mods/fzzy_config-0.7.3+1.20.1+forge.jar"
-hash = "cc0db1514435953677dea20c246b2f86a61b5ff4348143aa8e1154a2808c6191"
-
-[[files]]
-file = "mods/geckolib-forge-1.20.1-4.7.jar"
-hash = "34c87687f80d6bc098a9a63fb1dc94c288554c8d7e4903143d8ff1742a4b6261"
+file = "mods/fzzy-config.pw.toml"
+hash = "f1982207e782ffe93f3cc6b38a910fdd6d9a3630d0d61498d5eb8b31cbe14469"
+metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "88f142bda6bfa6aff4f4d4e12b8ba7581aa40e3f163039a533f09dd6d634e093"
+hash = "8bd098bd9535460709877edd2aad1a23cccac7d7a48e7bb34c2dc78f01c3ce78"
+metafile = true
+
+[[files]]
+file = "mods/geophilic-reforged.pw.toml"
+hash = "0d8771d0278f5c9e8a8cce7497107b96495fe8bfd59ed958949ac12215c22647"
 metafile = true
 
 [[files]]
 file = "mods/glodium.pw.toml"
 hash = "2a7944b951ebfaa4dcf963c3e2faf43eb8115d99a4390daa49dd8ea6676e8828"
 metafile = true
-
-[[files]]
-file = "mods/gpumemleakfix-1.20.1-1.8.jar"
-hash = "a7019442f1b07b1a4a875fe404d04d162905cc7fd42e0b3c843aefc7b39efc46"
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
@@ -5258,13 +5041,19 @@ hash = "5cc92eb0e58c2afbfd625d727d80da1d1c84500ec962bb22f5be28b864f18551"
 metafile = true
 
 [[files]]
+file = "mods/gunpowderlib.pw.toml"
+hash = "fceee3c4da54bb71f2eceede2ea964c05b3e38032504dfc1e5d66b96b6fbc18e"
+metafile = true
+
+[[files]]
 file = "mods/hex-ars-linker.pw.toml"
 hash = "6a87cc5d15686ee6bd9d1e76a1a9d7debbcddcda3a58240c08f052be60b4461f"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting-forge-1.20.1-0.11.2.jar"
-hash = "a9166417a07a2024c9155bbba16b295e53658d3759917f9bfcc26c17009c68d6"
+file = "mods/hexcasting.pw.toml"
+hash = "ded41a5d1d88d386654ea5d55452ecf1aa95c136842894930009f6e2b67d5181"
+metafile = true
 
 [[files]]
 file = "mods/hitindication-1.20.1-1.4.jar"
@@ -5291,21 +5080,49 @@ hash = "32bdac916431a9b1ecd942fc2036a2662aa5fe1bd8cccb98bcb4e27285d0b23d"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "5851bef35e786bfcdb837dfc380c4bd22c857434b2997235a551b3a0cf72d158"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "5508a5c035dffcb22c6ff5b2a52235f753fc4361221be8b97c25b8650efefba6"
+metafile = true
+
+[[files]]
 file = "mods/immersive-optimization.pw.toml"
 hash = "ed4a5d39c2cb8a41d49f7e118ceb43a04f7984d6cbd706389b7d736c507bf00a"
 metafile = true
 
 [[files]]
-file = "mods/industrial-foregoing-1.20.1-3.5.19.jar"
-hash = "f2860cb5fb96ef73b780d3bb53834a235e2bbdeb6b312b644d430e2772d64c28"
+file = "mods/immersive-ui.pw.toml"
+hash = "2caf631ee176d7d1134a654b8d1512fb37d7e789519925793b2e5c1428b318f7"
+metafile = true
 
 [[files]]
-file = "mods/inline-forge-1.20.1-1.0.2.jar"
-hash = "3c9d4c5a6ffaf6ad70911493c24f5ab3ad161ddbb5f040ffe6387c4b9b08fb6f"
+file = "mods/industrial-foregoing.pw.toml"
+hash = "58fa0876dab1829a955937f3868fd6fead05fe347021758e6166e04c716c8917"
+metafile = true
 
 [[files]]
-file = "mods/ironchest-1.20.1-14.4.4.jar"
-hash = "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f"
+file = "mods/inline.pw.toml"
+hash = "a50800ca332e855c902ecf49a78515dd31c86b5da71a1c25ce4cfdad9b96565f"
+metafile = true
+
+[[files]]
+file = "mods/insanelib.pw.toml"
+hash = "e11beb634c604988eb9e7b6cb9c52d3d29c22beb0393d369dd819ae030ab0aea"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "fb8b143630e9d758531fa727594c76b8735f1c7a8ecc4911307c8e71e99b70a1"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
+metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
@@ -5319,21 +5136,28 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "140a929fda55621de5a03378f7478f587e0a1e912a3e46815fa7305070d2c71c"
+hash = "1c5a2eeebccf946e347fb53e42a20ac77fc53260ad65de6acc6fea1f651ff266"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "8f359d190506a6f824763b8e7c390d9e22204ef11e3ffa5ef980000d17e2c2b6"
+hash = "de3310ed1f65e3efa94a7112501307d6439822c7b080c472363e4a3b7eb2e94c"
 metafile = true
 
 [[files]]
-file = "mods/jei-1.20.1-forge-15.20.0.106.jar"
-hash = "e3d8f2c4028fa431368d42bde25b92b2210bddd2e1fb59a932d0c2cc62dd3587"
+file = "mods/jaopca.pw.toml"
+hash = "0e589a8745edba293d99707dc93a9417c5198e792c0d196d17f615e526e351cb"
+metafile = true
 
 [[files]]
-file = "mods/jeiintegration_1.20.1-10.0.0.jar"
-hash = "0d83bcb477d761a73cdbb37f723a5d994e61a389340e219e5ce8dc9618be933e"
+file = "mods/jei-integration.pw.toml"
+hash = "06476837027569174dc086ae42b7c8055814f9b8d9f1376b862fc4c54e96e0bd"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fd35eb8e67f11aec4ae71465ac1b2d9599039d1b3efd8f463655b58f744b5a09"
+metafile = true
 
 [[files]]
 file = "mods/jinxedlib.pw.toml"
@@ -5341,8 +5165,14 @@ hash = "4729ea0f81112833449f27ce03cb9f308e5bd7b54cc6853444f97a43b555ff3f"
 metafile = true
 
 [[files]]
-file = "mods/kleeslabs-forge-1.20-15.0.1.jar"
-hash = "2ec6931f57f35ace56bb67d118859158bcb6944a2d74971c2a668b965aa9cc5f"
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "08a365f0717fbd5561ff746bc6c41185b0c84582a1cd834115b933266328a5ff"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "ae24fce37ee0f5c67c244ee0259607ba127afdff02a99dd6b1b784164859d146"
+metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
@@ -5350,8 +5180,24 @@ hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
-file = "mods/kotlinforforge-4.11.0-all.jar"
-hash = "ef988f86d170af499d147ea8a5c34c99dbd6d8f4a5ad236a4b43818dc4470a10"
+file = "mods/kubejs-additions.pw.toml"
+hash = "fb805a0ceb336cb3bcd7a4f7dcd551c87658c0c65bbb447a76ca7ae750b178ce"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-addon-blood-magic.pw.toml"
+hash = "a8741233d9aaf6e45488a35bf77770646137e4502e558806debe2b754e0edb42"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-ars-nouveau.pw.toml"
+hash = "50dde309aba5227016d9901bac4d439899107b495e31671aa150f6788e414570"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-botania.pw.toml"
+hash = "e7487953f43437713f12546e228607f3cc713d51d6130860d4d99f6ef3541aae"
+metafile = true
 
 [[files]]
 file = "mods/kubejs-create.pw.toml"
@@ -5364,8 +5210,9 @@ hash = "820082842a6136c2bcbd0d2715cb5ff7a24af7e5e5261a4558fa69c13c25c863"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-thermal-2001.1.10-build.2.jar"
-hash = "560a5cb11d8bcdbb4dc1ae63a33e721a8ca5e10d4a5368bb03d08e96f118f60d"
+file = "mods/kubejs-thermal.pw.toml"
+hash = "be2fd618cc61b8eee5ab16c03b4780809da0f3de76bf5224a463cfffeebd6385"
+metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
@@ -5373,20 +5220,14 @@ hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
-file = "mods/kubejs_botania-1.4.0-forge.jar"
-hash = "26b37e33e24f87e411c557a285f5b53c7384497cf8d00c0263db1f10462b72b2"
+file = "mods/large-ore-deposits.pw.toml"
+hash = "c6f27192fe8e671130347811486bed7caadff9463e90ed7536b99a2691fddd61"
+metafile = true
 
 [[files]]
-file = "mods/kubejsadditions-forge-4.3.3.jar"
-hash = "e2d05799bf438d40b76dac0812b4ed26c0a6c638e77f1a23528d67cb9bc76706"
-
-[[files]]
-file = "mods/kubejsarsnouveau-1.2.2.jar"
-hash = "b4445e3297f0322aec29fc8ff6c02e4102660b0d2415891ce66a3c82194f5a93"
-
-[[files]]
-file = "mods/laserio-1.6.8.jar"
-hash = "f07fc6cb7f2aa28197e87ffc3a35062390259ad803d8996b08b13473c0af6790"
+file = "mods/laserio.pw.toml"
+hash = "9d85a210e77661032cfbcd930059096be6cfb6afd9abedde21bcdfa4e5b25e54"
+metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
@@ -5394,8 +5235,14 @@ hash = "716a5a4cf0b5b6319b01966a2d4400fc2746014bdc761de65ce49128f71c89a5"
 metafile = true
 
 [[files]]
-file = "mods/leaky-1.20.1-2.1.jar"
-hash = "f516a408668b066e5a4a3f35c82f89b73a7e84ec44356851ce4db89a292ce9dd"
+file = "mods/leaky.pw.toml"
+hash = "636782e1ca59054f196895cbe26218365960dafebb6b3d8f018320847271674a"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "35c0251ad56fdf68faef3ea142fe0b76016937ab6fa52b65ce222ea7d1fb5b74"
+metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
@@ -5403,8 +5250,9 @@ hash = "75199fa3b762c5aa781e3cb2aab7779d19128b2a1c5b15798d5e613df8d16573"
 metafile = true
 
 [[files]]
-file = "mods/letmedespawn-1.20.x-forge-1.4.4.jar"
-hash = "69409e3010495660590089d882816fce9870dd2b1ac77c6e35301cc9dfaa4645"
+file = "mods/let-me-despawn.pw.toml"
+hash = "f1aa1a1b3746f0bad932aa0e3a95ee987b96efadf1107431c735923f3ae00890"
+metafile = true
 
 [[files]]
 file = "mods/lexiconfig.pw.toml"
@@ -5412,21 +5260,24 @@ hash = "e72b77792a8d646cb9ff26043d590041d3d8ed9aaedd0b097d5879c90525d70f"
 metafile = true
 
 [[files]]
-file = "mods/libIPN-forge-1.20-4.0.2.jar"
-hash = "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6"
-
-[[files]]
 file = "mods/libipn.pw.toml"
 hash = "ee79f551b7aede4b923fc6df137c4ebbb1dd21eb80a3aaba6da8be93ac5010e7"
 metafile = true
 
 [[files]]
-file = "mods/light-overlay-8.0.0-forge.jar"
-hash = "96c9cb4303591eff91315374cbcb5aeb783f53bfc34fe9d9d5615267fdb8bdc6"
+file = "mods/libx.pw.toml"
+hash = "2c255a6aff5c016d8769777fd9e23f4bbc256d103fb45eef12b1d6af77249ba1"
+metafile = true
 
 [[files]]
-file = "mods/limitedchunks-1.20.1-4.1.jar"
-hash = "5ff4d22551dcd74680f5da79c9055faae44dfc0c5348c273447200e464eeac59"
+file = "mods/light-overlay.pw.toml"
+hash = "ec1dbea2c473bfd08357e3a31745ba28046debee77242e9c401169ddbc88bcd3"
+metafile = true
+
+[[files]]
+file = "mods/limited-chunkloading.pw.toml"
+hash = "ec4a1d920bd1b52bc31dc6546870bee92e450a4d6accfcd6cf96fd6b6f594be9"
+metafile = true
 
 [[files]]
 file = "mods/lionfish-api.pw.toml"
@@ -5434,12 +5285,14 @@ hash = "60af8798dbf3e300a5af44125595afcd5d1e70072448444156364f222cc03e98"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched-forge-1.20.1-1.4.jar"
-hash = "2b6513ebd2bbeb2cdd03bf5016889f4202f84d2e48f47ea8c258a0b63d520eef"
+file = "mods/lithostitched.pw.toml"
+hash = "adcc252b0ec1e5f1923cb7e5353bcce1d5b615a136823c0a58433d0a7d3d596a"
+metafile = true
 
 [[files]]
-file = "mods/lmft-1.0.4+1.20.1-forge.jar"
-hash = "e622af8d32c6a41904ceaa2da0174491c68b7acd3ec9888c47991dc9b6f591cc"
+file = "mods/lmft.pw.toml"
+hash = "afca79f6ef3b857bfd147d4d7f9887ee433a73f8fcd1ec4476c49ac3349926d0"
+metafile = true
 
 [[files]]
 file = "mods/log-begone.pw.toml"
@@ -5463,24 +5316,33 @@ metafile = true
 
 [[files]]
 file = "mods/loot-integrations.pw.toml"
-hash = "41a036a86db9c0cab20b9b8956b0749bdfea13942d6ca00668304e5d0731166f"
+hash = "6863aa91d9154b3b68b56619d078ca063c00ee5309dcee4fa17540b276a49de9"
 metafile = true
 
 [[files]]
-file = "mods/lootintegrations-1.20.1-4.0.jar"
-hash = "3d3d50ecfb6f8a97a46a9848c4c75aad83a9df0602dfd834b6b72ba530f0c416"
+file = "mods/lootjs.pw.toml"
+hash = "43aa2c47e284692aa6182abd00929d5753c8660aea9e23b901da68aa75a68930"
+metafile = true
 
 [[files]]
-file = "mods/lootjs-forge-1.20.1-2.12.0.jar"
-hash = "3d9972c1552cd0de3a9b8ee4c7af342056a17a81e7645d2b8eefededc911a329"
+file = "mods/lootr.pw.toml"
+hash = "cd4fe8b667d14c946028050cf9e4c3367868f79d9f429ec18eb47cce34e021a3"
+metafile = true
 
 [[files]]
-file = "mods/lootr-forge-1.20-0.7.35.90.jar"
-hash = "537ea446b9a3715807624a68b34f6b30d5f7ed2980a69ec80c8c4d0075825ddd"
+file = "mods/lucky-block.pw.toml"
+hash = "ecbf67162e047b2b2138ec85129abc5321abcd61f5fa4a96322bdfe151f50dfb"
+metafile = true
 
 [[files]]
-file = "mods/lucky-block-forge-1.20.1-13.0.jar"
-hash = "c101dd326e5ed421d0373eec065054cf5972134f639f3853d35542e77a2e184c"
+file = "mods/lychee.pw.toml"
+hash = "7c97f650079afaff4e96fc6d1f8a1f69fcd0aaca7a4a83660dbc3b28f798651c"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "5f6768157929bccb85b4b561fb4e16c99018ad93ce3f53b945ab9b37307c3665"
+metafile = true
 
 [[files]]
 file = "mods/maintenance-mode-forge-fabric-quilt.pw.toml"
@@ -5493,16 +5355,34 @@ hash = "b22e8f73ecf9314ff906dcc0c26adcac5a11c52005faa1266b56360339dc6700"
 metafile = true
 
 [[files]]
-file = "mods/mcjtylib-1.20-8.0.6.jar"
-hash = "ef5f32a85584b6464d76bf98c967775335f8b3c8dcb6694572ade316583bb9f2"
+file = "mods/mcjtylib.pw.toml"
+hash = "7428d76392d1c976db8ff731d2d889c88ddf515e6813712f5b58b490d427f8f1"
+metafile = true
 
 [[files]]
-file = "mods/megacells-forge-2.4.5-1.20.1.jar"
-hash = "86c13322f6fd89ce89e2647b01c2aa8ac4d7a8c47e2a5e9101ae223dc3af647d"
+file = "mods/measurements.pw.toml"
+hash = "0b56bf8c727d35f46ab02b74573112bf80cc57a09c99a72c7d93744bf9888830"
+metafile = true
 
 [[files]]
-file = "mods/merequester-forge-1.20.1-1.1.5.jar"
-hash = "119c23431ff06b1ebe57606daff460b7c74f74c8564a26f1cbac4cd3521968cd"
+file = "mods/mega-cells.pw.toml"
+hash = "06d497385cb92783fb772a0da08900bc93622c97a675f197bde64448965bbc4f"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "16c4fbbf63e8f7943cc52c30d42ca270a6941135d3af5b29b6e598debec32b22"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "836f092821571bdd68d97dfa21f4a1343fe69d0e1707148fdf139e47961c7522"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "2e1e73a8c4cc02b3bff1084940a6c0a7156c8925d881f8d98fb0495e050c65d1"
+metafile = true
 
 [[files]]
 file = "mods/miners-delight-plus.pw.toml"
@@ -5510,8 +5390,14 @@ hash = "8a459a2534f09d18581fa154a84f428b1eaf1721fc8493ebe1e80df490e7502c"
 metafile = true
 
 [[files]]
-file = "mods/modelfix-1.15.jar"
-hash = "35f27982242a3ea58c526204a28704ddf355d19bb2e9b0ff10f9585c255a4f16"
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "b8137c8bba16cb7e8e3ef7312a821f1fc82624ba6beaeb92da32080ee0febbd7"
+metafile = true
+
+[[files]]
+file = "mods/model-gap-fix.pw.toml"
+hash = "cd3140db1982e4e1b17c60b71e436fc92c22b1a6ce189e6b8197d1275487679c"
+metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
@@ -5524,12 +5410,23 @@ hash = "81da708e6a9add4237562e15bd2be857cfa3908c50951408ab2137ff1c68fbbd"
 metafile = true
 
 [[files]]
-file = "mods/mods_optimizer-forge-1.20.1-4.1.0.jar"
-hash = "7551b4b63bd34a36a73db27a724159ac2d5ead897668c506e3706ab8806e16f3"
+file = "mods/mods-optimizer.pw.toml"
+hash = "921ce5a918c5ef64015e5ed749cbee5724868c312103b427e26fd46557ab723a"
+metafile = true
 
 [[files]]
 file = "mods/more-create-burners.pw.toml"
 hash = "82b4aab81f6bed12f1529c0dc6173f90f832b2df5b9b79cbc85cf4c4eae4878d"
+metafile = true
+
+[[files]]
+file = "mods/morph-o-tool.pw.toml"
+hash = "733e0c1c048579df9ecbaa054d0f80879d5c5a200863686373e63c11d71f8702"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
@@ -5538,17 +5435,34 @@ hash = "6ff4dfc30b3df634c6a2e587742ad381aa5988a50a646003369331749882c0a9"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "9adb961d42928ca5f873586b6595d028dd35ff3226807d8ab41e574c68d501c7"
+metafile = true
+
+[[files]]
 file = "mods/multiblocked2.pw.toml"
 hash = "5ed4b999d530ea693bc0a882fc142d3c0e357705de1996127cbea03914a50f1f"
 metafile = true
 
 [[files]]
-file = "mods/mysterious_mountain_lib-1.5.17-1.20.1.jar"
-hash = "4550d7d8f4840b2a97758744e529a6ecc54774ef9a3ba4ca17b3f78219a9ebf8"
+file = "mods/mutant-monsters.pw.toml"
+hash = "be29ba84ff56c48d648ce9de32aff6d0225438605b073cc01ec10244950651a1"
+metafile = true
 
 [[files]]
-file = "mods/nanhealthfixer-1.20.1-0.0.1.jar"
-hash = "d03619bda583c0d52848d9225b781d022d406cecf02da2d5703bead81803fe1f"
+file = "mods/mysterious-mountain-lib.pw.toml"
+hash = "47cc669f6c489030f5c0c3d551fe6682aa94f296288173801e6b37033d5fb60f"
+metafile = true
+
+[[files]]
+file = "mods/nan-health-fixer.pw.toml"
+hash = "6784868f7f8cdf15bcae5dadeff2651712e78fe3bb7a699c0664ddff7ebab8b7"
+metafile = true
+
+[[files]]
+file = "mods/nanny.pw.toml"
+hash = "c591b145470814d2cdde83ace20bc8ba569aeb50c6b090f24ce148e6f954cffe"
+metafile = true
 
 [[files]]
 file = "mods/natures-aura.pw.toml"
@@ -5561,20 +5475,39 @@ hash = "7bb01abc93a90da48ae8452f501ba60e32c468438c0f864e6bc7ef1b5746c712"
 metafile = true
 
 [[files]]
-file = "mods/netherportalfix-forge-1.20-13.0.1.jar"
-hash = "06f1354664aee53d4c32c83f76ed94bb72426a75b7e0eb8e415abfba3634cf4e"
+file = "mods/necronomicon.pw.toml"
+hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
+metafile = true
 
 [[files]]
-file = "mods/nethersdelight-1.20.1-4.0.jar"
-hash = "28b072bc5c09ee889468546676c9bf0268eaa415865704bbeeb33f6a37005a30"
+file = "mods/nekos-enchanted-books.pw.toml"
+hash = "719d6289c5c0a0ada27b685b5ec099a8d6a7c3dd41e167eb2bd28ac8d7ff4e40"
+metafile = true
 
 [[files]]
-file = "mods/no-telemetry-1.8.0.jar"
-hash = "ae069da180817f81f420659bfec4ae14ad44e167a81bb325bb5fa48c548bd52d"
+file = "mods/netherportalfix.pw.toml"
+hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
+metafile = true
 
 [[files]]
-file = "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar"
-hash = "b0b020250c81e8cce7776c3dc8f7085f269e2007570d5fbd492c4497ad60685c"
+file = "mods/nethers-delight.pw.toml"
+hash = "43ff48404322ec170ef9a931bc2f95cc9b488e2834934e2af6c5e0ebebc5fb9c"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "6105c544e8f5e340d189056416de7abed26fb32b21c91426eea704e432ced60b"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "7ac48c0b072a849e74f0836dcbaf4c4e48bbe6a40c0757572e0154a9ce4f388d"
+metafile = true
 
 [[files]]
 file = "mods/not-enough-glyphs.pw.toml"
@@ -5582,12 +5515,18 @@ hash = "af9bf1a7210bf7037c1189f796264031e7801237c9097fe64be77830d4006dcf"
 metafile = true
 
 [[files]]
-file = "mods/observable-4.4.2.jar"
-hash = "009958985786081dad4007f8b4a5899b7aa82951b194d81ec48076d68950a4e8"
+file = "mods/observable.pw.toml"
+hash = "5d0eae777859369335212a6a68a0c835fc7487ace8016749fe9f377de1c4b392"
+metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
 hash = "9eec91e101a9fcf1edcafc6bbc4ead2ac1b11019593489dfc5f36ebe5996b4f1"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "299d07d605497fd0f4cc5f32a76cf657fda8a84813816fa24c4a05d9f846c3cb"
 metafile = true
 
 [[files]]
@@ -5601,12 +5540,29 @@ hash = "40ba707b9afe7923e914e6c2b254b18feae5d491cae73b9bfc7910632bbfa102"
 metafile = true
 
 [[files]]
-file = "mods/packetfixer-forge-1.4.3-1.19-to-1.20.1.jar"
-hash = "de4f045370934c73fe6c4bf0a82c39353b53348948e74037c0383b88b9055b66"
+file = "mods/packet-fixer.pw.toml"
+hash = "f018db7f4541de930100bb993123ce30e5455afa13309212a0aefc2148c5305c"
+metafile = true
 
 [[files]]
-file = "mods/paucal-0.6.0+1.20.1-forge.jar"
-hash = "3f403fc200e744cc85c348206da70e4fb34808f14fda3fc88b0bde1688b784ca"
+file = "mods/packmenu.pw.toml"
+hash = "055c3536f83ada17dd53effd46617ddcc7fe03b7165f47ff594e46311470641e"
+metafile = true
+
+[[files]]
+file = "mods/parcool.pw.toml"
+hash = "268095266efa6c61611382f6246a9ccf6f320ef51b86c8b121b17d2f4c31aa58"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "d545e2d90446465d26dfef1c6777edde1fa9d2b873674834dd761342a40088bf"
+metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
@@ -5619,25 +5575,28 @@ hash = "f896fefa7466845181da9db06ba4a89865f54b406ff3b1fb65773c66614b6f1b"
 metafile = true
 
 [[files]]
-file = "mods/pipe_connector-1.20.1-0.3.9.jar"
-hash = "9f7cf64d153919e8b364c273e77660f99271b20ff0a9053a768cc1f0817e8c7e"
-
-[[files]]
-file = "mods/pipez-forge-1.20.1-1.2.16.jar"
-hash = "70063b024a9679f4b1cf195140a78f633b1cd90892d3a57698cb96b3e9ea2627"
-
-[[files]]
-file = "mods/placebo.pw.toml"
-hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
+file = "mods/pipe-connector.pw.toml"
+hash = "66db3afec564de82cabae578a7ff429a153123db8ef67b5de27543e9e744998f"
 metafile = true
 
 [[files]]
-file = "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
-hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
+file = "mods/pipez.pw.toml"
+hash = "de8f599eb6d2bf0461014c6d86bcfcaa40db57107e662445e99c04648756554f"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
+metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
+file = "mods/playerrevive.pw.toml"
+hash = "93e79f423eafdfeb26a0ce9907f4a7dc63b8fdbb2a8702393b24ceec50954d6d"
 metafile = true
 
 [[files]]
@@ -5646,12 +5605,14 @@ hash = "737bfceef35e01742ad90a9779b61a437cf0fb9742c23dafc4dba44a9c819660"
 metafile = true
 
 [[files]]
-file = "mods/pneumaticcraft-repressurized-6.0.18+mc1.20.1.jar"
-hash = "b2d80eca0c25898e06f91eec8c8eb934ad3ac7a3c7c3963982b142918ed5c666"
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "bee123886cf09d6c2e12a25c9a86b21b2c7126d80747415fce8ad4fcfa314335"
+metafile = true
 
 [[files]]
-file = "mods/polymorph-forge-0.49.8+1.20.1.jar"
-hash = "c5384788f354effb9866a9a084c521bb3e05d246690765e1130a2778efd49ba4"
+file = "mods/polymorph.pw.toml"
+hash = "dd105e501832dcd4e443015af266973c58586553331512a6c171d865dd36c3bc"
+metafile = true
 
 [[files]]
 file = "mods/polymorphic-energistics.pw.toml"
@@ -5659,8 +5620,14 @@ hash = "2d47877684bd91ad4c597b68bae4a8af3964011bfc0fd52e004469368f23b834"
 metafile = true
 
 [[files]]
-file = "mods/probejs-6.0.1-forge.jar"
-hash = "139b586b87a8bad536e0a8983fc01c48e8ff46fb2e5881b52ac8b59f44b1e609"
+file = "mods/prism-lib.pw.toml"
+hash = "2b0772879a1d43e6fc0d892dca4a85d360e813d5cd3907fc2ab42f345b146362"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "25f4863fba654a2b603a90f52ce5f0e17871c4249fd5c7bef3d40a6c8d9e36de"
+metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
@@ -5673,16 +5640,24 @@ hash = "3fcad80a1e43cd9116556b425c133df006c0eaea8bbefda052b4ebe1ff5267a3"
 metafile = true
 
 [[files]]
-file = "mods/questsadditions-1.4.7.jar"
-hash = "c0914e53b3545972f1b81511a00363d724da209af290a0fda301836bc5b3f2ba"
+file = "mods/quests-additions.pw.toml"
+hash = "d9e13a1c9bb74d5b456ffd7541627f5cf700a5949c3994c2a6673df7046bfb27"
+metafile = true
 
 [[files]]
-file = "mods/raccompat-1.20.1-0.1.3.jar"
-hash = "8ba216e8c9bfa502e69a88f491fdd1cba141c5cfa9d1293cf749effd1ef2f5a1"
+file = "mods/rac-compat.pw.toml"
+hash = "2ede7f8e9ed0c1f77cd2c4cc777733f2687fb2af310b34ae477887d19ef791fa"
+metafile = true
 
 [[files]]
-file = "mods/ramcompat-1.20.1-0.1.4.jar"
-hash = "d3e1114c3a0b8b7761b6f9ec9ac17d3e487bc488b4bb1a4acf8740726be90ccb"
+file = "mods/rain-shield.pw.toml"
+hash = "516a0232945fe31ed1cd9e7e95d415d92ec5c7ca7c9759fd8789b215106382ee"
+metafile = true
+
+[[files]]
+file = "mods/ram-compat.pw.toml"
+hash = "690f9afcc1b47f193a8b0f6389e7f71c6ea41e8df6873d6a8bb690bba3749054"
+metafile = true
 
 [[files]]
 file = "mods/rar-compat.pw.toml"
@@ -5690,8 +5665,14 @@ hash = "ced8603844a8429d51e65f5d4f2eaff04fcb528a9f1b595d3889cbeeb83764e6"
 metafile = true
 
 [[files]]
-file = "mods/rebind_narrator-forge-1.20.1-2.0.2.jar"
-hash = "d26b402540885e3420617c94023f7b9a5df93a62ece241cd63f996e232adffc0"
+file = "mods/rats.pw.toml"
+hash = "c4b46cb349e3f111af5711429b444dcb790e73f312feb5f9b8e04cd41a9c7b75"
+metafile = true
+
+[[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "f714a54b3cffdaf560c6a3b1f6a71881a630381ecb316d20a43a97bb3a01590b"
+metafile = true
 
 [[files]]
 file = "mods/rechiseled-create.pw.toml"
@@ -5704,33 +5685,39 @@ hash = "3e8c59c1817babb68d49af1bd816d6d00ffbaa8343968ad324996a0d5deb9c69"
 metafile = true
 
 [[files]]
-file = "mods/recipeessentials-1.20.1-3.9.jar"
-hash = "cce8f62c580df965822fd0eb03faaead3d5a3881652b26999af2be3de4138ce2"
-
-[[files]]
-file = "mods/relics-1.20.1-0.8.0.7.jar"
-hash = "cec2616f005d21c28dbc61accad4ec2904d48ade0c9647504a6e8e199f1fdd13"
-
-[[files]]
-file = "mods/relics-mod.pw.toml"
-hash = "99e2227840dc493736535ac7350401da956ac2754130c495596aff35abfec157"
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "5be27b84e324599f2506cc8c5eaf606348d7b44a4db53c1ebcfdc1e9cdf784b3"
 metafile = true
 
 [[files]]
-file = "mods/resourcefulconfig-forge-1.20.1-2.1.2.jar"
-hash = "c4aef41d50e5bb8be8609f1f89919f9caca8363365998688fb6aabac03abf428"
+file = "mods/recipes-library.pw.toml"
+hash = "652abe9780694aacade5cd54711cd25228f7e2f7656e98207a14ce5c639270c7"
+metafile = true
 
 [[files]]
-file = "mods/resourcefullib-forge-1.20.1-2.1.29.jar"
-hash = "b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8"
+file = "mods/relics-mod.pw.toml"
+hash = "ff89a9e8c6f80a1fcf53e218d5c8864e6080502f8943731e17cd66ffa5363f04"
+metafile = true
 
 [[files]]
-file = "mods/rftoolsbase-1.20-5.0.5.jar"
-hash = "552eef0bca91ff8c43d4df9f311057d730f0f61b5dbdeff50d919714451c268e"
+file = "mods/resourceful-config.pw.toml"
+hash = "692ed5c4b3794053fbfb08107a2b0b0f90eec49b005a13be6ca86321e80df7ba"
+metafile = true
 
 [[files]]
-file = "mods/rftoolsutility-1.20-6.0.6.jar"
-hash = "300b67fba7d79f90e34da445e16b04a82d002393afc99b0e65f9b28156522159"
+file = "mods/resourceful-lib.pw.toml"
+hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "ca582093870dc726c1ce366843b8aee8ee761550cb4daed58d6f5ac9be4af956"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "700fd4c9a5df3dc32fd01aebaeb038bc223ebe8d32e45b2997b8942538b08a80"
+metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
@@ -5738,8 +5725,9 @@ hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
 
 [[files]]
-file = "mods/right_click_get_crops-1.20.1-1.6.0.12.jar"
-hash = "43b5d4f5c3c3737fd10d18eab5d2c9d6734f9ad9b6d1a72aeddb7b9c9f2ef5ec"
+file = "mods/right-click-get-crops.pw.toml"
+hash = "afd85bbbbe4cababd97d1b9b7cdc647d0a595a8ad6641547ffdc98985cf2e73b"
+metafile = true
 
 [[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
@@ -5767,12 +5755,14 @@ hash = "62c94511a420003308287053630d65b79af092f881eca8877b1ebe251a8c7efa"
 metafile = true
 
 [[files]]
-file = "mods/saturn-mc1.20.1-0.1.3.jar"
-hash = "7e6dcc7c2b0db19ec2f965fac91a49e13dcc611f2d86f6bb56d7d68da901aaf8"
+file = "mods/saturn.pw.toml"
+hash = "f9be8361c39f91dce80420324ac45290a990e8178b83df6bdaa8d69f2c7aa8d4"
+metafile = true
 
 [[files]]
-file = "mods/sawmill-1.20-1.4.4.jar"
-hash = "3db989e9bbe8f69ac8a9845784f2c4f78337a548e3eeb5aab678c163529785f3"
+file = "mods/sawmill.pw.toml"
+hash = "475ccaaab6de6696320bfbaf3940c4ffd54d698bb21908132263824d9f73bccb"
+metafile = true
 
 [[files]]
 file = "mods/scannable.pw.toml"
@@ -5785,37 +5775,63 @@ hash = "51caf89b9a72ce0d9f71984ebeb3c29802280685adddeea73863b463b888f90d"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "086ae6b5cfa8a07be194343117c92c8139275a8dac28d4c3476081a0eb1d3386"
 metafile = true
 
 [[files]]
-file = "mods/servercore-forge-1.5.2+1.20.1.jar"
-hash = "d9ad4f456b6c36bac17a71cd12935fdccae69ca1e1fcd33857210758cb58e586"
+file = "mods/server-tab-info.pw.toml"
+hash = "ea27ff5d255f08f63d989df00ef08424f1fc3708325fe7db0a30e44cb0028e15"
+metafile = true
 
 [[files]]
-file = "mods/shetiphiancore-forge-1.20.1-1.4.jar"
-hash = "760c8d4c70e3dba654aa32ca117ea703f38ac30b5135cd598464bb21394d615a"
+file = "mods/servercore.pw.toml"
+hash = "4c1d37d3aecc6d67ce6c6a97d859345cdaefcf619a057069b0a8635f2ad551ac"
+metafile = true
 
 [[files]]
-file = "mods/showcaseitem-1.20.1-1.2.jar"
-hash = "17dd8bbd0efc1170f94a1e4c3e395f49ba0a5c921e8f682f1912607a01f5e649"
+file = "mods/shetiphiancore.pw.toml"
+hash = "3636928a6068d4a3884fdfcfcd3a37f823fd1e9f4edccd2ee0be16a1cbf8872a"
+metafile = true
 
 [[files]]
-file = "mods/silent-gear-1.20.1-3.6.6.jar"
-hash = "7d5eff113b04b95026f5445385d6057da1d52b5fad46a8f4338247fa9c8c3948"
+file = "mods/showcase-item.pw.toml"
+hash = "b9e82a71c1e03c16cced1ea055f4bfa18139ff7f2b1d7108061f8adcd3214ddc"
+metafile = true
 
 [[files]]
-file = "mods/silent-lib-1.20.1-8.0.0.jar"
-hash = "9ca45fb6d723474d145227bed27dd1791cca30ac96fd8f05084417b0779e0e01"
+file = "mods/silent-gear.pw.toml"
+hash = "71a6b671d226294e4bb6320c3cd46366f7c45f8487732c37cd3a6c8f74421109"
+metafile = true
 
 [[files]]
-file = "mods/silents-gems-1.20.1-4.7.0.jar"
-hash = "f02508a3f80eb903bdd2fddc2743fd6c9b2082992e31530b21850b367286009e"
+file = "mods/silent-lib.pw.toml"
+hash = "7f281333e1c573bc3673446c291d82f3137bfc7de6a5256d61417f67be7b40bc"
+metafile = true
+
+[[files]]
+file = "mods/silentgear-compat.pw.toml"
+hash = "38b00dd0ebb49d9b378bb11afbc53b1e9f983dba1288e3254ff6e7e8d9226cda"
+metafile = true
+
+[[files]]
+file = "mods/silents-gems.pw.toml"
+hash = "8faa2fbbc50e6d5ef4e556b2059407b992e04f36267e0010102e57dd69b98dca"
+metafile = true
 
 [[files]]
 file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
 hash = "06d1a07729c20f009da037ceb085d154362aed3b15e87697aaeaab3c4943b2a0"
+metafile = true
+
+[[files]]
+file = "mods/simple-sponge.pw.toml"
+hash = "4c2c1661bbfdfe9e0efa0663159ede387280ce2b960c3819f8bfbdb1dde164c5"
 metafile = true
 
 [[files]]
@@ -5829,8 +5845,9 @@ hash = "7bb9b367774fd68ce3e0c600f41f5c882b2232a203d3132b7224229ae73f9534"
 metafile = true
 
 [[files]]
-file = "mods/simplylight-1.20.1-1.4.6-build.50.jar"
-hash = "893c67fb4bbafee6e3208ba34bf60e2d6f17f4f9efdb6d1f12baa4052d8ddd10"
+file = "mods/simply-light.pw.toml"
+hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
+metafile = true
 
 [[files]]
 file = "mods/slots-machine.pw.toml"
@@ -5844,12 +5861,13 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
+hash = "f6c86efb7d11141bba2c741eb370ef3911ca3229fd813d661fbee71bb39f4faa"
 metafile = true
 
 [[files]]
-file = "mods/smoothchunk-1.20.1-3.9.jar"
-hash = "84c91e19922d0d3985aa1d644a6c4b8c648150b9eded49502769302b938f1281"
+file = "mods/snad-redstone-edition.pw.toml"
+hash = "5d858f35afdaba7a29a33bea9ee9c1dcad59700cc7284e3af99b2f881e7384c6"
+metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
@@ -5862,8 +5880,14 @@ hash = "4e0171baa817919422b027a64d97ef8ffc63879c94671b2fc42f191cc6f3900d"
 metafile = true
 
 [[files]]
-file = "mods/spark-1.10.53-forge.jar"
-hash = "eba275ba9bb0cb5b542913c3138c6eeff6a752898266d63d125d185f26ac99ed"
+file = "mods/sound.pw.toml"
+hash = "3fff9456c0ef97caab6584a10517f20822e138b627da4b26c8c46e6330d7e7cd"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+metafile = true
 
 [[files]]
 file = "mods/spells-gone-wrong.pw.toml"
@@ -5871,8 +5895,19 @@ hash = "5838f3888353bd92a8afdafd31347c48b4357e89232068e86d399a8ccd6917ef"
 metafile = true
 
 [[files]]
-file = "mods/starbunclemania-1.20.1-1.2.3.0.jar"
-hash = "889cf718205bd9547c233929e556de0776cd22e8df325824ff33d58c089062ba"
+file = "mods/starbunclemania.pw.toml"
+hash = "5db8d594f2f22b256379bd0a9880c86016d0e83f2dff486ea4143ff8e676eab5"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "eb7fb878f669cc17a22d19902fe96cdcfe541a9cf7d03eb7244fc11e13713b61"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "34b542ad473b6a70a744b3b6efbada3e9ca9d4033b625cfb0f99d6ef320b32c6"
+metafile = true
 
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
@@ -5910,8 +5945,9 @@ hash = "859563b857c8ca84901e074fe4a6109767f714ccd6edd925a15e441acd764cef"
 metafile = true
 
 [[files]]
-file = "mods/tact-1.2.1+1.20.1.jar"
-hash = "d8daa2ddb9a6bc08497d552a66921c03cff30953528b977db0fd2c00351c9551"
+file = "mods/tact.pw.toml"
+hash = "52192d599f473fc3289cd6cb7c3e0f3371e50ed4c8a9d72d7cd24eb54f2348a7"
+metafile = true
 
 [[files]]
 file = "mods/tarot-cards.pw.toml"
@@ -5919,16 +5955,28 @@ hash = "c75c0ab49615b719a80bb0745f3a2691b15d08f4d902f142fafb76e7b5bb5789"
 metafile = true
 
 [[files]]
-file = "mods/tectonic-forge-1.20.1-2.4.1.jar"
-hash = "1e8a9f1c929ccea1adda609233dad8b52f0d44d73b5c73254bed92a8b0d0f992"
+file = "mods/tectonic.pw.toml"
+hash = "1688cf8e91002b58e23e3040a8b72a728ca76f054d110440d1e91b0d8ec4b16a"
+metafile = true
 
 [[files]]
-file = "mods/temporalapi-1.6.7.jar"
-hash = "4d75401d454b77a2383bf8a7e8373af873d9ef6751e0f9f44f46451ab08dceb9"
+file = "mods/temporal-api.pw.toml"
+hash = "5de05a202728f03c38b7280275b6020645bc61d757d1ec671524f04c265036b9"
+metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
+hash = "97175f71f202d2d47a5828568c9f53339952a1c20b09378bdf5ad34557a8b4be"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
 
 [[files]]
@@ -5937,28 +5985,34 @@ hash = "322c334457d1e864d325b2cebc9d69217567375bf3285d7a09d011b77b01b3b9"
 metafile = true
 
 [[files]]
-file = "mods/thermal_dynamics-1.20.1-11.0.1.23.jar"
-hash = "1eb755e77b8bbdf5fef16c1b725002d2b47520b544e49f1274724986ab677ca0"
+file = "mods/thermal-dynamics.pw.toml"
+hash = "280fc16d8cbed28aff6aef45470a22b55cd64394f87eb6f59ce640e70fa27399"
+metafile = true
 
 [[files]]
-file = "mods/thermal_expansion-1.20.1-11.0.1.29.jar"
-hash = "f44d9e2476deb0ce2700c3837aa6e99c6a6bc95bc2d89d69ebe34b6c3a612633"
+file = "mods/thermal-expansion.pw.toml"
+hash = "1603a2d57a71762925e57c61ae45649bf6aab128295a31efec214b0676c79024"
+metafile = true
 
 [[files]]
-file = "mods/thermal_foundation-1.20.1-11.0.6.70.jar"
-hash = "8cb610abb3c835b47f9b4ec19be6a54104d1f61230b67a9d5bfd097c5ac45823"
+file = "mods/thermal-foundation.pw.toml"
+hash = "626f0ea226f55c453930ef387b32ad090c8defdd07792fe0aefc4b5afa87cb46"
+metafile = true
 
 [[files]]
-file = "mods/thermal_innovation-1.20.1-11.0.1.23.jar"
-hash = "cb9ae2b7184b01441687a9fd7ca534d861b37b46934003dc14f2675bc844150f"
+file = "mods/thermal-innovation.pw.toml"
+hash = "d0d2d356f1a5015e354516ed99549815b3dac67307c1374cf5b87e2333afaa62"
+metafile = true
 
 [[files]]
-file = "mods/thermal_integration-1.20.1-11.0.1.27.jar"
-hash = "c0b8004499a5c4f8cb42abad96c6be1f8ee49af6f756a72cef7c828199c570d4"
+file = "mods/thermal-integration.pw.toml"
+hash = "ed869df5d51c4496840f3d5fb2c9d86bab6cf25f8b12eb7dda139aaa65b18d05"
+metafile = true
 
 [[files]]
-file = "mods/thermal_locomotion-1.20.1-11.0.1.19.jar"
-hash = "45565603b45eeac7df4a1c6dd36afb600a52f2c334be336260c357d7563e0682"
+file = "mods/thermal-locomotion.pw.toml"
+hash = "0459cc802d3353342386dfe9455b99587a4dc39ca4007944d71d248517965754"
+metafile = true
 
 [[files]]
 file = "mods/threetag-palladium.pw.toml"
@@ -5970,8 +6024,14 @@ file = "mods/tia-1.20-1.1-forge.jar"
 hash = "302d28743e33ca1a889cc2c89453cdb4433c61de0472550ac6ae334fae389da7"
 
 [[files]]
-file = "mods/titanium-1.20.1-3.8.32.jar"
-hash = "75461182a955b149104d760db908af832da5e1ae1fbabf09d23cd40701d15f02"
+file = "mods/timber-frames.pw.toml"
+hash = "aaa8c5bc3508869fb0683e2423f509eeba9bccc3de54348b23e6714077814bbf"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "5e41fd8f565e09e83868e4c4776154befd3203b01ed5f09b6f7cd27687ec0041"
+metafile = true
 
 [[files]]
 file = "mods/to-tweaks-irons-spells.pw.toml"
@@ -5984,12 +6044,24 @@ hash = "5dccfff265f9a6c8a38a46a09d2034617045588671af2ea04b6ffe922b469506"
 metafile = true
 
 [[files]]
-file = "mods/toomanyglyphs-1.20.1-2.3.2.12345.jar"
-hash = "8746ce72e1c4e9eac28dc40a26fffa56189efdcbb38ffa752f0fc3d7fadbb33e"
+file = "mods/too-many-glyphs.pw.toml"
+hash = "e43574704d93b276e187589628a23ef9ff60a4080ec44341fc13207098165f21"
+metafile = true
 
 [[files]]
-file = "mods/trashslot-forge-1.20-15.1.1.jar"
-hash = "6e1cba48ec4f62c7452357c603af64afe705984895dcb2e46c6e83c47119f0a9"
+file = "mods/trashslot.pw.toml"
+hash = "11c2aacd769fd1729652bafde4e04ce6f8a3e67524f9254e8ddee2eac392f40d"
+metafile = true
+
+[[files]]
+file = "mods/travel-anchors.pw.toml"
+hash = "a047d4d26d9d9742352136d14fabf7a461fc9cb397fa4c3b9a398ea3b688d482"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
+metafile = true
 
 [[files]]
 file = "mods/twilight-tweaks.pw.toml"
@@ -5997,8 +6069,9 @@ hash = "0114d9f98e6dc69c53da54417d5a2c3f90350f02eab0043985965e56ba165357"
 metafile = true
 
 [[files]]
-file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
-hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
+file = "mods/unorthodox.pw.toml"
+hash = "ef2558bc9067dc0186893eead9d0490837534d7a7082066c8472f08d88d9532e"
+metafile = true
 
 [[files]]
 file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
@@ -6016,29 +6089,23 @@ hash = "29829e7f15c096dd7b901efbf0737c0040d4519b9a592b7c43675c6fb7558de9"
 metafile = true
 
 [[files]]
-file = "mods/water-erosion-1.20.1-forge-1.1.7.jar"
-hash = "3766287e5eba8c62beb229ac736979ab07d1aef96c6ad5d9abe3b4f51a743bfb"
-
-[[files]]
-file = "mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar"
-hash = "da63af14bd71b0be80376ed5ccc4e3669214e0e8baa5c7c1bbfa83d567513e9a"
-
-[[files]]
-file = "mods/witherstormmod-1.20.1-4.2.1-all.jar"
-hash = "a23c019b1465c87ba506ada49aa815866e5353ebdc2be3284d9087ff080018ac"
-
-[[files]]
-file = "mods/workshop-for-handsome-adventurer.pw.toml"
-hash = "e4a96f84bbf904614e8d37f00943074ece15369509ebf403b4add2c7c321fc44"
+file = "mods/water-erosion.pw.toml"
+hash = "371b454cb8861d181bcc5e425952781186b912a9dac1e7ff548ee0d733bb0996"
 metafile = true
 
 [[files]]
-file = "mods/workshop_for_handsome_adventurer--mc1.20.1--1.32.3.jar"
-hash = "e3a4eba1f24f1750cc4322b08596cda69185c405db120145b9259044bd4c232c"
+file = "mods/workshop-for-handsome-adventurer.pw.toml"
+hash = "1bc74ae582ef6fc8f94a37d8e06a74dc9be33d8fc555178ab15aeb9f33b47d5e"
+metafile = true
 
 [[files]]
 file = "mods/xl-packets.pw.toml"
 hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
+metafile = true
+
+[[files]]
+file = "mods/ydms-weapon-master.pw.toml"
+hash = "c4968d2539190a1a2e2623814db027d8229fd75800f58f76b51a39f25e7ea3b2"
 metafile = true
 
 [[files]]

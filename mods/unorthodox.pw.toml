@@ -1,0 +1,13 @@
+name = "UnOrthodox"
+filename = "UnOrthodox-9.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b74778b64d5c7a8cbc339d3bf275ee3d7475edf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6899577
+project-id = 1202318
