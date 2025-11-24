@@ -1,0 +1,13 @@
+name = "JinxedLib"
+filename = "JinxedLib-forge-1.20.1-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2ee8b85b152a16f8d395a3860375278f5b2caf7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6630668
+project-id = 1203401

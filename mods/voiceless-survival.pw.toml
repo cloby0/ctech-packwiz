@@ -1,13 +1,13 @@
 name = "Voiceless Survival"
-filename = "ezvcsurvival-forge-1.20.1-1.2.2.jar"
+filename = "ezvcsurvival-forge-1.20.1-2.0.0-beta.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "86d09c963983c32708dd581e454a7ea8433d694e"
+hash = "270b12acd9b8efdb71eee80855b6b90b424f3c1e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6710667
+file-id = 7250546
 project-id = 1173633
