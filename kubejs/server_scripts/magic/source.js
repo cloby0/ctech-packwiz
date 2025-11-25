@@ -51,7 +51,7 @@ ServerEvents.recipes(event => {
     event.replaceInput(
         {output:"ars_nouveau:basic_spell_turret"},
         "minecraft:redstone_block",
-        "aether_redux:sentrite"
+        "aether_redux:refined_sentrite"
     )
 //updates sourcestone recipe
     event.replaceInput(
@@ -61,11 +61,16 @@ ServerEvents.recipes(event => {
 
 //updates brilliant fiber
     event.remove({output:"naturesaura:gold_fiber"})
-    event.recipes.ars_nouveau.enchantment_apparatus(
-        ["aether:golden_gummy_swet","aether:golden_gummy_swet","aether:golden_oak_leaves","aether:golden_oak_leaves"],
-        "deep_aether:golden_grass_seeds",
-        "naturesaura:gold_fiber",
-        2000
+    event.recipes.ars_nouveau.enchanting_apparatus(
+        [
+            'aether:golden_gummy_swet',
+            'aether:golden_gummy_swet',
+            'aether:golden_oak_leaves',
+            'aether:golden_oak_leaves'
+        ], // input items
+        "deep_aether:golden_grass_seeds", // reagent
+        "naturesaura:gold_fiber", // output
+        2000 // source cost
     )
 //updates novice spell book recipe
     event.remove({output: 'ars_nouveau:novice_spell_book'})
@@ -97,4 +102,4 @@ ServerEvents.recipes(event => {
         F: 'minecraft:crying_obsidian'
         }
     )
-});
+})
