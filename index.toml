@@ -5063,6 +5063,11 @@ hash = "6a87cc5d15686ee6bd9d1e76a1a9d7debbcddcda3a58240c08f052be60b4461f"
 metafile = true
 
 [[files]]
+file = "mods/hexal.pw.toml"
+hash = "05f0aaf63c00487b7e7744c940dc5e4aacdf5843fe6368c3ac22ab07b52f3124"
+metafile = true
+
+[[files]]
 file = "mods/hexcasting.pw.toml"
 hash = "df0bc0ad5b00c9a0f2900b3f8866825c1ba8f21e55b1f8b92ff264d43c13093e"
 metafile = true
@@ -5427,6 +5432,11 @@ hash = "7551b4b63bd34a36a73db27a724159ac2d5ead897668c506e3706ab8806e16f3"
 [[files]]
 file = "mods/more-create-burners.pw.toml"
 hash = "82b4aab81f6bed12f1529c0dc6173f90f832b2df5b9b79cbc85cf4c4eae4878d"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "ca8acf37c54ea6cb9241fc4aa1b9465d25a6dde291e9919d72c50da2f8793498"
 metafile = true
 
 [[files]]
