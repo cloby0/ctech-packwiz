@@ -6028,11 +6028,6 @@ hash = "aaa8c5bc3508869fb0683e2423f509eeba9bccc3de54348b23e6714077814bbf"
 metafile = true
 
 [[files]]
-file = "mods/timeoutfixes.pw.toml"
-hash = "abe8fd03f6e75ea52bb82253c9cb68b2707dc5f4ab89a0c4933757f133bf865b"
-metafile = true
-
-[[files]]
 file = "mods/titanium.pw.toml"
 hash = "5e41fd8f565e09e83868e4c4776154befd3203b01ed5f09b6f7cd27687ec0041"
 metafile = true
