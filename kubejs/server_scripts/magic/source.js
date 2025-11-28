@@ -72,6 +72,32 @@ ServerEvents.recipes(event => {
         "naturesaura:gold_fiber", // output
         2000 // source cost
     )
+
+//updates primordial core
+    event.remove({output:"biomancy:primordial_core"})
+    event.recipes.ars_nouveau.enchanting_apparatus(
+      [
+          'ars_elemental:anima_essence',
+          'evilcraft:dark_gem',
+          '#c:foods/raw_meat',
+          '#c:foods/raw_meat'
+      ], // input items
+      "biomancy:meat_core", // reagent
+      "biomancy:primordial_core", // output
+      2000 // source cost
+  )
+    event.shaped(
+        Item.of('biomancy:meat_core', 1), // arg 1: output
+        [
+            'AAA',
+            'ABA', // arg 2: the shape (array of strings)
+            'AAA'
+        ],
+        {
+            A: '#c:foods/raw_meat',
+            B: "ars_nouveau:source_gem"
+        }
+    )
 //updates novice spell book recipe
     event.remove({output: 'ars_nouveau:novice_spell_book'})
     event.shapeless(

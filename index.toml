@@ -3910,11 +3910,11 @@ hash = "03e63ba9493dbf96fb7264d63919b0cdc29b6131fc6470c2b6fcff2975cbac70"
 
 [[files]]
 file = "kubejs/server_scripts/magic/hemomancy.js"
-hash = "9ab650c87ad870444d813f259eaf1d0adbeda5aa1c3bd57c5ef840fc1720afcb"
+hash = "1110c20543a97d979e88dd733d70264d85feb1a5b551b0a75fac7172b871d37a"
 
 [[files]]
 file = "kubejs/server_scripts/magic/source.js"
-hash = "d3caef97f322ab5e103316962a1f435e8f7d78b19a465567577e04a594f18898"
+hash = "6750d28bcaf888b744a493507b8d60fa7399859cbb95927d3a1429c2b822f186"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipeChanges.js"
