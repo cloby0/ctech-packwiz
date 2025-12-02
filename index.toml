@@ -4745,11 +4745,6 @@ hash = "c8b6d9f1132abc8139ab91a05fb2b5e33424a16c80e1a7487548a86b52eb0b06"
 metafile = true
 
 [[files]]
-file = "mods/ducky-periphs.pw.toml"
-hash = "2c7ff95da129218e3858446b34840db57405231a50e41badebe7e5037a8afbb4"
-metafile = true
-
-[[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "3a4845166040ce2be2967b33371140b809b8d49889ba99f91da78e0228cd6f8e"
 metafile = true
