@@ -3890,7 +3890,7 @@ hash = "32a29891b090da54c380cc15a8c4119193d52dd04289f1adb54b47ee48b466f4"
 
 [[files]]
 file = "kubejs/server_scripts/checklist.txt"
-hash = "06cbeb8b657ec5627bdf6b118fe5cb854852d10420565d98719de7117c91d17a"
+hash = "915913d5046b318d1643d423def694f0c88b8629f7bb10eda8f144333b4ad098"
 
 [[files]]
 file = "kubejs/server_scripts/cumiumIngot/recipes.js"
@@ -3902,7 +3902,7 @@ hash = "b488702aea9c96aaa596fa86afe87c63dd819d20910f79b64d14e69b8c3af123"
 
 [[files]]
 file = "kubejs/server_scripts/magic/aura.js"
-hash = "46b29444ac2ef15ad243c7df224bbf4ba23179f8fcd9cc2b35ab98f9a93d94bf"
+hash = "4b638c6e300ec22718b54c1a8f58b39dde01019d09dddcc97308704179e50ffa"
 
 [[files]]
 file = "kubejs/server_scripts/magic/botanics.js"
@@ -3991,10 +3991,6 @@ hash = "739fb3f43c8e70985ce24eb8c8b03d75b2b088feabef14bfd572891756633fff"
 [[files]]
 file = "mods/Structory_Towers_1.20.x_v1.0.7.jar"
 hash = "74aa182524af55e172d7bfcf828dd1c1a3259a304980e7a94fbfbf1f0d9fac0c"
-
-[[files]]
-file = "mods/UnOrthodox-9.0.0.jar"
-hash = "c2f02b1d72aede88d1481d7e8d17a684ea9c44d8298ac1e553c54225f2bbae2f"
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
@@ -6024,11 +6020,6 @@ hash = "0459cc802d3353342386dfe9455b99587a4dc39ca4007944d71d248517965754"
 metafile = true
 
 [[files]]
-file = "mods/threetag-palladium.pw.toml"
-hash = "ba3838d2c29028402174b8763bd515ebec71e0cda69a4337d4abb41e9bc375cc"
-metafile = true
-
-[[files]]
 file = "mods/tia-1.20-1.1-forge.jar"
 hash = "302d28743e33ca1a889cc2c89453cdb4433c61de0472550ac6ae334fae389da7"
 
@@ -6085,11 +6076,6 @@ metafile = true
 [[files]]
 file = "mods/vics-point-blank.pw.toml"
 hash = "711b1468e60bd3b5096768a57e62efde0ebe1b31b07266b1d83c012156469d34"
-metafile = true
-
-[[files]]
-file = "mods/voiceless-survival.pw.toml"
-hash = "29829e7f15c096dd7b901efbf0737c0040d4519b9a592b7c43675c6fb7558de9"
 metafile = true
 
 [[files]]
