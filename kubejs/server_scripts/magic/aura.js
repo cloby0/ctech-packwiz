@@ -4,7 +4,7 @@ ServerEvents.recipes(event =>{
     event.recipes.ars_nouveau.crush(
         "naturesaura:gold_leaf",
         [
-            Item.of("naturesaura:gold_powder").withChance(1.0).amount(2)
+            Item.of("naturesaura:gold_powder").withChance(1.0)
         ]
     )
 //wooden stand recipe

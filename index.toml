@@ -3902,7 +3902,7 @@ hash = "b488702aea9c96aaa596fa86afe87c63dd819d20910f79b64d14e69b8c3af123"
 
 [[files]]
 file = "kubejs/server_scripts/magic/aura.js"
-hash = "4b638c6e300ec22718b54c1a8f58b39dde01019d09dddcc97308704179e50ffa"
+hash = "4baa5c6ff76e2519e673197440d9d0e42bee813ce4aea4ecfb25461ef870c729"
 
 [[files]]
 file = "kubejs/server_scripts/magic/botanics.js"
