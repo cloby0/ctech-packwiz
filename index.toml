@@ -4128,11 +4128,6 @@ hash = "7944698b26f0af043c9be56bb6978be745cab21dc7e16cac020f20ff67cab63d"
 metafile = true
 
 [[files]]
-file = "mods/anabasis-exo-ascension.pw.toml"
-hash = "10e15d5d0b3bb468161ce89e87e388abec7f4825e58e39c6c3982a87f5b6590c"
-metafile = true
-
-[[files]]
 file = "mods/ancient-sands.pw.toml"
 hash = "6bbc093fc8794177e2ae65f725df061e3c043d555e69f9a5613f338380471363"
 metafile = true
