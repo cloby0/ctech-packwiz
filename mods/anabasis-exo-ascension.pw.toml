@@ -1,0 +1,13 @@
+name = "Anabasis: Exo Ascension"
+filename = "exo_ascension-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a70929cea46c8108a5d0938355255a39d72efc6a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7136943
+project-id = 1370268

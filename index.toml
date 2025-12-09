@@ -3993,6 +3993,11 @@ file = "mods/Structory_Towers_1.20.x_v1.0.7.jar"
 hash = "74aa182524af55e172d7bfcf828dd1c1a3259a304980e7a94fbfbf1f0d9fac0c"
 
 [[files]]
+file = "mods/aaa-particles.pw.toml"
+hash = "aeddebbcf923f3ea5dabb05f05163559fa5b39e038f30b971f8018d52fd4e5ed"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "2ee5a9e5a8cc755b428d953cc3f89a68c4f239136c50e9500ed62f13dd92561e"
 metafile = true
@@ -4120,6 +4125,16 @@ metafile = true
 [[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "7944698b26f0af043c9be56bb6978be745cab21dc7e16cac020f20ff67cab63d"
+metafile = true
+
+[[files]]
+file = "mods/anabasis-exo-ascension.pw.toml"
+hash = "10e15d5d0b3bb468161ce89e87e388abec7f4825e58e39c6c3982a87f5b6590c"
+metafile = true
+
+[[files]]
+file = "mods/ancient-sands.pw.toml"
+hash = "6bbc093fc8794177e2ae65f725df061e3c043d555e69f9a5613f338380471363"
 metafile = true
 
 [[files]]
@@ -4385,6 +4400,11 @@ file = "mods/bwncr-forge-1.20.1-3.17.2.jar"
 hash = "d6c120a438f0b347f78d21758d0e05459e09ccd87bb9cae9ee1955ab2750afd9"
 
 [[files]]
+file = "mods/bytebuddies.pw.toml"
+hash = "4422657b3eff4fb9077c3eb3a296eee67184d0775cb99dd586373df24a012b43"
+metafile = true
+
+[[files]]
 file = "mods/cable-facades.pw.toml"
 hash = "bfc9064726d16308c9eb720741eec4efae2513fe3a78f0f1b466cfe32a61d4c3"
 metafile = true
@@ -4402,11 +4422,6 @@ metafile = true
 [[files]]
 file = "mods/casualness-delight.pw.toml"
 hash = "ca652d606992cb9276a8720c74d89b511886ffb64a7bb92aab3c28da3da82381"
-metafile = true
-
-[[files]]
-file = "mods/cc-androids.pw.toml"
-hash = "9cad81dcc829d75e7b874c5f261d388cc84a8f57c2de74fd1443f59256873d51"
 metafile = true
 
 [[files]]
@@ -4467,6 +4482,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "0c8838dba7d2090968ca9ec633260d42ca16f1df186a780bd5965994541d9f74"
+metafile = true
+
+[[files]]
+file = "mods/clanging-howl.pw.toml"
+hash = "071c65f6fefe821bd9fe9cab0a0eb57c42d976d88a24d6082cac9d58a4f5246c"
 metafile = true
 
 [[files]]
@@ -4635,6 +4655,11 @@ hash = "200b30b8eeaaf2fa9e8345fcabdd80f6195b5af67926fb1e277931100e7e1eff"
 metafile = true
 
 [[files]]
+file = "mods/create-escalated.pw.toml"
+hash = "afb67c69b9eb85609148c184f0be406bf2116b36796dd159c7f1c23d0811765d"
+metafile = true
+
+[[files]]
 file = "mods/create-oppenheimered.pw.toml"
 hash = "2930f1c10740b3cc505568db3fdc44cab137efdb606e052412f8cb32155f2e41"
 metafile = true
@@ -4642,6 +4667,11 @@ metafile = true
 [[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "39cb52a90d4f3c40ad7d845e597b91c49526b8307fd52ac56b3fda2ae46160a1"
+metafile = true
+
+[[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "31abdfdc91828461c88f09ac802591ae631d5144ae74e866bab8926a83c8bfac"
 metafile = true
 
 [[files]]
@@ -4717,6 +4747,11 @@ metafile = true
 [[files]]
 file = "mods/delightful.pw.toml"
 hash = "5ca70c9ee479f137ba0c3df149c1660f0204db373f2b127a788cad502efa19c6"
+metafile = true
+
+[[files]]
+file = "mods/desert-behemoths-sandworms.pw.toml"
+hash = "367452ce229a08a5ca79648802d052ee9bb20db553f2aede561a270176a14d38"
 metafile = true
 
 [[files]]
@@ -5093,6 +5128,11 @@ hash = "d8f52c6109108160c9ca80ae2d1fd03f3b27f4a3196c62ba805928b66482be5b"
 metafile = true
 
 [[files]]
+file = "mods/hypertubes.pw.toml"
+hash = "7c62eec6689e4b771b835e8fe732dd924ff1a560818bf35e11f6d13b4b479878"
+metafile = true
+
+[[files]]
 file = "mods/ice-and-fire-curios-and-trinkets.pw.toml"
 hash = "f7fc294ff0c5e9d70dba1eb1ee03fa70ba37bbc2f2ab7cec71c613c8e1696cdb"
 metafile = true
@@ -5320,6 +5360,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "afca79f6ef3b857bfd147d4d7f9887ee433a73f8fcd1ec4476c49ac3349926d0"
+metafile = true
+
+[[files]]
+file = "mods/lodestone.pw.toml"
+hash = "a484a0a768e886244dab01dd9793d979ca5d57b8327f9f4caa36a3031fc46d63"
 metafile = true
 
 [[files]]
@@ -6076,6 +6121,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
+metafile = true
+
+[[files]]
+file = "mods/turtlebois-core-library.pw.toml"
+hash = "44af1bf24ab37044e18cd45d1b322e492c7f23f6f4235ecabd29074db2c0193b"
 metafile = true
 
 [[files]]

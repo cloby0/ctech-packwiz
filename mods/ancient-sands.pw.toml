@@ -1,0 +1,13 @@
+name = "Ancient Sands"
+filename = "ancientsand-forge-1.0.8-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SAXNvj8Z/versions/UQtoaQMo/ancientsand-forge-1.0.8-1.20.1.jar"
+hash-format = "sha512"
+hash = "1da72cb2e079f43b170425d9c4d5886a85973889781346f6e18825ab82f3f3b88f275fb5d2641dece52b937a382217c92a85c2e2a28524cefd3963d4ae3b6565"
+
+[update]
+[update.modrinth]
+mod-id = "SAXNvj8Z"
+version = "UQtoaQMo"
