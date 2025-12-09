@@ -4750,11 +4750,6 @@ hash = "5ca70c9ee479f137ba0c3df149c1660f0204db373f2b127a788cad502efa19c6"
 metafile = true
 
 [[files]]
-file = "mods/desert-behemoths-sandworms.pw.toml"
-hash = "367452ce229a08a5ca79648802d052ee9bb20db553f2aede561a270176a14d38"
-metafile = true
-
-[[files]]
 file = "mods/dimensional-dungeons.pw.toml"
 hash = "f9a5ebd0b89b1e98499b4d4687ec35697ff00d49aef7d1f704e47595e411553e"
 metafile = true
@@ -5824,6 +5819,10 @@ metafile = true
 file = "mods/runiclib.pw.toml"
 hash = "4249fb0a1922f50ca6d083b6f4dd4ae7a77d699bdb5171d21b5935016ad7b298"
 metafile = true
+
+[[files]]
+file = "mods/sandworm_mod-1.1.1.jar"
+hash = "50e1a9168682a99d62872fe8f89a9b03f7ef676441c762e4774a7cf4a6a8f8f0"
 
 [[files]]
 file = "mods/sanguine-neural-networks.pw.toml"
