@@ -4321,9 +4321,8 @@ hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
 metafile = true
 
 [[files]]
-file = "mods/beyond-oxygen.pw.toml"
-hash = "6bd00d8f4384a5dc25ccb2cddd13bb137663866d9dd4868dc7ea43f29ae52039"
-metafile = true
+file = "mods/beyond_oxygen-0.12.6.jar"
+hash = "8684aa94bc9096789c5b9438aeabb56d7c752dd9ee7441f4e2e383e708991fa2"
 
 [[files]]
 file = "mods/biomancy.pw.toml"
