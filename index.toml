@@ -4321,11 +4321,6 @@ hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
 metafile = true
 
 [[files]]
-file = "mods/beyond-oxygen.pw.toml"
-hash = "6bd00d8f4384a5dc25ccb2cddd13bb137663866d9dd4868dc7ea43f29ae52039"
-metafile = true
-
-[[files]]
 file = "mods/biomancy.pw.toml"
 hash = "d69d4cf4afed1d26a76965056a0aaf66394f847823927b26d1196785c3782e7b"
 metafile = true
@@ -4432,11 +4427,6 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "94615e505b64b850d3df7b50c292407a3b2f327ed1989c4e7d2907bb79785cde"
-metafile = true
-
-[[files]]
-file = "mods/cc-vs.pw.toml"
-hash = "81f5c4c49f35cb4c162a23236105bb1ccd35e130118169a081c3ca32e6d54e6a"
 metafile = true
 
 [[files]]
@@ -4640,11 +4630,6 @@ hash = "967c38265800a8b2353debf37ab919204a1f89e4a57e2e603b7a7de1d68c8956"
 metafile = true
 
 [[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "d31c742e6dacf85d60415a75dbbe70e68ce17839ceeec858235f599606ab4632"
-metafile = true
-
-[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "834517e20257dd0b64f4a6d778ad773d8e422cf7864b46a557e2fab26d153ad0"
 metafile = true
@@ -4677,11 +4662,6 @@ metafile = true
 [[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "39cb52a90d4f3c40ad7d845e597b91c49526b8307fd52ac56b3fda2ae46160a1"
-metafile = true
-
-[[files]]
-file = "mods/create-propulsion.pw.toml"
-hash = "e28e97f1f73f9a9f4552ac9014f23913a0d4f9b1f3be554b60ccac046408b5b0"
 metafile = true
 
 [[files]]
@@ -6123,11 +6103,6 @@ hash = "e43574704d93b276e187589628a23ef9ff60a4080ec44341fc13207098165f21"
 metafile = true
 
 [[files]]
-file = "mods/trackwork.pw.toml"
-hash = "f80a934bbd173a54edb17d99f72e25a12e5c08551d8c3130d132120a060a3fbd"
-metafile = true
-
-[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "7d82589ef537c4a134ec1c5901019052c3fd3fd1a6051500ff3f732339e801e0"
 metafile = true
@@ -6150,11 +6125,6 @@ metafile = true
 [[files]]
 file = "mods/twilight-tweaks.pw.toml"
 hash = "0114d9f98e6dc69c53da54417d5a2c3f90350f02eab0043985965e56ba165357"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "bf1649e3020c6738600cae50627dd4db8eb63a6b9c200efa89c8589c3ff29505"
 metafile = true
 
 [[files]]
