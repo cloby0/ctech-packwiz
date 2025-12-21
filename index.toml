@@ -4296,6 +4296,11 @@ hash = "f6a0e47845c06a47bbd3471318c2b95e83ad4e3d1759c84d0a2a3bf6437ca33a"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-particle.pw.toml"
+hash = "eb2f78fc05c4cc87eb9c045737eb0b83dedc7f7a3067fd9d895833d49b2a3116"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
 metafile = true
