@@ -6142,6 +6142,11 @@ file = "mods/water-erosion-1.20.1-forge-1.1.7.jar"
 hash = "3766287e5eba8c62beb229ac736979ab07d1aef96c6ad5d9abe3b4f51a743bfb"
 
 [[files]]
+file = "mods/weapon-leveling.pw.toml"
+hash = "fc202a29cdf4fd7903319e483dd6b0505dc9bf51150cd1a6cb39f2d6252b05a5"
+metafile = true
+
+[[files]]
 file = "mods/workshop-for-handsome-adventurer.pw.toml"
 hash = "e4a96f84bbf904614e8d37f00943074ece15369509ebf403b4add2c7c321fc44"
 metafile = true
