@@ -4870,11 +4870,6 @@ hash = "96c83f92d038524c36df54aadad8a3d8ba4a3f3643b998a1a5a228a9f35e2abc"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-ai.pw.toml"
-hash = "92f88e7b9d8a0a9a396568655620ea25d9ec1eca8afd4124a73a509276a8b4a6"
-metafile = true
-
-[[files]]
 file = "mods/enigmatic-addons.pw.toml"
 hash = "084ba027888fae28d600bb79a8d906d611fef5e56cde78a42c5dc7e6c41a3d83"
 metafile = true
@@ -5145,6 +5140,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "5851bef35e786bfcdb837dfc380c4bd22c857434b2997235a551b3a0cf72d158"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "eb089373d47632a85bb7596b1143b719d7675f5e2782586aa0c340069d699700"
 metafile = true
 
 [[files]]
@@ -5871,6 +5871,11 @@ hash = "d9ad4f456b6c36bac17a71cd12935fdccae69ca1e1fcd33857210758cb58e586"
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "7b74687503a817ae7e7a8145996f0a09ddab38933af1e244b324083aeed2fa16"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "154e23fca5a42be118719102abfc01c27fee77353006c1cf757ccdba3025024c"
 metafile = true
 
 [[files]]
