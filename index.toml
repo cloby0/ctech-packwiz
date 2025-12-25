@@ -4630,6 +4630,11 @@ hash = "967c38265800a8b2353debf37ab919204a1f89e4a57e2e603b7a7de1d68c8956"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "faa57a56ce064b361d12913ad362a52ce8e2de0aed0275b91f487e2d3e9e45e3"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "834517e20257dd0b64f4a6d778ad773d8e422cf7864b46a557e2fab26d153ad0"
 metafile = true
@@ -5239,7 +5244,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
@@ -6125,6 +6130,11 @@ metafile = true
 [[files]]
 file = "mods/twilight-tweaks.pw.toml"
 hash = "0114d9f98e6dc69c53da54417d5a2c3f90350f02eab0043985965e56ba165357"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "8945945bff0435e4b0978d92e4784d009f827ac4f6f0d5cad743a08d17e83fd5"
 metafile = true
 
 [[files]]
