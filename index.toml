@@ -5711,11 +5711,6 @@ hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
 metafile = true
 
 [[files]]
-file = "mods/quantumchunks.pw.toml"
-hash = "3fcad80a1e43cd9116556b425c133df006c0eaea8bbefda052b4ebe1ff5267a3"
-metafile = true
-
-[[files]]
 file = "mods/quests-additions.pw.toml"
 hash = "d9e13a1c9bb74d5b456ffd7541627f5cf700a5949c3994c2a6673df7046bfb27"
 metafile = true
