@@ -10,7 +10,7 @@ ServerEvents.recipes(event => {
         ],
         {
             S: "#forge:ingots/pure_osmium",
-            G: "#forge:glass",
+            G: "mekanism:structural_glass",
             P: "mekanism:basic_control_circuit"
         }
     );
