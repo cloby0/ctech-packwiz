@@ -65,13 +65,13 @@ ServerEvents.recipes(event => {
         "energy": 16000
     })
     event.replaceInput(
-        {input: "#forge:ingots/osmium", mod: 'mekanism'}
-        '#forge:ingots/osmium'
+        {input: "#forge:ingots/osmium", mod: 'mekanism'},
+        '#forge:ingots/osmium',
         '#forge:ingots/pure_osmium'
     )
     event.replaceInput(
-        {input: "#forge:ingots/osmium", mod: 'mekanismgenerators'}
-        '#forge:ingots/osmium'
+        {input: "#forge:ingots/osmium", mod: 'mekanismgenerators'},
+        '#forge:ingots/osmium',
         '#forge:ingots/pure_osmium'
     )
 
