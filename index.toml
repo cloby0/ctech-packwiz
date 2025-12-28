@@ -3950,11 +3950,11 @@ hash = "2d9f83a85ae6844846fd27f4bfbf18a18b0520488fea786dc6415e7cc2e8053a"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier3.js"
-hash = "db7eb6289bde9333e2e3d1e5ad1a4bae5642c085040aec3571b0d23b0b337603"
+hash = "dd9f1a98dff9e7ffae8f374b97932ad01e1f1278d17e0f128f729403478712f1"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier4.js"
-hash = "f75b75862fe05e49b9597c1b594f478d46b3a2f76476e0f5e5ccd747e2221198"
+hash = "7c44357cae2ff3b548c81f7eb846d13435fb8aeb4d562fd7ddfacee383e45d76"
 
 [[files]]
 file = "kubejs/startup_scripts/alteration/meth.js"
@@ -5255,6 +5255,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-addon-blood-magic.pw.toml"
 hash = "a8741233d9aaf6e45488a35bf77770646137e4502e558806debe2b754e0edb42"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-alchemistry-chemlib.pw.toml"
+hash = "3d9efe4a745764085c4859ea79f8c4ec052dbe8ed67ebb46d9fa357722746a6a"
 metafile = true
 
 [[files]]

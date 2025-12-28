@@ -64,13 +64,31 @@ ServerEvents.recipes(event => {
         ],
         "energy": 16000
     })
-    event.forEachRecipe({mod: 'pneumaticcraft', type: "pneumaticcraft:crafting_shaped_pressurizable"}, r => {
+    event.replaceInput(
+        {input: "#forge:ingots/osmium", mod: 'mekanism'}
+        '#forge:ingots/osmium'
+        '#forge:ingots/pure_osmium'
+    )
+    event.replaceInput(
+        {input: "#forge:ingots/osmium", mod: 'mekanismgenerators'}
+        '#forge:ingots/osmium'
+        '#forge:ingots/pure_osmium'
+    )
+
+    event.forEachRecipe({mod: 'mekanism', type: "mekanism:mek_data"}, r => {
         let json_recipe = r.json.toString()
-            if (json_recipe.includes("pneumaticcraft:printed_circuit_board")) {
-                json_recipe = json_recipe.replaceAll("pneumaticcraft:printed_circuit_board", "mekanism:basic_control_circuit")
+            if (json_recipe.includes("#forge:ingots/osmium")) {
+                json_recipe = json_recipe.replaceAll("#forge:ingots/osmium", "#forge:ingots/pure_osmium")
                 event.custom(json_recipe).id(r.getOrCreateId())
             }
         })
+    event.forEachRecipe({mod: 'mekanismgenerators', type: "mekanism:mek_data"}, r => {
+        let json_recipe = r.json.toString()
+        if (json_recipe.includes("#forge:ingots/osmium")) {
+            json_recipe = json_recipe.replaceAll("#forge:ingots/osmium", "#forge:ingots/pure_osmium")
+            event.custom(json_recipe).id(r.getOrCreateId())
+        }
+    })
 
     event.shaped(
         Item.of('thermal:rf_coil', 4),
