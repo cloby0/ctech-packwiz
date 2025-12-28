@@ -3901,6 +3901,10 @@ file = "kubejs/server_scripts/dimension.js"
 hash = "b488702aea9c96aaa596fa86afe87c63dd819d20910f79b64d14e69b8c3af123"
 
 [[files]]
+file = "kubejs/server_scripts/embers.js"
+hash = "c72af4cf23a7e2f77c3b055d5eeca3afc2f00344e09cae2443617c6df68f29bf"
+
+[[files]]
 file = "kubejs/server_scripts/magic/aura.js"
 hash = "4baa5c6ff76e2519e673197440d9d0e42bee813ce4aea4ecfb25461ef870c729"
 
@@ -3914,7 +3918,7 @@ hash = "1110c20543a97d979e88dd733d70264d85feb1a5b551b0a75fac7172b871d37a"
 
 [[files]]
 file = "kubejs/server_scripts/magic/source.js"
-hash = "6750d28bcaf888b744a493507b8d60fa7399859cbb95927d3a1429c2b822f186"
+hash = "d5c79af31b663516039b2b8d4c2981f4484e0cacc2f0928f1b9be978dcb9c967"
 
 [[files]]
 file = "kubejs/server_scripts/miscRecipeChanges.js"
@@ -3942,7 +3946,7 @@ hash = "47f7ec7d997d79745874e88c15139133e6615153dab77a53262db7169e4413e8"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier1.js"
-hash = "78a5362da90dffd2b76a0e318b5cfe4bf029ae437332b73ced22bb29f415940c"
+hash = "da9eb92b2dbb655a9b69dd19319d4600d64157dd93012b124db6c944be54361a"
 
 [[files]]
 file = "kubejs/server_scripts/tech/tier2.js"

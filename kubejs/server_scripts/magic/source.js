@@ -1,4 +1,19 @@
 ServerEvents.recipes(event => {
+//changes imbuement chamber recipe
+    event.remove({output: "ars_nouveau:imbuement_chamber"})
+    event.shaped(
+    Item.of('ars_nouveau:imbuement_chamber', 1), // arg 1: output
+    [
+        'ABA',
+        'ACA', // arg 2: the shape (array of strings)
+        'ABA'
+    ],
+    {
+        A: 'ars_nouveau:archwood_planks',
+        B: 'aether:ambrosium_block',  //arg 3: the mapping object
+        C: 'embers:alchemy_tablet'
+    }
+    )
 //book recipe
     event.recipes.ars_nouveau.imbuement(
         "witherstormmod:command_block_book",
@@ -27,8 +42,20 @@ ServerEvents.recipes(event => {
         [
 
         ])
+//changes apparatus recipe
+    event.replaceInput(
+            {output:"ars_nouveau:enchanting_apparatus"},
+            "minecraft:diamond",
+            "embers:alchemy_tablet"
+        )
+//changes arcane pedestal
+    event.replaceInput(
+            {output:"ars_nouveau:arcane_pedestal"},
+            "ars_nouveau:source_gem",
+            "embers:alchemy_tablet"
+        )
 //updates source gem recipe
-    event.remove({output:"ars_nouveau:source_gem",type:"ars_nouveau:imbuement",type:"thermal:press"})
+    event.remove({output:"ars_nouveau:source_gem",type:"ars_nouveau:imbuement"})
     event.recipes.ars_nouveau.imbuement(
         "#forge:gems/zanite",
         "ars_nouveau:source_gem",

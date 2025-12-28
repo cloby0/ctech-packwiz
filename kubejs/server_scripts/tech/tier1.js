@@ -28,7 +28,7 @@ ServerEvents.recipes(event => {
 		Item.of('2x minecraft:gold_nugget').withChance(2.0),
 		'minecraft:iron_ingot',
 		'minecraft:clock'
-	], 'alltheores:gold_plate', [ // 'alltheores:gold_plate' is the input
+	], 'embers:archaic_circuit', [ // 'embers:archaic_circuit' is the input
 		// the transitional item set by `transitionalItem('create:incomplete_large_cogwheel')` is the item used during the intermediate stages of the assembly
 		event.recipes.createDeploying('create:incomplete_precision_mechanism', ['create:incomplete_precision_mechanism', 'create:cogwheel']),
 		// like a normal recipe function, is used as a sequence step in this array. Input and output have the transitional item
@@ -45,11 +45,19 @@ ServerEvents.recipes(event => {
         '#forge:sandstone',
         'create:andesite_casing'
     )
+    event.replaceInput({id: "immersiveengineering:crafting/cokebrick"},
+        'minecraft:clay_ball',
+        'embers:caminite_blend'
+    )
 
     //blast brick
     event.replaceInput({id: "immersiveengineering:crafting/blastbrick"},
         'minecraft:nether_brick',
         'create:cinder_flour'
+    )
+    event.replaceInput({id: "immersiveengineering:crafting/blastbrick"},
+        '#forge:ingots/brick',
+        'embers:caminite_brick'
     )
     event.replaceInput({id: "immersiveengineering:crafting/blastbrick"},
         'minecraft:magma_block',
