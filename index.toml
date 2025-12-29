@@ -4768,11 +4768,6 @@ hash = "f9a5ebd0b89b1e98499b4d4687ec35697ff00d49aef7d1f704e47595e411553e"
 metafile = true
 
 [[files]]
-file = "mods/dimthreads.pw.toml"
-hash = "af6e9935fcfdc98b37c46d56e23ce9ca4f0c36be50c7e840a23e9908d248fca8"
-metafile = true
-
-[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "1bc1fd0cb2fda0b3950b11efbca3239a89b4184e3b5e0550dd7f1f94ca67cddc"
 metafile = true
@@ -6141,6 +6136,11 @@ hash = "0114d9f98e6dc69c53da54417d5a2c3f90350f02eab0043985965e56ba165357"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-sails.pw.toml"
+hash = "83790723df89c870cacd8684818fd7a406c72ed2b7d38b6cdfd8e5e1bcf538f3"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "8945945bff0435e4b0978d92e4784d009f827ac4f6f0d5cad743a08d17e83fd5"
 metafile = true
@@ -6153,6 +6153,11 @@ metafile = true
 [[files]]
 file = "mods/vics-point-blank.pw.toml"
 hash = "711b1468e60bd3b5096768a57e62efde0ebe1b31b07266b1d83c012156469d34"
+metafile = true
+
+[[files]]
+file = "mods/vlib.pw.toml"
+hash = "0b3c359b8f7636c2cdbb003dd1d8ba291d10e96d778fd7e4f56e925bcc11ace8"
 metafile = true
 
 [[files]]
