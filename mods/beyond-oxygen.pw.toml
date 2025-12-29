@@ -1,0 +1,13 @@
+name = "Beyond Oxygen"
+filename = "beyond_oxygen-0.12.6-vs2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c1cda118e1752aa81d78f90012cac752c29798b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7384611
+project-id = 1270752

@@ -4330,6 +4330,11 @@ hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
 metafile = true
 
 [[files]]
+file = "mods/beyond-oxygen.pw.toml"
+hash = "eef4c09848ba0b964fae3f4ec1e7a1f5c90ffe09aef84920cdbc26096aab7765"
+metafile = true
+
+[[files]]
 file = "mods/biomancy.pw.toml"
 hash = "d69d4cf4afed1d26a76965056a0aaf66394f847823927b26d1196785c3782e7b"
 metafile = true
@@ -4635,7 +4640,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-clockwork.pw.toml"
-hash = "faa57a56ce064b361d12913ad362a52ce8e2de0aed0275b91f487e2d3e9e45e3"
+hash = "b9b97be64d4b4d1fdc07c496308b8359890cba4baf53f35cfa718af8503c4da2"
 metafile = true
 
 [[files]]
@@ -6104,6 +6109,11 @@ metafile = true
 [[files]]
 file = "mods/too-many-glyphs.pw.toml"
 hash = "e43574704d93b276e187589628a23ef9ff60a4080ec44341fc13207098165f21"
+metafile = true
+
+[[files]]
+file = "mods/trackwork.pw.toml"
+hash = "b4887c8dabb9b68bf7cbfab1b683d2ae650979646a52d3d98aa3682ddcf99e88"
 metafile = true
 
 [[files]]
