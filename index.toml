@@ -809,6 +809,10 @@ file = "config/scguns-common.toml"
 hash = "03f59e912c7bf301d242895e8cf9c6744fe80c5a565963d8cbaf2e3887be4236"
 
 [[files]]
+file = "config/terrablender.toml"
+hash = "8e529327047acb6812efb9b519eb0d67f0d6411744e3ed71d5a7ef0240942206"
+
+[[files]]
 file = "config/twilightforest-client.toml"
 hash = "7df74722394aa6f9b662317ad4840fc9b0a2e11c394ef6da2b3d9eabb62808d3"
 
