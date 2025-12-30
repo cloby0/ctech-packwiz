@@ -4598,9 +4598,8 @@ hash = "b1dc522406ddf39dc412152ef47c315c5c4eda83806942bae6c3d59802a1597d"
 metafile = true
 
 [[files]]
-file = "mods/covenant-of-the-seven.pw.toml"
-hash = "0b3dfdc58220592b1a6a88261d96b33c5f303b71670b77e32fc4b84d2914d230"
-metafile = true
+file = "mods/covenant_of_the_seven-2.2.0.jar"
+hash = "976beed317dded2524d569795b1006111960ca44403b057fb105af2a538293ee"
 
 [[files]]
 file = "mods/crackers-wither-storm-mod.pw.toml"
