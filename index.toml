@@ -4903,9 +4903,8 @@ hash = "c9f73e2b93b64fb0c44fbbde6245a5d5934143d6c4b9cc9829e3ba62c02ead4e"
 metafile = true
 
 [[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "4ca713921c12e93612dde9b797f77331a4797102a40295232b8b5cf63ffdc14a"
-metafile = true
+file = "mods/eureka-forge-1201-1.6.0-beta.1+59032efd49.jar"
+hash = "de5c17def4de97f10220c961fc2b3a449292d21e67c616006f46685811c22ea1"
 
 [[files]]
 file = "mods/every-compat.pw.toml"
