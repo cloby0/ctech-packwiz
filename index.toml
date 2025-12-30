@@ -4903,6 +4903,11 @@ hash = "c9f73e2b93b64fb0c44fbbde6245a5d5934143d6c4b9cc9829e3ba62c02ead4e"
 metafile = true
 
 [[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "4ca713921c12e93612dde9b797f77331a4797102a40295232b8b5cf63ffdc14a"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "7e2fb62f8f972ee92174e4e7e5d97dfbae675de068b31a7558aad7188a467851"
 metafile = true
@@ -6133,11 +6138,6 @@ metafile = true
 [[files]]
 file = "mods/twilight-tweaks.pw.toml"
 hash = "0114d9f98e6dc69c53da54417d5a2c3f90350f02eab0043985965e56ba165357"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-sails.pw.toml"
-hash = "83790723df89c870cacd8684818fd7a406c72ed2b7d38b6cdfd8e5e1bcf538f3"
 metafile = true
 
 [[files]]
