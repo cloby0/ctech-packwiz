@@ -1,0 +1,13 @@
+name = "Covenant of the Seven - Iron's Spells Addon"
+filename = "covenant_of_the_seven-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4ad69166fc01ad3499cbe4344571bdeaf0ea5f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7396601
+project-id = 1368461
