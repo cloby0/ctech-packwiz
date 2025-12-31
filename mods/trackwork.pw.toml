@@ -1,13 +1,13 @@
 name = "Trackwork"
-filename = "trackwork-1.20.1-1.2.1.jar"
+filename = "trackwork-1.20.1-1.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b7752c555824fe277e7686bd4345a37e366300f2"
+hash = "179e295a00e1d8b4043b763ea2a32fc5a13ea008"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7379702
+file-id = 7395233
 project-id = 1057662

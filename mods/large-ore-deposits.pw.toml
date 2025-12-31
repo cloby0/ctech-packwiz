@@ -1,13 +1,13 @@
 name = "Large Ore Deposits"
-filename = "AdLods-1.20.1-8.1.7.0-build.1496.jar"
+filename = "AdLods-1.20.1-8.1.8.0-build.1850.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b8bf34c0f17d2c902a6a47816831705129f17b49"
+hash = "d3034a1d59e57033468a16177e76f4aecc89751b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6867457
+file-id = 7333411
 project-id = 318833

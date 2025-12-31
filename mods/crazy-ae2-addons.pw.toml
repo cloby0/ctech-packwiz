@@ -1,13 +1,13 @@
 name = "Crazy AE2 Addons"
-filename = "crazyae2addons-1.21.2-all.jar"
+filename = "crazyae2addons-2.0.4-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f33a9766210acad4e2bd049534d74e7d190f2a78"
+hash = "a3a013300261c5ed65eeb31c9a98f0902a561286"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7250497
+file-id = 7390155
 project-id = 1223804
