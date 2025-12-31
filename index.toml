@@ -2753,6 +2753,26 @@ file = "kubejs/assets/pneumaticcraft/lang/en_us.json"
 hash = "3e14177407df398bb9467fd88f679d6b60de0bba7defb55a526fae4f99589738"
 
 [[files]]
+file = "kubejs/assets/quests/2025-12-30_00.38.35.png"
+hash = "82efb4a23b29d9c688cd311ae2793f8c173a70065d32c1ad2ebffaebaa08de36"
+
+[[files]]
+file = "kubejs/assets/quests/2025-12-31_15.31.46.png"
+hash = "ef81cad9b2298774c91e2a80d6413e3bb1a3617f674f8876b502c39551a71d1e"
+
+[[files]]
+file = "kubejs/assets/quests/2025-12-31_15.37.20.png"
+hash = "19906ed69101013ca51376a506dfc4bb8aa809212c84a66c91299139232c2ca0"
+
+[[files]]
+file = "kubejs/assets/quests/2025-12-31_15.45.36.png"
+hash = "b1fbe953e241a3e1b93181abfc9c268e68774819d9bd2409920ba3b23e9152d4"
+
+[[files]]
+file = "kubejs/assets/quests/2025-12-31_15.46.18.png"
+hash = "37b63015f0549e7fcb65ccbd3580f3a9db52a92953af76a7c1e134c8d54cce2b"
+
+[[files]]
 file = "kubejs/client_scripts/JEIHide.js"
 hash = "554a2a66fc6c8318c2fb454af30e54939770820b7061e10eecf4977cfa22989f"
 
