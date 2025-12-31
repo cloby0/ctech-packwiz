@@ -4355,7 +4355,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomancy.pw.toml"
-hash = "2255baf2334393c0d5fe36b109de3aab31d262ceb196a22d5a5d221b69ef5e28"
+hash = "d69d4cf4afed1d26a76965056a0aaf66394f847823927b26d1196785c3782e7b"
 metafile = true
 
 [[files]]
