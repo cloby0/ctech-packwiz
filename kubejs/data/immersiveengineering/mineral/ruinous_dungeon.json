@@ -1,0 +1,48 @@
+{
+        "type": "immersiveengineering:mineral_mix",
+        "dimensions": [
+            "twilightforest:twilight_forest"
+        ],
+        "fail_chance": 0.05,
+        "ores": [
+            {
+            "chance": 0.5,
+            "output": {
+                "item": "twilightforest:armor_shard"
+            }
+            },
+            {
+            "chance": 0.3,
+            "output": {
+                "item": "twilightforest:armor_shard_cluster"
+            }
+            },
+            {
+            "chance": 0.2,
+            "output": {
+                "tag": "forge:ingots/fiery"
+            }
+            }
+        ],
+        "spoils": [
+            {
+            "chance": 0.5,
+            "output": {
+                "item": "minecraft:cracked_stone_brick"
+            }
+            },
+            {
+            "chance": 0.2,
+            "output": {
+                "item": "minecraft:cobblestone"
+            }
+            },
+            {
+            "chance": 0.3,
+            "output": {
+                "item": "minecrft:gravel"
+            }
+            }
+        ],
+        "weight": 20
+    }

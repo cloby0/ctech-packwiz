@@ -1,0 +1,45 @@
+{
+        "type": "immersiveengineering:mineral_mix",
+        "dimensions": [
+            "aether:the_aether"
+        ],
+        "fail_chance": 0.2,
+        "ores": [
+            {
+            "chance": 0.5,
+            "output": {
+                "item": "aether:zanite_ore"}
+            },
+            {
+            "chance": 0.4,
+            "output": {
+                "item": "deep_aether:skyjade_ore"}
+            },
+            {
+            "chance": 0.1,
+            "output": {
+                "item": "aether:golden_amber"}
+            }
+        ],
+        "spoils": [
+            {
+            "chance": 0.5,
+            "output": {
+                "item": "aether_redux:divinite"
+            }
+            },
+            {
+            "chance": 0.3,
+            "output": {
+                "item": "deep_aether:raw_clorite"
+            }
+            },
+            {
+            "chance": 0.2,
+            "output": {
+                "item": "aether:holystone"
+            }
+            }
+        ],
+        "weight": 6
+}

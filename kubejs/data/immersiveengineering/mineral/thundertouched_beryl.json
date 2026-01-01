@@ -1,0 +1,40 @@
+{
+        "type": "immersiveengineering:mineral_mix",
+        "dimensions": [
+            "minecraft:overworld"
+        ],
+        "fail_chance": 0.2,
+        "ores": [
+            {
+            "chance": 0.3,
+            "output": {
+                "tag": "forge:ores/emerald"}
+            },
+            {
+            "chance": 0.7,
+            "output": {
+                "tag": "forge:ores/arc_metal"}
+            }
+        ],
+        "spoils": [
+            {
+            "chance": 0.2,
+            "output": {
+                "item": "minecraft:gravel"
+            }
+            },
+            {
+            "chance": 0.5,
+            "output": {
+                "item": "minecraft:cobblestone"
+            }
+            },
+            {
+            "chance": 0.3,
+            "output": {
+                "item": "minecraft:coarse_dirt"
+            }
+            }
+        ],
+        "weight": 5
+}

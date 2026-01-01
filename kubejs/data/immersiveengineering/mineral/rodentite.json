@@ -1,0 +1,40 @@
+{
+        "type": "immersiveengineering:mineral_mix",
+        "dimensions": [
+            "rats:ratlantis"
+        ],
+        "fail_chance": 0.2,
+        "ores": [
+            {
+            "chance": 0.6,
+            "output": {
+                "tag": "forge:ores/gem_of_ratlantis"}
+            },
+            {
+            "chance": 0.4,
+            "output": {
+                "tag": "forge:ores/oratchalcum"}
+            }
+        ],
+        "spoils": [
+            {
+            "chance": 0.4,
+            "output": {
+                "item": "rats:marbled_cheese_raw"
+            }
+            },
+            {
+            "chance": 0.3,
+            "output": {
+                "item": "minecraft:dirt"
+            }
+            },
+            {
+            "chance": 0.3,
+            "output": {
+                "item": "minecraft:cobblestone"
+            }
+            }
+        ],
+        "weight": 5
+}

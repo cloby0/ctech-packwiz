@@ -1,0 +1,33 @@
+{
+        "type": "immersiveengineering:mineral_mix",
+        "dimensions": [
+            "minecraft:overworld"
+        ],
+        "fail_chance": 0.2,
+        "ores": [
+            {
+            "chance": 0.2,
+            "output": {
+                "tag": "forge:ores/azure_silver"}
+            },
+            {
+            "chance": 0.6,
+            "output": {
+                "tag": "forge:ores/voidmetal_ore"}
+            },
+            {
+            "chance": 0.2,
+            "output": {
+                "item": "minecraft:ender_pearl"}
+            }
+        ],
+        "spoils": [
+            {
+            "chance": 1.0,
+            "output": {
+                "item": "minecraft:end_stone"
+            }
+            }
+        ],
+        "weight": 5
+}

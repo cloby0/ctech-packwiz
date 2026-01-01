@@ -1,0 +1,42 @@
+{
+        "type": "immersiveengineering:mineral_mix",
+        "dimensions": [
+            "minecraft:the_nether"
+        ],
+        "fail_chance": 0.05,
+        "ores": [
+            {
+            "chance": 0.35,
+            "output": {
+                "tag": "forge:ores/crimson_iron"
+            }
+            },
+            {
+            "chance": 0.35,
+            "output": {
+                "tag": "forge:ores/solarmetal"
+            }
+            },
+            {
+            "chance": 0.3,
+            "output": {
+                "tag": "forge:dusts/sulfur"
+            }
+            }
+        ],
+        "spoils": [
+            {
+            "chance": 0.2,
+            "output": {
+                "item": "minecraft:magma_block"
+            }
+            },
+            {
+            "chance": 0.5,
+            "output": {
+                "item": "minecraft:netherrack"
+            }
+            }
+        ],
+        "weight": 20
+        }

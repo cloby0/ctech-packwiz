@@ -1,0 +1,36 @@
+{
+        "type": "immersiveengineering:mineral_mix",
+        "dimensions": [
+            "minecraft:the_nether"
+        ],
+        "fail_chance": 0.05,
+        "ores": [
+            {
+            "chance": 0.35,
+            "output": {
+                "tag": "forge:ores_in_ground/nether_quartz"
+            }
+            },
+            {
+            "chance": 0.35,
+            "output": {
+                "tag": "forge:ores/rose_quartz"
+            }
+            }
+        ],
+        "spoils": [
+            {
+            "chance": 0.2,
+            "output": {
+                "item": "minecraft:magma_block"
+            }
+            },
+            {
+            "chance": 0.5,
+            "output": {
+                "item": "minecraft:netherrack"
+            }
+            }
+        ],
+        "weight": 20
+}

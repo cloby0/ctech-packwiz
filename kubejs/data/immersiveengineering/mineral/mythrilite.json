@@ -1,0 +1,34 @@
+{
+        "type": "immersiveengineering:mineral_mix",
+        "dimensions": [
+            "aether:the_aether"
+        ],
+        "fail_chance": 0.2,
+        "ores": [
+            {
+            "chance": 0.6,
+            "output": {
+                "item": "aether:ambrosium_ore"}
+            },
+            {
+            "chance": 0.4,
+            "output": {
+                "item": "aether_redux:veridium_ore"}
+            }
+        ],
+        "spoils": [
+            {
+            "chance": 0.6,
+            "output": {
+                "item": "aether:holystone"
+            }
+            },
+            {
+            "chance": 0.4,
+            "output": {
+                "item": "aether:aether_dirt"
+            }
+            }
+        ],
+        "weight": 6
+}

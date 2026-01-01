@@ -1,0 +1,48 @@
+{
+        "type": "immersiveengineering:mineral_mix",
+        "dimensions": [
+            "twilightforest:twilight_forest"
+        ],
+        "fail_chance": 0.05,
+        "ores": [
+            {
+            "chance": 0.6,
+            "output": {
+                "item": "twilightforest:liveroot_block"
+            }
+            },
+            {
+            "chance": 0.2,
+            "output": {
+                "tag": "forge:raw_materials/ironwood"
+            }
+            },
+            {
+            "chance": 0.2,
+            "output": {
+                "item": "twilightforest:steeleaf_ingot"
+            }
+            }
+        ],
+        "spoils": [
+            {
+            "chance": 0.5,
+            "output": {
+                "item": "twilightforest:twilight_oak_log"
+            }
+            },
+            {
+            "chance": 0.2,
+            "output": {
+                "item": "minecraft:podzol"
+            }
+            },
+            {
+            "chance": 0.3,
+            "output": {
+                "item": "minecrft:rooted_dirt"
+            }
+            }
+        ],
+        "weight": 20
+    }

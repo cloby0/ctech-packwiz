@@ -1,0 +1,45 @@
+{
+        "type": "immersiveengineering:mineral_mix",
+        "dimensions": [
+            "aether:the_aether"
+        ],
+        "fail_chance": 0.2,
+        "ores": [
+            {
+            "chance": 0.5,
+            "output": {
+                "item": "aether_redux:sentrite"}
+            },
+            {
+            "chance": 0.3,
+            "output": {
+                "item": "aether:gravitite_ore"}
+            },
+            {
+            "chance": 0.2,
+            "output": {
+                "item": "aether_redux:sentry_chip"}
+            }
+        ],
+        "spoils": [
+            {
+            "chance": 0.5,
+            "output": {
+                "item": "aether:sentry_stone"
+            }
+            },
+            {
+            "chance": 0.3,
+            "output": {
+                "item": "deep_aether:cobbled_aseterite"
+            }
+            },
+            {
+            "chance": 0.2,
+            "output": {
+                "item": "aether:holystone"
+            }
+            }
+        ],
+        "weight": 6
+}
