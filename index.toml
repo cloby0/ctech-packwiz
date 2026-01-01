@@ -2797,1152 +2797,1148 @@ file = "kubejs/config/probejs.json"
 hash = "1fd4b34c4a48704490883ecd1aa20e74eda24e4cce5af47eaafee34e779dd1b6"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/ad_astra/martian_raptor.json"
+file = "kubejs/data/ctech/data_models/ad_astra/martian_raptor.json"
 hash = "3a4139fc342cb16f00e2384a0aa35f1e1f6082ebadbfc0230b0edb4456babb3c"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/ad_astra/proxima_plus/frosted_skeleton.json"
+file = "kubejs/data/ctech/data_models/ad_astra/proxima_plus/frosted_skeleton.json"
 hash = "cef5557a5503fde512f858acc5935da5d7c59333a0819a1a7b8824269dd9de47"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/ad_astra/proxima_plus/kent_fish.json"
+file = "kubejs/data/ctech/data_models/ad_astra/proxima_plus/kent_fish.json"
 hash = "bd53d3de2acc083ee52f61551fb7107760bdab22d7dc2d9ae7d5c7e746d3b732"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/ad_astra/star_crawler.json"
+file = "kubejs/data/ctech/data_models/ad_astra/star_crawler.json"
 hash = "6083c2a8bdfd97b6dd7e43eca59a88557d3775ed1777780df4727d9d665d55c3"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/abyssal_chasm/deep_one.json"
+file = "kubejs/data/ctech/data_models/alexscaves/abyssal_chasm/deep_one.json"
 hash = "a9da8dea0dc3d9d2163b09798dbb093dbc233d080bdbf043cf39bd52bcab60ab"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/abyssal_chasm/gossamer_worm.json"
+file = "kubejs/data/ctech/data_models/alexscaves/abyssal_chasm/gossamer_worm.json"
 hash = "a26f5d4df9a700a868a26c61fe1c756645dde84a633a76511e8fa09f7c17f50e"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/abyssal_chasm/hullbreaker.json"
+file = "kubejs/data/ctech/data_models/alexscaves/abyssal_chasm/hullbreaker.json"
 hash = "3acbbccdbc6955216bb4d8226c6d7686c54c76385f8438c6acd3b9a3f5a71657"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/abyssal_chasm/lanternfish.json"
+file = "kubejs/data/ctech/data_models/alexscaves/abyssal_chasm/lanternfish.json"
 hash = "c8a29ea1a0e0995e0ff50336d8d617aad33c41a1f7f3992e6c9f70b130262fe9"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/abyssal_chasm/mine_guardian.json"
+file = "kubejs/data/ctech/data_models/alexscaves/abyssal_chasm/mine_guardian.json"
 hash = "1696f825bd3c34abb4458113d506a69527fd99efd0cfdde017e77a7911b15529"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/abyssal_chasm/sea_pig.json"
+file = "kubejs/data/ctech/data_models/alexscaves/abyssal_chasm/sea_pig.json"
 hash = "3b55f10c418a2cd4da3bfdbe5d6d815f92c2e5f23d5b480c2f2295e35f00f38d"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/abyssal_chasm/tripodfish.json"
+file = "kubejs/data/ctech/data_models/alexscaves/abyssal_chasm/tripodfish.json"
 hash = "eacb78dd4329398122beeb8fe65aadf52c244fe305c808e2dd0e174f1116a67b"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/candy_cavity/caniac.json"
+file = "kubejs/data/ctech/data_models/alexscaves/candy_cavity/caniac.json"
 hash = "0940e7e8e2503ea39382465b9b9ce888702710a5dddbae70de8a5dd93c2ee72d"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/candy_cavity/caramel_cube.json"
+file = "kubejs/data/ctech/data_models/alexscaves/candy_cavity/caramel_cube.json"
 hash = "cb7223648647e5e41a776b81bc3f4afbe26527f1f79e3a3fe6651eaca16f5769"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/candy_cavity/gingerbread_man.json"
+file = "kubejs/data/ctech/data_models/alexscaves/candy_cavity/gingerbread_man.json"
 hash = "b9b2842839b95e4a755d0d6aeafd782de73a15d50d06591fed097feb34011091"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/candy_cavity/gum_worm.json"
+file = "kubejs/data/ctech/data_models/alexscaves/candy_cavity/gum_worm.json"
 hash = "341e809c12c5c3918e432d18376bc863ec82d5da7133cdeb0362829b3cc1cf6a"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/candy_cavity/gumbeeper.json"
+file = "kubejs/data/ctech/data_models/alexscaves/candy_cavity/gumbeeper.json"
 hash = "50eb050c1cfc5b712e2e1ce4effdf36f082c55f2c0cfac64c967288c9196b065"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/candy_cavity/gummy_bear.json"
+file = "kubejs/data/ctech/data_models/alexscaves/candy_cavity/gummy_bear.json"
 hash = "88e250337977addede4357011e2763ead1c5fae6251a80e446ba6ef5b7fc5ae4"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/candy_cavity/licowitch.json"
+file = "kubejs/data/ctech/data_models/alexscaves/candy_cavity/licowitch.json"
 hash = "2f2583a4629d95f84ddf75743e2482b143c07876366bde34899ed7fba75167a5"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/candy_cavity/sweetish_fish.json"
+file = "kubejs/data/ctech/data_models/alexscaves/candy_cavity/sweetish_fish.json"
 hash = "b7a36bd7988970aecabbe83f6b4c0b1ec867261e633365d4fc41fac1f6072189"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/forlorn_hollows/corrodent.json"
+file = "kubejs/data/ctech/data_models/alexscaves/forlorn_hollows/corrodent.json"
 hash = "0f7848ea3ea0da07a4a9044859840124a2980cf1ab31cc626b32beab5ad308f6"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/forlorn_hollows/forsaken.json"
+file = "kubejs/data/ctech/data_models/alexscaves/forlorn_hollows/forsaken.json"
 hash = "ce3ed14d660d81ed13d833ee3225cd703de71661b4ccd424910261d82b05345b"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/forlorn_hollows/gloomoth.json"
+file = "kubejs/data/ctech/data_models/alexscaves/forlorn_hollows/gloomoth.json"
 hash = "dca902be2ac38894a0dcc71065118c124fc057103a48ac7a8edf26043ffab88e"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/forlorn_hollows/underzealot.json"
+file = "kubejs/data/ctech/data_models/alexscaves/forlorn_hollows/underzealot.json"
 hash = "dc88323a478f486182f76a5b2bd23d0ff30aec5b86e7f64f134a03884855c9f0"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/forlorn_hollows/vesper.json"
+file = "kubejs/data/ctech/data_models/alexscaves/forlorn_hollows/vesper.json"
 hash = "d11240d4eeb423cc0c57236aa566d108ca4f9403b29b37070ae468419b882267"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/forlorn_hollows/watcher.json"
+file = "kubejs/data/ctech/data_models/alexscaves/forlorn_hollows/watcher.json"
 hash = "cd5a2482d9c764d844b02e5bd8f730189f43fcf6fa0e12b1917facc63c7b5119"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/magnetic_cave/boundroid.json"
+file = "kubejs/data/ctech/data_models/alexscaves/magnetic_cave/boundroid.json"
 hash = "99edbd534e1991d0557ada275204187c684efe4c2343ad2e7669a480a1f55361"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/magnetic_cave/ferrouslime.json"
+file = "kubejs/data/ctech/data_models/alexscaves/magnetic_cave/ferrouslime.json"
 hash = "850a69d594efe3f10becbae69156db9ba3c201dd78a5575922b6d88fdab80807"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/magnetic_cave/magnetron.json"
+file = "kubejs/data/ctech/data_models/alexscaves/magnetic_cave/magnetron.json"
 hash = "13e2b7cab6b28416242bb497f0b6cedb09aabe0206530a485e61e43dd505af17"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/magnetic_cave/notor.json"
+file = "kubejs/data/ctech/data_models/alexscaves/magnetic_cave/notor.json"
 hash = "35ea979be7f4cc0999bd739514eb5f49f85f63ce8ecd257dc02eddf1862ee92e"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/magnetic_cave/teletor.json"
+file = "kubejs/data/ctech/data_models/alexscaves/magnetic_cave/teletor.json"
 hash = "2dee4b4081facf3c535084234ad631abaedab13238e0bfa649131d546099aa65"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/primordial_grotto/atlatitan.json"
+file = "kubejs/data/ctech/data_models/alexscaves/primordial_grotto/atlatitan.json"
 hash = "3314b0010684a36ecc3f555d5a2c143c4dd8e093b29545568b2d35dbd56018a5"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/primordial_grotto/grottoceratops.json"
+file = "kubejs/data/ctech/data_models/alexscaves/primordial_grotto/grottoceratops.json"
 hash = "e26672ee1a48a1b12f3b0fd3f9926a839d9316bc0b27a16a4b9c7c8f946a5c6f"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/primordial_grotto/luxtructosaurus.json"
+file = "kubejs/data/ctech/data_models/alexscaves/primordial_grotto/luxtructosaurus.json"
 hash = "643f4e4a1ac1c278b8547a71165cbff098df0ede009601efc1f625a8b9479665"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/primordial_grotto/relicheirus.json"
+file = "kubejs/data/ctech/data_models/alexscaves/primordial_grotto/relicheirus.json"
 hash = "8a55054447c6f2523dcf602d4cac8199518d5a971a4988d6fecbb4f5fa4eb45b"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/primordial_grotto/subterranodon.json"
+file = "kubejs/data/ctech/data_models/alexscaves/primordial_grotto/subterranodon.json"
 hash = "710583a9a8e9f0b1a1557abd792dc3a830c77582ec16fab3031e140d8ed9865d"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/primordial_grotto/tremorsaurus.json"
+file = "kubejs/data/ctech/data_models/alexscaves/primordial_grotto/tremorsaurus.json"
 hash = "a002d30eaff343331fae7ffc7db123af6747513868d122aedd6e93d04c1de060"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/primordial_grotto/trilocaris.json"
+file = "kubejs/data/ctech/data_models/alexscaves/primordial_grotto/trilocaris.json"
 hash = "22f99caad06be3af9bfb11e29dfeaffe00795ba6ec40f5ab2ec0fb45acd2a965"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/primordial_grotto/vallumraptor.json"
+file = "kubejs/data/ctech/data_models/alexscaves/primordial_grotto/vallumraptor.json"
 hash = "6c76484b59498762ff7325763941060c0e290cfa1c6c9a08bf43eebbd4c2bbe6"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/toxic_dump/brainiac.json"
+file = "kubejs/data/ctech/data_models/alexscaves/toxic_dump/brainiac.json"
 hash = "d2663bef91cefb373cf5190ff957a09caaf24d2233b79aa2cd1600e2bb451794"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/toxic_dump/gammaroach.json"
+file = "kubejs/data/ctech/data_models/alexscaves/toxic_dump/gammaroach.json"
 hash = "04b53f450a3753019bd1b2bdd09eb61078bb9da4f1ea398e77ea34fd2d12bf93"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/toxic_dump/nucleeper.json"
+file = "kubejs/data/ctech/data_models/alexscaves/toxic_dump/nucleeper.json"
 hash = "5143ee6fad137749fec02741b2d84b7034c18c8060bf07381685e3f1cab46605"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/toxic_dump/radgill.json"
+file = "kubejs/data/ctech/data_models/alexscaves/toxic_dump/radgill.json"
 hash = "be2b7e0bb5f40956f2d801da4cee08d75140780516cd18502096db90cea429a0"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/toxic_dump/raycat.json"
+file = "kubejs/data/ctech/data_models/alexscaves/toxic_dump/raycat.json"
 hash = "f57787db183fdf1d57c0f39c6eab4aab11ec888924e7cd9df713ba0684ba9a99"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexscaves/toxic_dump/tremorzilla.json"
+file = "kubejs/data/ctech/data_models/alexscaves/toxic_dump/tremorzilla.json"
 hash = "eb9a3014f4b2b49ef6204899ddd94a474d674577c196edea6b3c6efbd0386928"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/bald_eagle.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/bald_eagle.json"
 hash = "e002b2ec963b2897bf80129a3fea07ba2fa9aee4e456d04e14d9bda52bd590f1"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/banana_slug.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/banana_slug.json"
 hash = "f2c6d96873a01119ea914f04eafcc16c168818b7488f733dead3aaf81f02a2f0"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/bison.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/bison.json"
 hash = "7436620676d8ee302dce4bda4712a01ce75830d86224894e41c54042d691fefd"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/blobfish.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/blobfish.json"
 hash = "2f9e9ee38ead78d0d1a59352ba871c0a4d0b4469b714d31da27e489dfdfa8fd7"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/blue_jay.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/blue_jay.json"
 hash = "ba903d8ca27ce27b1fe1f084f0951dbb922f5ccafb7fd491fccc864fd643bb8c"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/bone_serpent.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/bone_serpent.json"
 hash = "ff4137b65525a40bf890aa9b77516f797b58b585fcad31e16fb761ae57aa0dad"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/bunfungus.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/bunfungus.json"
 hash = "42eb2f2f02e4ff968579aa20defe5d6d79129ba5227dfa6b32c8fd4405ab3bdc"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/cachalot_whale.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/cachalot_whale.json"
 hash = "c4daa159a0e97da7e349ccb3a9915504107ba5c8e0bf782f06185d31aa10f58c"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/catfish.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/catfish.json"
 hash = "cf3b7e29207544e58f37fb3397806f43520169ce44f26897bf2a0d6e3f96506c"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/cave_centipede.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/cave_centipede.json"
 hash = "443a2b0369f9ee445805918a691da8a6823af04ef4319c3ad4995f6f8f814132"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/comb_jelly.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/comb_jelly.json"
 hash = "67b686f999fd674e7828f698ac734f5b6631fa1e9cf43b167e4fbddc6b8219cb"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/cosmic_cod.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/cosmic_cod.json"
 hash = "08208784a4ff7a11abe53b324daa49e077b9c2d69f05dc939e39fb425f821371"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/crimson_mosquito.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/crimson_mosquito.json"
 hash = "042d1e1c0e1e4a3d1db15007ddf613abbdeae4fab5abeaff57e9d4fe07b71b2c"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/crocodile.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/crocodile.json"
 hash = "863c4a973a83949dc933291d2a73c07e7c83867f95d7903fa6ab0d363160db1a"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/crow.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/crow.json"
 hash = "7f9d06eba51f7b46b141f46e4ecd26c326285aceab4602c18656e38cc1e3b646"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/emu.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/emu.json"
 hash = "d7bfc9406d10b375fdbc36a3089aa30b963036667fbdcc88ac1422a93d97bfeb"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/endergrade.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/endergrade.json"
 hash = "de99c1dbe3db8e47e1411cc5a86971db059200f44b1e00307a17e64b2147a4a9"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/farseer.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/farseer.json"
 hash = "a86aa1b474a0660f33ca29c4a02ade8980bd4bf7c8710281a5914f2329751527"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/fly.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/fly.json"
 hash = "411a443f8545a3cbb77e0bb33f8eb19112f3a985ccc7fc716857722f65a632f6"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/flying_fish.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/flying_fish.json"
 hash = "00e7df55cce7d48e0f5e0276f8d44963ce2dddd791157285c4a592f8dc93a301"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/froststalker.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/froststalker.json"
 hash = "e3ed57446b643b839ba4800cff1ed6a82d6200199b497b9b97316c4fcbed1f19"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/gazelle.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/gazelle.json"
 hash = "43356846f9fbc6af04d16de6844cc12867a76fcf5c6ae8235b7e16901c9012f4"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/giant_squid.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/giant_squid.json"
 hash = "2d8a7c9e2757bc4deccad0a7d79a2248699aa1ff068ce8e5613a215d9573c28c"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/grizzly_bear.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/grizzly_bear.json"
 hash = "2ce6a3811b06dfa22c1b053f6db90ffd492b9fdbc768ae4f7266eadce8688dbe"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/guster.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/guster.json"
 hash = "b895e9a13ff7e5e8625e33289c12974108114dce3ba0282be1926cc74c01297a"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/kangaroo.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/kangaroo.json"
 hash = "d83ce822bf1f7de6b89de13714152b682f780b422cbf75b5eda90d327cb85603"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/laviathan.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/laviathan.json"
 hash = "9cec98bc66872cd9903efedbf18fbefafb0eb2028babc25527307ac8b467b1fc"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/lobster.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/lobster.json"
 hash = "19cbb4ac0cb9a95679e141c1541c93812ffdca3fb35a9353c5d381eb8b650ad9"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/mimic_octopus.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/mimic_octopus.json"
 hash = "1a08a0dffeff974773202e1a5ef8e80c4f6719014c59dd969a760ed8269e8164"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/mimicube.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/mimicube.json"
 hash = "d64fbd594c734d12ee523de5593ccd3414cbd8b4cf9a8688699371331b6c1dd6"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/moose.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/moose.json"
 hash = "ef2a1f0dc9dd7a2617dd85d38dea7c032332a5ee6584b431fa756c3a20443d8c"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/mudskipper.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/mudskipper.json"
 hash = "af6e28814a019e64e0204ea696ef8bf3077b868813cededae33f08b21741d825"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/murmur.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/murmur.json"
 hash = "95755b22810e512ef983b8c6427203e0e769e975b06d0638f897b4226c828a48"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/potoo.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/potoo.json"
 hash = "bf3e4e9a4ce75f3130cefe8bf735b117b6a619a8462869326b423c0d1a3b4b35"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/raccoon.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/raccoon.json"
 hash = "e061952c591f681f7d37f3f10c62f9b2a4a0b2de8124924968f626358438a0ce"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/rattlesnake.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/rattlesnake.json"
 hash = "56b40a362beba47d48ebab1326bf523ea0cd497f9e4e476ec978604bd9dcb947"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/rocky_roller.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/rocky_roller.json"
 hash = "fcda7ecb8c07b0890325ca7125f3e25d40643c5cd3d531e55b21a54dfd7d3804"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/seagull.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/seagull.json"
 hash = "cf38da9d9e2702a94be23e54331df9bb754554a027e8bf3fdfb7307cfbf8b010"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/shoebill.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/shoebill.json"
 hash = "8bcec64baf736af281d96b329af2fc538cb17d4bf096c695454320a7cd5b85a6"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/skelewag.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/skelewag.json"
 hash = "bd5f9b7da8df728cd2bfaa18c85fb5ee35bdd87841c57142a9ec6377263d8e0b"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/skreecher.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/skreecher.json"
 hash = "b1f69f01c3a6fc7c2db85ce451698f10223efc3967545229333e6c049987cede"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/soul_vulture.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/soul_vulture.json"
 hash = "5fa17f7dc76fb845601117e37b604e4dd41e03d6a10413884a06afe66204d817"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/straddler.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/straddler.json"
 hash = "4fe11b1c337eb2a2a6de56afc8e2799d36351f12875860695ceac712316521fc"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/tarantula_hawk.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/tarantula_hawk.json"
 hash = "c9bb629118134b0cd5cb3d67bc0ebf9fa9bbf881b0fc5c4a4417512b4ffc9ec8"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/toucan.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/toucan.json"
 hash = "b03ad6972de4916198ff9fa6cafc2a0a87f51730b68311c1866c70a29f17f96c"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/tusklin.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/tusklin.json"
 hash = "c45c947c96990086a17fe1a20ce8ffdd17473c02a581cd2e9f7ae4ca503419ee"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/void_worm.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/void_worm.json"
 hash = "717328e3abcca61d13f770facd4a8dacfb70de35cec51b57e41212adfb87747d"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/alexsmobs/warped_mosco.json"
+file = "kubejs/data/ctech/data_models/alexsmobs/warped_mosco.json"
 hash = "99c621c1189f9c4ce3f346d3fa4a350c2972bacfccee0a15d27cf3b9b777d762"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/aquamirae/angler_fish.json"
+file = "kubejs/data/ctech/data_models/aquamirae/angler_fish.json"
 hash = "b3fa5c19a554dba6c242d9512d1cba436d703dead7d1c0d5d53dd4f5295efff1"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/aquamirae/captain_cornelia.json"
+file = "kubejs/data/ctech/data_models/aquamirae/captain_cornelia.json"
 hash = "70acf93b58e0969d2e3ade2533595c4b5f58762e2378cc0ceae6453ee1d4684e"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/aquamirae/eel.json"
+file = "kubejs/data/ctech/data_models/aquamirae/eel.json"
 hash = "78010fa2f828dac19bc2b70eb0f4624d1d75ae148558a83b9def928f45023bf0"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/aquamirae/golden_moth.json"
+file = "kubejs/data/ctech/data_models/aquamirae/golden_moth.json"
 hash = "b67da65d5d2ceb22c5114a471698540591e39eb841099efd26db4287000cbc22"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/aquamirae/maw.json"
+file = "kubejs/data/ctech/data_models/aquamirae/maw.json"
 hash = "46a3ff932e7998f3ba342670027cbeb99bccb2a9194004eace28846cd77f34e7"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/aquamirae/maze_mother.json"
+file = "kubejs/data/ctech/data_models/aquamirae/maze_mother.json"
 hash = "8bf1a991e887611e762ce3ec41ee9eed81bb7cfceed269ac4417dca4df8820f5"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/aquamirae/spinefish.json"
+file = "kubejs/data/ctech/data_models/aquamirae/spinefish.json"
 hash = "792030a2389c7b910fed0c6291a741929566adfbae4b185b35fc18c7e4f7a542"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/aquamirae/tortured_soul.json"
+file = "kubejs/data/ctech/data_models/aquamirae/tortured_soul.json"
 hash = "ce61d33f2dabad3452b34e650f626d0b19fafd4d3b06787bfb7d79ea9ed0b950"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/aquatic_frontiers/coral_crab.json"
+file = "kubejs/data/ctech/data_models/aquatic_frontiers/coral_crab.json"
 hash = "ab6fb8cc90cefcdb1f52189ead99d8432d7e2d3d14a4c8b915d71ab40715fac9"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/aquatic_frontiers/coral_golem.json"
+file = "kubejs/data/ctech/data_models/aquatic_frontiers/coral_golem.json"
 hash = "d1ae439341baa34cb1b042efc23ba751c0310c02ef16ad23b08d685f8de14a94"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/aquatic_frontiers/giant_squid.json"
+file = "kubejs/data/ctech/data_models/aquatic_frontiers/giant_squid.json"
 hash = "8d998cf293c32a548bf36c50ed89726b12f260714a2cee8b06520dfe6c1886a2"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/aquatic_frontiers/sandy.json"
+file = "kubejs/data/ctech/data_models/aquatic_frontiers/sandy.json"
 hash = "8d8fe1423678df74a027e2345a00b1d2041f76b69d75559abe41af8a36f2d4b8"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/aquatic_frontiers/sponge_squid.json"
+file = "kubejs/data/ctech/data_models/aquatic_frontiers/sponge_squid.json"
 hash = "28cde2393d494a26cd2fe599a6d3d7df353926cf8449a747f1399d882d84c369"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/autumnity/snail.json"
+file = "kubejs/data/ctech/data_models/autumnity/snail.json"
 hash = "8f71cdda022e08ca9c9f3ae9e761484c7dd8202f6756d485dc95983858b9bbbb"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/autumnity/turkey.json"
+file = "kubejs/data/ctech/data_models/autumnity/turkey.json"
 hash = "3b053f68d6629c07246189d878c5cb4ea8fc0370fba5fca8969cb9e6c06ce6bc"
 
 [[files]]
-file = "kubejs/data/extradatamodels/data_models/biomemakeover/decayed.json"
-hash = "549c7cf22f6fc2f2c6112e3f7e13ffe0e004bc3fe8aaebd0f17a185355aefeec"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/biomemakeover/ghost.json"
-hash = "b7b9985527d8d12ef2270504c54bff54c77ace156318e9bd3bc6d83cb43a36ad"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/biomemakeover/glowfish.json"
-hash = "5a0c0e08215098264938f121d76a3cf68d77295032f6f1ae63fd3090961a5815"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/biomemakeover/helmit_crab.json"
-hash = "8e2978c111f670b5a9c4a4bbda59fd144f18abde9b6cdfaa445d27269c51e4cc"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/biomemakeover/marauder_pillager.json"
-hash = "c525b60cbcce5cf1be876515763c571847461d65420c7273e4cfbb28e1e96d6e"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/biomemakeover/moth.json"
-hash = "a04d7fb865314441c1f81b2d4233fe40314b3d56b6f7bef28e8a4f05e05abde8"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/biomemakeover/owl.json"
-hash = "2f9e5dd2958041369d3b50198089416910da1e765e7a01fc2a5ce03a8b4daa11"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/biomemakeover/rootling.json"
-hash = "c8dd76f49f22b8ea81154c033c1f677bcbf769f002b4ee68be13a278d4d7adbd"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/biomemakeover/scuttler.json"
-hash = "a12e3276933da9adcda0ecc225a0bd442359bb7588c65e630b2e4fc2b68aae00"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/biomemakeover/stone_golem.json"
-hash = "5f576745291a62b7e4c383fb2868d670ef53c50cd11d3dd089c7a4bb7a948922"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/biomemakeover/toad.json"
-hash = "2129a1c666f29a3e82d5072a1c0e464d49e07a06223c8f8225aa77f115f66821"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/bygonenether/corpor.json"
-hash = "7271225c9881c3ba62818e0fdd4952243659b0d81bd258fb546786001bc3d239"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/bygonenether/warped_enderman.json"
-hash = "10e1ff6d0109f48c86ca9ee57561a3ac6803916d71ba25035fc1e3a2a16d9137"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/bygonenether/wither_skeleton_knight.json"
-hash = "6672dce61e465105fc33f227afc480d45c3fe6cdab1fd9c7c648ff2f939cb775"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/bygonenether/wraither.json"
-hash = "009c62bef015e4f19a385309b1c410900bc8a8dce3c34b1606f5811d169db7a0"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/conjurer/conjurer.json"
-hash = "4d83759a5956927273eb0cb33ded9a3ac5ff0a9befed637a66527e242c7ff09d"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/deep_dark_regrowth/abomination.json"
-hash = "573529567b84088e79b16e355fddbc4f6a49461bd4c7cbedb17044e195a23dff"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/deep_dark_regrowth/annihilator.json"
-hash = "d6104629dca116aea0f1e7ab4af7a53c1eb73c238256f9a0572e66f7775f6ab8"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/deep_dark_regrowth/corrupted_skeleton.json"
-hash = "1f6954364d40113a2276b8ce5add5933b9bf528bee81cc41dbd328f1b0313066"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/deep_dark_regrowth/ghost_jellyfsh.json"
-hash = "52904864b2da36ec7981e3876107ad5d8af5e32ecf3d2f200250f3f62dd453c1"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/deep_dark_regrowth/observer.json"
-hash = "70db4e7cd92eeeb0f26a14b544ed785d5b0d2f54ee445d1aeca063767891e6ba"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/deep_dark_regrowth/sculk_parasite.json"
-hash = "f0fc56bb5cee9d64121989cc8f76976d1d2e9f7cc90601dfcf5eba80516e87e4"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/deep_dark_regrowth/spreader.json"
-hash = "72b66d7c98a18f8fd35e72d7e92baf0672c992c39a538ed25875ff6db77d1705"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/deep_dark_regrowth/stalker.json"
-hash = "79f42a367d751de00f71b1330d227b9d1c21298b13effbb7157cf43d2e5f2ea3"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/deep_dark_regrowth/tentacle_lamp.json"
-hash = "62232b2a98868d50911c68b0cde9fb7f49793e5ced4c40fdb6803cdcc7dc15fc"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/ecologics/coconut_crab.json"
-hash = "d6fa74aad382ee871371f8dfc0dfbf700f105d2851ec1e50b433de5c088a4332"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/ecologics/penguin.json"
-hash = "d981a63cf2763c41821ba4577c5503683abca5bdccb6e97396a05c89a1dc3d9b"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/ecologics/squirrel.json"
-hash = "28f3ecc58f018b3ef3b12ebfbd8ff9c11b7b7267f64485ddeb54e2dc70b40be4"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/amethyst_crab.json"
-hash = "b0f3ec69be36e15b2af6ef7f512aa97ea16f39eaeadfca37792959aa5898ba7f"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/ancient_remnant.json"
-hash = "0023815e2320af6a80e383a730dc47c3e6de828fa6cbca846b73ae84fc7dab91"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/aptrgangr.json"
-hash = "58c16a0bb21a8d6861f0353095fbd4620ba70da2364e956127f16a207daddc42"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/coral_golem.json"
-hash = "530920a79d314aa49096d3bc4fbf10b0f0cb0c630693313f8918cb967c114e31"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/coralssus.json"
-hash = "6a1741e8ecbe5e59696784351e5b136742e25128eac5ebd5f04eaf3b4b7f6de6"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/draugr.json"
-hash = "16d2b1669781957a23b186a8152559b31c20dd8dabdde3f668bbac3da29e1ecd"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/elite_draugr.json"
-hash = "e02b0d1739ac9efda7b6d0208dc6ac4bb450030749be266948a6999bb9e9c865"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/endermaptera.json"
-hash = "5e722d359880dd1f02346859e9f6ed1336500333c701562076fec9850f36818e"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/ignis.json"
-hash = "ae6e56f9113f5d50c6c08631029ed3c2f493fc3a17fd7531ac8161a222278153"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/ignited_berserker.json"
-hash = "c1b66674e46557ef108f47e7dad6894ada50726b65498c441a6ab5419c7f11e1"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/ignited_revenant.json"
-hash = "c46e4cb75a9d350b31082e292529232017f67f75304f0e3e9c648378f0a168be"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/kobolediator.json"
-hash = "2e388da3a09226014ad39da8d42aa9e802113bac3b3fe972c9b7f3fb722c5677"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/koboleton.json"
-hash = "d4fad2cdc0998e9d7d9e11071aed8ba3f2c9c6f3f8acd6801413b224566917cd"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/lionfish.json"
-hash = "b4001a3f1f741ef436f8a8616384882579e5acc7f7811892f065a41cf9c3cca5"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/netherite_monstrosity.json"
-hash = "9cfc577a4bb956de9fe523050df4a20794da926cc20e4d2379facef0197f016a"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/royal_draugr.json"
-hash = "3bef206336dc96890ace457769777d43442fc2f02c1f926562e209bc987e4c7e"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/the_harbinger.json"
-hash = "5041e38e34eb4982e9f16c78d7dcf90f7559ef46eb61796c1b0a5bac7dfe42bd"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/the_prowler.json"
-hash = "2ecd552ed6f8883c70c7182a9ac98a95bf0fb850a2638ff730addad3d34a9d65"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/the_watcher.json"
-hash = "e25979da671b65b09f65afd112436aaaa1c2ce228b97d01903cad27b0048b632"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enders_cataclysm/wadjet.json"
-hash = "497ef66ad5dfac6138ada7fdbb8320c70ffc707b1b3cca1dc4c3ccd5bd5ae692"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enderzoology/concussion_creeper.json"
-hash = "a9a0bc67c47bb4769a63cb2dff5ad953058c06af366274cec2e4f79c29de501d"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enderzoology/enderminy.json"
-hash = "b88545c10958f8b98b660c64b1dd745d9d8eb155faa396048e2e6a4444f21564"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enderzoology/fallen_knight.json"
-hash = "3628a82a04f5b571532ef74fcd01fcd9ec1c4240ae8027320c92bd6cd7a3ecfd"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enderzoology/infested_zombie.json"
-hash = "be7efb0a1c74499a180429c7fff8a82e49d4d143e6723c2faff4f907759b4cc2"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enderzoology/owl.json"
-hash = "2ffd74512040b87c68aa54834f5c7684c16b341d98a9c375f9b3b42cfb239665"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enderzoology/wither_cat.json"
-hash = "00dfeb35e7849c01c3bc6f2b64fd26c6d1023952e067f8a685efdf1885036496"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/enderzoology/wither_witch.json"
-hash = "052ed4be4b486e82a7b291760be4e541075c17d0f258770d20a36414e6fa89a2"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/friendsandfoes/copper_golem.json"
-hash = "edbe4e7f4a8eb4c73ee9bf14f0cfe295d25cc3e76bef08e3fdf262ca804e20a6"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/friendsandfoes/glare.json"
-hash = "2110d9f5b34125e80b8a53bee4ffc7481261347df17cb8dc8386cc02dbb97270"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/friendsandfoes/iceologer.json"
-hash = "4423a094347f5fb6358d8a684df6dbf397d16e7aadcd2675d12d0f4a0fdad2eb"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/friendsandfoes/illusioner.json"
-hash = "52fdb7edb9606759c6d90cf1603bd483f05e021e6facac9d8a21538a17f74a52"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/friendsandfoes/tuff_golem.json"
-hash = "43cbca86babd26f206bb28954463910bad79a187d8233b9031dd143603ee6fe4"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/friendsandfoes/wildfire.json"
-hash = "8e5749a089ad02c40e4367ddce4709bf18bb95e864940e1ec62e8f7df0f58282"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/galosphere/berserker.json"
-hash = "561bbd0729a004e4d99853dc45fbd23c284241e760704c9708e105eb3e35a136"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/galosphere/preserved.json"
-hash = "94ce48fabb639d7fbb8c4e74465498a469591a29d7bfca543cde7ee3aacf8ed9"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/amphithere.json"
-hash = "ae772bce681982263c815d2e2cc9ecc357a4ccd5067313a37636a350cdc2ca0c"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/cockatrice.json"
-hash = "952a5a18fc0c03017b4ab075220831d9a21c0373718ff596d1cb1ec3e0b110a0"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/cyclops.json"
-hash = "de3424ca7248878f498e312fb8ff7104d7c53c45e1b6b043ec444bf2b862b629"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/death_worm.json"
-hash = "38bcce578f03f37a397eaa72f3b14402efd76985a433c2af77826850a1110292"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/dread_beast.json"
-hash = "7731e175b0dca5cd8d5301d0f8856ca252b1d56ebed25d7905bb45b73da90063"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/dread_ghoul.json"
-hash = "81d742147670c31a452312d831710b6fac76a4d4f9e98ffd46cb5554ec2f3e39"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/dread_knight.json"
-hash = "0e811e8e70fd499abb86d46b564120a44536e9f0299fccfba34d1b24af3f3bbb"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/dread_lich.json"
-hash = "76191cb38f518cebd6a18545633ef44c070c89878985e8b8bf60a9b71ab92464"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/dread_scuttler.json"
-hash = "324cf8bc88b38c42e7d5af4ff0acb156dc6d4e2844efc99766af29e60c891251"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/dread_thrall.json"
-hash = "73ad43acb2a97f26d0cb513c00226ca32ed06c4b61fba0555033a88d94f3eb9b"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/fire_dragon.json"
-hash = "be1800d697a04181d68b6ab84fbe3dc110ae3780ee278f4bfdd6ec65baec472d"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/ghost.json"
-hash = "3aa5af345e6741812b67586502aa0e7a1b40e4534a05a643324104163b439414"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/hippocampus.json"
-hash = "c9bd900135f0652d41aacfbd002f79433698798779cda2b23dbcdf2fcb33296a"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/hippogryph.json"
-hash = "719fd32653441da204d9fba7309fe1a3a6ae4c05d8583b9c374011a30a81048b"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/hydra.json"
-hash = "023fe937be82c20ed77dffed0ac0f2d00a9e663a1521792ab6ed4a570892b0ee"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/ice_dragon.json"
-hash = "2c0ac0b452f5fb940dd29ed718255f8d6160de24c598fbeca40a90d2806536a3"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/lightning_dragon.json"
-hash = "165512bfbc9e3e6c630b60ba83a2be4d548a8402b927fcd6755c41f4abb6b612"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/myrmex_queen.json"
-hash = "cb952c36df8a077085077a5bdb9d3633814f0386706e0bcd67c15578039bcbc1"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/myrmex_royal.json"
-hash = "87b8b7460b10bb863f5454b844e44b39e8bbe707b1449e2017c9aae02cafdd89"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/myrmex_sentinel.json"
-hash = "1cc06ec2307c1df54315a0fe1c04541007a16640ba0d7a85da124c8747f26233"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/myrmex_soldier.json"
-hash = "3ae23f599b239e101ba81339d16978b218b72775035cc05f0b425e8a7f1cd35f"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/myrmex_worker.json"
-hash = "27554016a342ed16063a88b0798bc4fae7dd52b4f2c854cecdd45dce31ee01b5"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/pixie.json"
-hash = "4ccca1176b22f98a327f6144b9fb7a80771a558e26502f1e194753f0760ea671"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/sea_serpent.json"
-hash = "ba697f428a015748e99ffb1abd52b4211b732a2774c9051c901e7ebbee364a33"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/siren.json"
-hash = "a576490d9da5e4eedbf4bc85f0fc2cf0d3405523bca8679e456a24fd822f8c91"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/stymphalian_bird.json"
-hash = "bde4086d9eaae39338ac144c7aee7977a2f458b07147960a2ee0aa0e0445f15f"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/iceandfire/troll.json"
-hash = "0679f9878cca2084fa5c14d2ce24b741e03366d682cd4e01397f97cbb2acf37a"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/irons_spellbooks/ancient_knight.json"
-hash = "27f3eac4888d97ff5a4e826c0d4393363a9dd27e5b13a6d180f3e0b81337134d"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/irons_spellbooks/apothecarist.json"
-hash = "689adfc94fa43cab4188b1254bfbf0c8ce37912ad4e8ff934bea82353408419d"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/irons_spellbooks/archevoker.json"
-hash = "606cfc8fcd9cdd84cd0fd87c61915a312d87b204730ee3e8f86a979b2e28a237"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/irons_spellbooks/cryomancer.json"
-hash = "4ec3b83ff67eaf37f69bd70df18263e6194ab6e450dae9cd178fda7917a6fcf2"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/irons_spellbooks/dead_king.json"
-hash = "75eebda74afecf87ab7f1ec404495011c03807ea51b17453032c7d4856f2fd04"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/irons_spellbooks/necromancer.json"
-hash = "60630ee54e62eab2a297ed2f4806104120f789826e074dec7afa4333ca978f5b"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/irons_spellbooks/priest.json"
-hash = "3081a8b33f307a01bac3d75151d3916a73cbe9bcf3f825b41944f1200888a222"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/irons_spellbooks/pyromancer.json"
-hash = "05e7455dd01acb04096b619cf3cd87a7fc4bb1f9cdff430b74b4f0aff856d773"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/netherexp/banshee.json"
-hash = "3fb9cd99f3aa644b8defb8acf42c992ebf0af58c8a83bcc917507bde8175fee2"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/netherexp/ecto_slab.json"
-hash = "37996e7618ef019c67f653a8fd01fd8f87840308585123685e7d409b83460d55"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/netherexp/stampede.json"
-hash = "f113552a5bd277f3111364703057a7d65b63e6aa9021dde17d73a1366e2e0a28"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/netherexp/vessel.json"
-hash = "ae45ce132a560760290a3b8f919e55433e3682cb6ca1bd0ecc6a711eed6d6fb8"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/outer_end/entombed.json"
-hash = "dcf9e79a5a5c04973b4cfc4507089a3c515b113ae62df3a79fb7d9b33ace2570"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/outer_end/himmelite.json"
-hash = "39e4bff4a75db1511e319057a86561f0d0d45d7dc83d4745a6102dca5736f377"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/outer_end/purpur_golem.json"
-hash = "68a85978d0c1cd72b55609ab73a76ffe0f873dd8491ef572c3d582235ad8050e"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/outer_end/sinker.json"
-hash = "e8929b408cc68d872014db0e8ca5b30898ea1633e586b563826c885c6fd35fa4"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/outer_end/spectrafly.json"
-hash = "6a428001a4e53e021746a5ea5c5b48695b6ed4e61db91e34eb5b1c77c3a1fd37"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/outer_end/stalker.json"
-hash = "ec9eddcdc7af5f0389764b30cc050feb9a12a125c3d32bf7002cd58b5b90cf1c"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/quark/crab.json"
-hash = "57cf24a81ba7ac099ccd7d37be140701025db312e45d3d7b066087987fa8bea4"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/quark/forgotten.json"
-hash = "c01c24d560fefc0a07402183f5965ac8fd2f2d0babe784cfef81dcc1db760c8c"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/quark/foxhound.json"
-hash = "ea50c47a942609f33f0b3e15a976d39ab5287d357824e7d5190e845ecaf9ce04"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/quark/stoneling.json"
-hash = "ffd3f9aaab1a4617f9ffd140efc90ac0e79e9103c92b888521fb8efcb39956c6"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/quark/toretoise.json"
-hash = "fc91c2d9f4b94ae986086f2b861a6b0d37c8c721359554e95ed9c682575af10e"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/quark/wraith.json"
-hash = "f79344ba6bce3baf16b5853a81ea7b02a38d02c6ccbae7ff64743f7473ac570e"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/tconstruct/ender_slime.json"
-hash = "4d4ad629239508ccafe4a832b2369d0e57516d4e9a72839df5fc602d3c7b27de"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/tconstruct/sky_slime.json"
-hash = "7e7108e85f27931f219e747d5c3e26cffcb2530b6662f1ce7f4727214f34d026"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/tconstruct/terracube.json"
-hash = "2b66769dcaf140d48cc528370f088b6f0264d420bd6f062df7e64abd0be21d9e"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/upgrade_aquatic/great_thrasher.json"
-hash = "aa0e1025769a3f540590c495a2b0350047186560b7a6244e87d58430405da0db"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/upgrade_aquatic/jellyfish.json"
-hash = "a57ddfcf9c05eab87ba57bcd1ba400ce327d3114b7654fdb36d0c4c18d95add8"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/upgrade_aquatic/lionfish.json"
-hash = "5979b6af6a5b10bc7d7b03d4f90f6534c6b7be9f825cac44ede6d5bcbbbc03dc"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/upgrade_aquatic/nautilus.json"
-hash = "3bef6c22cd41de1f7e76388ed842c35706c04038a3ed3bad3c09bca18cccd069"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/upgrade_aquatic/perch.json"
-hash = "22f4da5631eeb17c9e337e746416cb9b6c2c6fa4f7729e5db16e146c5a69b3b4"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/upgrade_aquatic/pike.json"
-hash = "6cfe77af4ec5acf375d2f95d843cd0cdf8bacc42b826afa326544a693503a7ac"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/upgrade_aquatic/thrasher.json"
-hash = "111c3133a8bbe8c8bb316fda9ddf27295bb9fff18d6085db1612fbd655cdb63f"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/whisperwoods/wisp.json"
-hash = "41453be3116d2a632e2a14268aa1e1462b1c7463bea91afb28829695af1879e8"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/yungscavebiomes/ice_cube.json"
-hash = "312dbb06e412e9bd5b9c547ef35cfc0a85fc6e29fcc759432f446e83d9e07897"
-
-[[files]]
-file = "kubejs/data/extradatamodels/data_models/yungscavebiomes/sand_snapper.json"
-hash = "b0817574d222398880e3a86e5b46a4773c796468021fdc31b2f8649cb1941b56"
-
-[[files]]
-file = "kubejs/data/farmersrespite/loot_tables/blocks/kettle.json"
-hash = "0f42828838d5a8f6f96948519c1ca24f0d15b1cc4b8a434da631d763ce77700f"
-
-[[files]]
-file = "kubejs/data/farmersrespite/worldgen/configured_feature/patch_wild_coffee_bush.json"
-hash = "cd4560994de8fb003830f5ea4dc6ee06ed757e937a945f46848e4c6e570c8c47"
-
-[[files]]
-file = "kubejs/data/farmersrespite/worldgen/placed_feature/patch_wild_coffee_bush.json"
-hash = "6b2ea2cef89102c9d8bda6f1e96eb4eb469fc93595d82d462342923a58f38f17"
-
-[[files]]
-file = "kubejs/data/farmersrespite/worldgen/placed_feature/patch_wild_tea_bush.json"
-hash = "a156d78c6365dc5568ae1ddc3fef99cf1af247f7f40e4e06e8a228ba7608e3bd"
-
-[[files]]
-file = "kubejs/data/hostilenetworks/data_models/bee.json"
+file = "kubejs/data/ctech/data_models/bee.json"
 hash = "4a3d190c0c2775d426d1e096cebfef57a0b6e28d081b23fcdbc9b64f43d06351"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/chicken.json"
+file = "kubejs/data/ctech/data_models/biomemakeover/decayed.json"
+hash = "549c7cf22f6fc2f2c6112e3f7e13ffe0e004bc3fe8aaebd0f17a185355aefeec"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/biomemakeover/ghost.json"
+hash = "b7b9985527d8d12ef2270504c54bff54c77ace156318e9bd3bc6d83cb43a36ad"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/biomemakeover/glowfish.json"
+hash = "5a0c0e08215098264938f121d76a3cf68d77295032f6f1ae63fd3090961a5815"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/biomemakeover/helmit_crab.json"
+hash = "8e2978c111f670b5a9c4a4bbda59fd144f18abde9b6cdfaa445d27269c51e4cc"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/biomemakeover/marauder_pillager.json"
+hash = "c525b60cbcce5cf1be876515763c571847461d65420c7273e4cfbb28e1e96d6e"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/biomemakeover/moth.json"
+hash = "a04d7fb865314441c1f81b2d4233fe40314b3d56b6f7bef28e8a4f05e05abde8"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/biomemakeover/owl.json"
+hash = "2f9e5dd2958041369d3b50198089416910da1e765e7a01fc2a5ce03a8b4daa11"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/biomemakeover/rootling.json"
+hash = "c8dd76f49f22b8ea81154c033c1f677bcbf769f002b4ee68be13a278d4d7adbd"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/biomemakeover/scuttler.json"
+hash = "a12e3276933da9adcda0ecc225a0bd442359bb7588c65e630b2e4fc2b68aae00"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/biomemakeover/stone_golem.json"
+hash = "5f576745291a62b7e4c383fb2868d670ef53c50cd11d3dd089c7a4bb7a948922"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/biomemakeover/toad.json"
+hash = "2129a1c666f29a3e82d5072a1c0e464d49e07a06223c8f8225aa77f115f66821"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/bygonenether/corpor.json"
+hash = "7271225c9881c3ba62818e0fdd4952243659b0d81bd258fb546786001bc3d239"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/bygonenether/warped_enderman.json"
+hash = "10e1ff6d0109f48c86ca9ee57561a3ac6803916d71ba25035fc1e3a2a16d9137"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/bygonenether/wither_skeleton_knight.json"
+hash = "6672dce61e465105fc33f227afc480d45c3fe6cdab1fd9c7c648ff2f939cb775"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/bygonenether/wraither.json"
+hash = "009c62bef015e4f19a385309b1c410900bc8a8dce3c34b1606f5811d169db7a0"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/chicken.json"
 hash = "20d92b2c6628b16f65d67ca1e005dec5811178c181373011a0d74a96368e7186"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/cod.json"
+file = "kubejs/data/ctech/data_models/cod.json"
 hash = "3e4629f3c8d9435bc8d9478a328dbd24ffa39079a24a7c8a3d08296c08a86261"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/cow.json"
+file = "kubejs/data/ctech/data_models/conjurer/conjurer.json"
+hash = "4d83759a5956927273eb0cb33ded9a3ac5ff0a9befed637a66527e242c7ff09d"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/cow.json"
 hash = "3ace2e4dd01379ac0ab60e68b0c42dfcbd41e108de5502a694d4aa8d8b6d38f2"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/elder_guardian.json"
+file = "kubejs/data/ctech/data_models/deep_dark_regrowth/abomination.json"
+hash = "573529567b84088e79b16e355fddbc4f6a49461bd4c7cbedb17044e195a23dff"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/deep_dark_regrowth/annihilator.json"
+hash = "d6104629dca116aea0f1e7ab4af7a53c1eb73c238256f9a0572e66f7775f6ab8"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/deep_dark_regrowth/corrupted_skeleton.json"
+hash = "1f6954364d40113a2276b8ce5add5933b9bf528bee81cc41dbd328f1b0313066"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/deep_dark_regrowth/ghost_jellyfsh.json"
+hash = "52904864b2da36ec7981e3876107ad5d8af5e32ecf3d2f200250f3f62dd453c1"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/deep_dark_regrowth/observer.json"
+hash = "70db4e7cd92eeeb0f26a14b544ed785d5b0d2f54ee445d1aeca063767891e6ba"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/deep_dark_regrowth/sculk_parasite.json"
+hash = "f0fc56bb5cee9d64121989cc8f76976d1d2e9f7cc90601dfcf5eba80516e87e4"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/deep_dark_regrowth/spreader.json"
+hash = "72b66d7c98a18f8fd35e72d7e92baf0672c992c39a538ed25875ff6db77d1705"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/deep_dark_regrowth/stalker.json"
+hash = "79f42a367d751de00f71b1330d227b9d1c21298b13effbb7157cf43d2e5f2ea3"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/deep_dark_regrowth/tentacle_lamp.json"
+hash = "62232b2a98868d50911c68b0cde9fb7f49793e5ced4c40fdb6803cdcc7dc15fc"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/ecologics/coconut_crab.json"
+hash = "d6fa74aad382ee871371f8dfc0dfbf700f105d2851ec1e50b433de5c088a4332"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/ecologics/penguin.json"
+hash = "d981a63cf2763c41821ba4577c5503683abca5bdccb6e97396a05c89a1dc3d9b"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/ecologics/squirrel.json"
+hash = "28f3ecc58f018b3ef3b12ebfbd8ff9c11b7b7267f64485ddeb54e2dc70b40be4"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/elder_guardian.json"
 hash = "7f973d8f1fa49d6f25d0bfd0d304e1662f6c13540aeb0acd68c044509e5a5978"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/ender_dragon.json"
+file = "kubejs/data/ctech/data_models/ender_dragon.json"
 hash = "9c7f477d0b6675d4c608a0687d4fb0b36f3a77fc8a026fe1a53d972a11c523c8"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/enderman.json"
+file = "kubejs/data/ctech/data_models/enderman.json"
 hash = "50d4c376db60779cfa6c5647cf104aeb9d8042701988db5904fc964a06cea6cd"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/evoker.json"
+file = "kubejs/data/ctech/data_models/enders_cataclysm/amethyst_crab.json"
+hash = "b0f3ec69be36e15b2af6ef7f512aa97ea16f39eaeadfca37792959aa5898ba7f"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/ancient_remnant.json"
+hash = "0023815e2320af6a80e383a730dc47c3e6de828fa6cbca846b73ae84fc7dab91"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/aptrgangr.json"
+hash = "58c16a0bb21a8d6861f0353095fbd4620ba70da2364e956127f16a207daddc42"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/coral_golem.json"
+hash = "530920a79d314aa49096d3bc4fbf10b0f0cb0c630693313f8918cb967c114e31"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/coralssus.json"
+hash = "6a1741e8ecbe5e59696784351e5b136742e25128eac5ebd5f04eaf3b4b7f6de6"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/draugr.json"
+hash = "16d2b1669781957a23b186a8152559b31c20dd8dabdde3f668bbac3da29e1ecd"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/elite_draugr.json"
+hash = "e02b0d1739ac9efda7b6d0208dc6ac4bb450030749be266948a6999bb9e9c865"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/endermaptera.json"
+hash = "5e722d359880dd1f02346859e9f6ed1336500333c701562076fec9850f36818e"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/ignis.json"
+hash = "ae6e56f9113f5d50c6c08631029ed3c2f493fc3a17fd7531ac8161a222278153"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/ignited_berserker.json"
+hash = "c1b66674e46557ef108f47e7dad6894ada50726b65498c441a6ab5419c7f11e1"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/ignited_revenant.json"
+hash = "c46e4cb75a9d350b31082e292529232017f67f75304f0e3e9c648378f0a168be"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/kobolediator.json"
+hash = "2e388da3a09226014ad39da8d42aa9e802113bac3b3fe972c9b7f3fb722c5677"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/koboleton.json"
+hash = "d4fad2cdc0998e9d7d9e11071aed8ba3f2c9c6f3f8acd6801413b224566917cd"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/lionfish.json"
+hash = "b4001a3f1f741ef436f8a8616384882579e5acc7f7811892f065a41cf9c3cca5"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/netherite_monstrosity.json"
+hash = "9cfc577a4bb956de9fe523050df4a20794da926cc20e4d2379facef0197f016a"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/royal_draugr.json"
+hash = "3bef206336dc96890ace457769777d43442fc2f02c1f926562e209bc987e4c7e"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/the_harbinger.json"
+hash = "5041e38e34eb4982e9f16c78d7dcf90f7559ef46eb61796c1b0a5bac7dfe42bd"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/the_prowler.json"
+hash = "2ecd552ed6f8883c70c7182a9ac98a95bf0fb850a2638ff730addad3d34a9d65"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/the_watcher.json"
+hash = "e25979da671b65b09f65afd112436aaaa1c2ce228b97d01903cad27b0048b632"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enders_cataclysm/wadjet.json"
+hash = "497ef66ad5dfac6138ada7fdbb8320c70ffc707b1b3cca1dc4c3ccd5bd5ae692"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enderzoology/concussion_creeper.json"
+hash = "a9a0bc67c47bb4769a63cb2dff5ad953058c06af366274cec2e4f79c29de501d"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enderzoology/enderminy.json"
+hash = "b88545c10958f8b98b660c64b1dd745d9d8eb155faa396048e2e6a4444f21564"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enderzoology/fallen_knight.json"
+hash = "3628a82a04f5b571532ef74fcd01fcd9ec1c4240ae8027320c92bd6cd7a3ecfd"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enderzoology/infested_zombie.json"
+hash = "be7efb0a1c74499a180429c7fff8a82e49d4d143e6723c2faff4f907759b4cc2"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enderzoology/owl.json"
+hash = "2ffd74512040b87c68aa54834f5c7684c16b341d98a9c375f9b3b42cfb239665"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enderzoology/wither_cat.json"
+hash = "00dfeb35e7849c01c3bc6f2b64fd26c6d1023952e067f8a685efdf1885036496"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/enderzoology/wither_witch.json"
+hash = "052ed4be4b486e82a7b291760be4e541075c17d0f258770d20a36414e6fa89a2"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/evoker.json"
 hash = "834d0660185bb286e01c13c79ac594555d9694e470fd02d494716d6c0f4d1178"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/glow_squid.json"
+file = "kubejs/data/ctech/data_models/friendsandfoes/copper_golem.json"
+hash = "edbe4e7f4a8eb4c73ee9bf14f0cfe295d25cc3e76bef08e3fdf262ca804e20a6"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/friendsandfoes/glare.json"
+hash = "2110d9f5b34125e80b8a53bee4ffc7481261347df17cb8dc8386cc02dbb97270"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/friendsandfoes/iceologer.json"
+hash = "4423a094347f5fb6358d8a684df6dbf397d16e7aadcd2675d12d0f4a0fdad2eb"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/friendsandfoes/illusioner.json"
+hash = "52fdb7edb9606759c6d90cf1603bd483f05e021e6facac9d8a21538a17f74a52"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/friendsandfoes/tuff_golem.json"
+hash = "43cbca86babd26f206bb28954463910bad79a187d8233b9031dd143603ee6fe4"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/friendsandfoes/wildfire.json"
+hash = "8e5749a089ad02c40e4367ddce4709bf18bb95e864940e1ec62e8f7df0f58282"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/galosphere/berserker.json"
+hash = "561bbd0729a004e4d99853dc45fbd23c284241e760704c9708e105eb3e35a136"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/galosphere/preserved.json"
+hash = "94ce48fabb639d7fbb8c4e74465498a469591a29d7bfca543cde7ee3aacf8ed9"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/glow_squid.json"
 hash = "b573c9c8dfdb01e618360e2fd74e56eb079ae2fdb3b372486784f23ee2900e33"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/guardian.json"
+file = "kubejs/data/ctech/data_models/guardian.json"
 hash = "69cdc9d7823230bd9377bda417f3321097f6b7015658b209bebe227b2e972799"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/hoglin.json"
+file = "kubejs/data/ctech/data_models/hoglin.json"
 hash = "83c0a14bf085e52b398164b3d082c185c3c6179f91944d642d518cb605fa75e2"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/iron_golem.json"
+file = "kubejs/data/ctech/data_models/iceandfire/amphithere.json"
+hash = "ae772bce681982263c815d2e2cc9ecc357a4ccd5067313a37636a350cdc2ca0c"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/cockatrice.json"
+hash = "952a5a18fc0c03017b4ab075220831d9a21c0373718ff596d1cb1ec3e0b110a0"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/cyclops.json"
+hash = "de3424ca7248878f498e312fb8ff7104d7c53c45e1b6b043ec444bf2b862b629"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/death_worm.json"
+hash = "38bcce578f03f37a397eaa72f3b14402efd76985a433c2af77826850a1110292"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/dread_beast.json"
+hash = "7731e175b0dca5cd8d5301d0f8856ca252b1d56ebed25d7905bb45b73da90063"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/dread_ghoul.json"
+hash = "81d742147670c31a452312d831710b6fac76a4d4f9e98ffd46cb5554ec2f3e39"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/dread_knight.json"
+hash = "0e811e8e70fd499abb86d46b564120a44536e9f0299fccfba34d1b24af3f3bbb"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/dread_lich.json"
+hash = "76191cb38f518cebd6a18545633ef44c070c89878985e8b8bf60a9b71ab92464"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/dread_scuttler.json"
+hash = "324cf8bc88b38c42e7d5af4ff0acb156dc6d4e2844efc99766af29e60c891251"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/dread_thrall.json"
+hash = "73ad43acb2a97f26d0cb513c00226ca32ed06c4b61fba0555033a88d94f3eb9b"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/fire_dragon.json"
+hash = "be1800d697a04181d68b6ab84fbe3dc110ae3780ee278f4bfdd6ec65baec472d"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/ghost.json"
+hash = "3aa5af345e6741812b67586502aa0e7a1b40e4534a05a643324104163b439414"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/hippocampus.json"
+hash = "c9bd900135f0652d41aacfbd002f79433698798779cda2b23dbcdf2fcb33296a"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/hippogryph.json"
+hash = "719fd32653441da204d9fba7309fe1a3a6ae4c05d8583b9c374011a30a81048b"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/hydra.json"
+hash = "023fe937be82c20ed77dffed0ac0f2d00a9e663a1521792ab6ed4a570892b0ee"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/ice_dragon.json"
+hash = "2c0ac0b452f5fb940dd29ed718255f8d6160de24c598fbeca40a90d2806536a3"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/lightning_dragon.json"
+hash = "165512bfbc9e3e6c630b60ba83a2be4d548a8402b927fcd6755c41f4abb6b612"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/myrmex_queen.json"
+hash = "cb952c36df8a077085077a5bdb9d3633814f0386706e0bcd67c15578039bcbc1"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/myrmex_royal.json"
+hash = "87b8b7460b10bb863f5454b844e44b39e8bbe707b1449e2017c9aae02cafdd89"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/myrmex_sentinel.json"
+hash = "1cc06ec2307c1df54315a0fe1c04541007a16640ba0d7a85da124c8747f26233"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/myrmex_soldier.json"
+hash = "3ae23f599b239e101ba81339d16978b218b72775035cc05f0b425e8a7f1cd35f"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/myrmex_worker.json"
+hash = "27554016a342ed16063a88b0798bc4fae7dd52b4f2c854cecdd45dce31ee01b5"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/pixie.json"
+hash = "4ccca1176b22f98a327f6144b9fb7a80771a558e26502f1e194753f0760ea671"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/sea_serpent.json"
+hash = "ba697f428a015748e99ffb1abd52b4211b732a2774c9051c901e7ebbee364a33"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/siren.json"
+hash = "a576490d9da5e4eedbf4bc85f0fc2cf0d3405523bca8679e456a24fd822f8c91"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/stymphalian_bird.json"
+hash = "bde4086d9eaae39338ac144c7aee7977a2f458b07147960a2ee0aa0e0445f15f"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iceandfire/troll.json"
+hash = "0679f9878cca2084fa5c14d2ce24b741e03366d682cd4e01397f97cbb2acf37a"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/iron_golem.json"
 hash = "d307ace2cd3186469ec6dd7731508dfc1cec03c456c03e06ba1c2128b513508a"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/llama.json"
+file = "kubejs/data/ctech/data_models/irons_spellbooks/ancient_knight.json"
+hash = "27f3eac4888d97ff5a4e826c0d4393363a9dd27e5b13a6d180f3e0b81337134d"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/irons_spellbooks/apothecarist.json"
+hash = "689adfc94fa43cab4188b1254bfbf0c8ce37912ad4e8ff934bea82353408419d"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/irons_spellbooks/archevoker.json"
+hash = "606cfc8fcd9cdd84cd0fd87c61915a312d87b204730ee3e8f86a979b2e28a237"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/irons_spellbooks/cryomancer.json"
+hash = "4ec3b83ff67eaf37f69bd70df18263e6194ab6e450dae9cd178fda7917a6fcf2"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/irons_spellbooks/dead_king.json"
+hash = "75eebda74afecf87ab7f1ec404495011c03807ea51b17453032c7d4856f2fd04"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/irons_spellbooks/necromancer.json"
+hash = "60630ee54e62eab2a297ed2f4806104120f789826e074dec7afa4333ca978f5b"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/irons_spellbooks/priest.json"
+hash = "3081a8b33f307a01bac3d75151d3916a73cbe9bcf3f825b41944f1200888a222"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/irons_spellbooks/pyromancer.json"
+hash = "05e7455dd01acb04096b619cf3cd87a7fc4bb1f9cdff430b74b4f0aff856d773"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/llama.json"
 hash = "5f9712d24c8896420d06f646504def5c567bcdee7e59d33bd8971530a9fc6ec1"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/phantom.json"
+file = "kubejs/data/ctech/data_models/netherexp/banshee.json"
+hash = "3fb9cd99f3aa644b8defb8acf42c992ebf0af58c8a83bcc917507bde8175fee2"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/netherexp/ecto_slab.json"
+hash = "37996e7618ef019c67f653a8fd01fd8f87840308585123685e7d409b83460d55"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/netherexp/stampede.json"
+hash = "f113552a5bd277f3111364703057a7d65b63e6aa9021dde17d73a1366e2e0a28"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/netherexp/vessel.json"
+hash = "ae45ce132a560760290a3b8f919e55433e3682cb6ca1bd0ecc6a711eed6d6fb8"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/outer_end/entombed.json"
+hash = "dcf9e79a5a5c04973b4cfc4507089a3c515b113ae62df3a79fb7d9b33ace2570"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/outer_end/himmelite.json"
+hash = "39e4bff4a75db1511e319057a86561f0d0d45d7dc83d4745a6102dca5736f377"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/outer_end/purpur_golem.json"
+hash = "68a85978d0c1cd72b55609ab73a76ffe0f873dd8491ef572c3d582235ad8050e"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/outer_end/sinker.json"
+hash = "e8929b408cc68d872014db0e8ca5b30898ea1633e586b563826c885c6fd35fa4"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/outer_end/spectrafly.json"
+hash = "6a428001a4e53e021746a5ea5c5b48695b6ed4e61db91e34eb5b1c77c3a1fd37"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/outer_end/stalker.json"
+hash = "ec9eddcdc7af5f0389764b30cc050feb9a12a125c3d32bf7002cd58b5b90cf1c"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/phantom.json"
 hash = "867a0f494a428ce0bbfe1a409118f9b1bfc2e1ff092cc73c66b76e988ff66aad"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/pig.json"
+file = "kubejs/data/ctech/data_models/pig.json"
 hash = "d68cb7c0ba1a0994878bf4870a40463aab3823a23ae6405e4e4ab487a8b30ca7"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/pillager.json"
+file = "kubejs/data/ctech/data_models/pillager.json"
 hash = "7e6051b950690e68fe96e8d7f437b79c667609ae083db57497cc93f3568c670f"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/pufferfish.json"
+file = "kubejs/data/ctech/data_models/pufferfish.json"
 hash = "75850adde768b1c8a60e2a1f0c8cf688d8c0fe6e77c976ca03832353cd0a8482"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/ravager.json"
+file = "kubejs/data/ctech/data_models/quark/crab.json"
+hash = "57cf24a81ba7ac099ccd7d37be140701025db312e45d3d7b066087987fa8bea4"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/quark/forgotten.json"
+hash = "c01c24d560fefc0a07402183f5965ac8fd2f2d0babe784cfef81dcc1db760c8c"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/quark/foxhound.json"
+hash = "ea50c47a942609f33f0b3e15a976d39ab5287d357824e7d5190e845ecaf9ce04"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/quark/stoneling.json"
+hash = "ffd3f9aaab1a4617f9ffd140efc90ac0e79e9103c92b888521fb8efcb39956c6"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/quark/toretoise.json"
+hash = "fc91c2d9f4b94ae986086f2b861a6b0d37c8c721359554e95ed9c682575af10e"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/quark/wraith.json"
+hash = "f79344ba6bce3baf16b5853a81ea7b02a38d02c6ccbae7ff64743f7473ac570e"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/ravager.json"
 hash = "f8797bf473192ec8c5073a356c694c50900fd76716c16995eb85f8d72eb53d1a"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/salmon.json"
+file = "kubejs/data/ctech/data_models/salmon.json"
 hash = "0f168644b55bf225dad6177dafaa210f5cb1891fcc1628b7dcfc65176d1b3bc0"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/sheep.json"
+file = "kubejs/data/ctech/data_models/sheep.json"
 hash = "3b2e300f46ec92d84bfc0e8c061ef80b9ba6f4e38497f1d12430fd59f798452f"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/skeleton.json"
+file = "kubejs/data/ctech/data_models/skeleton.json"
 hash = "fdd676d5238ae7e58ba2b4b904f7db98f546bd46b11dbc3c887fa89d1a929b43"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/skeleton_horse.json"
+file = "kubejs/data/ctech/data_models/skeleton_horse.json"
 hash = "80b3755a613e5bb8e08ba74359dbd18f11578fb0b78253c522870b81e1a2a28e"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/slime.json"
+file = "kubejs/data/ctech/data_models/slime.json"
 hash = "43f4ef5776fcb1d8375ec93ec990a5b01302da085c87dc05fb3645c7a3caef6f"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/tropical_fish.json"
+file = "kubejs/data/ctech/data_models/tconstruct/ender_slime.json"
+hash = "4d4ad629239508ccafe4a832b2369d0e57516d4e9a72839df5fc602d3c7b27de"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/tconstruct/sky_slime.json"
+hash = "7e7108e85f27931f219e747d5c3e26cffcb2530b6662f1ce7f4727214f34d026"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/tconstruct/terracube.json"
+hash = "2b66769dcaf140d48cc528370f088b6f0264d420bd6f062df7e64abd0be21d9e"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/tropical_fish.json"
 hash = "bd029caec6f7e74a29c4461387897f9f86fbce944613e31cfce83f5ba15de929"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/turtle.json"
+file = "kubejs/data/ctech/data_models/turtle.json"
 hash = "e03d8097948f4065e3d9a099277060e7861f571a1b98df25674f83a075741090"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/snow_queen.json"
+file = "kubejs/data/ctech/data_models/twilightforest/snow_queen.json"
 hash = "0b21dfa913e91c960c25e89b9a7881304d0ebdd68870c15907d8e1ce94a7daed"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/twilightforest/stable_ice_core.json"
+file = "kubejs/data/ctech/data_models/twilightforest/stable_ice_core.json"
 hash = "12d17ba5520f98c70184c9d7709522a4dca2115c4e3c4a8dc09906284eff6f2b"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/vindicator.json"
+file = "kubejs/data/ctech/data_models/upgrade_aquatic/great_thrasher.json"
+hash = "aa0e1025769a3f540590c495a2b0350047186560b7a6244e87d58430405da0db"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/upgrade_aquatic/jellyfish.json"
+hash = "a57ddfcf9c05eab87ba57bcd1ba400ce327d3114b7654fdb36d0c4c18d95add8"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/upgrade_aquatic/lionfish.json"
+hash = "5979b6af6a5b10bc7d7b03d4f90f6534c6b7be9f825cac44ede6d5bcbbbc03dc"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/upgrade_aquatic/nautilus.json"
+hash = "3bef6c22cd41de1f7e76388ed842c35706c04038a3ed3bad3c09bca18cccd069"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/upgrade_aquatic/perch.json"
+hash = "22f4da5631eeb17c9e337e746416cb9b6c2c6fa4f7729e5db16e146c5a69b3b4"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/upgrade_aquatic/pike.json"
+hash = "6cfe77af4ec5acf375d2f95d843cd0cdf8bacc42b826afa326544a693503a7ac"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/upgrade_aquatic/thrasher.json"
+hash = "111c3133a8bbe8c8bb316fda9ddf27295bb9fff18d6085db1612fbd655cdb63f"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/vindicator.json"
 hash = "8ae732aa87917937439e07ef9431d267c2d6bc0c328db3f5ce719db2a3410e01"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/wither.json"
+file = "kubejs/data/ctech/data_models/whisperwoods/wisp.json"
+hash = "41453be3116d2a632e2a14268aa1e1462b1c7463bea91afb28829695af1879e8"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/wither.json"
 hash = "5d9b3cf9474645c3de8e0baa61e04005a5e2955a6e19c215c4bdd59cbc72121b"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/wither_skeleton.json"
+file = "kubejs/data/ctech/data_models/wither_skeleton.json"
 hash = "8d6c5e01ba409e3571336fc5d6ad267c30c1444617bd8895766a4af3bc350b59"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/zombie.json"
+file = "kubejs/data/ctech/data_models/yungscavebiomes/ice_cube.json"
+hash = "312dbb06e412e9bd5b9c547ef35cfc0a85fc6e29fcc759432f446e83d9e07897"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/yungscavebiomes/sand_snapper.json"
+hash = "b0817574d222398880e3a86e5b46a4773c796468021fdc31b2f8649cb1941b56"
+
+[[files]]
+file = "kubejs/data/ctech/data_models/zombie.json"
 hash = "879ff881853fd3473e0ac206e9d8de8ac7c625ce69ecf8b40b9de193dbf08d93"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/zombie_horse.json"
+file = "kubejs/data/ctech/data_models/zombie_horse.json"
 hash = "68797497c752f075b3f07788cf9b33dd88b3ddcb9f43157ff10381ced9dbd090"
 
 [[files]]
-file = "kubejs/data/hostilenetworks/data_models/zombified_piglin.json"
+file = "kubejs/data/ctech/data_models/zombified_piglin.json"
 hash = "55a21cf1cc3bb3e2225c089eebe5ea7e4776d7bd26b5b55060f7eb3879bc52c4"
 
 [[files]]
-file = "kubejs/data/immersiveengineering/mineral/archaic_roots.json"
-hash = "500fc675c3615f2d3ef1ef25f53082add63343dc8811c6365f744f6ae29bd262"
+file = "kubejs/data/ctech/loot_tables/blocks/kettle.json"
+hash = "0f42828838d5a8f6f96948519c1ca24f0d15b1cc4b8a434da631d763ce77700f"
 
 [[files]]
-file = "kubejs/data/immersiveengineering/mineral/ender_chlorargyrite.json"
-hash = "8a902dbe034859461d5a60fd62a6f624cd046cd683d8705e8962ad126c51e9eb"
-
-[[files]]
-file = "kubejs/data/immersiveengineering/mineral/hallowed_geode.json"
-hash = "445967da0d857a11696b6465d3dda0ccf3debdae34940946db0142b661101a31"
-
-[[files]]
-file = "kubejs/data/immersiveengineering/mineral/helical_hematite.json"
-hash = "c5c3acefdf175b89011352a24645f3e5cf3de96ec5c28ed28e1aaf4cec4eec87"
-
-[[files]]
-file = "kubejs/data/immersiveengineering/mineral/infernal_quartzite.json"
-hash = "b19ac4a7e18c3f2d106c97853ef90131584efd471a7c3124ddbcd9c16f5558a9"
-
-[[files]]
-file = "kubejs/data/immersiveengineering/mineral/mythrilite.json"
-hash = "218dd9748a21bb371c59783ce48759f2f255160a2abecb03969c9bcd556e9136"
-
-[[files]]
-file = "kubejs/data/immersiveengineering/mineral/rodentite.json"
-hash = "bbd153a6e725bef5259259d182bbe8945ebd055be7aab6f21d5cdad80e8397fc"
-
-[[files]]
-file = "kubejs/data/immersiveengineering/mineral/ruinous_dungeon.json"
-hash = "132731f14e0c6a960daa46f255c51bbf24e15cd83bf6c3c578264e5e10b3db03"
-
-[[files]]
-file = "kubejs/data/immersiveengineering/mineral/sentry_nest.json"
-hash = "5c65110fd52dc6783ba03540c28155d95c80586b1e7337c1016cd74278766932"
-
-[[files]]
-file = "kubejs/data/immersiveengineering/mineral/thundertouched_beryl.json"
-hash = "b99d6d69e91518a3943840765e3e6b5504e60ea2ec080d810360bdc35a42c0d6"
-
-[[files]]
-file = "kubejs/data/minecraft/loot_tables/gameplay/piglin_bartering.json"
+file = "kubejs/data/ctech/loot_tables/gameplay/piglin_bartering.json"
 hash = "a0d4357625a47f05097dc67d8fac7462e1d0c0ce853c9cb2d3b222ef130fdbed"
 
 [[files]]
-file = "kubejs/data/pneumaticcraft/tags/worldgen/biome/has_surface_oil_lakes.json"
-hash = "149dc642fbdb1f6e1a0bc7bdf23c92cd228d9d75f1b428bba555b65074a06967"
+file = "kubejs/data/ctech/mineral/archaic_roots.json"
+hash = "500fc675c3615f2d3ef1ef25f53082add63343dc8811c6365f744f6ae29bd262"
 
 [[files]]
-file = "kubejs/data/pneumaticcraft/tags/worldgen/biome/has_underground_oil_lakes.json"
-hash = "149dc642fbdb1f6e1a0bc7bdf23c92cd228d9d75f1b428bba555b65074a06967"
+file = "kubejs/data/ctech/mineral/ender_chlorargyrite.json"
+hash = "8a902dbe034859461d5a60fd62a6f624cd046cd683d8705e8962ad126c51e9eb"
 
 [[files]]
-file = "kubejs/data/silentcompat/silentgear_materials/cumium_ingot.json"
+file = "kubejs/data/ctech/mineral/hallowed_geode.json"
+hash = "445967da0d857a11696b6465d3dda0ccf3debdae34940946db0142b661101a31"
+
+[[files]]
+file = "kubejs/data/ctech/mineral/helical_hematite.json"
+hash = "c5c3acefdf175b89011352a24645f3e5cf3de96ec5c28ed28e1aaf4cec4eec87"
+
+[[files]]
+file = "kubejs/data/ctech/mineral/infernal_quartzite.json"
+hash = "b19ac4a7e18c3f2d106c97853ef90131584efd471a7c3124ddbcd9c16f5558a9"
+
+[[files]]
+file = "kubejs/data/ctech/mineral/mythrilite.json"
+hash = "218dd9748a21bb371c59783ce48759f2f255160a2abecb03969c9bcd556e9136"
+
+[[files]]
+file = "kubejs/data/ctech/mineral/rodentite.json"
+hash = "bbd153a6e725bef5259259d182bbe8945ebd055be7aab6f21d5cdad80e8397fc"
+
+[[files]]
+file = "kubejs/data/ctech/mineral/ruinous_dungeon.json"
+hash = "132731f14e0c6a960daa46f255c51bbf24e15cd83bf6c3c578264e5e10b3db03"
+
+[[files]]
+file = "kubejs/data/ctech/mineral/sentry_nest.json"
+hash = "5c65110fd52dc6783ba03540c28155d95c80586b1e7337c1016cd74278766932"
+
+[[files]]
+file = "kubejs/data/ctech/mineral/thundertouched_beryl.json"
+hash = "b99d6d69e91518a3943840765e3e6b5504e60ea2ec080d810360bdc35a42c0d6"
+
+[[files]]
+file = "kubejs/data/ctech/silentgear_materials/cumium_ingot.json"
 hash = "c4b50366001ee793889744d6a498afc78614e45c347b0ebee5ba303d02c09c03"
 
 [[files]]
-file = "kubejs/data/supplementaries/worldgen/configured_feature/basalt_ash.json"
+file = "kubejs/data/ctech/tags/worldgen/biome/has_surface_oil_lakes.json"
+hash = "149dc642fbdb1f6e1a0bc7bdf23c92cd228d9d75f1b428bba555b65074a06967"
+
+[[files]]
+file = "kubejs/data/ctech/tags/worldgen/biome/has_underground_oil_lakes.json"
+hash = "149dc642fbdb1f6e1a0bc7bdf23c92cd228d9d75f1b428bba555b65074a06967"
+
+[[files]]
+file = "kubejs/data/ctech/worldgen/configured_feature/patch_wild_coffee_bush.json"
+hash = "cd4560994de8fb003830f5ea4dc6ee06ed757e937a945f46848e4c6e570c8c47"
+
+[[files]]
+file = "kubejs/data/ctech/worldgen/placed_feature/basalt_ash.json"
 hash = "2fa17f08c132261aeecf3fb793eb5a9fd00e1b69e056d5b24281477154c845bd"
 
 [[files]]
-file = "kubejs/data/supplementaries/worldgen/placed_feature/basalt_ash.json"
-hash = "36ee9a45910ba5f526baea172d6c27882a8e6f84f4427bd326b84b32012cc3e3"
+file = "kubejs/data/ctech/worldgen/placed_feature/patch_wild_coffee_bush.json"
+hash = "6b2ea2cef89102c9d8bda6f1e96eb4eb469fc93595d82d462342923a58f38f17"
+
+[[files]]
+file = "kubejs/data/ctech/worldgen/placed_feature/patch_wild_tea_bush.json"
+hash = "a156d78c6365dc5568ae1ddc3fef99cf1af247f7f40e4e06e8a228ba7608e3bd"
 
 [[files]]
 file = "kubejs/jsconfig.json"
