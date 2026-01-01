@@ -3925,10 +3925,6 @@ file = "kubejs/data/ctech/tags/worldgen/biome/has_underground_oil_lakes.json"
 hash = "149dc642fbdb1f6e1a0bc7bdf23c92cd228d9d75f1b428bba555b65074a06967"
 
 [[files]]
-file = "kubejs/data/ctech/worldgen/configured_feature/basalt_ash.json"
-hash = "2fa17f08c132261aeecf3fb793eb5a9fd00e1b69e056d5b24281477154c845bd"
-
-[[files]]
 file = "kubejs/data/ctech/worldgen/configured_feature/patch_wild_coffee_bush.json"
 hash = "cd4560994de8fb003830f5ea4dc6ee06ed757e937a945f46848e4c6e570c8c47"
 
