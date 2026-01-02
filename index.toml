@@ -5222,11 +5222,6 @@ hash = "6439c6f409308c4a89a12708b54cef41aa5382dc78e6f352b3e8005e96a21a8e"
 metafile = true
 
 [[files]]
-file = "mods/immersive-optimization.pw.toml"
-hash = "ed4a5d39c2cb8a41d49f7e118ceb43a04f7984d6cbd706389b7d736c507bf00a"
-metafile = true
-
-[[files]]
 file = "mods/immersive-ui.pw.toml"
 hash = "2caf631ee176d7d1134a654b8d1512fb37d7e789519925793b2e5c1428b318f7"
 metafile = true
