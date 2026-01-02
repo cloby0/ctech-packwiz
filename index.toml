@@ -3873,43 +3873,43 @@ file = "kubejs/data/ctech/loot_tables/gameplay/piglin_bartering.json"
 hash = "a0d4357625a47f05097dc67d8fac7462e1d0c0ce853c9cb2d3b222ef130fdbed"
 
 [[files]]
-file = "kubejs/data/ctech/mineral/archaic_roots.json"
+file = "kubejs/data/ctech/recipes/mineral/archaic_roots.json"
 hash = "500fc675c3615f2d3ef1ef25f53082add63343dc8811c6365f744f6ae29bd262"
 
 [[files]]
-file = "kubejs/data/ctech/mineral/ender_chlorargyrite.json"
+file = "kubejs/data/ctech/recipes/mineral/ender_chlorargyrite.json"
 hash = "8a902dbe034859461d5a60fd62a6f624cd046cd683d8705e8962ad126c51e9eb"
 
 [[files]]
-file = "kubejs/data/ctech/mineral/hallowed_geode.json"
+file = "kubejs/data/ctech/recipes/mineral/hallowed_geode.json"
 hash = "445967da0d857a11696b6465d3dda0ccf3debdae34940946db0142b661101a31"
 
 [[files]]
-file = "kubejs/data/ctech/mineral/helical_hematite.json"
+file = "kubejs/data/ctech/recipes/mineral/helical_hematite.json"
 hash = "c5c3acefdf175b89011352a24645f3e5cf3de96ec5c28ed28e1aaf4cec4eec87"
 
 [[files]]
-file = "kubejs/data/ctech/mineral/infernal_quartzite.json"
+file = "kubejs/data/ctech/recipes/mineral/infernal_quartzite.json"
 hash = "b19ac4a7e18c3f2d106c97853ef90131584efd471a7c3124ddbcd9c16f5558a9"
 
 [[files]]
-file = "kubejs/data/ctech/mineral/mythrilite.json"
+file = "kubejs/data/ctech/recipes/mineral/mythrilite.json"
 hash = "218dd9748a21bb371c59783ce48759f2f255160a2abecb03969c9bcd556e9136"
 
 [[files]]
-file = "kubejs/data/ctech/mineral/rodentite.json"
+file = "kubejs/data/ctech/recipes/mineral/rodentite.json"
 hash = "bbd153a6e725bef5259259d182bbe8945ebd055be7aab6f21d5cdad80e8397fc"
 
 [[files]]
-file = "kubejs/data/ctech/mineral/ruinous_dungeon.json"
+file = "kubejs/data/ctech/recipes/mineral/ruinous_dungeon.json"
 hash = "132731f14e0c6a960daa46f255c51bbf24e15cd83bf6c3c578264e5e10b3db03"
 
 [[files]]
-file = "kubejs/data/ctech/mineral/sentry_nest.json"
+file = "kubejs/data/ctech/recipes/mineral/sentry_nest.json"
 hash = "5c65110fd52dc6783ba03540c28155d95c80586b1e7337c1016cd74278766932"
 
 [[files]]
-file = "kubejs/data/ctech/mineral/thundertouched_beryl.json"
+file = "kubejs/data/ctech/recipes/mineral/thundertouched_beryl.json"
 hash = "b99d6d69e91518a3943840765e3e6b5504e60ea2ec080d810360bdc35a42c0d6"
 
 [[files]]
