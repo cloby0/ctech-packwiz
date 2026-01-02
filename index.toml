@@ -3902,7 +3902,7 @@ hash = "bbd153a6e725bef5259259d182bbe8945ebd055be7aab6f21d5cdad80e8397fc"
 
 [[files]]
 file = "kubejs/data/ctech/recipes/mineral/ruinous_dungeon.json"
-hash = "132731f14e0c6a960daa46f255c51bbf24e15cd83bf6c3c578264e5e10b3db03"
+hash = "7ebf28161aabee23d7287aed5661d86b4d72083a03b260fecb1169e30df43c91"
 
 [[files]]
 file = "kubejs/data/ctech/recipes/mineral/sentry_nest.json"

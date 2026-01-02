@@ -28,7 +28,7 @@
             {
             "chance": 0.5,
             "output": {
-                "item": "minecraft:cracked_stone_brick"
+                "item": "minecraft:cracked_stone_bricks"
             }
             },
             {
