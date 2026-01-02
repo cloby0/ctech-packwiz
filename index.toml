@@ -3874,7 +3874,7 @@ hash = "a0d4357625a47f05097dc67d8fac7462e1d0c0ce853c9cb2d3b222ef130fdbed"
 
 [[files]]
 file = "kubejs/data/ctech/recipes/mineral/archaic_roots.json"
-hash = "500fc675c3615f2d3ef1ef25f53082add63343dc8811c6365f744f6ae29bd262"
+hash = "fa082351dc96a691c8216ef32e82ff64be731db61e40f1d4b847654400a52d0e"
 
 [[files]]
 file = "kubejs/data/ctech/recipes/mineral/ender_chlorargyrite.json"
