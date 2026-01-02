@@ -5555,6 +5555,16 @@ hash = "87a18dd02891925f6405d50db118ca55487cd58bc428b9f655342b9d9396af3f"
 metafile = true
 
 [[files]]
+file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
+hash = "140d4ada26eb1f4198a97274b0b24d214356f63e3d331fbd40976e55feaf0a5c"
+metafile = true
+
+[[files]]
+file = "mods/more-red.pw.toml"
+hash = "bb8dd1fa0f1ee88f8f947a2ab2101c414cb2808dac81c21ac66c8ad32cdfec29"
+metafile = true
+
+[[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "ca8acf37c54ea6cb9241fc4aa1b9465d25a6dde291e9919d72c50da2f8793498"
 metafile = true
@@ -5827,6 +5837,11 @@ metafile = true
 [[files]]
 file = "mods/recipes-library.pw.toml"
 hash = "652abe9780694aacade5cd54711cd25228f7e2f7656e98207a14ce5c639270c7"
+metafile = true
+
+[[files]]
+file = "mods/redstone-pen.pw.toml"
+hash = "52e3e90b2af5df1504ac22354c28b67555b185384963465abc0c79605e5180e7"
 metafile = true
 
 [[files]]
