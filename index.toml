@@ -4485,6 +4485,16 @@ hash = "ca652d606992cb9276a8720c74d89b511886ffb64a7bb92aab3c28da3da82381"
 metafile = true
 
 [[files]]
+file = "mods/cbc-chemical-warfare.pw.toml"
+hash = "f98f7272b27b858dbee53d9181ec614d2ccb062ccbf0283cd6fec31b46cdec40"
+metafile = true
+
+[[files]]
+file = "mods/cbc-modern-warfare.pw.toml"
+hash = "24ef339d819c9d4dec14ce7aeb7b1478bf17cb742bf1fbe1114592932e588af9"
+metafile = true
+
+[[files]]
 file = "mods/cc-link.pw.toml"
 hash = "d9ee2811355edc39ec1cedb7b1967f1aeb83670e0267161ddffecd948eb3124c"
 metafile = true
@@ -4681,6 +4691,11 @@ metafile = true
 [[files]]
 file = "mods/crazy-ae2-addons.pw.toml"
 hash = "558b138d8145a442e794593d4acbe5275098de1a7f518a5eea2afa3627e3111d"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons-advanced-technologies.pw.toml"
+hash = "2d2e70a21ec14cb19a86d71923a54881fd48d428c92df231f82afc2bca0d9b47"
 metafile = true
 
 [[files]]
@@ -5518,6 +5533,11 @@ metafile = true
 [[files]]
 file = "mods/merequester.pw.toml"
 hash = "2e1e73a8c4cc02b3bff1084940a6c0a7156c8925d881f8d98fb0495e050c65d1"
+metafile = true
+
+[[files]]
+file = "mods/mffs.pw.toml"
+hash = "146adcc3afd2f22ce375c7cff8706fca865df190462a5cb61d1335b895c64058"
 metafile = true
 
 [[files]]
