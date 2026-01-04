@@ -4699,11 +4699,6 @@ hash = "967c38265800a8b2353debf37ab919204a1f89e4a57e2e603b7a7de1d68c8956"
 metafile = true
 
 [[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "5e02a73f787d876c971bd4dc34848ed0fb4c87b4ac0c49cbeda9abdc76fa48cf"
-metafile = true
-
-[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "834517e20257dd0b64f4a6d778ad773d8e422cf7864b46a557e2fab26d153ad0"
 metafile = true
@@ -4777,6 +4772,10 @@ metafile = true
 file = "mods/createaddoncompatibility.pw.toml"
 hash = "405ff79c6621a967dd641150b7cd5f10b33a0d646b976176f5d3b85f0731e61b"
 metafile = true
+
+[[files]]
+file = "mods/createpropulsion-0.3.0.jar"
+hash = "6e697ec686048f41230bdd4ff318214eb52cedac5ca3e3fd24b1402ccc147398"
 
 [[files]]
 file = "mods/creativecore.pw.toml"
