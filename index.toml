@@ -5123,11 +5123,6 @@ hash = "88f142bda6bfa6aff4f4d4e12b8ba7581aa40e3f163039a533f09dd6d634e093"
 metafile = true
 
 [[files]]
-file = "mods/gems-realm.pw.toml"
-hash = "4f750f07377f4ad11ca11ae47cda89fffe73d5280a52f5d4927176dd0a89f634"
-metafile = true
-
-[[files]]
 file = "mods/geophilic-reforged.pw.toml"
 hash = "0d8771d0278f5c9e8a8cce7497107b96495fe8bfd59ed958949ac12215c22647"
 metafile = true
