@@ -5555,11 +5555,6 @@ hash = "87a18dd02891925f6405d50db118ca55487cd58bc428b9f655342b9d9396af3f"
 metafile = true
 
 [[files]]
-file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
-hash = "140d4ada26eb1f4198a97274b0b24d214356f63e3d331fbd40976e55feaf0a5c"
-metafile = true
-
-[[files]]
 file = "mods/more-red.pw.toml"
 hash = "bb8dd1fa0f1ee88f8f947a2ab2101c414cb2808dac81c21ac66c8ad32cdfec29"
 metafile = true
