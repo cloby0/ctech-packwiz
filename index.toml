@@ -4908,31 +4908,6 @@ hash = "d8221fdfbae2202a72a8158b612f121383ac024938db97d873a720566d3573a8"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "6d5b51a81ccf1a172c9d15461f6405d32f55fbd1b27b8ab6b272fca9fd817508"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "29031642ce9abc223f2665a50940bd7a2cedfd5cfcf3124eb491685f06bfe7c0"
-metafile = true
-
-[[files]]
-file = "mods/emi-ores.pw.toml"
-hash = "daef210e9d3922c541bfa5e62acf19f30202682b143b651cb6c9959e6a53821d"
-metafile = true
-
-[[files]]
-file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
-hash = "27b1964e1583318e348f75fcb6a955c47f0d8650fcef62c6a07b7b1891bd2526"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "d48a1ea93de8cd5febb95ba52989d8d9ab4e998cfbdf9c1076a9f2e571d2fcbe"
-metafile = true
-
-[[files]]
 file = "mods/energymeter.pw.toml"
 hash = "96c83f92d038524c36df54aadad8a3d8ba4a3f3643b998a1a5a228a9f35e2abc"
 metafile = true
@@ -5132,6 +5107,11 @@ hash = "88f142bda6bfa6aff4f4d4e12b8ba7581aa40e3f163039a533f09dd6d634e093"
 metafile = true
 
 [[files]]
+file = "mods/gems-realm.pw.toml"
+hash = "4f750f07377f4ad11ca11ae47cda89fffe73d5280a52f5d4927176dd0a89f634"
+metafile = true
+
+[[files]]
 file = "mods/geophilic-reforged.pw.toml"
 hash = "0d8771d0278f5c9e8a8cce7497107b96495fe8bfd59ed958949ac12215c22647"
 metafile = true
@@ -5288,6 +5268,11 @@ metafile = true
 [[files]]
 file = "mods/jinxedlib.pw.toml"
 hash = "4729ea0f81112833449f27ce03cb9f308e5bd7b54cc6853444f97a43b555ff3f"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-immersive-multiblocks.pw.toml"
+hash = "36bb8d1caf3421773f37bd7057706f2eb7bdc04922e061e639496412f57011c7"
 metafile = true
 
 [[files]]
@@ -5744,6 +5729,11 @@ hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "bd56624f00cda9e544281d2c247e5479f6f1c315f8d8088cfee86e8b61f69dac"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
@@ -6042,6 +6032,11 @@ hash = "5db8d594f2f22b256379bd0a9880c86016d0e83f2dff486ea4143ff8e676eab5"
 metafile = true
 
 [[files]]
+file = "mods/stone-zone.pw.toml"
+hash = "13f2569ed9690c7c8f1845922ccb1ce626729f214892d1173b463c42a89e7f2e"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "371b68e257eaca322ca4e95f4aa8d95441d84110b69243dda818f743a0111ba5"
 metafile = true
@@ -6218,6 +6213,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
 hash = "2c55793a16d42dc2b10b5507c8799a41b42996e84f7be231341d1d79ecbe7881"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "7e730b980a0d8aea7a573b53885e7b3939912868da20b780673fbbaed4d1f488"
 metafile = true
 
 [[files]]
