@@ -5735,11 +5735,6 @@ hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
-file = "mods/platform.pw.toml"
-hash = "bd56624f00cda9e544281d2c247e5479f6f1c315f8d8088cfee86e8b61f69dac"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
@@ -6219,11 +6214,6 @@ metafile = true
 [[files]]
 file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
 hash = "2c55793a16d42dc2b10b5507c8799a41b42996e84f7be231341d1d79ecbe7881"
-metafile = true
-
-[[files]]
-file = "mods/vanillabackport.pw.toml"
-hash = "7e730b980a0d8aea7a573b53885e7b3939912868da20b780673fbbaed4d1f488"
 metafile = true
 
 [[files]]
