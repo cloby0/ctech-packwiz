@@ -4061,6 +4061,10 @@ file = "mods/Apothic Supplementaries - Enchanting - 0.1.2a.jar"
 hash = "dff56516fffbf97cdb781958aa3a694cc1d668e8e79baa9af689b609b3610b86"
 
 [[files]]
+file = "mods/Echoes-of-Power-3.0.5.jar"
+hash = "0a0b27121efb491ebfbf329d9458d63866aec8b9019a8c2411add12f5080291e"
+
+[[files]]
 file = "mods/SilentCompat-forge-1.20.1-1.4.0.jar"
 hash = "739fb3f43c8e70985ce24eb8c8b03d75b2b088feabef14bfd572891756633fff"
 
@@ -4906,11 +4910,6 @@ metafile = true
 [[files]]
 file = "mods/eccentric-tome.pw.toml"
 hash = "d32a59a3c1484b9573c16b6f5b29fbcbf2abf43230ea8efcaf650ff8dcb3c4ae"
-metafile = true
-
-[[files]]
-file = "mods/echoes-of-power.pw.toml"
-hash = "0c4bda41c25c3be6996d3a195003e4c2b95d90f639acff57f0bd986d1fba130d"
 metafile = true
 
 [[files]]
