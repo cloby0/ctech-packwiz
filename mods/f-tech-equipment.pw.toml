@@ -1,0 +1,13 @@
+name = "F-Tech: Equipment"
+filename = "f_tech_equipment-forge-1.0-rc.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e47e5e2c485215d04f5aa9b971fdce74bf0840c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7551485
+project-id = 1405385

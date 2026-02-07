@@ -4909,6 +4909,11 @@ hash = "d32a59a3c1484b9573c16b6f5b29fbcbf2abf43230ea8efcaf650ff8dcb3c4ae"
 metafile = true
 
 [[files]]
+file = "mods/echoes-of-power.pw.toml"
+hash = "0c4bda41c25c3be6996d3a195003e4c2b95d90f639acff57f0bd986d1fba130d"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "c94b9427a8d7f0e6aa0a1779c68bde63b98b4adc1968b48adad521f51bde84f3"
 metafile = true
@@ -4976,6 +4981,16 @@ metafile = true
 [[files]]
 file = "mods/explosive-enhancement-reforged.pw.toml"
 hash = "197ae024f6d018efc44da09a5324c2cec24219e3213b3fd2a34b9b6f2f0f7f01"
+metafile = true
+
+[[files]]
+file = "mods/f-tech-core.pw.toml"
+hash = "ee77bc75aa45ffaab3931283b3f1760edecb3149d0cb8469a8eecd7c4f9b4743"
+metafile = true
+
+[[files]]
+file = "mods/f-tech-equipment.pw.toml"
+hash = "e32ca985ea0e2ecec55a9720a16552045ba2b91ff298aa19dc12de9fad614502"
 metafile = true
 
 [[files]]
@@ -5179,21 +5194,6 @@ metafile = true
 [[files]]
 file = "mods/hypertubes.pw.toml"
 hash = "7c62eec6689e4b771b835e8fe732dd924ff1a560818bf35e11f6d13b4b479878"
-metafile = true
-
-[[files]]
-file = "mods/ice-and-fire-curios-and-trinkets.pw.toml"
-hash = "f7fc294ff0c5e9d70dba1eb1ee03fa70ba37bbc2f2ab7cec71c613c8e1696cdb"
-metafile = true
-
-[[files]]
-file = "mods/ice-and-fire-dragons.pw.toml"
-hash = "94c7c45a70d0cea86695ecd467f8e5c22510442c53c44291a570986e234428e5"
-metafile = true
-
-[[files]]
-file = "mods/ice-and-fire-spellbooks.pw.toml"
-hash = "32bdac916431a9b1ecd942fc2036a2662aa5fe1bd8cccb98bcb4e27285d0b23d"
 metafile = true
 
 [[files]]
@@ -5895,6 +5895,11 @@ hash = "4249fb0a1922f50ca6d083b6f4dd4ae7a77d699bdb5171d21b5935016ad7b298"
 metafile = true
 
 [[files]]
+file = "mods/saints-dragons.pw.toml"
+hash = "2d41046c28085cc728803a4531a4ea14afbebb2f776c15b5eedf6a2cd6f88053"
+metafile = true
+
+[[files]]
 file = "mods/sandworm_mod-1.1.1.jar"
 hash = "50e1a9168682a99d62872fe8f89a9b03f7ef676441c762e4774a7cf4a6a8f8f0"
 
@@ -6140,6 +6145,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
 hash = "0459cc802d3353342386dfe9455b99587a4dc39ca4007944d71d248517965754"
+metafile = true
+
+[[files]]
+file = "mods/threetag-palladium.pw.toml"
+hash = "f4f93faf6713c0d80befc27e77b76a266a3c29f4d2b9b5a75a89db22497a2036"
 metafile = true
 
 [[files]]

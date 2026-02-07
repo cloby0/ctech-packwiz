@@ -1,0 +1,13 @@
+name = "F-Tech: Core"
+filename = "f_tech_core-forge-2.0-rc.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13e29c6f95e5b0f49d71ba9c5d45b34347b9149d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7551481
+project-id = 976236
