@@ -4664,10 +4664,6 @@ hash = "b1dc522406ddf39dc412152ef47c315c5c4eda83806942bae6c3d59802a1597d"
 metafile = true
 
 [[files]]
-file = "mods/covenant_of_the_seven-2.2.0.jar"
-hash = "976beed317dded2524d569795b1006111960ca44403b057fb105af2a538293ee"
-
-[[files]]
 file = "mods/crackers-wither-storm-mod.pw.toml"
 hash = "6752a3970c0dfef9abdd6fdd389a23f2df88332356a6e8568b99ab9c68485d66"
 metafile = true
@@ -5881,6 +5877,10 @@ metafile = true
 file = "mods/saints-dragons.pw.toml"
 hash = "2d41046c28085cc728803a4531a4ea14afbebb2f776c15b5eedf6a2cd6f88053"
 metafile = true
+
+[[files]]
+file = "mods/sanctified_legacy-2.2.5.jar"
+hash = "c6ecd1e83c6ee2d4de7a69f04236089eeb28b4ee1969ec2e35588ffc674ffec1"
 
 [[files]]
 file = "mods/sandworm_mod-1.1.1.jar"
