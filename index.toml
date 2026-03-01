@@ -4037,22 +4037,6 @@ file = "kubejs/startup_scripts/custom/itemDeclaration.js"
 hash = "423d42f6bb144f61e595d4f5e612b02a6761b4855d1009674db9154f260618b6"
 
 [[files]]
-file = "kubejs/startup_scripts/emendatusJS/emenConfig.js"
-hash = "0385f1b3591ee87bf846d7a118fb6f7d944720fc25908ccadc49609a6ef00d77"
-
-[[files]]
-file = "kubejs/startup_scripts/emendatusJS/emenDefinitions.js"
-hash = "98f4ec7ecd151c495c2adfb7b7455198b78785a251bddb4a139ded3f5bedaf4a"
-
-[[files]]
-file = "kubejs/startup_scripts/emendatusJS/emenOredefinitions.js"
-hash = "553c3fb0e8de69166badedf58bcf10d4f5149bb651dacfec1d0206256a78b44b"
-
-[[files]]
-file = "kubejs/startup_scripts/emendatusJS/emenRegistry.js"
-hash = "bcf14482af021cc26552129b7352f3647a0e997e07c643b46dcfed903726e0f3"
-
-[[files]]
 file = "mods/Apothic Amendments - Enchanting - 0.1.4.jar"
 hash = "d05da88a29fb0130b883e6abb8cd7afbd5c6b49ec2e710de210a88d56754b7ae"
 
@@ -4309,6 +4293,11 @@ metafile = true
 [[files]]
 file = "mods/ars-energistique.pw.toml"
 hash = "fe693ae80d95c3b06c0c91285417bf58d13e1e1d69496d35224dbf0002d54476"
+metafile = true
+
+[[files]]
+file = "mods/ars-iron-mana-bridge.pw.toml"
+hash = "d32b3b84b863833a6e988b1004d7f8a4ef5d656165bd4e354a857b35f121a9bf"
 metafile = true
 
 [[files]]
@@ -5475,13 +5464,13 @@ hash = "5f6768157929bccb85b4b561fb4e16c99018ad93ce3f53b945ab9b37307c3665"
 metafile = true
 
 [[files]]
-file = "mods/maintenance-mode-forge-fabric-quilt.pw.toml"
-hash = "421ae73f3d143681f4b527256020513f021e37616ff6eb1aa731ae2ad7f6842a"
+file = "mods/mahou-tsukai.pw.toml"
+hash = "1df5a0ffa78547a50ddf373ed2768271be6eb79c58063e28f761517d554df610"
 metafile = true
 
 [[files]]
-file = "mods/mana-unification.pw.toml"
-hash = "b22e8f73ecf9314ff906dcc0c26adcac5a11c52005faa1266b56360339dc6700"
+file = "mods/maintenance-mode-forge-fabric-quilt.pw.toml"
+hash = "421ae73f3d143681f4b527256020513f021e37616ff6eb1aa731ae2ad7f6842a"
 metafile = true
 
 [[files]]
@@ -6198,6 +6187,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
+metafile = true
+
+[[files]]
+file = "mods/tri-mana-bridge.pw.toml"
+hash = "2697c48fbfb895f27992d509021bb9b3a8c30b5e7d6821d68645e131c1694e5d"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Ars ↔ Iron Mana Bridge"
+filename = "ars_iron_mana_bridge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "451dbb97e20c803b6e600e0068a168f202e1f2ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7644292
+project-id = 1465665

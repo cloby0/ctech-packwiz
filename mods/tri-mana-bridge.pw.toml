@@ -1,0 +1,13 @@
+name = "Tri Mana Bridge"
+filename = "tri_mana_bridge-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c63c5f39d52c352b710f0c2ee6aef69b6852b5df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7680918
+project-id = 1465824
