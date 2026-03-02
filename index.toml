@@ -4045,10 +4045,6 @@ file = "mods/Apothic Supplementaries - Enchanting - 0.1.2a.jar"
 hash = "dff56516fffbf97cdb781958aa3a694cc1d668e8e79baa9af689b609b3610b86"
 
 [[files]]
-file = "mods/Echoes-of-Power-3.0.5.jar"
-hash = "0a0b27121efb491ebfbf329d9458d63866aec8b9019a8c2411add12f5080291e"
-
-[[files]]
 file = "mods/SilentCompat-forge-1.20.1-1.4.0.jar"
 hash = "739fb3f43c8e70985ce24eb8c8b03d75b2b088feabef14bfd572891756633fff"
 
@@ -6128,11 +6124,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
 hash = "0459cc802d3353342386dfe9455b99587a4dc39ca4007944d71d248517965754"
-metafile = true
-
-[[files]]
-file = "mods/threetag-palladium.pw.toml"
-hash = "f4f93faf6713c0d80befc27e77b76a266a3c29f4d2b9b5a75a89db22497a2036"
 metafile = true
 
 [[files]]
