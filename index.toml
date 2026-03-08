@@ -6211,6 +6211,11 @@ hash = "711b1468e60bd3b5096768a57e62efde0ebe1b31b07266b1d83c012156469d34"
 metafile = true
 
 [[files]]
+file = "mods/vista.pw.toml"
+hash = "11bf20ea7e4089e8b6fd56c2dde405962fe8151ee5fdd4d574461f213ce54214"
+metafile = true
+
+[[files]]
 file = "mods/vlib.pw.toml"
 hash = "0b3c359b8f7636c2cdbb003dd1d8ba291d10e96d778fd7e4f56e925bcc11ace8"
 metafile = true
