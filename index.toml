@@ -4690,6 +4690,11 @@ hash = "63771505c733c2c0c98493c7a738b34a5395baab34bd13f597915c9879605725"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "55f00dec6de619116fbedc14296e64a0124d22db005eb1433385014c95083444"
+metafile = true
+
+[[files]]
 file = "mods/create-broken-bad.pw.toml"
 hash = "06d41d478529da12b3d5c776d976ec00506abdf5eecaae599619685a89b95282"
 metafile = true
@@ -4799,6 +4804,16 @@ hash = "2994e9f5cb4f258694f4704ef96eb1ebcf2b1799cd8d9361341c359660cb6744"
 metafile = true
 
 [[files]]
+file = "mods/cyberware-reforged.pw.toml"
+hash = "cd33f95ccaff71224e5fbf872b6b0e60e3147553f1c3fe41bb5f21d7ec7209fc"
+metafile = true
+
+[[files]]
+file = "mods/cyberware-visible-modifications.pw.toml"
+hash = "25ef5b604e8beeb17f0b9f8a4b500318e98152ce51e55d70ec0329dbf2bf45ac"
+metafile = true
+
+[[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "0f0099feea1db673f6dded201550c7ee4aaf96434c1af7b6bbe65eac4b669d3c"
 metafile = true
@@ -4821,6 +4836,11 @@ metafile = true
 [[files]]
 file = "mods/delightful.pw.toml"
 hash = "5ca70c9ee479f137ba0c3df149c1660f0204db373f2b127a788cad502efa19c6"
+metafile = true
+
+[[files]]
+file = "mods/dglib.pw.toml"
+hash = "2814e499ba7f657b213f84884795a845988a9ee45db35749d93032df08dd09c8"
 metafile = true
 
 [[files]]

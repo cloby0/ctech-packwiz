@@ -1,0 +1,13 @@
+name = "Cyberware: Visible Modifications"
+filename = "cyberwareplus-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6adbbbaa5a562984f5363072ae6b23adb0e94da6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7725149
+project-id = 1450029
